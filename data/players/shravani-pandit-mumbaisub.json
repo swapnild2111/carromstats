@@ -1,0 +1,62 @@
+{
+  "slug": "shravani-pandit-mumbaisub",
+  "name": "Shravani Pandit",
+  "aliases": [
+    "Shravani Pandit"
+  ],
+  "cities": [
+    "Mumbai-Sub"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "arya-ghanekar-thane",
+      "name": "Arya Ghanekar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "avni-parab-thane",
+      "name": "Avni Parab",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "simran-shinde-mumbai",
+      "name": "Simran Shinde",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

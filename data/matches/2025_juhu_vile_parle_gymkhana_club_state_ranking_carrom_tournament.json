@@ -1,0 +1,949 @@
+{
+  "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            22,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            19,
+            19,
+            null
+          ],
+          "side2Scores": [
+            3,
+            10,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            4,
+            25,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            22,
+            25
+          ],
+          "side2Scores": [
+            8,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            15,
+            25
+          ],
+          "side2Scores": [
+            0,
+            25,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            0,
+            25,
+            0
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            19,
+            16,
+            25
+          ],
+          "side2Scores": [
+            25,
+            15,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            13,
+            24,
+            null
+          ],
+          "side2Scores": [
+            7,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sayed M Qasim",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Jonathan R Bonal",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            7,
+            15,
+            20
+          ],
+          "side2Scores": [
+            20,
+            3,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Abdul G Surya",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Amol A Sawardekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Hareshwar Betvanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            14,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rizwan U Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            17,
+            25,
+            19
+          ],
+          "side2Scores": [
+            25,
+            20,
+            17
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            8,
+            23,
+            25
+          ],
+          "side2Scores": [
+            25,
+            16,
+            20
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Nilam Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            18,
+            25
+          ],
+          "side2Scores": [
+            20,
+            25,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            25
+          ],
+          "side2Scores": [
+            23,
+            15,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            21
+          ],
+          "side2Scores": [
+            9,
+            22,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            9,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Nilam Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            13,
+            21
+          ],
+          "side2Scores": [
+            6,
+            25,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            17,
+            14
+          ],
+          "side2Scores": [
+            18,
+            16,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            19,
+            3,
+            17
+          ],
+          "side2Scores": [
+            16,
+            25,
+            13
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            18,
+            20
+          ],
+          "side2Scores": [
+            5,
+            20,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            1,
+            18
+          ],
+          "side2Scores": [
+            6,
+            19,
+            13
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            13,
+            25,
+            15
+          ],
+          "side2Scores": [
+            25,
+            4,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            14,
+            13,
+            19
+          ],
+          "side2Scores": [
+            19,
+            12,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            10,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            9,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Simran S Shinde",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            23,
+            null
+          ],
+          "side2Scores": [
+            8,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            24,
+            11,
+            24
+          ],
+          "side2Scores": [
+            9,
+            16,
+            10
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

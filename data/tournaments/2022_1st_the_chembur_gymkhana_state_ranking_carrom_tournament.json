@@ -1,0 +1,104 @@
+{
+  "slug": "2022_1st_the_chembur_gymkhana_state_ranking_carrom_tournament",
+  "pagePath": "2022_1st_the_chembur_gymkhana_state_ranking_carrom_tournament.php",
+  "title": "1st The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2022-2023",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2022-08-19",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Zaid A Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Sandeep Dive",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Siddhant Wadwalkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

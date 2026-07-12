@@ -1,0 +1,78 @@
+{
+  "slug": "gauri-a-pethe-thane",
+  "name": "Gauri A Pethe",
+  "aliases": [
+    "Gauri A Pethe"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 1,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "youth_girls",
+      "categoryLabel": "Youth Girls",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "anjani-b-rodhiyal-palghar",
+      "name": "Anjani B Rodhiyal",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali A Suvare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mrunali-d-surve-mumbai",
+      "name": "Mrunali D Surve",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "samruddhi-s-chavan-mumbai",
+      "name": "Samruddhi S Chavan",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti P Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

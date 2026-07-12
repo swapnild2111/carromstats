@@ -1,0 +1,330 @@
+{
+  "slug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+  "pagePath": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship.php",
+  "title": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "youth_boys",
+      "label": "Youth Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Tanmay D Khatu",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Chinmay P Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 3,
+          "name": "Dushyant P Gupta",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 4,
+          "name": "Rushikesh R Tambe",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Irfan Bijapur",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Niraj G Kamble",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Tanveer J Shaikh",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Shreyas S Lokhande",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "youth_girls",
+      "label": "Youth Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Shruti P Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 2,
+          "name": "Chaitali A Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Mrunali D Surve",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Samruddhi S Chavan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Anjani B Rodhiyal",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Gauri A Pethe",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "junior_boys",
+      "label": "Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mihir R Shaikh",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Shaikh Mohd Raza Sk Rafique",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Atharva D Patil",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Chaitanya S Sabale",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Kaustubh M Jagushte",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Mohd. Hasnain Arshad Shaikh",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 7,
+          "name": "Nilansh H Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Mohammad Zaid",
+          "city": "Dhule"
+        }
+      ]
+    },
+    {
+      "key": "junior_girls",
+      "label": "Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Keshar R Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 2,
+          "name": "Diksha N Chavan",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Simran S Shinde",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Dnyaneshwari M Ingulkar",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Shruti Velekar",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Bhumi B Ludbe",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Mayuri S Gawade",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 8,
+          "name": "Shravani N Tambe",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "sub_junior_boys",
+      "label": "Sub-Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Pranav P Gaikwad",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Vedant D Rane",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 3,
+          "name": "Dron M Hajare",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 4,
+          "name": "Amulya A Ghadi",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 5,
+          "name": "Rahul M Patil",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Shreeshan H Palwankar",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Om D Parkar",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 8,
+          "name": "Tanishq S Gaware",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "sub_junior_girls",
+      "label": "Sub-Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Arya A Ghanekar",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Ayushi J Jain",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Ketki U Mundlye",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Poorva D Ketkar",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 5,
+          "name": "Veena S Wagh",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Tvisha S Baranwala",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Dharmy V Shukla",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 8,
+          "name": "Dhriti D Ruparel",
+          "city": "Mumbai Suburban"
+        }
+      ]
+    },
+    {
+      "key": "cadet_boys",
+      "label": "Cadet Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Omkar R Vadar",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 2,
+          "name": "Prasad S Mane",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Aayush B Garud",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Faaiz S Ansari",
+          "city": "Dhule"
+        }
+      ]
+    },
+    {
+      "key": "cadet_girls",
+      "label": "Cadet Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Durgeshwari Y Dhongade",
+          "city": "Jalgaon"
+        },
+        {
+          "position": 2,
+          "name": "Nidhi M Sapre",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Susan V Basimalla",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Swara S Mohire",
+          "city": "Ratnagiri"
+        }
+      ]
+    }
+  ]
+}

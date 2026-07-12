@@ -1,0 +1,104 @@
+{
+  "slug": "2024_9th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+  "pagePath": "2024_9th_mandapeshwar_civic_federation_state_ranking_carrom_tournament.php",
+  "title": "9th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+  "urlYear": 2024,
+  "season": "2023-24",
+  "date": "2024-06-22",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Jitesh Kadam",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Samruddhi Ghadigaonksr",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 6,
+          "name": "Diksha Chavan",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 7,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        }
+      ]
+    }
+  ]
+}

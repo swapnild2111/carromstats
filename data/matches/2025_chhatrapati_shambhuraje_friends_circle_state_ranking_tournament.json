@@ -1,0 +1,765 @@
+{
+  "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            16,
+            25,
+            25
+          ],
+          "side2Scores": [
+            19,
+            23,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            2,
+            18,
+            23
+          ],
+          "side2Scores": [
+            25,
+            9,
+            19
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            4,
+            25
+          ],
+          "side2Scores": [
+            0,
+            21,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            22,
+            6,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            17,
+            null
+          ],
+          "side2Scores": [
+            16,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            16,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            21,
+            12,
+            23
+          ],
+          "side2Scores": [
+            11,
+            23,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            5,
+            25
+          ],
+          "side2Scores": [
+            11,
+            25,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Narsingrao B Sakari",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sagar D Bhosale",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            18,
+            16,
+            null
+          ],
+          "side2Scores": [
+            16,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rohit Y Chougule",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Vivek A Kamble",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            9,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Niranjan P Chari",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            12,
+            22
+          ],
+          "side2Scores": [
+            10,
+            25,
+            21
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Aasif K Shipai",
+            "city": "Sangli"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Atharva S Telangi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            21,
+            2,
+            18
+          ],
+          "side2Scores": [
+            18,
+            25,
+            12
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            18,
+            21,
+            null
+          ],
+          "side2Scores": [
+            5,
+            20,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            21,
+            12,
+            19
+          ],
+          "side2Scores": [
+            19,
+            25,
+            17
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            19,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            21,
+            22,
+            null
+          ],
+          "side2Scores": [
+            16,
+            20,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            20,
+            null
+          ],
+          "side2Scores": [
+            9,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            0,
+            25,
+            18
+          ],
+          "side2Scores": [
+            25,
+            0,
+            13
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            14,
+            null
+          ],
+          "side2Scores": [
+            22,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            10,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

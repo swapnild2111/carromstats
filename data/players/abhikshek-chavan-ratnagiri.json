@@ -1,0 +1,159 @@
+{
+  "slug": "abhikshek-chavan-ratnagiri",
+  "name": "Abhikshek Chavan",
+  "aliases": [
+    "Abhikshek Chavan"
+  ],
+  "cities": [
+    "Ratnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_6th_shree_dattaraj_charitable_trust_nrusinhawadi_state_ranking_tournament",
+      "tournamentTitle": "6th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2022-23",
+      "season": "2022-23",
+      "date": "2022-06-10",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2017_18_53rd_senior_maharashtrastate_and_inter_district_carrom_championship",
+      "tournamentTitle": "53rd Senior Maharashtra State Carrom Championship 2017-18",
+      "season": "2017-18",
+      "date": "2019-07-22",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "anil-mundhe-pune",
+      "name": "Anil Mundhe",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "fahim-kazi-mumbai",
+      "name": "Fahim Kazi",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "jitendra-kale-mumbai",
+      "name": "Jitendra Kale",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kiran-dhende-pune",
+      "name": "Kiran Dhende",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohd-ghufran-mumbai",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohd-yasin-shaikh-mumbaisub",
+      "name": "Mohd. Yasin Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "riyaz-akbarali-mumbai",
+      "name": "Riyaz Akbarali",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sandeep-deorukhkar-mumbai",
+      "name": "Sandeep Deorukhkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "siddhant-wadwalkar-mumbai",
+      "name": "Siddhant Wadwalkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

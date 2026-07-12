@@ -1,0 +1,104 @@
+{
+  "slug": "2023_4th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament",
+  "pagePath": "2023_4th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament.php",
+  "title": "4th Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2024-03-29",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 3,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Ashok Gaur",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Medha Mathakari",
+          "city": "Pune"
+        }
+      ]
+    }
+  ]
+}

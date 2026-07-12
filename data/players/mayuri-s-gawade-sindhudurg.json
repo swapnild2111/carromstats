@@ -1,0 +1,177 @@
+{
+  "slug": "mayuri-s-gawade-sindhudurg",
+  "name": "Mayuri S Gawade",
+  "aliases": [
+    "Mayuri Gawade",
+    "Mayuri S Gawade"
+  ],
+  "cities": [
+    "Sindhudurg"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 3
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 1,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "sub_junior_girls",
+      "categoryLabel": "Sub-Junior Girls",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "junior_girls",
+      "categoryLabel": "Junior Girls",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2023_57th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Junior State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "junior_girls",
+      "categoryLabel": "Junior Girls",
+      "position": 5
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha N Chavan",
+      "city": "Sindhudurg",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "dnyaneshwari-m-ingulkar-pune",
+      "name": "Dnyaneshwari M Ingulkar",
+      "city": "Pune",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sejal-lokhande-mumbai",
+      "name": "Sejal T Lokhande",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "shravani-n-tambe-pune",
+      "name": "Shravani N Tambe",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "bhumi-b-ludbe-palghar",
+      "name": "Bhumi B Ludbe",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar R Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "madhura-devale-thane",
+      "name": "Madhura Devale",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura M Devle",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-mahadik-palghar",
+      "name": "Mitali Mahadik",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "pranita-ayre-sindhudurg",
+      "name": "Pranita Ayre",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ruchi-m-machiwale-mumbai",
+      "name": "Ruchi M Machiwale",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sakshi-habiwant-pune",
+      "name": "Sakshi Habiwant",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shruti-velekar-pune",
+      "name": "Shruti Velekar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "simran-shinde-mumbai",
+      "name": "Simran S Shinde",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "swara-s-mohire-ratnagiri",
+      "name": "Swara S Mohire",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

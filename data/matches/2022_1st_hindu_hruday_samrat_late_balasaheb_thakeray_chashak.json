@@ -1,0 +1,655 @@
+{
+  "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+  "rounds": [
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            21,
+            null
+          ],
+          "side2Scores": [
+            13,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            3,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            19,
+            25
+          ],
+          "side2Scores": [
+            10,
+            25,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            11,
+            20,
+            22
+          ],
+          "side2Scores": [
+            23,
+            11,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            12,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            18,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            9,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            5,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            16,
+            17
+          ],
+          "side2Scores": [
+            10,
+            24,
+            11
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            13,
+            25
+          ],
+          "side2Scores": [
+            4,
+            20,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            12,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sangeeta J Chandorkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            9,
+            25
+          ],
+          "side2Scores": [
+            4,
+            25,
+            9
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            18,
+            11,
+            21
+          ],
+          "side2Scores": [
+            7,
+            21,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            19,
+            25
+          ],
+          "side2Scores": [
+            4,
+            21,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sangeeta J Chandorkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            1,
+            25,
+            18
+          ],
+          "side2Scores": [
+            25,
+            0,
+            4
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Medha V Mathkari",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            10,
+            17,
+            20
+          ],
+          "side2Scores": [
+            15,
+            7,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            17,
+            25
+          ],
+          "side2Scores": [
+            12,
+            18,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            0,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            0,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sangeeta J Chandorkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vaibhavi P Shewale",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Tulika A Chaurasia",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            17,
+            25
+          ],
+          "side2Scores": [
+            15,
+            25,
+            12
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

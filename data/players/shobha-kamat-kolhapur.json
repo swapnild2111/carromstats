@@ -1,0 +1,404 @@
+{
+  "slug": "shobha-kamat-kolhapur",
+  "name": "Shobha Kamat",
+  "aliases": [
+    "Shobha Kamat"
+  ],
+  "cities": [
+    "Kolhapur",
+    "Maharashtra"
+  ],
+  "affiliation": "Kolhapur",
+  "podium": {
+    "first": 6,
+    "second": 1,
+    "third": 3,
+    "top8": 13
+  },
+  "currentPoints": 16,
+  "currentRank": 1,
+  "currentRankCategory": "Veteran Women",
+  "titles": [
+    {
+      "scope": "national",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2017,
+        2019
+      ]
+    },
+    {
+      "scope": "state",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2016,
+        2017,
+        2018,
+        2022,
+        2023,
+        2026
+      ]
+    }
+  ],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 13,
+  "matchesWon": 5,
+  "appearances": [
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "60th Senior Maharashtra State Carrom Championship 2026-27",
+      "season": "2026-27",
+      "date": "2026-04-13",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2025_59th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Senior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": "2025-05-10",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+      "tournamentTitle": "Chhatrapati Shambhuraje Friends Circle State Ranking Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-04-12",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2024_58th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Maharashtra State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": "2024-08-15",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2023_57th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": "2023-08-04",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2022_56th_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Maharashtra State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": "2022-08-13",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2021_mca_selection_trial_carrom_tournament",
+      "tournamentTitle": "State Level Carrom Tournament, Ratnagiri, 2021-22",
+      "season": "2021-22",
+      "date": "2022-02-25",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2019_48th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "48th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2019-20",
+      "season": "2019-20",
+      "date": "2020-02-02",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2017_18_53rd_senior_maharashtrastate_and_inter_district_carrom_championship",
+      "tournamentTitle": "53rd Senior Maharashtra State Carrom Championship 2017-18",
+      "season": "2017-18",
+      "date": "2019-07-22",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2019_55th_maharashtra_state_and_inter_district_carrom_championship",
+      "tournamentTitle": "55th Maharashtra State & Inter District Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": "2019-07-22",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2019_5th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Carrom Tournament 2019-20",
+      "season": "2019-20",
+      "date": "2019-06-22",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2018_47th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "47th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2018-19",
+      "season": "2018-19",
+      "date": "2019-02-19",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2018_54th_maharashtra_state_and_inter_district_carrom_championship",
+      "tournamentTitle": "54th Senior Maharashtra State Carrom Championship 2018-19",
+      "season": "2018-19",
+      "date": "2018-05-20",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "madhuri-tayshete-mumbaisub",
+      "name": "Madhuri Tayshete",
+      "city": "Mumbai-Sub",
+      "coAppearances": 6,
+      "wonAgainst": 4,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "malti-kelkar-mumbai",
+      "name": "Malti Kelkar",
+      "city": "Mumbai",
+      "coAppearances": 6,
+      "wonAgainst": 5,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rozina-godas-mumbai",
+      "name": "Rozina Godas",
+      "city": "Mumbai",
+      "coAppearances": 6,
+      "wonAgainst": 4,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "minal-lele-khare-thane",
+      "name": "Minal Lele Khare",
+      "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 1,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "nancy-sequera-mumbaisub",
+      "name": "Nancy Sequera",
+      "city": "Mumbai-Sub",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "rozina-godad-mumbai",
+      "name": "Rozina Godad",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "aisha-sajid-khokawala-mumbai",
+      "name": "Aisha Sajid Khokawala",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "anita-anita-mumbaisub",
+      "name": "Anita Anita",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "anupama-kedar-mumbai",
+      "name": "Anupama Kedar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "arundhati-tavkar-mumbai-sub",
+      "name": "Arundhati Tavkar",
+      "city": "Mumbai - Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "chaitai-suvare-thane",
+      "name": "Chaitai Suvare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "jaymala-parab-mumbaisub",
+      "name": "Jaymala Parab",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kesha-nirgun-sindhudurg",
+      "name": "Kesha Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura Devle",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "madhuri-tayshette-mumbaisub",
+      "name": "Madhuri Tayshette",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mansi-shinde-mumbai",
+      "name": "Mansi Shinde",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-pimple-mumbai",
+      "name": "Mitali Pimple",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nency-sequera-nabard",
+      "name": "Nency Sequera",
+      "city": "NABARD",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "pushkarni-bhattad-pune",
+      "name": "Pushkarni Bhattad",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rinky-kumari-mumbai",
+      "name": "Rinky Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

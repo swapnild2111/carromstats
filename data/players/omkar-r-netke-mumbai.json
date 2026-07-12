@@ -1,0 +1,94 @@
+{
+  "slug": "omkar-r-netke-mumbai",
+  "name": "Omkar R Netke",
+  "aliases": [
+    "Omkar R Netke"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 1,
+  "slamsAgainst": 1,
+  "matchesPlayed": 12,
+  "matchesWon": 3,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "tournamentTitle": "Late Vinayak Nimhan (Ex.MLA) 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-08-08",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 7
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "riyaz-akbar-ali-ratnagiri",
+      "name": "Riyaz Akbar Ali",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sameer-ansari-thane",
+      "name": "Sameer Ansari",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep A Dive",
+      "city": "Jalgaon",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "siddhant-wadwalkar-mumbai",
+      "name": "Siddhant M Wadwalkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-farooquee-thane",
+      "name": "Zaid Farooquee",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

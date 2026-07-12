@@ -1,0 +1,94 @@
+{
+  "slug": "krishna-waghmare-mumbai",
+  "name": "Krishna Waghmare",
+  "aliases": [
+    "Krishna Waghmare"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 4,
+  "matchesWon": 1,
+  "appearances": [
+    {
+      "tournamentSlug": "2026_6th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament",
+      "tournamentTitle": "6th Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-04-03",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rahim-khan-pune",
+      "name": "Rahim Khan",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rahul-solanki-mumbai",
+      "name": "Rahul Solanki",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sajjad-shaikh-mumbaisub",
+      "name": "Sajjad Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

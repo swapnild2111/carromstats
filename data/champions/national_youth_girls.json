@@ -1,0 +1,35 @@
+{
+  "categoryKey": "youth_girls",
+  "categoryLabel": "Youth Girls",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Sujata Hailinge (Aisha Mohammed)",
+      "affiliation": "Thane",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Urmila Shendge",
+      "affiliation": "Mumbai",
+      "years": [
+        2010
+      ]
+    },
+    {
+      "name": "Maitrayee Gogate",
+      "affiliation": "Mumbai",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Samruddhi Ghadigaonkar",
+      "affiliation": "Thane (AAI)",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "2023_late_nandini_and_late_ratnakar_deshmukh_memorial_state_ranking_carrom_tournament",
+  "pagePath": "2023_late_nandini_and_late_ratnakar_deshmukh_memorial_state_ranking_carrom_tournament.php",
+  "title": "Late Nandini & Late Ratnakar Deshmukh Memorial Maharashtra State Ranking Carrom Tournament",
+  "urlYear": 2023,
+  "season": "2022-23",
+  "date": "2023-05-12",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Nisar Shaikh",
+          "city": "Dhule"
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Sandeep Deorukhkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

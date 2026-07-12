@@ -1,0 +1,104 @@
+{
+  "slug": "2018_5th_mrunaltai_gore_and_p_b_samant_rolling_trophy_state_ranking_tournament",
+  "pagePath": "2018_5th_mrunaltai_gore_and_p_b_samant_rolling_trophy_state_ranking_tournament.php",
+  "title": "5th Mrunaltai Gore & P.B. Samant Memorial Rolling Trophy State Ranking Carrom Tournament 2018-19",
+  "urlYear": 2018,
+  "season": "2018-19",
+  "date": "2019-01-19",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Zaid Ahmed",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Riyaz Akbarali",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Fahim Kazi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Abhijeet Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Swapnil Golatkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Manali Lingayat",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Maitreyee Gogate",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Minal Lele-Khare",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Shilpa Palnitkar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

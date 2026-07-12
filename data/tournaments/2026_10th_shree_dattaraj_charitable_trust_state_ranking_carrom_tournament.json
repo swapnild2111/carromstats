@@ -1,0 +1,104 @@
+{
+  "slug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+  "pagePath": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament.php",
+  "title": "10th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2026-27",
+  "urlYear": 2026,
+  "season": "2026-27",
+  "date": "2026-07-04",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Zaie Farooqui",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Dinesh Kedar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Anil Mundhe",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Maitreyee Gogate",
+          "city": "Ragnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Diksha Chavan",
+          "city": "Sindhudurg"
+        }
+      ]
+    }
+  ]
+}

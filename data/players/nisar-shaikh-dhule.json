@@ -1,0 +1,160 @@
+{
+  "slug": "nisar-shaikh-dhule",
+  "name": "Nisar Shaikh",
+  "aliases": [
+    "Nisar Shaikh"
+  ],
+  "cities": [
+    "Dhule"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 3
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 2,
+  "slamsAgainst": 1,
+  "matchesPlayed": 11,
+  "matchesWon": 2,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_7th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "7th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2023-24",
+      "season": "2023-24",
+      "date": "2023-06-10",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2023_late_nandini_and_late_ratnakar_deshmukh_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "Late Nandini & Late Ratnakar Deshmukh Memorial Maharashtra State Ranking Carrom Tournament",
+      "season": "2022-23",
+      "date": "2023-05-12",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 5
+    },
+    {
+      "tournamentSlug": "2022_7th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+      "tournamentTitle": "7th MANDPESHWAR CIVIC FEDERATION STATE RANKING CARROM TOURNAMENT 2022-23",
+      "season": "2022-23",
+      "date": "2022-05-14",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "mohd-ghufran-mumbai",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "yogesh-dhongade-mumbai",
+      "name": "Yogesh Dhongade",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "yogesh-pardeshi-pune",
+      "name": "Yogesh Pardeshi",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "abhishek-chavan-ratnagiri",
+      "name": "Abhishek Chavan",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "anil-mundhe-pune",
+      "name": "Anil Mundhe",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rahul-solanki-mumbai",
+      "name": "Rahul Solanki",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-deorukhkar-mumbai",
+      "name": "Sandeep Deorukhkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanjay-mande-mumbai",
+      "name": "Sanjay Mande",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-a-farooquie-thane",
+      "name": "Zaid A Farooquie",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

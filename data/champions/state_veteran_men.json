@@ -1,0 +1,82 @@
+{
+  "categoryKey": "veteran_men",
+  "categoryLabel": "Veteran Men",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Keshav Kotian",
+      "affiliation": "Mumbai",
+      "years": [
+        1994
+      ]
+    },
+    {
+      "name": "Saleem Akbar Ansari",
+      "affiliation": "Jalgaon",
+      "years": [
+        1999,
+        2001,
+        2003
+      ]
+    },
+    {
+      "name": "Late Shyamji Padaya",
+      "affiliation": "Mumbai",
+      "years": [
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Prakash Kamble",
+      "affiliation": "Mumbai",
+      "years": [
+        2009,
+        2011
+      ]
+    },
+    {
+      "name": "Babulal Shrima",
+      "affiliation": "Mumbai",
+      "years": [
+        2012,
+        2016,
+        2024
+      ]
+    },
+    {
+      "name": "Manu Baria",
+      "affiliation": "Mumbai",
+      "years": [
+        2013,
+        2014,
+        2015,
+        2017
+      ]
+    },
+    {
+      "name": "Shabbir Khan",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Fayyaz Shaikh",
+      "affiliation": "Pune",
+      "years": [
+        2022,
+        2023,
+        2025
+      ]
+    },
+    {
+      "name": "Sanjay Thite",
+      "affiliation": "Pune",
+      "years": [
+        2026
+      ]
+    }
+  ]
+}

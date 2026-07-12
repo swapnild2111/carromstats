@@ -1,0 +1,177 @@
+{
+  "slug": "abhijeet-tripankar-pune",
+  "name": "Abhijeet Tripankar",
+  "aliases": [
+    "Abhijeet Tripankar"
+  ],
+  "cities": [
+    "Maharashtra",
+    "Pune"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 3
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 2,
+  "matchesWon": 1,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_5th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Carrom Tournament 2019-20",
+      "season": "2019-20",
+      "date": "2019-06-22",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2018_47th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "47th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2018-19",
+      "season": "2018-19",
+      "date": "2019-02-19",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2018_5th_mrunaltai_gore_and_p_b_samant_rolling_trophy_state_ranking_tournament",
+      "tournamentTitle": "5th Mrunaltai Gore & P.B. Samant Memorial Rolling Trophy State Ranking Carrom Tournament 2018-19",
+      "season": "2018-19",
+      "date": "2019-01-19",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 1,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "riyaz-akbarali-mumbai",
+      "name": "Riyaz Akbarali",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "yogesh-pardeshi-pune",
+      "name": "Yogesh Pardeshi",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "zaid-ahmed-mumbai",
+      "name": "Zaid Ahmed",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "abhishek-chavan-ratnagiri",
+      "name": "Abhishek Chavan",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "fahim-kazi-mumbai",
+      "name": "Fahim Kazi",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "irshad-ahmed-vidharbha",
+      "name": "Irshad Ahmed",
+      "city": "VIDHARBHA",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "k-srinivas-pspb",
+      "name": "K. Srinivas",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohd-ghufran-mumbai",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nisar-ahmed-dhule",
+      "name": "Nisar Ahmed",
+      "city": "Dhule",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rajesh-gohil-thane",
+      "name": "Rajesh Gohil",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "swapnil-golatkar-mumbai",
+      "name": "Swapnil Golatkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "zaheer-pasha-rbi",
+      "name": "Zaheer Pasha",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

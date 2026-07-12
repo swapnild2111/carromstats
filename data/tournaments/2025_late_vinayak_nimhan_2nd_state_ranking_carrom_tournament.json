@@ -1,0 +1,104 @@
+{
+  "slug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+  "pagePath": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament.php",
+  "title": "Late Vinayak Nimhan (Ex.MLA) 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": "2025-08-08",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Riyaz Akbar Ali",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Sameer Ansari",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Sandeep A Dive",
+          "city": "Jalgaon"
+        },
+        {
+          "position": 7,
+          "name": "Omkar R Netke",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Siddhant M Wadwalkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Keshar R Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 2,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Pushkarni S Bhattad",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Nilam B Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 8,
+          "name": "Urmila V Shendge",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

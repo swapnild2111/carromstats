@@ -1,0 +1,94 @@
+{
+  "slug": "jitesh-kadam-mumbaisub",
+  "name": "Jitesh Kadam",
+  "aliases": [
+    "Jitesh Kadam"
+  ],
+  "cities": [
+    "Mumbai-Sub"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 1,
+  "matchesPlayed": 5,
+  "matchesWon": 1,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_9th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+      "tournamentTitle": "9th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+      "season": "2023-24",
+      "date": "2024-06-22",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "mohammad-ghufran-mumbai",
+      "name": "Mohammad Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanjay-mande-mumbai",
+      "name": "Sanjay Mande",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

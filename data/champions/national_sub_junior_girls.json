@@ -1,0 +1,35 @@
+{
+  "categoryKey": "sub_junior_girls",
+  "categoryLabel": "Sub-Junior Girls",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Sageeta Chandorkar",
+      "affiliation": "Mumbai",
+      "years": [
+        1980
+      ]
+    },
+    {
+      "name": "Netra Chunekar",
+      "affiliation": "Mumbai",
+      "years": [
+        2001
+      ]
+    },
+    {
+      "name": "Urmila Shendge",
+      "affiliation": "Mumbai",
+      "years": [
+        2003
+      ]
+    },
+    {
+      "name": "Aakansha Uday Kadam",
+      "affiliation": "Ratnagiri",
+      "years": [
+        2018
+      ]
+    }
+  ]
+}

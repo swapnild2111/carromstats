@@ -1,0 +1,127 @@
+{
+  "slug": "anita-kanojiya-raigad",
+  "name": "Anita Kanojiya",
+  "aliases": [
+    "Anita Kanojiya"
+  ],
+  "cities": [
+    "Raigad"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 1,
+  "slamsAgainst": 8,
+  "matchesPlayed": 22,
+  "matchesWon": 4,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "1st Kamal Nagari Sahakari Patsanstha Maharashtra State Ranking Carrom Tournament 2023-24",
+      "season": "2023-24",
+      "date": "2023-10-27",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Krishnakar Tipnis Memorial Trophy Maharashtra State Ranking Carrom Tournament 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "ambika-harith-mumbai",
+      "name": "Ambika Harith",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "anjali-siripuram-mumbai",
+      "name": "Anjali Siripuram",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "medha-mathkari-pune",
+      "name": "Medha Mathkari",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "samidha-jadhav-mumbai",
+      "name": "Samidha Jadhav",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila Shendge",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

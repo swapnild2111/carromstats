@@ -1,0 +1,159 @@
+{
+  "slug": "ved-m-brahme-pune",
+  "name": "Ved M Brahme",
+  "aliases": [
+    "Ved M Brahme"
+  ],
+  "cities": [
+    "Pune"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2025_59th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Sub Junior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aayush-b-garud-pune",
+      "name": "Aayush B Garud",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "arnav-a-salvi-palghar",
+      "name": "Arnav A Salvi",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "dhruv-s-bhalerao-mumbai",
+      "name": "Dhruv S Bhalerao",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "dron-m-hajare-ratnagiri",
+      "name": "Dron M Hajare",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "harshvardhan-s-khade-pune",
+      "name": "Harshvardhan S Khade",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "neeil-v-mhatre-thane",
+      "name": "Neeil V Mhatre",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "omkar-r-vadar-kolhapur",
+      "name": "Omkar R Vadar",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prasad-s-mane-thane",
+      "name": "Prasad S Mane",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prasanna-s-gole-mumbai-suburban",
+      "name": "Prasanna S Gole",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rudra-a-gaware-mumbai",
+      "name": "Rudra A Gaware",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shreeshan-h-palwankar-palghar",
+      "name": "Shreeshan H Palwankar",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "umair-f-pathan-mumbai-suburban",
+      "name": "Umair F Pathan",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "vedant-d-rane-mumbai-suburban",
+      "name": "Vedant D Rane",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "vihaan-v-dalvi-mumbai",
+      "name": "Vihaan V Dalvi",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

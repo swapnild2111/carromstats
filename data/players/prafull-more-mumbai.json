@@ -1,0 +1,258 @@
+{
+  "slug": "prafull-more-mumbai",
+  "name": "Prafull More",
+  "aliases": [
+    "Prafull More"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 5
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 3,
+  "slamsAgainst": 6,
+  "matchesPlayed": 33,
+  "matchesWon": 11,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament",
+      "tournamentTitle": "MIG Cricret CLub 3rd State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-09-27",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2025_59th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Senior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": "2025-05-10",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2025_10th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+      "tournamentTitle": "10th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+      "season": "2024-25",
+      "date": "2025-04-18",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "16th Shivaji Park Gymkhana State Ranking Carrom Tournament 2024-25",
+      "season": "2024-25",
+      "date": "2025-02-08",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2023_57th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": "2023-08-04",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "mohd-ghufran-mumbai",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 1,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "hareshwar-betvanshi-mumbai",
+      "name": "Hareshwar Betvanshi",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "zaid-farooquee-thane",
+      "name": "Zaid Farooquee",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "abhishek-chavan-ratnagiri",
+      "name": "Abhishek Chavan",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohammad-ghufran-mumbai",
+      "name": "Mohammad Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "omkar-tilak-mumbai",
+      "name": "Omkar Tilak",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "prakash-gaikwad-pune",
+      "name": "Prakash Gaikwad",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rahim-khan-pune",
+      "name": "Rahim Khan",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rahul-solanki-mumbai",
+      "name": "Rahul Solanki",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "riyaz-akbar-ali-ratnagiri",
+      "name": "Riyaz Akbar Ali",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sameer-ansarai-thane",
+      "name": "Sameer Ansarai",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sameer-ansari-thane",
+      "name": "Sameer Ansari",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-deorukhkar-mumbai",
+      "name": "Sandeep Deorukhkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanjay-mande-mumbai",
+      "name": "Sanjay Mande",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanjay-maniyar-mumbaisub",
+      "name": "Sanjay Maniyar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vivek-kamble-mumbaisub",
+      "name": "Vivek Kamble",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

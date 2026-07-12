@@ -1,0 +1,156 @@
+{
+  "slug": "2018_47th_senior_national_and_inter_state_carrom_championship",
+  "pagePath": "2018_47th_senior_national_and_inter_state_carrom_championship.php",
+  "title": "47th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2018-19",
+  "urlYear": 2018,
+  "season": "2018-19",
+  "date": "2019-02-19",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "RBI"
+        },
+        {
+          "position": 2,
+          "name": "Irshad Ahmed",
+          "city": "VIDHARBHA"
+        },
+        {
+          "position": 3,
+          "name": "Zaheer Pasha",
+          "city": "RBI"
+        },
+        {
+          "position": 4,
+          "name": "Rajesh Gohil",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 5,
+          "name": "K. Srinivas",
+          "city": "PSPB"
+        },
+        {
+          "position": 6,
+          "name": "Abhijeet Tripankar",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 7,
+          "name": "Yogesh Pardeshi",
+          "city": "PSPB"
+        },
+        {
+          "position": 8,
+          "name": "Sandeep Dive",
+          "city": "Air India"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Rashmi Kumari",
+          "city": "PSPB"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Mohd. Sajid",
+          "city": "JISL"
+        },
+        {
+          "position": 3,
+          "name": "S. Appoorwa",
+          "city": "LIC"
+        },
+        {
+          "position": 4,
+          "name": "Nilam Ghodake",
+          "city": "JISL"
+        },
+        {
+          "position": 5,
+          "name": "Naga Jyothi",
+          "city": "PSPB"
+        },
+        {
+          "position": 6,
+          "name": "Kajal Kumari",
+          "city": "PSPB"
+        },
+        {
+          "position": 7,
+          "name": "Geeta Devi",
+          "city": "BSNL"
+        },
+        {
+          "position": 8,
+          "name": "Sangeeta Chandorkar",
+          "city": "RBI"
+        }
+      ]
+    },
+    {
+      "key": "veteran_men",
+      "label": "Veteran Men",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Shabbir Khan",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 2,
+          "name": "Aslam Chitkey",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 3,
+          "name": "Dattaram Vasave",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 4,
+          "name": "Manoharlal Gupta",
+          "city": "Assam"
+        }
+      ]
+    },
+    {
+      "key": "veteran_women",
+      "label": "Veteran Women",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Malti Kelkar",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 2,
+          "name": "Rozina Godas",
+          "city": "DASCB"
+        },
+        {
+          "position": 3,
+          "name": "Shobha Kamat",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 4,
+          "name": "Nency Sequera",
+          "city": "NABARD"
+        }
+      ]
+    }
+  ]
+}

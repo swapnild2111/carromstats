@@ -1,0 +1,122 @@
+{
+  "categoryKey": "cadet_boys",
+  "categoryLabel": "Cadet Boys",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Roshan Chavan",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Darshan Sadvilkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2003
+      ]
+    },
+    {
+      "name": "Varun Gosavi",
+      "affiliation": "Mumbai",
+      "years": [
+        2007
+      ]
+    },
+    {
+      "name": "Neel Joshi",
+      "affiliation": "Mumbai",
+      "years": [
+        2008
+      ]
+    },
+    {
+      "name": "Deep Joshi",
+      "affiliation": "Mumbai",
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Siddharth Mahapatra",
+      "affiliation": "Thane",
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Shivam Mhatre",
+      "affiliation": "Raigad",
+      "years": [
+        2013
+      ]
+    },
+    {
+      "name": "Avinash Mohite",
+      "affiliation": "Mumbai",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Navis Dantas",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2015
+      ]
+    },
+    {
+      "name": "Ojas Jadhav",
+      "affiliation": "Mumbai",
+      "years": [
+        2016
+      ]
+    },
+    {
+      "name": "Nilansh Chiplunkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    {
+      "name": "Kausthub Jagushte",
+      "affiliation": "Mumbai",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "name": "Omkar Vadar",
+      "affiliation": "(Kolhapur)",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Neeil Mhatre",
+      "affiliation": "(Thane)",
+      "years": [
+        2023
+      ]
+    },
+    {
+      "name": "Prasanna Gole",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2024
+      ]
+    },
+    {
+      "name": "Shivansh U More",
+      "affiliation": "Thane",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

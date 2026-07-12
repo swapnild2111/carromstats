@@ -1,0 +1,701 @@
+{
+  "fetchedAt": "2026-07-12T21:21:34.721Z",
+  "asOf": null,
+  "categories": [
+    {
+      "key": "men",
+      "label": "Men's Singles",
+      "tournamentHeaders": [
+        "60th Senior Maharashtra Carrom Championship 2026-27",
+        "11th Mandpeshwar Civic Federation State Carrom Tournament 2026-27",
+        "10th Shree Dattaraj Charitable Trust"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "name": "Abhijit Tripankar",
+          "affiliation": "Institution",
+          "perTournament": [
+            14,
+            3,
+            5
+          ],
+          "total": 22
+        },
+        {
+          "rank": 2,
+          "name": "Zaid Farooqui",
+          "affiliation": "Institution",
+          "perTournament": [
+            16,
+            null,
+            4
+          ],
+          "total": 20
+        },
+        {
+          "rank": 3,
+          "name": "Sandeep Dive",
+          "affiliation": "Institution",
+          "perTournament": [
+            12,
+            6,
+            0
+          ],
+          "total": 18
+        },
+        {
+          "rank": 4,
+          "name": "Mohammad Ghufran",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            7,
+            8
+          ],
+          "total": 16
+        },
+        {
+          "rank": 5,
+          "name": "Rahim Khan",
+          "affiliation": "Institution",
+          "perTournament": [
+            6,
+            0,
+            7
+          ],
+          "total": 13
+        },
+        {
+          "rank": 6,
+          "name": "Prashant More",
+          "affiliation": "Institution",
+          "perTournament": [
+            8,
+            5,
+            null
+          ],
+          "total": 13
+        },
+        {
+          "rank": 7,
+          "name": "Saurabh Mate",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            10,
+            null,
+            null
+          ],
+          "total": 10
+        },
+        {
+          "rank": 8,
+          "name": "Yogesh Pardeshi",
+          "affiliation": "Institution",
+          "perTournament": [
+            null,
+            8,
+            null
+          ],
+          "total": 8
+        },
+        {
+          "rank": 9,
+          "name": "Vikad Dharia",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            6
+          ],
+          "total": 6
+        },
+        {
+          "rank": 10,
+          "name": "Nilansh H Chiplunkar",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            4,
+            0
+          ],
+          "total": 5
+        },
+        {
+          "rank": 11,
+          "name": "Sagar Waghmare",
+          "affiliation": "Pune",
+          "perTournament": [
+            4,
+            0,
+            0
+          ],
+          "total": 5
+        },
+        {
+          "rank": 12,
+          "name": "Anil Mundhe",
+          "affiliation": "Institution",
+          "perTournament": [
+            2,
+            null,
+            2
+          ],
+          "total": 4
+        },
+        {
+          "rank": 13,
+          "name": "Dinesh Kedar",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            3
+          ],
+          "total": 3
+        },
+        {
+          "rank": 14,
+          "name": "Onkar Tilak",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            2,
+            null
+          ],
+          "total": 2
+        },
+        {
+          "rank": 14,
+          "name": "Pankaj A Pawar",
+          "affiliation": "Thane",
+          "perTournament": [
+            1,
+            null,
+            1
+          ],
+          "total": 2
+        },
+        {
+          "rank": 16,
+          "name": "Siddhant M Wadwalkar",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            1,
+            null,
+            0
+          ],
+          "total": 1
+        },
+        {
+          "rank": 16,
+          "name": "Sanjay Mande",
+          "affiliation": "Thane",
+          "perTournament": [
+            null,
+            1,
+            0
+          ],
+          "total": 1
+        },
+        {
+          "rank": 18,
+          "name": "Niraj G Kamble",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            1,
+            null,
+            null
+          ],
+          "total": 1
+        },
+        {
+          "rank": 18,
+          "name": "Kishor S Bhondve",
+          "affiliation": "Pune",
+          "perTournament": [
+            1,
+            null,
+            null
+          ],
+          "total": 1
+        },
+        {
+          "rank": 18,
+          "name": "Sameer Mohd. Jabir Ansari",
+          "affiliation": "Thane",
+          "perTournament": [
+            1,
+            null,
+            null
+          ],
+          "total": 1
+        },
+        {
+          "rank": 18,
+          "name": "Kunal P Raut",
+          "affiliation": "Thane",
+          "perTournament": [
+            1,
+            null,
+            null
+          ],
+          "total": 1
+        },
+        {
+          "rank": 18,
+          "name": "Francis P Fernandes",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            0,
+            0
+          ],
+          "total": 1
+        },
+        {
+          "rank": 23,
+          "name": "Mangesh N Pandit",
+          "affiliation": "Mumbai Suburban",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Sajjad A Shaikh",
+          "affiliation": "Mumbai Suburban",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Bharat Koli",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Vishwajeet G Bhave",
+          "affiliation": "Thane",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Mohd. W Ansari",
+          "affiliation": "Mumbai Suburban",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Abhishek Chavan",
+          "affiliation": "Ratnagiri",
+          "perTournament": [
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Sandeep Deorukhkar (Mumbai)",
+          "affiliation": "Institution",
+          "perTournament": [
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        }
+      ]
+    },
+    {
+      "key": "women",
+      "label": "Women's Singles",
+      "tournamentHeaders": [
+        "60th Senior Maharashtra Carrom Championship 2026-27",
+        "11th Mandpeshwar Civic Federation State Carrom Tournament 2026-27",
+        "10th Shree Dattaraj Charitable Trust"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "name": "Samruddhi Ghadigaonkar",
+          "affiliation": "Institution",
+          "perTournament": [
+            16,
+            7,
+            3
+          ],
+          "total": 26
+        },
+        {
+          "rank": 2,
+          "name": "Shruti Sonawane",
+          "affiliation": "Institution",
+          "perTournament": [
+            14,
+            0,
+            7
+          ],
+          "total": 21
+        },
+        {
+          "rank": 3,
+          "name": "Aisha Khan",
+          "affiliation": "Institution",
+          "perTournament": [
+            10,
+            0,
+            6
+          ],
+          "total": 16
+        },
+        {
+          "rank": 4,
+          "name": "Nilam Ghodake",
+          "affiliation": "Institution",
+          "perTournament": [
+            12,
+            0,
+            null
+          ],
+          "total": 12
+        },
+        {
+          "rank": 5,
+          "name": "Madhura M Devle",
+          "affiliation": "Thane",
+          "perTournament": [
+            null,
+            4,
+            8
+          ],
+          "total": 12
+        },
+        {
+          "rank": 6,
+          "name": "Aakanksha U Kadam",
+          "affiliation": "Ratnagiri",
+          "perTournament": [
+            1,
+            8,
+            null
+          ],
+          "total": 9
+        },
+        {
+          "rank": 7,
+          "name": "Keshar Nirgun",
+          "affiliation": "Institution",
+          "perTournament": [
+            4,
+            0,
+            4
+          ],
+          "total": 8
+        },
+        {
+          "rank": 8,
+          "name": "Prajakta Narayankar",
+          "affiliation": "Institution",
+          "perTournament": [
+            8,
+            null,
+            0
+          ],
+          "total": 8
+        },
+        {
+          "rank": 9,
+          "name": "Mitali B Pathak",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            6,
+            0
+          ],
+          "total": 7
+        },
+        {
+          "rank": 10,
+          "name": "Rinky Kumari",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            6,
+            null,
+            null
+          ],
+          "total": 6
+        },
+        {
+          "rank": 11,
+          "name": "Sonali Kumari",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            1,
+            5,
+            null
+          ],
+          "total": 6
+        },
+        {
+          "rank": 12,
+          "name": "Maitrayee Gogate",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            null,
+            5
+          ],
+          "total": 6
+        },
+        {
+          "rank": 13,
+          "name": "Chaitali Suvare",
+          "affiliation": "Institution",
+          "perTournament": [
+            2,
+            1,
+            2
+          ],
+          "total": 5
+        },
+        {
+          "rank": 14,
+          "name": "Urmila V Shendge",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            3,
+            0
+          ],
+          "total": 4
+        },
+        {
+          "rank": 15,
+          "name": "Ambika Harith",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            2,
+            null
+          ],
+          "total": 3
+        },
+        {
+          "rank": 16,
+          "name": "Anjali V Siripuram",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            0,
+            0
+          ],
+          "total": 2
+        },
+        {
+          "rank": 17,
+          "name": "Mamta Kumari",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            1,
+            null,
+            null
+          ],
+          "total": 1
+        },
+        {
+          "rank": 18,
+          "name": "Diksha Chavan",
+          "affiliation": "Sindhudurg",
+          "perTournament": [
+            null,
+            null,
+            1
+          ],
+          "total": 1
+        },
+        {
+          "rank": 19,
+          "name": "Pushkarni S Bhattad ( Pune )",
+          "affiliation": "Institution",
+          "perTournament": [
+            null,
+            0,
+            0
+          ],
+          "total": 1
+        },
+        {
+          "rank": 19,
+          "name": "Tanaya V Dalvi",
+          "affiliation": "Mumbai Suburban",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 19,
+          "name": "Anita L Kanojiya",
+          "affiliation": "Raigad",
+          "perTournament": [
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 19,
+          "name": "Rudrukshi Patil",
+          "affiliation": null,
+          "perTournament": [
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        },
+        {
+          "rank": 19,
+          "name": "Mansi Kadam",
+          "affiliation": "Thane",
+          "perTournament": [
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        },
+        {
+          "rank": 19,
+          "name": "Swara Mohire",
+          "affiliation": "Ratnagiri",
+          "perTournament": [
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        }
+      ]
+    },
+    {
+      "key": "veteran_men",
+      "label": "Veteran Men",
+      "tournamentHeaders": [
+        "60th Senior Maharashtra Carrom Championship 2026-27"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "name": "Sanjay Thite",
+          "affiliation": "Pune",
+          "perTournament": [
+            16
+          ],
+          "total": 16
+        },
+        {
+          "rank": 2,
+          "name": "Satyanarayan Dondull",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            14
+          ],
+          "total": 14
+        },
+        {
+          "rank": 3,
+          "name": "Fayyaz Shaikh",
+          "affiliation": "Pune",
+          "perTournament": [
+            12
+          ],
+          "total": 12
+        },
+        {
+          "rank": 4,
+          "name": "Hemant Panchal",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            10
+          ],
+          "total": 10
+        }
+      ]
+    },
+    {
+      "key": "veteran_women",
+      "label": "Veteran Women",
+      "tournamentHeaders": [
+        "60th Senior Maharashtra Carrom Championship 2026-27"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "name": "Shobha Kamat",
+          "affiliation": "Kolhapur",
+          "perTournament": [
+            16
+          ],
+          "total": 16
+        },
+        {
+          "rank": 2,
+          "name": "Madhuri Tayshete",
+          "affiliation": "Mumbai-Sub",
+          "perTournament": [
+            14
+          ],
+          "total": 14
+        },
+        {
+          "rank": 3,
+          "name": "Rozina Godad",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            12
+          ],
+          "total": 12
+        },
+        {
+          "rank": 4,
+          "name": "Minal Lele Khare",
+          "affiliation": "Thane",
+          "perTournament": [
+            10
+          ],
+          "total": 10
+        }
+      ]
+    }
+  ]
+}

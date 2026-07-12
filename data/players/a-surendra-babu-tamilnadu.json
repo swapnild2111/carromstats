@@ -1,0 +1,62 @@
+{
+  "slug": "a-surendra-babu-tamilnadu",
+  "name": "A. Surendra Babu",
+  "aliases": [
+    "A. Surendra Babu"
+  ],
+  "cities": [
+    "Tamilnadu"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_48th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "48th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2019-20",
+      "season": "2019-20",
+      "date": "2020-02-02",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aslam-chitkey-maharashtra",
+      "name": "Aslam Chitkey",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "manoharlal-gupta-assam",
+      "name": "Manoharlal Gupta",
+      "city": "Assam",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shabbir-khan-mumbaisub",
+      "name": "Shabbir Khan",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

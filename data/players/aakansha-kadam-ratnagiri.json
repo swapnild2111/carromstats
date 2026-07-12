@@ -1,0 +1,94 @@
+{
+  "slug": "aakansha-kadam-ratnagiri",
+  "name": "Aakansha Kadam",
+  "aliases": [
+    "Aakansha Kadam"
+  ],
+  "cities": [
+    "Ratnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_2nd_utkarsh_sports_academy_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "2nd Utkarsh Sports Academy Maharashtra State Ranking Carrom Tournament 2019-20",
+      "season": "2019-20",
+      "date": "2019-08-15",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "maitreyee-gogate-ratnagiri",
+      "name": "Maitreyee Gogate",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "medha-matkari-pune",
+      "name": "Medha Matkari",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-pimple-mumbai",
+      "name": "Mitali Pimple",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "pushkarni-bhattad-pune",
+      "name": "Pushkarni Bhattad",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sangeeta-chandorkar-mumbai",
+      "name": "Sangeeta Chandorkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "urmila-shendage-mumbai",
+      "name": "Urmila Shendage",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

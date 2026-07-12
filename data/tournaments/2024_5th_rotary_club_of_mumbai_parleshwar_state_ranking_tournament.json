@@ -1,0 +1,104 @@
+{
+  "slug": "2024_5th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament",
+  "pagePath": "2024_5th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament.php",
+  "title": "5th Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2025-03-29",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Siddhant Wadwalkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Omkar Tilak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Anjali Sirupuram",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 8,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

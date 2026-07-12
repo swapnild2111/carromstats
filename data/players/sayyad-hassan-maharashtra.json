@@ -1,0 +1,94 @@
+{
+  "slug": "sayyad-hassan-maharashtra",
+  "name": "Sayyad Hassan",
+  "aliases": [
+    "Sayyad Hassan"
+  ],
+  "cities": [
+    "Maharashtra"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2021_49th_senior_national_carrom_championship_dadar_mumbai",
+      "tournamentTitle": "49th Senior National Carrom Championship, Dadar, Mumbai",
+      "season": "2021-22",
+      "date": "2022-04-22",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "abdul-rahman-uttarpradesh",
+      "name": "Abdul Rahman",
+      "city": "Uttarpradesh",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "JISL",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "jugal-kishor-datta-assam",
+      "name": "Jugal Kishor Datta",
+      "city": "Assam",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "k-srinivas-pspb",
+      "name": "K. Srinivas",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Air India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaheer-pasha-rbi",
+      "name": "Zaheer Pasha",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

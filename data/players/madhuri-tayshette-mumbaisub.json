@@ -1,0 +1,62 @@
+{
+  "slug": "madhuri-tayshette-mumbaisub",
+  "name": "Madhuri Tayshette",
+  "aliases": [
+    "Madhuri Tayshette"
+  ],
+  "cities": [
+    "Mumbai-Sub"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2018_54th_maharashtra_state_and_inter_district_carrom_championship",
+      "tournamentTitle": "54th Senior Maharashtra State Carrom Championship 2018-19",
+      "season": "2018-19",
+      "date": "2018-05-20",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "malti-kelkar-mumbai",
+      "name": "Malti Kelkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nancy-sequera-mumbaisub",
+      "name": "Nancy Sequera",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shobha-kamat-kolhapur",
+      "name": "Shobha Kamat",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

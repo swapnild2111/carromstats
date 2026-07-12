@@ -1,0 +1,94 @@
+{
+  "slug": "maitreyee-gogate-ragnagiri",
+  "name": "Maitreyee Gogate",
+  "aliases": [
+    "Maitreyee Gogate"
+  ],
+  "cities": [
+    "Ragnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "tournamentTitle": "10th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-04",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aisha-khan-mumbai",
+      "name": "Aisha Khan",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali Suvare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha Chavan",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura Devle",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-pathak-mumbai",
+      "name": "Mitali Pathak",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

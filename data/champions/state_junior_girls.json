@@ -1,0 +1,118 @@
+{
+  "categoryKey": "junior_girls",
+  "categoryLabel": "Junior Girls",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Netra Chunekar",
+      "affiliation": "Mumbai",
+      "years": [
+        2001,
+        2003,
+        2005
+      ]
+    },
+    {
+      "name": "Urmila Shendge",
+      "affiliation": "Mumbai",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Anjali Sangam",
+      "affiliation": "Mumbai",
+      "years": [
+        2004
+      ]
+    },
+    {
+      "name": "Vrushali Patil",
+      "affiliation": "Nasik",
+      "years": [
+        2007,
+        2010
+      ]
+    },
+    {
+      "name": "Maitrayee Gogate",
+      "affiliation": "Ratnagiri",
+      "years": [
+        2009,
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Krutika Wani",
+      "affiliation": "Dhule",
+      "years": [
+        2013
+      ]
+    },
+    {
+      "name": "Pushkarni Bhattad",
+      "affiliation": "Pune",
+      "years": [
+        2014,
+        2017
+      ]
+    },
+    {
+      "name": "Janhavi More",
+      "affiliation": "Mumbai",
+      "years": [
+        2015
+      ]
+    },
+    {
+      "name": "Tejaswini Patil",
+      "affiliation": "Dhule",
+      "years": [
+        2016
+      ]
+    },
+    {
+      "name": "Shruti Sonawane",
+      "affiliation": "Palghar",
+      "years": [
+        2018
+      ]
+    },
+    {
+      "name": "Sejal Lokhande",
+      "affiliation": "Mumbai",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "name": "Keshar Nirgun",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Madhura Devle",
+      "affiliation": "Thane",
+      "years": [
+        2023
+      ]
+    },
+    {
+      "name": "Diksha Chavan",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2024
+      ]
+    },
+    {
+      "name": "Sonali Kumari",
+      "affiliation": "Mumbai",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

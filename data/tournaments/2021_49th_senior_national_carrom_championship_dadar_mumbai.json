@@ -1,0 +1,104 @@
+{
+  "slug": "2021_49th_senior_national_carrom_championship_dadar_mumbai",
+  "pagePath": "2021_49th_senior_national_carrom_championship_dadar_mumbai.php",
+  "title": "49th Senior National Carrom Championship, Dadar, Mumbai",
+  "urlYear": 2021,
+  "season": "2021-22",
+  "date": "2022-04-22",
+  "venue": null,
+  "hasResultsSubPage": false,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Abdul Rahman",
+          "city": "Uttarpradesh"
+        },
+        {
+          "position": 2,
+          "name": "Zaheer Pasha",
+          "city": "RBI"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Dive",
+          "city": "Air India"
+        },
+        {
+          "position": 4,
+          "name": "Prashant More",
+          "city": "RBI"
+        },
+        {
+          "position": 5,
+          "name": "K. Srinivas",
+          "city": "PSPB"
+        },
+        {
+          "position": 6,
+          "name": "Abhijit Tripankar",
+          "city": "JISL"
+        },
+        {
+          "position": 7,
+          "name": "Jugal Kishor Datta",
+          "city": "Assam"
+        },
+        {
+          "position": 8,
+          "name": "Sayyad Hassan",
+          "city": "Maharashtra"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "PSPB"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodke",
+          "city": "JISL"
+        },
+        {
+          "position": 3,
+          "name": "Mantasha Iqbal",
+          "city": "AAI"
+        },
+        {
+          "position": 4,
+          "name": "Debajani Tamuly",
+          "city": "DASCB"
+        },
+        {
+          "position": 5,
+          "name": "Rashmi Kumari",
+          "city": "PSPB"
+        },
+        {
+          "position": 6,
+          "name": "Mitra V",
+          "city": "Tamilnadu"
+        },
+        {
+          "position": 7,
+          "name": "P. Nirmala",
+          "city": "PSPB"
+        },
+        {
+          "position": 8,
+          "name": "Tuba Sehar",
+          "city": "Chandigarh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "slug": "s-appoorwa-lic",
+  "name": "S. Appoorwa",
+  "aliases": [
+    "S. Appoorwa"
+  ],
+  "cities": [
+    "India",
+    "LIC"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 3,
+    "second": 0,
+    "third": 1,
+    "top8": 4
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_48th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "48th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2019-20",
+      "season": "2019-20",
+      "date": "2020-02-02",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2019_8th_carrom_icf_india_pune",
+      "tournamentTitle": "8th INTERNATIONAL CARROM FEDERATION CUP INDIA 2019",
+      "season": "2019-20",
+      "date": "2019-12-02",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2019_all_india_public_sector_carrom_tournament",
+      "tournamentTitle": "ALL INDIA PUBLIC SECTOR SPORTS PROMOTION BOARD INTER UNIT CARROM TOURNAMENT 2019",
+      "season": "2018-19",
+      "date": "2019-06-03",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2018_47th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "47th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2018-19",
+      "season": "2018-19",
+      "date": "2019-02-19",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "rashmi-kumari-pspb",
+      "name": "Rashmi Kumari",
+      "city": "PSPB",
+      "coAppearances": 4,
+      "wonAgainst": 3,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aisha-mohd-sajid-jisl",
+      "name": "Aisha Mohd. Sajid",
+      "city": "JISL",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "PSPB",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "naga-jyothi-pspb",
+      "name": "Naga Jyothi",
+      "city": "PSPB",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "JISL",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sangeeta-chandorkar-mumbai",
+      "name": "Sangeeta Chandorkar",
+      "city": "RBI",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "aisha-sajid-india",
+      "name": "Aisha Sajid",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "aminath-vidhhadh-maldives",
+      "name": "Aminath Vidhhadh",
+      "city": "Maldives",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "geeta-devi-bsnl",
+      "name": "Geeta Devi",
+      "city": "BSNL",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "joseph-roshita-srilanka",
+      "name": "Joseph Roshita",
+      "city": "Srilanka",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "k-nagajyothi-india",
+      "name": "K. Nagajyothi",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kavita-somanchi-rbi",
+      "name": "Kavita Somanchi",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "khooshbu-rani-bihar",
+      "name": "Khooshbu Rani",
+      "city": "Bihar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "maduka-dilshani-srilanka",
+      "name": "Maduka Dilshani",
+      "city": "Srilanka",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "medha-matkari-pune",
+      "name": "Medha Matkari",
+      "city": "LIC",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rebeca-dalrine-srilanka",
+      "name": "Rebeca Dalrine",
+      "city": "Srilanka",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shilpa-palnitkar-mumbai",
+      "name": "Shilpa Palnitkar",
+      "city": "LIC",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shubhada-nagaonkar-rbi",
+      "name": "Shubhada Nagaonkar",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "tuba-sehar-chandigarh",
+      "name": "Tuba Sehar",
+      "city": "Chandigarh",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "urmila-shnendge-rbi",
+      "name": "Urmila Shnendge",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

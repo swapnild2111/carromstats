@@ -1,0 +1,475 @@
+{
+  "slug": "rahul-solanki-mumbai",
+  "name": "Rahul Solanki",
+  "aliases": [
+    "Rahul Solanki"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 1,
+    "second": 2,
+    "third": 1,
+    "top8": 14
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 2,
+  "slamsAgainst": 8,
+  "matchesPlayed": 40,
+  "matchesWon": 17,
+  "appearances": [
+    {
+      "tournamentSlug": "2026_6th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament",
+      "tournamentTitle": "6th Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-04-03",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament",
+      "tournamentTitle": "Shivshankar Utsav Mandal 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2026-03-13",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "tournamentTitle": "Juhu Vile Parle Gymkhana Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-08-16",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "16th Shivaji Park Gymkhana State Ranking Carrom Tournament 2024-25",
+      "season": "2024-25",
+      "date": "2025-02-08",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2024_2nd_ghatkopar_jolly_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "2nd Ghatkopar Jolly Gymkhana Maharashtra State Ranking Carrom Tournament 2024-25",
+      "season": "2024-25",
+      "date": "2025-01-11",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2023_15th_shivaji_park_gymkhana_state_ranking_tournament",
+      "tournamentTitle": "15th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2023-24",
+      "season": "2023-24",
+      "date": "2024-02-24",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2023_2nd_mig_cricket_club_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "2nd MIG Cricket Club Maharashtra State Ranking Carrom Tournament 2023-24",
+      "season": "2023-24",
+      "date": "2023-10-06",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "2nd The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2023-2024",
+      "season": "2023-24",
+      "date": "2023-07-14",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2023_7th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "7th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2023-24",
+      "season": "2023-24",
+      "date": "2023-06-10",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2022_ayub_jamadar_foundation_1st_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "Ayub Jamadar Foundation, 1st Maharashtra STATE RANKING CARROM TOURNAMENT 2022-23",
+      "season": "2022-23",
+      "date": "2022-12-10",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2022_bengal_club_centenary_state_ranking_carrom_tournament",
+      "tournamentTitle": "Bengal Club Centenary Maharashtra State Ranking Carrom Tournament 2022-23",
+      "season": "2022-23",
+      "date": "2022-07-08",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2022_13th_shivaji_park_gymkhana_state_ranking_tournament",
+      "tournamentTitle": "13th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2022-23",
+      "season": "2022-23",
+      "date": "2022-04-22",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2019_2nd_utkarsh_sports_academy_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "2nd Utkarsh Sports Academy Maharashtra State Ranking Carrom Tournament 2019-20",
+      "season": "2019-20",
+      "date": "2019-08-15",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 5
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Krishnakar Tipnis Memorial Trophy Maharashtra State Ranking Carrom Tournament 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 7
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 10,
+      "wonAgainst": 6,
+      "lostAgainst": 4
+    },
+    {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Mumbai",
+      "coAppearances": 8,
+      "wonAgainst": 3,
+      "lostAgainst": 5
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 7,
+      "wonAgainst": 1,
+      "lostAgainst": 6
+    },
+    {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 6,
+      "wonAgainst": 0,
+      "lostAgainst": 6
+    },
+    {
+      "slug": "mohd-ghufran-mumbai",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 6,
+      "wonAgainst": 1,
+      "lostAgainst": 5
+    },
+    {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 6,
+      "wonAgainst": 5,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Mumbai",
+      "coAppearances": 6,
+      "wonAgainst": 2,
+      "lostAgainst": 4
+    },
+    {
+      "slug": "abhishek-chavan-ratnagiri",
+      "name": "Abhishek Chavan",
+      "city": "Ratnagiri",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "zaid-farooquee-thane",
+      "name": "Zaid Farooquee",
+      "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 1,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "girish-tambe-mumbai",
+      "name": "Girish Tambe",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "hareshwar-betvanshi-mumbai",
+      "name": "Hareshwar Betvanshi",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "manoj-kamble-mumbai",
+      "name": "Manoj Kamble",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mohammad-ghufran-mumbai",
+      "name": "Mohammad Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prakash-gaikwad-pune",
+      "name": "Prakash Gaikwad",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rahim-khan-pune",
+      "name": "Rahim Khan",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rajesh-gohil-thane",
+      "name": "Rajesh Gohil",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-deorukhkar-mumbai",
+      "name": "Sandeep Deorukhkar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "siddhant-wadwalkar-mumbai",
+      "name": "Siddhant Wadwalkar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "zaid-a-farooquie-thane",
+      "name": "Zaid A Farooquie",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "abhjijit-tripankar-pune",
+      "name": "Abhjijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "abmed-ali-sayyed-mumbaisub",
+      "name": "Abmed Ali Sayyed",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ahmad-ali-sayyed-mumbaisub",
+      "name": "Ahmad Ali Sayyed",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "jalal-mulla-satara",
+      "name": "Jalal Mulla",
+      "city": "Satara",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "javed-shaikh-mumbaisub",
+      "name": "Javed Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "krishna-waghmare-mumbai",
+      "name": "Krishna Waghmare",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kunal-rahut-mumbai",
+      "name": "Kunal Rahut",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mukesh-sharma-mumbaisub",
+      "name": "Mukesh Sharma",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "naeem-ansari-jalgaon",
+      "name": "Naeem Ansari",
+      "city": "Jalgaon",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nisar-shaikh-dhule",
+      "name": "Nisar Shaikh",
+      "city": "Dhule",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prafull-more-mumbai",
+      "name": "Prafull More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "riyaz-akbara-ali-ratnagiri",
+      "name": "Riyaz Akbara Ali",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rohit-chaugule-kolhapur",
+      "name": "Rohit Chaugule",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sajjad-shaikh-mumbaisub",
+      "name": "Sajjad Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "salman-khan-mumbai",
+      "name": "Salman Khan",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sanjay-mande-mumbai",
+      "name": "Sanjay Mande",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sharad-more-mumbaisub",
+      "name": "Sharad More",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "yogesh-dhongade-mumbai",
+      "name": "Yogesh Dhongade",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "yogesh-pardeshi-pune",
+      "name": "Yogesh Pardeshi",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

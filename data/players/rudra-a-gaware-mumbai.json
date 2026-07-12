@@ -1,0 +1,94 @@
+{
+  "slug": "rudra-a-gaware-mumbai",
+  "name": "Rudra A Gaware",
+  "aliases": [
+    "Rudra A Gaware"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aayush-b-garud-pune",
+      "name": "Aayush B Garud",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "dhruv-s-bhalerao-mumbai",
+      "name": "Dhruv S Bhalerao",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dron-m-hajare-ratnagiri",
+      "name": "Dron M Hajare",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "prasad-s-mane-thane",
+      "name": "Prasad S Mane",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shreeshan-h-palwankar-palghar",
+      "name": "Shreeshan H Palwankar",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ved-m-brahme-pune",
+      "name": "Ved M Brahme",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vedant-d-rane-mumbai-suburban",
+      "name": "Vedant D Rane",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

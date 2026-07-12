@@ -1,0 +1,104 @@
+{
+  "slug": "2022_shivshankar_utsav_mandal_state_ranking_carrom_tournament",
+  "pagePath": "2022_shivshankar_utsav_mandal_state_ranking_carrom_tournament.php",
+  "title": "Shivshankar Utsav Mandal Maharashtra State Ranking Carrom Tournament 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2023-02-24",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Javed Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Zaid A Farooquie",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Kunal Raut",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Girish Tambe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Nisar Ahmed",
+          "city": "Dhule"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Maitreyee Gogate",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "bhumi-b-ludbe-palghar",
+  "name": "Bhumi B Ludbe",
+  "aliases": [
+    "Bhumi B Ludbe"
+  ],
+  "cities": [
+    "Palghar"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 1,
+  "matchesPlayed": 1,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "junior_girls",
+      "categoryLabel": "Junior Girls",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha N Chavan",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "dnyaneshwari-m-ingulkar-pune",
+      "name": "Dnyaneshwari M Ingulkar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar R Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mayuri-s-gawade-sindhudurg",
+      "name": "Mayuri S Gawade",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shravani-n-tambe-pune",
+      "name": "Shravani N Tambe",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shruti-velekar-pune",
+      "name": "Shruti Velekar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "simran-shinde-mumbai",
+      "name": "Simran S Shinde",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

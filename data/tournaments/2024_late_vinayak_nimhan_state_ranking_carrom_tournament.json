@@ -1,0 +1,104 @@
+{
+  "slug": "2024_late_vinayak_nimhan_state_ranking_carrom_tournament",
+  "pagePath": "2024_late_vinayak_nimhan_state_ranking_carrom_tournament.php",
+  "title": "Late Vinayak Nimhan (Ex.MLA) Maharashtra State Ranking Carrom Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-08-02",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Pushkarni Bhattad",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Simdran Jadhav",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Samidha Jadhav",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

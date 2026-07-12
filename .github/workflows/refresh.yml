@@ -1,0 +1,75 @@
+name: Refresh MCA data
+
+on:
+  schedule:
+    - cron: '17 3 * * 1'  # Mondays 03:17 UTC — off-peak
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Restore fetch cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: mca-cache-${{ github.run_id }}
+          restore-keys: mca-cache-
+
+      - name: Scrape (tournaments + points + champions)
+        run: npm run scrape
+
+      - name: Build player records
+        run: npm run build-players
+
+      - name: Sanity check
+        id: sanity
+        run: npm run sanity-check
+
+      - name: Detect data changes
+        id: diff
+        run: |
+          if git diff --quiet data/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open PR with data diff
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(data): weekly MCA refresh"
+          title: "chore(data): weekly MCA refresh"
+          branch: mca-refresh/${{ github.run_id }}
+          delete-branch: true
+          body: |
+            Automated refresh of scraped MCA data. Merges are manual for v1.
+
+            - Sanity checks passed
+            - Review the diff before merging — the aggregator occasionally over-merges same-named players
+
+      - name: Open issue on failure
+        if: failure()
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/workflow-failure-template.md
+          update_existing: true

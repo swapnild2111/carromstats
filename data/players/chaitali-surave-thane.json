@@ -1,0 +1,94 @@
+{
+  "slug": "chaitali-surave-thane",
+  "name": "Chaitali Surave",
+  "aliases": [
+    "Chaitali Surave"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_12th_shivaji_park_gymkhana_state_ranking_tournament",
+      "tournamentTitle": "12th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2019-20",
+      "season": "2019-20",
+      "date": "2020-02-21",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "aisha-khokawala-mumbai",
+      "name": "Aisha Khokawala",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "anupama-kedar-mumbai",
+      "name": "Anupama Kedar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "medha-mathkari-pune",
+      "name": "Medha Mathkari",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mitali-pimple-mumbai",
+      "name": "Mitali Pimple",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila Shendge",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

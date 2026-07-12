@@ -1,0 +1,72 @@
+{
+  "slug": "babulal-shrimal-mumbai",
+  "name": "Babulal Shrimal",
+  "aliases": [
+    "Babulal Shrimal"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 1,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [
+    {
+      "scope": "national",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "years": [
+        2007,
+        2008
+      ]
+    }
+  ],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 2,
+  "matchesWon": 1,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_58th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Maharashtra State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": "2024-08-15",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "giridhar-bhoj-mumbai",
+      "name": "Giridhar Bhoj",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "satyanarayan-dontull-mumbai",
+      "name": "Satyanarayan Dontull",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shabbir-khan-mumbaisub",
+      "name": "Shabbir Khan",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

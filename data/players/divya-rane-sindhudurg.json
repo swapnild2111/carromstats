@@ -1,0 +1,88 @@
+{
+  "slug": "divya-rane-sindhudurg",
+  "name": "Divya D Rane",
+  "aliases": [
+    "Divya D Rane",
+    "Divya Rane"
+  ],
+  "cities": [
+    "Sindhudurg"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 2,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2025_59th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Sub Junior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "nidhi-m-sapre-ratnagiri",
+      "name": "Nidhi M Sapre",
+      "city": "Ratnagiri",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "aarvi-s-shelar-pune",
+      "name": "Aarvi S Shelar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "devika-p-joshi-thane",
+      "name": "Devika P Joshi",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "durgeshwari-y-dhongade-jalgaon",
+      "name": "Durgeshwari Y Dhongade",
+      "city": "Jalgaon",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "susan-v-basimalla-mumbai",
+      "name": "Susan V Basimalla",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

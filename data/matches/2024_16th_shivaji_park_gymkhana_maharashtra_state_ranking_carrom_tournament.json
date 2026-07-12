@@ -1,0 +1,949 @@
+{
+  "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            8,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            17,
+            23
+          ],
+          "side2Scores": [
+            21,
+            25,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            3,
+            25
+          ],
+          "side2Scores": [
+            8,
+            25,
+            13
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            0,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            13,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            17,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            12,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            18,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            11,
+            24,
+            25
+          ],
+          "side2Scores": [
+            24,
+            10,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Amol A Sawardekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rizwan U Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            10,
+            24
+          ],
+          "side2Scores": [
+            4,
+            24,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            16,
+            12,
+            19
+          ],
+          "side2Scores": [
+            25,
+            10,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mohammed W Pasha",
+            "city": "Nanded"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            7,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Jitesh A Kadam",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            21,
+            23,
+            null
+          ],
+          "side2Scores": [
+            12,
+            12,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            18,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            14,
+            18
+          ],
+          "side2Scores": [
+            0,
+            25,
+            4
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            16,
+            25
+          ],
+          "side2Scores": [
+            5,
+            21,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            18,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            21,
+            null
+          ],
+          "side2Scores": [
+            0,
+            14,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            15,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            8,
+            22,
+            25
+          ],
+          "side2Scores": [
+            15,
+            9,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            10,
+            25,
+            24
+          ],
+          "side2Scores": [
+            25,
+            1,
+            1
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_16th_shivaji_park_gymkhana_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Swara M Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            21,
+            19,
+            null
+          ],
+          "side2Scores": [
+            16,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Simran S Shinde",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            7,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            2,
+            13,
+            19
+          ],
+          "side2Scores": [
+            25,
+            11,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shaila V Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Kanak Kanojiya",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            23,
+            23,
+            null
+          ],
+          "side2Scores": [
+            9,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            17,
+            null
+          ],
+          "side2Scores": [
+            9,
+            15,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

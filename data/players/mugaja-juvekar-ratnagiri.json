@@ -1,0 +1,94 @@
+{
+  "slug": "mugaja-juvekar-ratnagiri",
+  "name": "Mugaja Juvekar",
+  "aliases": [
+    "Mugaja Juvekar"
+  ],
+  "cities": [
+    "Ratnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 2,
+  "slamsAgainst": 4,
+  "matchesPlayed": 4,
+  "matchesWon": 1,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_amdar_chashak_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "Amdar Chashak Maharashtra State Ranking Carrom Tournament 2023-24",
+      "season": "2023-24",
+      "date": "2023-11-24",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "swara-s-mohire-ratnagiri",
+      "name": "Swara Mohire",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila Shendge",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

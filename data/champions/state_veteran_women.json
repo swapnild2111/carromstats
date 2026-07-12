@@ -1,0 +1,53 @@
+{
+  "categoryKey": "veteran_women",
+  "categoryLabel": "Veteran Women",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Priya Satam",
+      "affiliation": "Mumbai",
+      "years": [
+        2009
+      ]
+    },
+    {
+      "name": "Shobha Kamat",
+      "affiliation": "Kolhapur",
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2016,
+        2017,
+        2018,
+        2022,
+        2023,
+        2026
+      ]
+    },
+    {
+      "name": "Nancy Sequeira",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2015
+      ]
+    },
+    {
+      "name": "Madhuri Tayshete",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "name": "Minal Lele Khare",
+      "affiliation": "Thane",
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  ]
+}

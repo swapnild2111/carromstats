@@ -1,0 +1,99 @@
+{
+  "slug": "2023_7th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+  "pagePath": "2023_7th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament.php",
+  "title": "7th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2023-06-10",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Zaid A Farooquie",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Nisar Shaikh",
+          "city": "Dhule"
+        },
+        {
+          "position": 5,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Abhishek Chavan",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Pushkarni Bhattad",
+          "city": "Pune"
+        }
+      ]
+    }
+  ]
+}

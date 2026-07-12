@@ -1,0 +1,142 @@
+{
+  "categoryKey": "senior_women",
+  "categoryLabel": "Senior Women",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Late - Usha Bakale",
+      "affiliation": "Mumbai",
+      "years": [
+        1965,
+        1966,
+        1967
+      ]
+    },
+    {
+      "name": "Late - Shaila Deshpande (Shaila Adhikari)",
+      "affiliation": "Mumbai",
+      "years": [
+        1968,
+        1969
+      ]
+    },
+    {
+      "name": "Late - Amy Neterwal",
+      "affiliation": "Mumbai",
+      "years": [
+        1970
+      ]
+    },
+    {
+      "name": "Madhavi Karve",
+      "affiliation": "Mumbai",
+      "years": [
+        1975
+      ]
+    },
+    {
+      "name": "Vijaya Khot",
+      "affiliation": "Mumbai",
+      "years": [
+        1976
+      ]
+    },
+    {
+      "name": "Varsha Kakodkar ( Anupama Kedar )",
+      "affiliation": "Mumbai",
+      "years": [
+        1979,
+        1980,
+        1981,
+        1983,
+        1985,
+        1986,
+        1989,
+        1990,
+        1996
+      ]
+    },
+    {
+      "name": "Malati Kelkar",
+      "affiliation": "Mumbai",
+      "years": [
+        1982
+      ]
+    },
+    {
+      "name": "Sangeeta Chandorkar",
+      "affiliation": "Mumbai",
+      "years": [
+        1992,
+        2001,
+        2004,
+        2012,
+        2014
+      ]
+    },
+    {
+      "name": "P. Nirmala",
+      "affiliation": "Mumbau",
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Aisha Mohammed",
+      "affiliation": "Mumbai",
+      "years": [
+        2003,
+        2005,
+        2006,
+        2007,
+        2010,
+        2015
+      ]
+    },
+    {
+      "name": "Shilpa Palnitkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2008,
+        2009,
+        2013
+      ]
+    },
+    {
+      "name": "Kajal Kumari",
+      "affiliation": "Mumbai",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2024
+      ]
+    },
+    {
+      "name": "Aakanksha Kadam",
+      "affiliation": "Ratnagiri",
+      "years": [
+        2022,
+        2025
+      ]
+    },
+    {
+      "name": "Ambika Harith",
+      "affiliation": "Mumbai",
+      "years": [
+        2023
+      ]
+    },
+    {
+      "name": "Samruddhi Ghadigaonkar",
+      "affiliation": "Thane",
+      "years": [
+        2026
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2018_54th_maharashtra_state_and_inter_district_carrom_championship",
+  "pagePath": "2018_54th_maharashtra_state_and_inter_district_carrom_championship.php",
+  "title": "54th Senior Maharashtra State Carrom Championship 2018-19",
+  "urlYear": 2018,
+  "season": "2018-19",
+  "date": "2018-05-20",
+  "venue": null,
+  "hasResultsSubPage": false,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Anil Mundhe",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Riyaz Akbarali",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Abhishek Chavan",
+          "city": "Ratnagiri"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Mohd.",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pimple",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Minal Lele-Khare",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sneha More",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "veteran_men",
+      "label": "Veteran Men",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Shabbir A Khan",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Devshi Koli",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aslam Chitake",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Nandakumar Mhatre",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    },
+    {
+      "key": "veteran_women",
+      "label": "Veteran Women",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Shobha Kamat",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 2,
+          "name": "Malti Kelkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Madhuri Tayshette",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Nancy Sequera",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    }
+  ]
+}

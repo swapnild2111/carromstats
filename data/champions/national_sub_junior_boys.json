@@ -1,0 +1,28 @@
+{
+  "categoryKey": "sub_junior_boys",
+  "categoryLabel": "Sub-Junior Boys",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Suryakant Bairalu",
+      "affiliation": "Mumbai",
+      "years": [
+        1979
+      ]
+    },
+    {
+      "name": "Ashok Gurav",
+      "affiliation": "Mumbai",
+      "years": [
+        1990
+      ]
+    },
+    {
+      "name": "Prashant More",
+      "affiliation": "Mumbai",
+      "years": [
+        2003
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mansi-kadam-mumbai",
+  "name": "Mansi Kadam",
+  "aliases": [
+    "Mansi Kadam"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": "Thane",
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": 0,
+  "currentRank": 19,
+  "currentRankCategory": "Women's Singles",
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 1,
+  "matchesPlayed": 2,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2017_18_53rd_senior_maharashtrastate_and_inter_district_carrom_championship",
+      "tournamentTitle": "53rd Senior Maharashtra State Carrom Championship 2017-18",
+      "season": "2017-18",
+      "date": "2019-07-22",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aisha-mohd-mumbai",
+      "name": "Aisha Mohd.",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "minal-lelekhare-thane",
+      "name": "Minal Lele-Khare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-pimple-palghar",
+      "name": "Mitali Pimple",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "preeti-khedekar-mumbai",
+      "name": "Preeti Khedekar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shilpa-palnitkar-mumbai",
+      "name": "Shilpa palnitkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sneha-more-mumbai",
+      "name": "Sneha More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

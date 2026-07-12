@@ -1,0 +1,94 @@
+{
+  "slug": "rebeca-dalrine-srilanka",
+  "name": "Rebeca Dalrine",
+  "aliases": [
+    "Rebeca Dalrine"
+  ],
+  "cities": [
+    "Srilanka"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_8th_carrom_icf_india_pune",
+      "tournamentTitle": "8th INTERNATIONAL CARROM FEDERATION CUP INDIA 2019",
+      "season": "2019-20",
+      "date": "2019-12-02",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 5
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aisha-sajid-india",
+      "name": "Aisha Sajid",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aminath-vidhhadh-maldives",
+      "name": "Aminath Vidhhadh",
+      "city": "Maldives",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "joseph-roshita-srilanka",
+      "name": "Joseph Roshita",
+      "city": "Srilanka",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "k-nagajyothi-india",
+      "name": "K. Nagajyothi",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "maduka-dilshani-srilanka",
+      "name": "Maduka Dilshani",
+      "city": "Srilanka",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rashmi-kumari-pspb",
+      "name": "Rashmi Kumari",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "s-appoorwa-lic",
+      "name": "S. Appoorwa",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

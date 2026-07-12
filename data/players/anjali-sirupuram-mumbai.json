@@ -1,0 +1,94 @@
+{
+  "slug": "anjali-sirupuram-mumbai",
+  "name": "Anjali Sirupuram",
+  "aliases": [
+    "Anjali Sirupuram"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_5th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament",
+      "tournamentTitle": "5th Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2024-25",
+      "season": "2024-25",
+      "date": "2025-03-29",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 5
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "ambika-harith-mumbai",
+      "name": "Ambika Harith",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali Suvare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

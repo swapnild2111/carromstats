@@ -1,0 +1,151 @@
+{
+  "slug": "ishwari-patil-kolhapur",
+  "name": "Ishwari Patil",
+  "aliases": [
+    "Ishwari Patil"
+  ],
+  "cities": [
+    "Kolhapur"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "sub_junior_girls",
+      "categoryLabel": "Sub-Junior Girls",
+      "position": 5
+    },
+    {
+      "tournamentSlug": "2025_59th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Junior State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "junior_girls",
+      "categoryLabel": "Junior Girls",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "tanaya-d-patil-pune",
+      "name": "Tanaya D Patil",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aarya-ghanekar-thane",
+      "name": "Aarya Ghanekar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dharmy-v-shukla-mumbai-suburban",
+      "name": "Dharmy V Shukla",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "greeshma-m-dhamankar-mumbai",
+      "name": "Greeshma M Dhamankar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "jisha-s-asaldekar-mumbai-suburban",
+      "name": "Jisha S Asaldekar",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "jiya-patel-palghar",
+      "name": "Jiya Patel",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura M Devle",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "poorva-d-ketkar-sindhudurg",
+      "name": "Poorva D Ketkar",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sanchita-mohite-thane",
+      "name": "Sanchita Mohite",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "simran-shinde-mumbai",
+      "name": "Simran Shinde",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sonali-kumari-mumbai",
+      "name": "Sonali Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "swara-m-kadam-ratnagiri",
+      "name": "Swara M Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "swara-s-mohire-ratnagiri",
+      "name": "Swara S Mohire",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

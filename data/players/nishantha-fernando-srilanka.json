@@ -1,0 +1,94 @@
+{
+  "slug": "nishantha-fernando-srilanka",
+  "name": "Nishantha Fernando",
+  "aliases": [
+    "Nishantha Fernando"
+  ],
+  "cities": [
+    "Srilanka"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_8th_carrom_icf_india_pune",
+      "tournamentTitle": "8th INTERNATIONAL CARROM FEDERATION CUP INDIA 2019",
+      "season": "2019-20",
+      "date": "2019-12-02",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "irshad-ahmed-vidharbha",
+      "name": "Irshad Ahmed",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "ismail-azmeen-maldives",
+      "name": "Ismail Azmeen",
+      "city": "Maldives",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mohd-hamaet-mulla-bangladesh",
+      "name": "Mohd. Hamaet Mulla",
+      "city": "Bangladesh",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rajesh-gohil-thane",
+      "name": "Rajesh Gohil",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shaheed-hilmy-sri-lanka",
+      "name": "Shaheed Hilmy",
+      "city": "Srilanka",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "zaheer-pasha-rbi",
+      "name": "Zaheer Pasha",
+      "city": "India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

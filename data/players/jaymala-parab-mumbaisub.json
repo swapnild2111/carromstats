@@ -1,0 +1,62 @@
+{
+  "slug": "jaymala-parab-mumbaisub",
+  "name": "Jaymala Parab",
+  "aliases": [
+    "Jaymala Parab"
+  ],
+  "cities": [
+    "Mumbai-Sub"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 4,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_58th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Maharashtra State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": "2024-08-15",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "madhuri-tayshete-mumbaisub",
+      "name": "Madhuri Tayshete",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "minal-lele-khare-thane",
+      "name": "Minal Lele Khare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shobha-kamat-kolhapur",
+      "name": "Shobha Kamat",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

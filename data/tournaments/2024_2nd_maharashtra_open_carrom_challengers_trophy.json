@@ -1,0 +1,104 @@
+{
+  "slug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+  "pagePath": "2024_2nd_maharashtra_open_carrom_challengers_trophy.php",
+  "title": "2nd Maharashtra Open Carrom Challenger's Trophy 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-12-16",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sagar Waghmare",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 2,
+          "name": "Mohd. Ghufran",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 3,
+          "name": "Zaid Farooquee",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 4,
+          "name": "Rahim Khan",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 5,
+          "name": "Shaheed Hilmy",
+          "city": "Sri Lanka"
+        },
+        {
+          "position": 6,
+          "name": "Abhishek Chavan",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 7,
+          "name": "Sandeep Deorukhkar",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 8,
+          "name": "Sanjay Mande",
+          "city": "Maharashtra"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodake",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 3,
+          "name": "Hirushi Malshani",
+          "city": "Sri Lanka"
+        },
+        {
+          "position": 4,
+          "name": "Aakanksha Kadam",
+          "city": "Maharashta"
+        },
+        {
+          "position": 5,
+          "name": "Tharushi Himansika",
+          "city": "Sri Lanka"
+        },
+        {
+          "position": 6,
+          "name": "Urmila Shendge",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 7,
+          "name": "Preeti Jakhotia",
+          "city": "USA"
+        },
+        {
+          "position": 8,
+          "name": "Joshita Roshita",
+          "city": "Sri Lanka"
+        }
+      ]
+    }
+  ]
+}

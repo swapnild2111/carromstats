@@ -1,0 +1,104 @@
+{
+  "slug": "2024_2nd_ghatkopar_jolly_gymkhana_maharashtra_state_ranking_carrom_tournament",
+  "pagePath": "2024_2nd_ghatkopar_jolly_gymkhana_maharashtra_state_ranking_carrom_tournament.php",
+  "title": "2nd Ghatkopar Jolly Gymkhana Maharashtra State Ranking Carrom Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2025-01-11",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Dive",
+          "city": "Mumbai=Sub"
+        },
+        {
+          "position": 4,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Siddhant Wadwalkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

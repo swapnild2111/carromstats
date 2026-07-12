@@ -1,0 +1,99 @@
+{
+  "slug": "2022_3rd_rotary_club_of_mumbai_parleshwar_state_ranking_carrom_tournament",
+  "pagePath": "2022_3rd_rotary_club_of_mumbai_parleshwar_state_ranking_carrom_tournament.php",
+  "title": "3rd Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2023-03-17",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sandeep Deorukhkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Girish Tambe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Zaid A Farooquie",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 4,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

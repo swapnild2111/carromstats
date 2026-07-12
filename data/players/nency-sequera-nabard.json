@@ -1,0 +1,62 @@
+{
+  "slug": "nency-sequera-nabard",
+  "name": "Nency Sequera",
+  "aliases": [
+    "Nency Sequera"
+  ],
+  "cities": [
+    "NABARD"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2018_47th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "47th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2018-19",
+      "season": "2018-19",
+      "date": "2019-02-19",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "malti-kelkar-mumbai",
+      "name": "Malti Kelkar",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rozina-godas-mumbai",
+      "name": "Rozina Godas",
+      "city": "DASCB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shobha-kamat-kolhapur",
+      "name": "Shobha Kamat",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

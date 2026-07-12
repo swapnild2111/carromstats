@@ -1,0 +1,993 @@
+{
+  "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            18,
+            21,
+            null
+          ],
+          "side2Scores": [
+            16,
+            20,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            24,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            11,
+            10
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            14,
+            25
+          ],
+          "side2Scores": [
+            0,
+            19,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            16,
+            null
+          ],
+          "side2Scores": [
+            12,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            10,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            9,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            2,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            14,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            6,
+            23,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            21,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            6,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Ravindra R Hange",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            0,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            4,
+            2
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Kunal P Raut",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Naeem Akhtar Mohd. Salim Ansari",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            13,
+            16,
+            25
+          ],
+          "side2Scores": [
+            25,
+            11,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Jalaluddin J Mulla",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            10,
+            22
+          ],
+          "side2Scores": [
+            5,
+            25,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            18,
+            null
+          ],
+          "side2Scores": [
+            7,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            14,
+            24
+          ],
+          "side2Scores": [
+            11,
+            21,
+            20
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            20,
+            12,
+            21
+          ],
+          "side2Scores": [
+            16,
+            19,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            24,
+            20,
+            null
+          ],
+          "side2Scores": [
+            4,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            19,
+            25,
+            20
+          ],
+          "side2Scores": [
+            22,
+            3,
+            10
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            21,
+            14,
+            21
+          ],
+          "side2Scores": [
+            18,
+            20,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            9,
+            14,
+            23
+          ],
+          "side2Scores": [
+            22,
+            10,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Neha Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            12,
+            23,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            5,
+            17
+          ],
+          "side2Scores": [
+            13,
+            19,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Neha Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            5,
+            18,
+            16
+          ],
+          "side2Scores": [
+            25,
+            17,
+            15
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            24,
+            null
+          ],
+          "side2Scores": [
+            22,
+            19,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            21,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Neha Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            18,
+            null
+          ],
+          "side2Scores": [
+            16,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            11,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side2": {
+            "name": "Tanvi P Parab",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Pratiksha A Landge",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Diksha N Chavan",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            13,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            23,
+            17,
+            null
+          ],
+          "side2Scores": [
+            10,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Neha Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pooja C Meshram",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Vaibhavi P Shewale",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            24,
+            null
+          ],
+          "side2Scores": [
+            6,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Surekha M Karavande",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            12,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            24,
+            22,
+            null
+          ],
+          "side2Scores": [
+            20,
+            6,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

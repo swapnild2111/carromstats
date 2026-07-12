@@ -1,0 +1,312 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getPlayerIndex, getPlayerRecord } from '~/lib/data';
+
+export function getStaticPaths() {
+  return getPlayerIndex().map(p => ({ params: { slug: p.slug } }));
+}
+
+const { slug } = Astro.params;
+const p = getPlayerRecord(slug as string);
+if (!p) throw new Error(`Player not found: ${slug}`);
+const appearances = [...p.appearances].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
+
+const winRate = p.matchesPlayed && p.matchesPlayed > 0
+  ? Math.round((p.matchesWon ?? 0) / p.matchesPlayed * 100)
+  : null;
+
+// Primary city for display — prefer real cities over affiliations.
+const NON_CITY_TOKENS = new Set(['maharashtra', 'india', 'karnataka', 'telangana', 'rbi', 'jisl', 'ongc', 'lic', 'pspb']);
+const primaryCity = p.cities.find(c => !NON_CITY_TOKENS.has(c.toLowerCase())) ?? p.cities[0] ?? null;
+const otherCities = p.cities.filter(c => c !== primaryCity);
+---
+<Base title={p.name} active="players">
+  <p class="back-link"><a href={url('/players')}>← All players</a></p>
+
+  <header class="profile-hero">
+    <div class="profile-avatar" aria-hidden="true">{p.name.split(' ').map(w => w[0]).join('').slice(0, 2).toUpperCase()}</div>
+    <div class="profile-heading">
+      <h1>{p.name}</h1>
+      <div class="profile-meta">
+        {primaryCity && <span class="meta-chip meta-chip-city">{primaryCity}</span>}
+        {otherCities.length > 0 && (
+          <span class="meta-chip meta-chip-alt">also: {otherCities.join(', ')}</span>
+        )}
+        {p.currentRank !== null && (
+          <span class="meta-chip meta-chip-rank">Rank #{p.currentRank} · {p.currentRankCategory ?? ''} · {p.currentPoints ?? 0} pts</span>
+        )}
+      </div>
+      {p.aliases.length > 1 && (
+        <p class="profile-aliases">Also seen as: {p.aliases.filter(a => a !== p.name).join(', ')}</p>
+      )}
+    </div>
+  </header>
+
+  <section class="stat-cards" aria-label="Career totals">
+    <div class="stat-card stat-gold">
+      <span class="stat-icon stat-icon-word" aria-hidden="true">1st</span>
+      <span class="stat-value">{p.podium.first}</span>
+      <span class="stat-label">Wins</span>
+    </div>
+    <div class="stat-card stat-silver">
+      <span class="stat-icon stat-icon-word" aria-hidden="true">2nd</span>
+      <span class="stat-value">{p.podium.second}</span>
+      <span class="stat-label">Runner-up</span>
+    </div>
+    <div class="stat-card stat-bronze">
+      <span class="stat-icon stat-icon-word" aria-hidden="true">3rd</span>
+      <span class="stat-value">{p.podium.third}</span>
+      <span class="stat-label">Third</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-icon stat-icon-word" aria-hidden="true">T8</span>
+      <span class="stat-value">{p.podium.top8}</span>
+      <span class="stat-label">Top&nbsp;8 finishes</span>
+    </div>
+  </section>
+
+  {p.slams !== null && (
+    <section class="stat-cards" aria-label="Match stats">
+      <div class="stat-card">
+        <span class="stat-icon stat-icon-word" aria-hidden="true">SLAM</span>
+        <span class="stat-value">{p.slams}</span>
+        <span class="stat-label">Slams (25-0)</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon stat-icon-word" aria-hidden="true">L</span>
+        <span class="stat-value">{p.slamsAgainst ?? 0}</span>
+        <span class="stat-label">Slams conceded</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon stat-icon-word" aria-hidden="true">W</span>
+        <span class="stat-value">{p.matchesWon ?? 0}<span class="stat-total">/{p.matchesPlayed ?? 0}</span></span>
+        <span class="stat-label">Matches won</span>
+      </div>
+      {winRate !== null && (
+        <div class="stat-card">
+          <span class="stat-icon stat-icon-word" aria-hidden="true">%</span>
+          <span class="stat-value">{winRate}%</span>
+          <span class="stat-label">Win rate</span>
+        </div>
+      )}
+    </section>
+  )}
+
+  {p.titles.length > 0 && (
+    <section class="page-section">
+      <div class="section-heading">
+        <h2>Championship titles</h2>
+        <p class="section-desc">National and state champion appearances.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr><th>Scope</th><th>Category</th><th class="num">Titles</th><th>Years</th></tr>
+          </thead>
+          <tbody>
+            {p.titles.map(t => (
+              <tr>
+                <td><span class:list={['pill', t.scope === 'national' ? 'pill-national' : 'pill-state']}>{t.scope}</span></td>
+                <td>{t.categoryLabel}</td>
+                <td class="num">{t.years.length}</td>
+                <td class="mono years-cell">{t.years.toSorted((a, b) => b - a).join(', ')}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+
+  <section class="page-section">
+    <div class="section-heading">
+      <h2>Tournament history</h2>
+      <p class="section-desc">All appearances in top-8, newest first.</p>
+    </div>
+    {appearances.length === 0 ? (
+      <p class="empty">No appearances recorded.</p>
+    ) : (
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr><th>Date</th><th>Tournament</th><th>Category</th><th class="num">Position</th></tr>
+          </thead>
+          <tbody>
+            {appearances.map(a => (
+              <tr>
+                <td class="mono muted small nowrap">{a.date ?? '—'}</td>
+                <td>
+                  <a href={url(`/tournaments/${a.tournamentSlug}`)}>{a.tournamentTitle}</a>
+                  <br /><span class="muted small">Season {a.season}</span>
+                </td>
+                <td><span class:list={['category-pill', `category-${a.categoryKey}`]}>{a.categoryLabel}</span></td>
+                <td class="num">
+                  <span class:list={['rank-badge', a.position <= 3 && `rank-${a.position}`]}>{a.position}</span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    )}
+  </section>
+
+  {p.rivals.length > 0 && (
+    <section class="page-section">
+      <div class="section-heading">
+        <h2>Rivals</h2>
+        <p class="section-desc">Players met in top-8 finishes — co-appearances and head-to-head placement.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Player</th>
+              <th class="num">Met</th>
+              <th class="num">Above</th>
+              <th class="num">Below</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {p.rivals.slice(0, 20).map(r => (
+              <tr>
+                <td>
+                  <a href={url(`/players/${r.slug}`)}>{r.name}</a>
+                  {r.city && <><br /><span class="muted small">{r.city}</span></>}
+                </td>
+                <td class="num">{r.coAppearances}</td>
+                <td class="num">{r.wonAgainst}</td>
+                <td class="num muted-num">{r.lostAgainst}</td>
+                <td><a class="pill pill-link" href={url(`/players/${p.slug}/vs/${r.slug}`)}>vs →</a></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+</Base>
+
+<style>
+  .back-link {
+    margin: 0 0 1rem;
+    font-size: 0.9rem;
+  }
+
+  .profile-hero {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    padding: 2rem;
+    background:
+      radial-gradient(ellipse 60% 100% at 0% 0%, rgba(74, 158, 255, 0.15), transparent 70%),
+      radial-gradient(ellipse 60% 100% at 100% 100%, rgba(167, 139, 250, 0.12), transparent 70%),
+      var(--bg-elevated);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius);
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-avatar {
+    flex-shrink: 0;
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--accent), var(--secondary));
+    color: #0f1419;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    box-shadow: var(--shadow-md);
+  }
+
+  .profile-heading { flex: 1; min-width: 0; }
+  .profile-heading h1 {
+    margin: 0 0 0.5rem;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+
+  .profile-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.5rem;
+    margin: 0;
+  }
+
+  .meta-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 500;
+  }
+  .meta-chip-city {
+    background: rgba(74, 158, 255, 0.15);
+    color: #d6e8ff;
+  }
+  .meta-chip-alt {
+    background: var(--surface);
+    color: var(--text-muted);
+    border: 1px solid var(--border-subtle);
+  }
+  .meta-chip-rank {
+    background: rgba(167, 139, 250, 0.18);
+    color: #e0d5ff;
+    font-weight: 600;
+  }
+
+  .profile-aliases {
+    margin: 0.5rem 0 0;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .stat-total {
+    color: var(--text-muted);
+    font-size: 0.8em;
+    font-weight: 500;
+    margin-left: 0.15rem;
+  }
+
+  .years-cell {
+    color: var(--text);
+    font-size: 0.88rem;
+    max-width: 320px;
+    line-height: 1.4;
+  }
+
+  .pill-national {
+    background: rgba(232, 197, 71, 0.2);
+    color: #ffde7a;
+  }
+  .pill-state {
+    background: rgba(167, 139, 250, 0.2);
+    color: #d5c5ff;
+  }
+  .pill-link {
+    padding: 0.2rem 0.55rem;
+  }
+
+  .nowrap { white-space: nowrap; }
+
+  @media (max-width: 600px) {
+    .profile-hero {
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem 1rem;
+    }
+    .profile-avatar { width: 72px; height: 72px; font-size: 1.65rem; }
+    .profile-heading h1 { font-size: 1.5rem; }
+    .profile-meta { justify-content: center; }
+  }
+</style>

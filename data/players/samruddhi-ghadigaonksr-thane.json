@@ -1,0 +1,94 @@
+{
+  "slug": "samruddhi-ghadigaonksr-thane",
+  "name": "Samruddhi Ghadigaonksr",
+  "aliases": [
+    "Samruddhi Ghadigaonksr"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 1,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_9th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+      "tournamentTitle": "9th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+      "season": "2023-24",
+      "date": "2024-06-22",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aisha-khan-mumbai",
+      "name": "Aisha Khan",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ambika-harith-mumbai",
+      "name": "Ambika Harith",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha Chavan",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "2021_mca_selection_trial_carrom_tournament",
+  "pagePath": "2021_mca_selection_trial_carrom_tournament.php",
+  "title": "State Level Carrom Tournament, Ratnagiri, 2021-22",
+  "urlYear": 2021,
+  "season": "2021-22",
+  "date": "2022-02-25",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Yasin Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Riyaz Akbarali",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Abhishek Chavan",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Fayaz Shaikh",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Ahmed Ali Sayyed",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Sayyed Mohsin",
+          "city": "Jalgaon"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Maitreyee Gogate",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Mansi Shinde",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Shobha Kamat",
+          "city": "Kolhapur"
+        }
+      ]
+    }
+  ]
+}

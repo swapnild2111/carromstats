@@ -1,0 +1,104 @@
+{
+  "slug": "2022_2nd_ms_ranking_carrom_tournament_late_krushnakant_tipnis_memorial_trophy",
+  "pagePath": "2022_2nd_ms_ranking_carrom_tournament_late_krushnakant_tipnis_memorial_trophy.php",
+  "title": "2nd State Ranking Carrom Tournament 2022-23 | Late Krushnakar Tipnis Memorial Trophy",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2022-10-28",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Zaid A Farooquie",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Sandeep Deorukhkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Siddhant Wadwalkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            23,
+            20,
+            null
+          ],
+          "side2Scores": [
+            8,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            14,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            10,
+            0
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            0,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sameer J Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            19,
+            21,
+            null
+          ],
+          "side2Scores": [
+            14,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            11,
+            23
+          ],
+          "side2Scores": [
+            2,
+            25,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sameer J Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            4,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            7,
+            13,
+            25
+          ],
+          "side2Scores": [
+            23,
+            11,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            16,
+            25
+          ],
+          "side2Scores": [
+            20,
+            25,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            0,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sameer J Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            20,
+            25,
+            25
+          ],
+          "side2Scores": [
+            24,
+            13,
+            13
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            21,
+            25,
+            25
+          ],
+          "side2Scores": [
+            22,
+            0,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            7,
+            22,
+            25
+          ],
+          "side2Scores": [
+            24,
+            16,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ashok S Gaur",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            15,
+            13,
+            21
+          ],
+          "side2Scores": [
+            8,
+            19,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            19,
+            18
+          ],
+          "side2Scores": [
+            25,
+            5,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ravi B Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer J Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Kunal P Raut",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            12,
+            25
+          ],
+          "side2Scores": [
+            24,
+            19,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            10,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            3,
+            25
+          ],
+          "side2Scores": [
+            7,
+            25,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            16,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            18,
+            8,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            10,
+            25,
+            20
+          ],
+          "side2Scores": [
+            25,
+            9,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            12,
+            17
+          ],
+          "side2Scores": [
+            11,
+            16,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            12,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            17,
+            7,
+            25
+          ],
+          "side2Scores": [
+            16,
+            25,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            13,
+            21,
+            null
+          ],
+          "side2Scores": [
+            10,
+            16,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sunanda Apte",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side2": {
+            "name": "Simran S Shinde",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            0,
+            25,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            10,
+            25,
+            19
+          ],
+          "side2Scores": [
+            25,
+            20,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            18,
+            null
+          ],
+          "side2Scores": [
+            10,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samidha S Jadhav",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Medha V Mathkari",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            15,
+            14,
+            19
+          ],
+          "side2Scores": [
+            14,
+            25,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Rozina Godad",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            3,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Madhuri M Tayshete",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            16,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

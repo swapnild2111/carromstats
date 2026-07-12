@@ -1,0 +1,104 @@
+{
+  "slug": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament",
+  "pagePath": "2023_1st_kamal_nagri_sahakari_patsanstha_maharashtra_state_ranking_carrom_tournament.php",
+  "title": "1st Kamal Nagari Sahakari Patsanstha Maharashtra State Ranking Carrom Tournament 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2023-10-27",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Dive",
+          "city": "Mumbai Sub"
+        },
+        {
+          "position": 3,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Hareshwar Betvanshi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Sameer Ansari",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Anita Kanojiya",
+          "city": "Raigad"
+        },
+        {
+          "position": 8,
+          "name": "Samidha Jadhav",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

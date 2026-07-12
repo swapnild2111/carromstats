@@ -1,0 +1,94 @@
+{
+  "slug": "subadha-nagaonkar-mumbai",
+  "name": "Subadha Nagaonkar",
+  "aliases": [
+    "Subadha Nagaonkar"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2018_11th_shivaji_park_gymkhana_state_ranking_tournament",
+      "tournamentTitle": "11th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2018-19",
+      "season": "2018-19",
+      "date": "2019-03-09",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aisha-mohd-sajid-mumbai",
+      "name": "Aisha Mohd. Sajid",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "janhavi-more-mumbai",
+      "name": "Janhavi More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mitali-pimple-mumbai",
+      "name": "Mitali Pimple",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sneha-more-mumbai",
+      "name": "Sneha More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

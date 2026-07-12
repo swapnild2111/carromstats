@@ -1,0 +1,41 @@
+{
+  "categoryKey": "veteran_women",
+  "categoryLabel": "Veteran Women",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Shobha Kamat",
+      "affiliation": "Kolhapur",
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2017,
+        2019
+      ]
+    },
+    {
+      "name": "Malti Kelkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2018
+      ]
+    },
+    {
+      "name": "Rozina Godad",
+      "affiliation": "Mumbai",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Nancy Sequeria",
+      "affiliation": "Nabard, Mumbai",
+      "years": [
+        2024
+      ]
+    }
+  ]
+}

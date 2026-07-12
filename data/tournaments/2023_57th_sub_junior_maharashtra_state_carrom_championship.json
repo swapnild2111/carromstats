@@ -1,0 +1,156 @@
+{
+  "slug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+  "pagePath": "2023_57th_sub_junior_maharashtra_state_carrom_championship.php",
+  "title": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "sub_junior_boys",
+      "label": "Sub-Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aayush B Garud",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Rudra A Gaware",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Vedant D Rane",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 4,
+          "name": "Dron M Hajare",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Dhruv S Bhalerao",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Shreeshan H Palwankar",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Prasad S Mane",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Ved M Brahme",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "sub_junior_girls",
+      "label": "Sub-Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Tanaya D Patil",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Swara S Mohire",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Poorva D Ketkar",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Swara M Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Ishwari Patil",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 6,
+          "name": "Greeshma M Dhamankar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Dharmy V Shukla",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 8,
+          "name": "Jisha S Asaldekar",
+          "city": "Mumbai Suburban"
+        }
+      ]
+    },
+    {
+      "key": "cadet_boys",
+      "label": "Cadet Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Neeil V Mhatre",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Anant J Jain",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Omkar R Vadar",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 4,
+          "name": "Pratap Kedar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "cadet_girls",
+      "label": "Cadet Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Durgeshwari Y Dhongade",
+          "city": "Jalgaon"
+        },
+        {
+          "position": 2,
+          "name": "Nidhi M Sapre",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Divya Rane",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Susan V Basimalla",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

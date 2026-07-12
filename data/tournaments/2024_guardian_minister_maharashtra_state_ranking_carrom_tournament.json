@@ -1,0 +1,104 @@
+{
+  "slug": "2024_guardian_minister_maharashtra_state_ranking_carrom_tournament",
+  "pagePath": "2024_guardian_minister_maharashtra_state_ranking_carrom_tournament.php",
+  "title": "Guardian Minister Chashak 3rd Maharashtra State Ranking Carrom Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-09-28",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Sagar Wathmare",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Diksha Chavan",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 6,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        }
+      ]
+    }
+  ]
+}

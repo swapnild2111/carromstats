@@ -1,0 +1,146 @@
+{
+  "slug": "2019_all_india_public_sector_carrom_tournament",
+  "pagePath": "2019_all_india_public_sector_carrom_tournament.php",
+  "title": "ALL INDIA PUBLIC SECTOR SPORTS PROMOTION BOARD INTER UNIT CARROM TOURNAMENT 2019",
+  "urlYear": 2019,
+  "season": "2018-19",
+  "date": "2019-06-03",
+  "venue": null,
+  "hasResultsSubPage": false,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "RBI"
+        },
+        {
+          "position": 2,
+          "name": "Zaid Ahmed",
+          "city": "Air India"
+        },
+        {
+          "position": 3,
+          "name": "M. Natraj",
+          "city": "Air India"
+        },
+        {
+          "position": 4,
+          "name": "Riyaz Akbarali",
+          "city": "Air India"
+        },
+        {
+          "position": 5,
+          "name": "Sandeep Dive",
+          "city": "Air India"
+        },
+        {
+          "position": 6,
+          "name": "Ravi Waghmare",
+          "city": "RBI"
+        },
+        {
+          "position": 7,
+          "name": "Sandeep Deorukhkar",
+          "city": "ONGC"
+        },
+        {
+          "position": 8,
+          "name": "Ashok Gaur",
+          "city": "ONGC"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "S. Appoorwa",
+          "city": "LIC"
+        },
+        {
+          "position": 2,
+          "name": "Rashmi Kumari",
+          "city": "ONGC"
+        },
+        {
+          "position": 3,
+          "name": "Kavita Somanchi",
+          "city": "RBI"
+        },
+        {
+          "position": 4,
+          "name": "Shilpa Palnitkar",
+          "city": "LIC"
+        },
+        {
+          "position": 5,
+          "name": "Shubhada Nagaonkar",
+          "city": "RBI"
+        },
+        {
+          "position": 6,
+          "name": "Medha Matkari",
+          "city": "LIC"
+        },
+        {
+          "position": 7,
+          "name": "Urmila Shnendge",
+          "city": "RBI"
+        },
+        {
+          "position": 8,
+          "name": "Sangeeta Chandorkar",
+          "city": "RBI"
+        }
+      ]
+    },
+    {
+      "key": "men_team",
+      "label": "Men Team",
+      "top8": [
+        {
+          "position": 1,
+          "name": "AIR INDIA",
+          "city": null
+        },
+        {
+          "position": 2,
+          "name": "Reserve Bank of India",
+          "city": "RBI"
+        },
+        {
+          "position": 3,
+          "name": "Airport Authority of India",
+          "city": "AAI"
+        }
+      ]
+    },
+    {
+      "key": "women_team",
+      "label": "Women Team",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Life Insurance of India",
+          "city": null
+        },
+        {
+          "position": 2,
+          "name": "Reserve Bank of India",
+          "city": null
+        },
+        {
+          "position": 3,
+          "name": "Oil & Natural Gas Corporation",
+          "city": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "abdul-sattar-thane",
+  "name": "Abdul Sattar",
+  "aliases": [
+    "Abdul Sattar"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2017_18_53rd_senior_maharashtrastate_and_inter_district_carrom_championship",
+      "tournamentTitle": "53rd Senior Maharashtra State Carrom Championship 2017-18",
+      "season": "2017-18",
+      "date": "2019-07-22",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "balasaheb-kanukale-mumbai",
+      "name": "Balasaheb Kanukale",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dattaram-vasave-ratnagiri",
+      "name": "Dattaram Vasave",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "manu-baria-mumbai",
+      "name": "Manu Baria",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

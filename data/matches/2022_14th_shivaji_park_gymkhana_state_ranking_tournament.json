@@ -1,0 +1,861 @@
+{
+  "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            1,
+            20,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            12,
+            22,
+            25
+          ],
+          "side2Scores": [
+            25,
+            19,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            13,
+            18,
+            null
+          ],
+          "side2Scores": [
+            10,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Manoj P Kamble",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            20,
+            25
+          ],
+          "side2Scores": [
+            17,
+            25,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            19,
+            null
+          ],
+          "side2Scores": [
+            20,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            10,
+            25,
+            20
+          ],
+          "side2Scores": [
+            18,
+            4,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Manoj P Kamble",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            9,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rizwan U Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            13,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            23,
+            23,
+            null
+          ],
+          "side2Scores": [
+            6,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            8,
+            22,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            8,
+            25
+          ],
+          "side2Scores": [
+            14,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            25
+          ],
+          "side2Scores": [
+            8,
+            22,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Yogesh A Dhongade",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            16,
+            24
+          ],
+          "side2Scores": [
+            19,
+            25,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Manoj P Kamble",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            9,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            8,
+            24
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            11,
+            18
+          ],
+          "side2Scores": [
+            10,
+            25,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Maitrayee D Gogate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            15,
+            23,
+            25
+          ],
+          "side2Scores": [
+            25,
+            16,
+            2
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Maitrayee D Gogate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            19,
+            null
+          ],
+          "side2Scores": [
+            10,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            24,
+            null
+          ],
+          "side2Scores": [
+            18,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            21,
+            17
+          ],
+          "side2Scores": [
+            16,
+            24,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            20,
+            null
+          ],
+          "side2Scores": [
+            6,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Maitrayee D Gogate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ketaki U Mundlye",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            18,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vaibhavi P Shewale",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            15,
+            20,
+            25
+          ],
+          "side2Scores": [
+            20,
+            10,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Maitrayee D Gogate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            13,
+            null
+          ],
+          "side2Scores": [
+            15,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Tulika Ajay Kumar Chaurasia",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            5,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            21,
+            null
+          ],
+          "side2Scores": [
+            5,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            19,
+            19,
+            25
+          ],
+          "side2Scores": [
+            9,
+            20,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

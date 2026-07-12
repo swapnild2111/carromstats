@@ -1,0 +1,58 @@
+{
+  "slug": "2019_late_tukaram_bhapkar_pratishthan_maharashtra_state_ranking_carrom_tournament",
+  "pagePath": "2019_late_tukaram_bhapkar_pratishthan_maharashtra_state_ranking_carrom_tournament.php",
+  "title": "Late Tukaram Bhapkar Prathishthan Maharashtra State Ranking Carrom Tournament 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-09-07",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sajjad Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 3,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Zaid Ahmed",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Rajesh Gohil",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Mohd. Wajid Pasha",
+          "city": "Nanded"
+        }
+      ]
+    }
+  ]
+}

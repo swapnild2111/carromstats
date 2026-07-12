@@ -1,0 +1,104 @@
+{
+  "slug": "2019_5th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+  "pagePath": "2019_5th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament.php",
+  "title": "5th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Carrom Tournament 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-06-22",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Zaid Ahmed",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Nisar Ahmed",
+          "city": "Dhule"
+        },
+        {
+          "position": 5,
+          "name": "Abhishek Chavan",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Riyaz Akbarali",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Abhijeet Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Sajid Khokawala",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Anupama Kedar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Pushkarni Bhattad",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 8,
+          "name": "Shobha Kamat",
+          "city": "Kolhapur"
+        }
+      ]
+    }
+  ]
+}

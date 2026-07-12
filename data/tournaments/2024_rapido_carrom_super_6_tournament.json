@@ -1,0 +1,58 @@
+{
+  "slug": "2024_rapido_carrom_super_6_tournament",
+  "pagePath": "2024_rapido_carrom_super_6_tournament.php",
+  "title": "Rapido Carrom Super 6 Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-08-12",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prshant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Mohd. Oves Ansari",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Vishwanath Deorukhkar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        }
+      ]
+    }
+  ]
+}

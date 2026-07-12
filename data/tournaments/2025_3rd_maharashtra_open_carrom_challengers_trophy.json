@@ -1,0 +1,58 @@
+{
+  "slug": "2025_3rd_maharashtra_open_carrom_challengers_trophy",
+  "pagePath": "2025_3rd_maharashtra_open_carrom_challengers_trophy.php",
+  "title": "3rd Maharashtra Open Carrom Challenger's Trophy 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": "2026-01-29",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "K. Srinivas",
+          "city": "Telangana"
+        },
+        {
+          "position": 2,
+          "name": "Abhishek Chavan",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Arif",
+          "city": "Uttar Pradesh"
+        },
+        {
+          "position": 4,
+          "name": "Chand Y Shaikh",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 5,
+          "name": "Shaheed Hilmy",
+          "city": "Sri Lanka"
+        },
+        {
+          "position": 6,
+          "name": "Zaheer Pasha",
+          "city": "Karnataka"
+        },
+        {
+          "position": 7,
+          "name": "Abhijit D Tripankar",
+          "city": "Maharashtra"
+        },
+        {
+          "position": 8,
+          "name": "Mohammad Ghufran",
+          "city": "Maharashtra"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "categoryKey": "sub_junior_girls",
+  "categoryLabel": "Sub-Junior Girls",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Netra Chunekar",
+      "affiliation": "Mumbai",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Vrushali Patil",
+      "affiliation": "Mumbai",
+      "years": [
+        2008
+      ]
+    },
+    {
+      "name": "Monali Dhotre",
+      "affiliation": "Dhule",
+      "years": [
+        2010
+      ]
+    },
+    {
+      "name": "Meha Patel",
+      "affiliation": "Dhule",
+      "years": [
+        2011,
+        2013,
+        2014
+      ]
+    },
+    {
+      "name": "Radhika Joshi",
+      "affiliation": "Thane",
+      "years": [
+        2012
+      ]
+    },
+    {
+      "name": "Nandita Mahajan",
+      "affiliation": "Thane",
+      "years": [
+        2015
+      ]
+    },
+    {
+      "name": "Shruti Sonawane",
+      "affiliation": "Thane",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Sakhee Datar",
+      "affiliation": "Thane",
+      "years": [
+        2018
+      ]
+    },
+    {
+      "name": "Diksha Chavan",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "name": "Arya Ghanekar",
+      "affiliation": "(Thane)",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Tanaya Patil",
+      "affiliation": "Pune",
+      "years": [
+        2023
+      ]
+    },
+    {
+      "name": "Tanya Dalvi",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2024
+      ]
+    },
+    {
+      "name": "Vedika S Pomendkar",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

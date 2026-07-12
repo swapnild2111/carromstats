@@ -1,0 +1,949 @@
+{
+  "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            0,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            14,
+            null
+          ],
+          "side2Scores": [
+            12,
+            0,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            20,
+            3,
+            18
+          ],
+          "side2Scores": [
+            11,
+            25,
+            13
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            22,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            18,
+            14,
+            21
+          ],
+          "side2Scores": [
+            25,
+            7,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            19,
+            21,
+            21
+          ],
+          "side2Scores": [
+            23,
+            11,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            6,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            19,
+            5
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            14,
+            19
+          ],
+          "side2Scores": [
+            16,
+            25,
+            17
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            9,
+            20,
+            25
+          ],
+          "side2Scores": [
+            25,
+            9,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            22,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            7,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            0,
+            18
+          ],
+          "side2Scores": [
+            16,
+            18,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            22,
+            11,
+            25
+          ],
+          "side2Scores": [
+            5,
+            21,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Nilansh H Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            18,
+            25
+          ],
+          "side2Scores": [
+            17,
+            23,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            10,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            18,
+            22,
+            25
+          ],
+          "side2Scores": [
+            21,
+            8,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Maitrayee Gogate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            17,
+            null
+          ],
+          "side2Scores": [
+            6,
+            3,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Maitrayee Gogate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            18,
+            22
+          ],
+          "side2Scores": [
+            15,
+            22,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            9,
+            18,
+            21
+          ],
+          "side2Scores": [
+            22,
+            13,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Diksha N Chavan",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            12,
+            18,
+            25
+          ],
+          "side2Scores": [
+            25,
+            11,
+            2
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Diksha N Chavan",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            17,
+            23,
+            null
+          ],
+          "side2Scores": [
+            15,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            17,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            17,
+            20
+          ],
+          "side2Scores": [
+            17,
+            23,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Maitrayee Gogate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Diksha N Chavan",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            13,
+            15
+          ],
+          "side2Scores": [
+            9,
+            22,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            19,
+            0,
+            21
+          ],
+          "side2Scores": [
+            12,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            20,
+            24
+          ],
+          "side2Scores": [
+            4,
+            25,
+            6
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Swara S Mohire",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            15,
+            22,
+            null
+          ],
+          "side2Scores": [
+            13,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Maitrayee Gogate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            16,
+            20
+          ],
+          "side2Scores": [
+            12,
+            25,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Diksha N Chavan",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Manasi M Kadam",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            8,
+            19,
+            24
+          ],
+          "side2Scores": [
+            25,
+            16,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rudrakshi S Patil",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            0,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            16,
+            24,
+            19
+          ],
+          "side2Scores": [
+            20,
+            15,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

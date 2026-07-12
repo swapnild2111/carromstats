@@ -1,0 +1,6482 @@
+[
+  {
+    "slug": "prashant-more-mumbai",
+    "name": "Prashant More",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 20,
+      "second": 10,
+      "third": 10,
+      "top8": 52
+    },
+    "currentPoints": 13,
+    "currentRank": 6,
+    "titles": 8,
+    "slams": 24,
+    "matchesPlayed": 113,
+    "matchesWon": 86
+  },
+  {
+    "slug": "aakanksha-kadam-ratnagiri",
+    "name": "Aakanksha U Kadam",
+    "city": "Ratnagiri",
+    "affiliation": "Ratnagiri",
+    "podium": {
+      "first": 17,
+      "second": 6,
+      "third": 5,
+      "top8": 49
+    },
+    "currentPoints": 9,
+    "currentRank": 6,
+    "titles": 3,
+    "slams": 9,
+    "matchesPlayed": 141,
+    "matchesWon": 92
+  },
+  {
+    "slug": "samruddhi-ghadigaonkar-thane",
+    "name": "Samruddhi D Ghadigaonkar",
+    "city": "Thane",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 4,
+      "second": 7,
+      "third": 5,
+      "top8": 42
+    },
+    "currentPoints": 26,
+    "currentRank": 1,
+    "titles": 3,
+    "slams": 16,
+    "matchesPlayed": 151,
+    "matchesWon": 97
+  },
+  {
+    "slug": "kajal-kumari-mumbai",
+    "name": "Kajal Kumari",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 26,
+      "second": 2,
+      "third": 7,
+      "top8": 40
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 7,
+    "slams": 13,
+    "matchesPlayed": 88,
+    "matchesWon": 78
+  },
+  {
+    "slug": "vikas-dharia-mumbai",
+    "name": "Vikas Dharia",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 3,
+      "second": 6,
+      "third": 6,
+      "top8": 40
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 13,
+    "matchesPlayed": 98,
+    "matchesWon": 53
+  },
+  {
+    "slug": "sandeep-dive-mumbaisub",
+    "name": "Sandeep A Dive",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 5,
+      "second": 8,
+      "third": 11,
+      "top8": 38
+    },
+    "currentPoints": 18,
+    "currentRank": 3,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 30,
+    "matchesWon": 18
+  },
+  {
+    "slug": "prajakta-narayankar-mumbaisub",
+    "name": "Prajakta Narayankar",
+    "city": "Mumbai-Sub",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 3,
+      "third": 4,
+      "top8": 37
+    },
+    "currentPoints": 8,
+    "currentRank": 8,
+    "titles": 0,
+    "slams": 11,
+    "matchesPlayed": 127,
+    "matchesWon": 64
+  },
+  {
+    "slug": "mohd-ghufran-mumbai",
+    "name": "Mohd. Ghufran",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 11,
+      "second": 5,
+      "third": 7,
+      "top8": 33
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 8,
+    "matchesPlayed": 76,
+    "matchesWon": 54
+  },
+  {
+    "slug": "abhijit-tripankar-pune",
+    "name": "Abhijit D Tripankar",
+    "city": "Pune",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 3,
+      "second": 7,
+      "third": 4,
+      "top8": 32
+    },
+    "currentPoints": 22,
+    "currentRank": 1,
+    "titles": 0,
+    "slams": 12,
+    "matchesPlayed": 85,
+    "matchesWon": 53
+  },
+  {
+    "slug": "nilam-ghodake-mumbai",
+    "name": "Nilam B Ghodake",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 4,
+      "second": 9,
+      "third": 7,
+      "top8": 31
+    },
+    "currentPoints": 12,
+    "currentRank": 4,
+    "titles": 1,
+    "slams": 8,
+    "matchesPlayed": 72,
+    "matchesWon": 42
+  },
+  {
+    "slug": "pankaj-pawar-thane",
+    "name": "Pankaj Pawar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 5,
+      "third": 4,
+      "top8": 31
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 4,
+    "matchesPlayed": 81,
+    "matchesWon": 41
+  },
+  {
+    "slug": "ambika-harith-mumbai",
+    "name": "Ambika Harith",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 5,
+      "second": 4,
+      "third": 4,
+      "top8": 27
+    },
+    "currentPoints": 3,
+    "currentRank": 15,
+    "titles": 1,
+    "slams": 26,
+    "matchesPlayed": 116,
+    "matchesWon": 79
+  },
+  {
+    "slug": "sagar-waghmare-pune",
+    "name": "Sagar P Waghmare",
+    "city": "Pune",
+    "affiliation": "Pune",
+    "podium": {
+      "first": 3,
+      "second": 5,
+      "third": 2,
+      "top8": 26
+    },
+    "currentPoints": 5,
+    "currentRank": 11,
+    "titles": 1,
+    "slams": 5,
+    "matchesPlayed": 82,
+    "matchesWon": 40
+  },
+  {
+    "slug": "mitali-pathak-mumbai",
+    "name": "Mitali Pathak",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 8,
+      "third": 4,
+      "top8": 25
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 9,
+    "matchesPlayed": 88,
+    "matchesWon": 46
+  },
+  {
+    "slug": "shruti-sonawane-palghar",
+    "name": "Shruti P Sonawane",
+    "city": "Palghar",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 5,
+      "third": 3,
+      "top8": 24
+    },
+    "currentPoints": 21,
+    "currentRank": 2,
+    "titles": 3,
+    "slams": 3,
+    "matchesPlayed": 71,
+    "matchesWon": 36
+  },
+  {
+    "slug": "aisha-khan-mumbai",
+    "name": "Aisha Khan",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 0,
+      "second": 3,
+      "third": 4,
+      "top8": 23
+    },
+    "currentPoints": 16,
+    "currentRank": 3,
+    "titles": 0,
+    "slams": 4,
+    "matchesPlayed": 80,
+    "matchesWon": 43
+  },
+  {
+    "slug": "keshar-nirgun-sindhudurg",
+    "name": "Keshar R Nirgun",
+    "city": "Sindhudurg",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 4,
+      "second": 4,
+      "third": 5,
+      "top8": 22
+    },
+    "currentPoints": 8,
+    "currentRank": 7,
+    "titles": 2,
+    "slams": 10,
+    "matchesPlayed": 86,
+    "matchesWon": 45
+  },
+  {
+    "slug": "zaid-farooquee-thane",
+    "name": "Zaid A Farooquee",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 4,
+      "second": 3,
+      "third": 6,
+      "top8": 22
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 9,
+    "matchesPlayed": 86,
+    "matchesWon": 59
+  },
+  {
+    "slug": "urmila-shendge-mumbai",
+    "name": "Urmila V Shendge",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 1,
+      "top8": 18
+    },
+    "currentPoints": 4,
+    "currentRank": 14,
+    "titles": 3,
+    "slams": 5,
+    "matchesPlayed": 78,
+    "matchesWon": 26
+  },
+  {
+    "slug": "yogesh-pardeshi-pune",
+    "name": "Yogesh Pardeshi",
+    "city": "Pune",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 2,
+      "second": 1,
+      "third": 2,
+      "top8": 18
+    },
+    "currentPoints": 8,
+    "currentRank": 8,
+    "titles": 6,
+    "slams": 5,
+    "matchesPlayed": 35,
+    "matchesWon": 19
+  },
+  {
+    "slug": "chaitali-suvare-thane",
+    "name": "Chaitali A Suvare",
+    "city": "Thane",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "top8": 16
+    },
+    "currentPoints": 5,
+    "currentRank": 13,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 62,
+    "matchesWon": 18
+  },
+  {
+    "slug": "pushkarni-bhattad-pune",
+    "name": "Pushkarni S Bhattad",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "top8": 16
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 4,
+    "slams": 3,
+    "matchesPlayed": 39,
+    "matchesWon": 10
+  },
+  {
+    "slug": "rinky-kumari-mumbai",
+    "name": "Rinky Kumari",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 1,
+      "second": 4,
+      "third": 3,
+      "top8": 16
+    },
+    "currentPoints": 6,
+    "currentRank": 10,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 60,
+    "matchesWon": 30
+  },
+  {
+    "slug": "sandeep-deorukhkar-mumbai",
+    "name": "Sandeep Deorukhkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 2,
+      "third": 1,
+      "top8": 16
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 2,
+    "matchesPlayed": 35,
+    "matchesWon": 8
+  },
+  {
+    "slug": "mohammad-ghufran-mumbai",
+    "name": "Mohammad Ghufran",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 5,
+      "second": 2,
+      "third": 1,
+      "top8": 15
+    },
+    "currentPoints": 16,
+    "currentRank": 4,
+    "titles": 0,
+    "slams": 4,
+    "matchesPlayed": 40,
+    "matchesWon": 27
+  },
+  {
+    "slug": "sangeeta-chandorkar-mumbai",
+    "name": "Sangeeta J Chandorkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 1,
+      "top8": 15
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 6,
+    "slams": 2,
+    "matchesPlayed": 32,
+    "matchesWon": 11
+  },
+  {
+    "slug": "yogesh-dhongade-mumbai",
+    "name": "Yogesh Dhongade",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 2,
+      "second": 4,
+      "third": 2,
+      "top8": 15
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 3,
+    "matchesPlayed": 33,
+    "matchesWon": 20
+  },
+  {
+    "slug": "rahim-khan-pune",
+    "name": "Rahim Khan",
+    "city": "Pune",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 2,
+      "third": 3,
+      "top8": 14
+    },
+    "currentPoints": 13,
+    "currentRank": 5,
+    "titles": 0,
+    "slams": 6,
+    "matchesPlayed": 41,
+    "matchesWon": 24
+  },
+  {
+    "slug": "rahul-solanki-mumbai",
+    "name": "Rahul Solanki",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 2,
+      "third": 1,
+      "top8": 14
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 40,
+    "matchesWon": 17
+  },
+  {
+    "slug": "siddhant-wadwalkar-mumbai",
+    "name": "Siddhant M Wadwalkar",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 2,
+      "second": 1,
+      "third": 1,
+      "top8": 14
+    },
+    "currentPoints": 1,
+    "currentRank": 16,
+    "titles": 1,
+    "slams": 3,
+    "matchesPlayed": 36,
+    "matchesWon": 14
+  },
+  {
+    "slug": "sanjay-mande-mumbai",
+    "name": "Sanjay Mande",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "top8": 13
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 0,
+    "matchesPlayed": 8,
+    "matchesWon": 2
+  },
+  {
+    "slug": "shobha-kamat-kolhapur",
+    "name": "Shobha Kamat",
+    "city": "Kolhapur",
+    "affiliation": "Kolhapur",
+    "podium": {
+      "first": 6,
+      "second": 1,
+      "third": 3,
+      "top8": 13
+    },
+    "currentPoints": 16,
+    "currentRank": 1,
+    "titles": 18,
+    "slams": 0,
+    "matchesPlayed": 13,
+    "matchesWon": 5
+  },
+  {
+    "slug": "abhishek-chavan-ratnagiri",
+    "name": "Abhishek Chavan",
+    "city": "Ratnagiri",
+    "affiliation": "Ratnagiri",
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 12
+    },
+    "currentPoints": 0,
+    "currentRank": 23,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 26,
+    "matchesWon": 12
+  },
+  {
+    "slug": "anjali-siripuram-mumbai",
+    "name": "Anjali V Siripuram",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 11
+    },
+    "currentPoints": 2,
+    "currentRank": 16,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 54,
+    "matchesWon": 15
+  },
+  {
+    "slug": "madhura-devle-thane",
+    "name": "Madhura M Devle",
+    "city": "Thane",
+    "affiliation": "Thane",
+    "podium": {
+      "first": 2,
+      "second": 4,
+      "third": 0,
+      "top8": 11
+    },
+    "currentPoints": 12,
+    "currentRank": 5,
+    "titles": 2,
+    "slams": 0,
+    "matchesPlayed": 34,
+    "matchesWon": 15
+  },
+  {
+    "slug": "mitali-pimple-mumbai",
+    "name": "Mitali Pimple",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 4,
+      "top8": 11
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anil-mundhe-pune",
+    "name": "Anil Mundhe",
+    "city": "Pune",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 2,
+      "top8": 10
+    },
+    "currentPoints": 4,
+    "currentRank": 12,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 20,
+    "matchesWon": 9
+  },
+  {
+    "slug": "prakash-gaikwad-pune",
+    "name": "Prakash Gaikwad",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 10
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": 4,
+    "matchesPlayed": 31,
+    "matchesWon": 9
+  },
+  {
+    "slug": "preeti-khedekar-mumbai",
+    "name": "Preeti Khedekar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 10
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 18,
+    "matchesWon": 6
+  },
+  {
+    "slug": "sonali-kumari-mumbai",
+    "name": "Sonali Kumari",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 3,
+      "second": 0,
+      "third": 2,
+      "top8": 10
+    },
+    "currentPoints": 6,
+    "currentRank": 11,
+    "titles": 1,
+    "slams": 4,
+    "matchesPlayed": 33,
+    "matchesWon": 21
+  },
+  {
+    "slug": "diksha-chavan-sindhudurg",
+    "name": "Diksha N Chavan",
+    "city": "Sindhudurg",
+    "affiliation": "Sindhudurg",
+    "podium": {
+      "first": 2,
+      "second": 2,
+      "third": 1,
+      "top8": 9
+    },
+    "currentPoints": 1,
+    "currentRank": 18,
+    "titles": 2,
+    "slams": 0,
+    "matchesPlayed": 17,
+    "matchesWon": 7
+  },
+  {
+    "slug": "rajesh-gohil-thane",
+    "name": "Rajesh Gohil",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 1,
+      "top8": 9
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 12,
+    "matchesWon": 5
+  },
+  {
+    "slug": "zaid-ahmed-mumbai",
+    "name": "Zaid Ahmed",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 4,
+      "third": 0,
+      "top8": 9
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nilansh-chiplunkar-mumbai",
+    "name": "Nilansh H Chiplunkar",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 8
+    },
+    "currentPoints": 5,
+    "currentRank": 10,
+    "titles": 2,
+    "slams": 2,
+    "matchesPlayed": 29,
+    "matchesWon": 11
+  },
+  {
+    "slug": "riyaz-akbarali-mumbai",
+    "name": "Riyaz Akbarali",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 2,
+      "top8": 8
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 3,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "fahim-kazi-mumbai",
+    "name": "Fahim Kazi",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 2,
+      "top8": 7
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 8,
+    "matchesWon": 6
+  },
+  {
+    "slug": "girish-tambe-mumbai",
+    "name": "Girish Tambe",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 7
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 31,
+    "matchesWon": 11
+  },
+  {
+    "slug": "shabbir-khan-mumbaisub",
+    "name": "Shabbir A Khan",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 4,
+      "second": 1,
+      "third": 0,
+      "top8": 7
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 4,
+    "slams": 0,
+    "matchesPlayed": 5,
+    "matchesWon": 0
+  },
+  {
+    "slug": "aisha-khokawala-mumbai",
+    "name": "Aisha Khokawala",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 2,
+      "second": 1,
+      "third": 1,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "madhuri-tayshete-mumbaisub",
+    "name": "Madhuri Tayshete",
+    "city": "Mumbai-Sub",
+    "affiliation": "Mumbai-Sub",
+    "podium": {
+      "first": 1,
+      "second": 4,
+      "third": 0,
+      "top8": 6
+    },
+    "currentPoints": 14,
+    "currentRank": 2,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 7,
+    "matchesWon": 3
+  },
+  {
+    "slug": "malti-kelkar-mumbai",
+    "name": "Malti Kelkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 2,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nisar-ahmed-dhule",
+    "name": "Nisar Ahmed",
+    "city": "Dhule",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rashmi-kumari-pspb",
+    "name": "Rashmi Kumari",
+    "city": "PSPB",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 2,
+      "third": 2,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rozina-godas-mumbai",
+    "name": "Rozina Godas",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 3,
+      "third": 2,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sameer-ansari-thane",
+    "name": "Sameer Ansari",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 26,
+    "matchesWon": 9
+  },
+  {
+    "slug": "simran-shinde-mumbai",
+    "name": "Simran S Shinde",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 2,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 1,
+    "matchesPlayed": 20,
+    "matchesWon": 5
+  },
+  {
+    "slug": "zaid-a-farooquie-thane",
+    "name": "Zaid A Farooquie",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 2,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "maitreyee-gogate-mumbai",
+    "name": "Maitreyee Gogate",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "maitreyee-gogate-ratnagiri",
+    "name": "Maitreyee Gogate",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mihir-shaikh-mumbai",
+    "name": "Mihir R Shaikh",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 4,
+      "second": 1,
+      "third": 0,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 6,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "minal-lelekhare-thane",
+    "name": "Minal Lele-Khare",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "prafull-more-mumbai",
+    "name": "Prafull More",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 33,
+    "matchesWon": 11
+  },
+  {
+    "slug": "sajjad-shaikh-mumbaisub",
+    "name": "Sajjad Shaikh",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 6,
+    "matchesWon": 3
+  },
+  {
+    "slug": "samidha-jadhav-mumbai",
+    "name": "Samidha Jadhav",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 18,
+    "matchesWon": 4
+  },
+  {
+    "slug": "sejal-lokhande-mumbai",
+    "name": "Sejal T Lokhande",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 2,
+      "third": 0,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 9,
+    "matchesWon": 1
+  },
+  {
+    "slug": "zaheer-pasha-rbi",
+    "name": "Zaheer Pasha",
+    "city": "RBI",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 1,
+      "top8": 5
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 4,
+    "matchesWon": 3
+  },
+  {
+    "slug": "aayush-b-garud-pune",
+    "name": "Aayush B Garud",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 2,
+      "second": 1,
+      "third": 1,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "anupama-kedar-mumbai",
+    "name": "Anupama Kedar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 7,
+    "matchesWon": 1
+  },
+  {
+    "slug": "dnyaneshwari-m-ingulkar-pune",
+    "name": "Dnyaneshwari M Ingulkar",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "fayaz-shaikh-pune",
+    "name": "Fayaz Shaikh",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 3,
+      "second": 0,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "hareshwar-betvanshi-mumbai",
+    "name": "Hareshwar Betvanshi",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 1,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 15,
+    "matchesWon": 8
+  },
+  {
+    "slug": "jonathan-bonal-palghar",
+    "name": "Jonathan R Bonal",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "k-srinivas-pspb",
+    "name": "K. Srinivas",
+    "city": "PSPB",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "madhura-devale-thane",
+    "name": "Madhura Devale",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 13,
+    "matchesWon": 6
+  },
+  {
+    "slug": "manoj-kamble-mumbai",
+    "name": "Manoj Kamble",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 9,
+    "matchesWon": 3
+  },
+  {
+    "slug": "nidhi-m-sapre-ratnagiri",
+    "name": "Nidhi M Sapre",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 2,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "omkar-r-vadar-kolhapur",
+    "name": "Omkar R Vadar",
+    "city": "Kolhapur",
+    "affiliation": null,
+    "podium": {
+      "first": 2,
+      "second": 0,
+      "third": 1,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "s-appoorwa-lic",
+    "name": "S. Appoorwa",
+    "city": "LIC",
+    "affiliation": null,
+    "podium": {
+      "first": 3,
+      "second": 0,
+      "third": 1,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "swara-s-mohire-ratnagiri",
+    "name": "Swara S Mohire",
+    "city": "Ratnagiri",
+    "affiliation": "Ratnagiri",
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": 0,
+    "currentRank": 19,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 7,
+    "matchesWon": 2
+  },
+  {
+    "slug": "abhijeet-tripankar-pune",
+    "name": "Abhijeet Tripankar",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 1
+  },
+  {
+    "slug": "aisha-mohd-sajid-jisl",
+    "name": "Aisha Mohd. Sajid",
+    "city": "JISL",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 2,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "amol-sawardekar-mumbai",
+    "name": "Amol Sawardekar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 10,
+    "matchesWon": 2
+  },
+  {
+    "slug": "ashok-gaur-mumbai",
+    "name": "Ashok Gaur",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 7,
+    "matchesWon": 1
+  },
+  {
+    "slug": "atharva-d-patil-pune",
+    "name": "Atharva D Patil",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 3,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "chaitanya-s-sabale-pune",
+    "name": "Chaitanya S Sabale",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "irshad-ahmed-vidharbha",
+    "name": "Irshad Ahmed",
+    "city": "VIDHARBHA",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "javed-shaikh-mumbaisub",
+    "name": "Javed Shaikh",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 13,
+    "matchesWon": 3
+  },
+  {
+    "slug": "kaustubh-m-jagushte-mumbai",
+    "name": "Kaustubh M Jagushte",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "manu-baria-mumbai",
+    "name": "Manu Baria",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 1,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 6,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mayuri-s-gawade-sindhudurg",
+    "name": "Mayuri S Gawade",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "minal-lele-khare-thane",
+    "name": "Minal Lele Khare",
+    "city": "Thane",
+    "affiliation": "Thane",
+    "podium": {
+      "first": 2,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": 10,
+    "currentRank": 4,
+    "titles": 2,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-yasin-shaikh-mumbaisub",
+    "name": "Mohd. Yasin Shaikh",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nisar-shaikh-dhule",
+    "name": "Nisar Shaikh",
+    "city": "Dhule",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 11,
+    "matchesWon": 2
+  },
+  {
+    "slug": "omkar-tilak-mumbai",
+    "name": "Omkar Tilak",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 17,
+    "matchesWon": 8
+  },
+  {
+    "slug": "sakhee-datar-thane",
+    "name": "Sakhee Datar",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 1,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 3,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "sanjay-maniyar-mumbaisub",
+    "name": "Sanjay Maniyar",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 11,
+    "matchesWon": 4
+  },
+  {
+    "slug": "satyanarayan-dontull-mumbai",
+    "name": "Satyanarayan Dontull",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 2,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 7,
+    "matchesWon": 3
+  },
+  {
+    "slug": "saurabh-mate-mumbai",
+    "name": "Saurabh Mate",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": 10,
+    "currentRank": 7,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 14,
+    "matchesWon": 3
+  },
+  {
+    "slug": "shaheed-hilmy-sri-lanka",
+    "name": "Shaheed Hilmy",
+    "city": "Sri Lanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "shilpa-palnitkar-mumbai",
+    "name": "Shilpa palnitkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 3,
+    "slams": 0,
+    "matchesPlayed": 4,
+    "matchesWon": 0
+  },
+  {
+    "slug": "shravani-n-tambe-pune",
+    "name": "Shravani N Tambe",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shruti-velekar-pune",
+    "name": "Shruti S Velekar",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "sneha-more-mumbai",
+    "name": "Sneha More",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aarya-ghanekar-thane",
+    "name": "Aarya Ghanekar",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "abhikshek-chavan-ratnagiri",
+    "name": "Abhikshek Chavan",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aisha-mohd-mumbai",
+    "name": "Aisha Mohd.",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 2,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aisha-sajid-khokawala-mumbai",
+    "name": "Aisha Sajid Khokawala",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 2,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "amulya-ghadi-sindhudurg",
+    "name": "Amulya A Ghadi",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anita-kanojiya-raigad",
+    "name": "Anita Kanojiya",
+    "city": "Raigad",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 22,
+    "matchesWon": 4
+  },
+  {
+    "slug": "arpit-bandekar-sindhudurg",
+    "name": "Arpit G Bandekar",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "arya-ghanekar-thane",
+    "name": "Arya A Ghanekar",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aslam-chitkey-maharashtra",
+    "name": "Aslam Chitkey",
+    "city": "Maharashtra",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dattaram-vasave-ratnagiri",
+    "name": "Dattaram Vasave",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 2,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dharmy-v-shukla-mumbai-suburban",
+    "name": "Dharmy V Shukla",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "divya-rane-sindhudurg",
+    "name": "Divya D Rane",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 2,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dron-m-hajare-ratnagiri",
+    "name": "Dron M Hajare",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "durgeshwari-y-dhongade-jalgaon",
+    "name": "Durgeshwari Y Dhongade",
+    "city": "Jalgaon",
+    "affiliation": null,
+    "podium": {
+      "first": 2,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "geeta-devi-bsnl",
+    "name": "Geeta Devi",
+    "city": "BSNL",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "hemant-panchal-mumbai",
+    "name": "Hemant Panchal",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": 10,
+    "currentRank": 4,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 4,
+    "matchesWon": 1
+  },
+  {
+    "slug": "ishwari-patil-kolhapur",
+    "name": "Ishwari Patil",
+    "city": "Kolhapur",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "janhavi-more-mumbai",
+    "name": "Janhavi More",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "kunal-raut-mumbai",
+    "name": "Kunal Raut",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 19,
+    "matchesWon": 4
+  },
+  {
+    "slug": "mamta-kumari-mumbai",
+    "name": "Mamta Kumari",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": 1,
+    "currentRank": 17,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 17,
+    "matchesWon": 3
+  },
+  {
+    "slug": "manali-lingayat-ratnagiri",
+    "name": "Manali Lingayat",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "manoharlal-gupta-assam",
+    "name": "Manoharlal Gupta",
+    "city": "Assam",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "medha-mathakari-pune",
+    "name": "Medha Mathakari",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "medha-mathkari-pune",
+    "name": "Medha Mathkari",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 19,
+    "matchesWon": 6
+  },
+  {
+    "slug": "medha-matkari-pune",
+    "name": "Medha Matkari",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "mitali-pimple-palghar",
+    "name": "Mitali Pimple",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 2,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "naeem-ansari-jalgaon",
+    "name": "Naeem Ansari",
+    "city": "Jalgaon",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 8,
+    "matchesWon": 4
+  },
+  {
+    "slug": "naga-jyothi-pspb",
+    "name": "Naga Jyothi",
+    "city": "PSPB",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nancy-sequera-mumbaisub",
+    "name": "Nancy Sequera",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "neeil-v-mhatre-thane",
+    "name": "Neeil V Mhatre",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "niraj-g-kamble-mumbai",
+    "name": "Niraj G Kamble",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": 1,
+    "currentRank": 18,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "om-d-parkar-ratnagiri",
+    "name": "Om D Parkar",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "poorva-d-ketkar-sindhudurg",
+    "name": "Poorva D Ketkar",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "prasad-s-mane-thane",
+    "name": "Prasad S Mane",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "radhika-joshi-thane",
+    "name": "Radhika Joshi",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "riyaz-akbar-ali-ratnagiri",
+    "name": "Riyaz Akbar Ali",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "riyaz-akbara-ali-ratnagiri",
+    "name": "Riyaz Akbara Ali",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rozina-godad-mumbai",
+    "name": "Rozina Godad",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 2,
+      "top8": 2
+    },
+    "currentPoints": 12,
+    "currentRank": 3,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 8,
+    "matchesWon": 2
+  },
+  {
+    "slug": "ruchi-m-machiwale-mumbai",
+    "name": "Ruchi M Machiwale",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "saarth-more-mumbai",
+    "name": "Saarth More",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sanjay-mande-thane",
+    "name": "Sanjay Mande",
+    "city": "Thane",
+    "affiliation": "Thane",
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": 1,
+    "currentRank": 16,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 44,
+    "matchesWon": 15
+  },
+  {
+    "slug": "sanjay-thite-pune",
+    "name": "Sanjay Thite",
+    "city": "Pune",
+    "affiliation": "Pune",
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": 16,
+    "currentRank": 1,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 3,
+    "matchesWon": 1
+  },
+  {
+    "slug": "sarthak-s-nagaonkar-mumbai",
+    "name": "Sarthak S Nagaonkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shaikh-mohd-raza-sk-rafique-mumbai",
+    "name": "Shaikh Mohd Raza Sk Rafique",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 2,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shreeshan-h-palwankar-palghar",
+    "name": "Shreeshan H Palwankar",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "susan-v-basimalla-mumbai",
+    "name": "Susan V Basimalla",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "susan-victor-paul-basimalla-mumbai",
+    "name": "Susan Victor Paul Basimalla",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tanaya-d-patil-pune",
+    "name": "Tanaya D Patil",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "tuba-sehar-chandigarh",
+    "name": "Tuba Sehar",
+    "city": "Chandigarh",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "vaibhavi-shewale-mumbai",
+    "name": "Vaibhavi Shewale",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 7,
+    "matchesWon": 0
+  },
+  {
+    "slug": "ved-m-brahme-pune",
+    "name": "Ved M Brahme",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "vedant-d-rane-mumbai-suburban",
+    "name": "Vedant D Rane",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 1,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "vishwanath-deorukhkar-mumbaisub",
+    "name": "Vishwanath Deorukhkar",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 9,
+    "matchesWon": 2
+  },
+  {
+    "slug": "a-surendra-babu-tamilnadu",
+    "name": "A. Surendra Babu",
+    "city": "Tamilnadu",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aakansha-kadam-ratnagiri",
+    "name": "Aakansha Kadam",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aarvi-s-shelar-pune",
+    "name": "Aarvi S Shelar",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "abdul-rahman-uttarpradesh",
+    "name": "Abdul Rahman",
+    "city": "Uttarpradesh",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "abdul-sattar-thane",
+    "name": "Abdul Sattar",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "abhijit-chavan-ratnagiri",
+    "name": "Abhijit Chavan",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "abhjijit-tripankar-pune",
+    "name": "Abhjijit Tripankar",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "abmed-ali-sayyed-mumbaisub",
+    "name": "Abmed Ali Sayyed",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "adil-shaikh-mumbai",
+    "name": "Adil Shaikh",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "afzal-khan-thane",
+    "name": "Afzal Khan",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "ahmad-ali-sayyed-mumbaisub",
+    "name": "Ahmad Ali Sayyed",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ahmed-ali-sayyed-mumbaisub",
+    "name": "Ahmed Ali Sayyed",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aisha-mohd-sajid-mumbai",
+    "name": "Aisha Mohd. Sajid",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aisha-sajid-india",
+    "name": "Aisha Sajid",
+    "city": "India",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ambika-harith-youngsters",
+    "name": "Ambika Harith (Youngsters))",
+    "city": null,
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ambika-herath-pspb",
+    "name": "Ambika Herath",
+    "city": "PSPB",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aminath-vidhhadh-maldives",
+    "name": "Aminath Vidhhadh",
+    "city": "Maldives",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anant-j-jain-thane",
+    "name": "Anant J Jain",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anita-anita-mumbaisub",
+    "name": "Anita Anita",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anjali-sirupuram-mumbai",
+    "name": "Anjali Sirupuram",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anjani-b-rodhiyal-palghar",
+    "name": "Anjani B Rodhiyal",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ansh-jadhav-mumbai",
+    "name": "Ansh Jadhav",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anushka-surve-thane",
+    "name": "Anushka Surve",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "anwar-shaikh-pune",
+    "name": "Anwar Shaikh",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "apoorva-nachankar-ratnagiri",
+    "name": "Apoorva Nachankar",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "arnav-a-salvi-palghar",
+    "name": "Arnav A Salvi",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "arundhati-tavkar-mumbai-sub",
+    "name": "Arundhati Tavkar",
+    "city": "Mumbai - Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aryan-raut-ratnagiri",
+    "name": "Aryan Raut",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ashit-dongare-raigad",
+    "name": "Ashit Dongare",
+    "city": "Raigad",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ashmit-bhakta-palghar",
+    "name": "Ashmit Bhakta",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aslam-chitake-thane",
+    "name": "Aslam Chitake",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "aslam-chitkey-thane",
+    "name": "Aslam Chitkey",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "atharva-mhatre-thane",
+    "name": "Atharva Mhatre",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "atharva-patil-mumbai",
+    "name": "Atharva Patil",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "atharva-telangi-pune",
+    "name": "Atharva Telangi",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "avni-parab-thane",
+    "name": "Avni Parab",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ayaan-peerzade-nasik",
+    "name": "Ayaan Peerzade",
+    "city": "Nasik",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ayushi-j-jain-thane",
+    "name": "Ayushi J Jain",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "babulal-shrimal-mumbai",
+    "name": "Babulal Shrimal",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 1
+  },
+  {
+    "slug": "balasaheb-kanukale-mumbai",
+    "name": "Balasaheb Kanukale",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "bhavya-solanki-palghar",
+    "name": "Bhavya Solanki",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "bhumi-b-ludbe-palghar",
+    "name": "Bhumi B Ludbe",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "bhumi-lubde-palghar",
+    "name": "Bhumi Lubde",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "bipin-pandye-palghar",
+    "name": "Bipin Pandye",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "chaitai-suvare-thane",
+    "name": "Chaitai Suvare",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "chaital-suvare-thane",
+    "name": "Chaital Suvare",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "chaitali-surave-thane",
+    "name": "Chaitali Surave",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "chand-y-shaikh-maharashtra",
+    "name": "Chand Y Shaikh",
+    "city": "Maharashtra",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "chinmay-p-sonawane-palghar",
+    "name": "Chinmay P Sonawane",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "debajani-tamuly-dascb",
+    "name": "Debajani Tamuly",
+    "city": "DASCB",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "deepak-s-velekar-pune",
+    "name": "Deepak S Velekar",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "devika-p-joshi-thane",
+    "name": "Devika P Joshi",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "devraj-r-kathade-palghar",
+    "name": "Devraj R Kathade",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "devshi-koli-mumbai",
+    "name": "Devshi Koli",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dhriti-d-ruparel-mumbai-suburban",
+    "name": "Dhriti D Ruparel",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dhruv-s-bhalerao-mumbai",
+    "name": "Dhruv S Bhalerao",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "diksha-naik-palghar",
+    "name": "Diksha Naik",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dinesh-kedar-mumbai",
+    "name": "Dinesh Kedar",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": 3,
+    "currentRank": 13,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 7,
+    "matchesWon": 1
+  },
+  {
+    "slug": "divya-r-patil-dhule",
+    "name": "Divya R Patil",
+    "city": "Dhule",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dnyaneshwari-dhongade-jalgaon",
+    "name": "Dnyaneshwari Dhongade",
+    "city": "Jalgaon",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dushyant-gupta-mumbaisub",
+    "name": "Dushyant Gupta",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "dushyant-p-gupta-mumbai-suburban",
+    "name": "Dushyant P Gupta",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "faaiz-s-ansari-dhule",
+    "name": "Faaiz S Ansari",
+    "city": "Dhule",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "fayyaz-shaikh-pune",
+    "name": "Fayyaz Shaikh",
+    "city": "Pune",
+    "affiliation": "Pune",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": 12,
+    "currentRank": 3,
+    "titles": 3,
+    "slams": 0,
+    "matchesPlayed": 9,
+    "matchesWon": 8
+  },
+  {
+    "slug": "gauri-a-pethe-thane",
+    "name": "Gauri A Pethe",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "gauri-d-sawant-mumbai",
+    "name": "Gauri D Sawant",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "giridhar-bhoj-mumbai",
+    "name": "Giridhar Bhoj",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 3,
+    "matchesWon": 1
+  },
+  {
+    "slug": "greeshma-m-dhamankar-mumbai",
+    "name": "Greeshma M Dhamankar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "harshita-bhati-mumbaisub",
+    "name": "Harshita Bhati",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "harshvardhan-s-khade-pune",
+    "name": "Harshvardhan S Khade",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "hasnain-shaikh-mumbaisub",
+    "name": "Hasnain Shaikh",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "hirushi-malshani-sri-lanka",
+    "name": "Hirushi Malshani",
+    "city": "Sri Lanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 3,
+    "matchesWon": 2
+  },
+  {
+    "slug": "irfan-bijapur-pune",
+    "name": "Irfan Bijapur",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ismail-azmeen-maldives",
+    "name": "Ismail Azmeen",
+    "city": "Maldives",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "jalal-mulla-satara",
+    "name": "Jalal Mulla",
+    "city": "Satara",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "jaymala-parab-mumbaisub",
+    "name": "Jaymala Parab",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 4,
+    "matchesWon": 0
+  },
+  {
+    "slug": "jisha-s-asaldekar-mumbai-suburban",
+    "name": "Jisha S Asaldekar",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "jitendra-kale-mumbai",
+    "name": "Jitendra Kale",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "jitesh-kadam-mumbaisub",
+    "name": "Jitesh Kadam",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 5,
+    "matchesWon": 1
+  },
+  {
+    "slug": "jiya-patel-palghar",
+    "name": "Jiya Patel",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "joseph-roshita-srilanka",
+    "name": "Joseph Roshita",
+    "city": "Srilanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 1
+  },
+  {
+    "slug": "joshita-roshita-sri-lanka",
+    "name": "Joshita Roshita",
+    "city": "Sri Lanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "jugal-kishor-datta-assam",
+    "name": "Jugal Kishor Datta",
+    "city": "Assam",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "k-nagajyothi-india",
+    "name": "K. Nagajyothi",
+    "city": "India",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "k-ramesh-babu-pspb",
+    "name": "K. Ramesh Babu",
+    "city": "PSPB",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "kalpesh-nalawade-mumbaisub",
+    "name": "Kalpesh Nalawade",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "kausthub-jagusthe-mumbai",
+    "name": "Kausthub Jagusthe",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "kavita-somanchi-rbi",
+    "name": "Kavita Somanchi",
+    "city": "RBI",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "kesha-nirgun-sindhudurg",
+    "name": "Kesha Nirgun",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "keshar-nirgur-sindhudurg",
+    "name": "Keshar Nirgur",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ketki-u-mundlye-thane",
+    "name": "Ketki U Mundlye",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "khooshbu-rani-bihar",
+    "name": "Khooshbu Rani",
+    "city": "Bihar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "kiran-dhende-pune",
+    "name": "Kiran Dhende",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "krishna-waghmare-mumbai",
+    "name": "Krishna Waghmare",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 4,
+    "matchesWon": 1
+  },
+  {
+    "slug": "kunal-rahut-mumbai",
+    "name": "Kunal Rahut",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "m-natraj-air-india",
+    "name": "M. Natraj",
+    "city": "Air India",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "m-parimala-devi-pspb",
+    "name": "M. Parimala Devi",
+    "city": "PSPb",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "madhuri-tayshette-mumbaisub",
+    "name": "Madhuri Tayshette",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "maduka-dilshani-srilanka",
+    "name": "Maduka Dilshani",
+    "city": "Srilanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "maitreyee-gogate-ratnagri",
+    "name": "Maitreyee Gogate",
+    "city": "Ratnagri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "maitreyee-gogate-ragnagiri",
+    "name": "Maitreyee Gogate",
+    "city": "Ragnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mansi-kadam-mumbai",
+    "name": "Mansi Kadam",
+    "city": "Mumbai",
+    "affiliation": "Thane",
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": 0,
+    "currentRank": 19,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "mansi-shinde-mumbai",
+    "name": "Mansi Shinde",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "mantasha-iqbal-aai",
+    "name": "Mantasha Iqbal",
+    "city": "AAI",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "meera-m-apte-sindhudurg",
+    "name": "Meera M Apte",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mitali-mahadik-palghar",
+    "name": "Mitali Mahadik",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mitra-v-tamilnadu",
+    "name": "Mitra V",
+    "city": "Tamilnadu",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mnawar-abas-mumbaisub",
+    "name": "Mnawar Abas",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohammad-hasnain-arshad-shaikh-mumbaisub",
+    "name": "Mohammad Hasnain Arshad Shaikh",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohammad-sheikh-kolhapur",
+    "name": "Mohammad Sheikh",
+    "city": "Kolhapur",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohammad-zaid-dhule",
+    "name": "Mohammad Zaid",
+    "city": "Dhule",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-arif-uttar-pradesh",
+    "name": "Mohd. Arif",
+    "city": "Uttar Pradesh",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-hamaet-mulla-bangladesh",
+    "name": "Mohd. Hamaet Mulla",
+    "city": "Bangladesh",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-hasnain-arshad-shaikh-mumbai-suburban",
+    "name": "Mohd. Hasnain Arshad Shaikh",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-oves-ansari-thane",
+    "name": "Mohd. Oves Ansari",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-shaikh-mumbai",
+    "name": "Mohd. Shaikh",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mohd-wajid-pasha-nanded",
+    "name": "Mohd. Wajid Pasha",
+    "city": "Nanded",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "mrunali-d-surve-mumbai",
+    "name": "Mrunali D Surve",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "mugaja-juvekar-ratnagiri",
+    "name": "Mugaja Juvekar",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 4,
+    "matchesWon": 1
+  },
+  {
+    "slug": "mukesh-sharma-mumbaisub",
+    "name": "Mukesh Sharma",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "munawar-syed-mumbai-sub",
+    "name": "Munawar Syed",
+    "city": "Mumbai Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nandakumar-mhatre-mumbaisub",
+    "name": "Nandakumar Mhatre",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "neha-kumari-mumbai",
+    "name": "Neha Kumari",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 6,
+    "matchesWon": 0
+  },
+  {
+    "slug": "nency-sequera-nabard",
+    "name": "Nency Sequera",
+    "city": "NABARD",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "netra-s-panthagani-mumbai",
+    "name": "Netra S Panthagani",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nilam-ghodade-mumbai",
+    "name": "Nilam Ghodade",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nilam-ghodke-jisl",
+    "name": "Nilam Ghodke",
+    "city": "JISL",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nilam-godake-mumbai",
+    "name": "Nilam Godake",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "nishantha-fernando-srilanka",
+    "name": "Nishantha Fernando",
+    "city": "Srilanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ojas-jadhav-mumbai",
+    "name": "Ojas Jadhav",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "omkar-r-netke-mumbai",
+    "name": "Omkar R Netke",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 12,
+    "matchesWon": 3
+  },
+  {
+    "slug": "p-nirmala-pspb",
+    "name": "P. Nirmala",
+    "city": "PSPB",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 4,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "piyush-pawar-palghar",
+    "name": "Piyush Pawar",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "pradeep-satam-thane",
+    "name": "Pradeep Satam",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "prafulla-more-mumbai",
+    "name": "Prafulla More",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "pranav-p-gaikwad-pune",
+    "name": "Pranav P Gaikwad",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "pranita-ayre-sindhudurg",
+    "name": "Pranita Ayre",
+    "city": "Sindhudurg",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "prasanna-s-gole-mumbai-suburban",
+    "name": "Prasanna S Gole",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "pratap-kedar-mumbai",
+    "name": "Pratap Kedar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "preeti-jakhotia-usa",
+    "name": "Preeti Jakhotia",
+    "city": "USA",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 1
+  },
+  {
+    "slug": "prshant-more-mumbai",
+    "name": "Prshant More",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rahul-m-patil-mumbai",
+    "name": "Rahul M Patil",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rajesh-ghohil-thane",
+    "name": "Rajesh Ghohil",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ravi-waghmare-rbi",
+    "name": "Ravi Waghmare",
+    "city": "RBI",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "rebeca-dalrine-srilanka",
+    "name": "Rebeca Dalrine",
+    "city": "Srilanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "richi-machiwale-mumbai",
+    "name": "Richi Machiwale",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rincky-kumari-mumbai",
+    "name": "Rincky Kumari",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ritikesh-walmiki-mumbai",
+    "name": "Ritikesh Walmiki",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "riyaz-akbarali-ratnagiri",
+    "name": "Riyaz Akbarali",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rizwan-shaikh-mumbaisub",
+    "name": "Rizwan Shaikh",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 9,
+    "matchesWon": 2
+  },
+  {
+    "slug": "rohit-chaugule-kolhapur",
+    "name": "Rohit Chaugule",
+    "city": "Kolhapur",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rudra-a-gaware-mumbai",
+    "name": "Rudra A Gaware",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rudra-m-ingale-pune",
+    "name": "Rudra M Ingale",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "rushikesh-r-tambe-pune",
+    "name": "Rushikesh R Tambe",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "s-ilavhazaki-pspb",
+    "name": "S. Ilavhazaki",
+    "city": "PSPb",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sagar-wathmare-pune",
+    "name": "Sagar Wathmare",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sakshi-habiwant-pune",
+    "name": "Sakshi Habiwant",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "salman-khan-mumbai",
+    "name": "Salman Khan",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0
+  },
+  {
+    "slug": "samarth-p-khandelwal-thane",
+    "name": "Samarth P Khandelwal",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sameer-ansarai-thane",
+    "name": "Sameer Ansarai",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "samruddhi-ghadigaonksr-thane",
+    "name": "Samruddhi Ghadigaonksr",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "samruddhi-s-chavan-mumbai",
+    "name": "Samruddhi S Chavan",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "samrudhi-ghadigaonkar-thane",
+    "name": "Samrudhi Ghadigaonkar",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sanchita-mohite-thane",
+    "name": "Sanchita Mohite",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sandesh-adsul-mumbai",
+    "name": "Sandesh Adsul",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "sara-s-devan-thane",
+    "name": "Sara S Devan",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sarthak-kerkar-mumbaisub",
+    "name": "Sarthak Kerkar",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "satish-sirsat-mumbai",
+    "name": "Satish Sirsat",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "satyanarayan-dontul-mumbai",
+    "name": "Satyanarayan Dontul",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sayyad-hassan-maharashtra",
+    "name": "Sayyad Hassan",
+    "city": "Maharashtra",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sayyed-mohsin-jalgaon",
+    "name": "Sayyed Mohsin",
+    "city": "Jalgaon",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shaikh-rahman-mumbai",
+    "name": "Shaikh Rahman",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shantilal-jitiya-mumbai",
+    "name": "Shantilal Jitiya",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 4,
+    "matchesWon": 3
+  },
+  {
+    "slug": "sharad-more-mumbaisub",
+    "name": "Sharad More",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 5,
+    "matchesWon": 2
+  },
+  {
+    "slug": "shivansh-u-more-thane",
+    "name": "Shivansh U More",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shravani-pandit-mumbaisub",
+    "name": "Shravani Pandit",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shreyas-s-lokhande-thane",
+    "name": "Shreyas S Lokhande",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "shubhada-nagaonkar-rbi",
+    "name": "Shubhada Nagaonkar",
+    "city": "RBI",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "siddhant-wadwadkar-youngster",
+    "name": "Siddhant Wadwadkar",
+    "city": "Youngster",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "simdran-jadhav-mumbai",
+    "name": "Simdran Jadhav",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "sneha-more-mumbaisub",
+    "name": "Sneha More",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "subadha-nagaonkar-mumbai",
+    "name": "Subadha Nagaonkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "swapnil-golatkar-mumbai",
+    "name": "Swapnil Golatkar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "swara-m-kadam-ratnagiri",
+    "name": "Swara M Kadam",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "tanishq-s-gaware-mumbai",
+    "name": "Tanishq S Gaware",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tanmay-d-khatu-ratnagiri",
+    "name": "Tanmay D Khatu",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tanmay-mahadik-palghar",
+    "name": "Tanmay Mahadik",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tanmya-khatu-ratnagiri",
+    "name": "Tanmya Khatu",
+    "city": "Ratnagiri",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tanveer-j-shaikh-mumbai",
+    "name": "Tanveer J Shaikh",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tharushi-himansika-sri-lanka",
+    "name": "Tharushi Himansika",
+    "city": "Sri Lanka",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0
+  },
+  {
+    "slug": "tuba-shehar-chandigadh",
+    "name": "Tuba Shehar",
+    "city": "Chandigadh",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "tvisha-s-baranwala-pune",
+    "name": "Tvisha S Baranwala",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "ubed-i-shaikh-pune",
+    "name": "Ubed I Shaikh",
+    "city": "Pune",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "umair-f-pathan-mumbai-suburban",
+    "name": "Umair F Pathan",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "umer-shaikh-mumbai",
+    "name": "Umer Shaikh",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "urmila-shendage-mumbai",
+    "name": "Urmila Shendage",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "urmila-shnendge-rbi",
+    "name": "Urmila Shnendge",
+    "city": "RBI",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "vedika-s-pomendkar-mumbai-suburban",
+    "name": "Vedika S Pomendkar",
+    "city": "Mumbai Suburban",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 1,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "veena-s-wagh-palghar",
+    "name": "Veena S Wagh",
+    "city": "Palghar",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "vihaan-v-dalvi-mumbai",
+    "name": "Vihaan V Dalvi",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "vivek-kamble-mumbaisub",
+    "name": "Vivek Kamble",
+    "city": "Mumbai-Sub",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 0,
+    "matchesPlayed": 5,
+    "matchesWon": 1
+  },
+  {
+    "slug": "zaid-ahmed-thane",
+    "name": "Zaid Ahmed",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
+    "slug": "zaid-farooqui-thane",
+    "name": "Zaid Farooqui",
+    "city": "Thane",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": 20,
+    "currentRank": 2,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 12,
+    "matchesWon": 9
+  },
+  {
+    "slug": "zaie-farooqui-thane",
+    "name": "Zaie Farooqui",
+    "city": "Thane",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  }
+]

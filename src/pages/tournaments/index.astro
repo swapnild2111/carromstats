@@ -1,0 +1,54 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getTournamentIndex } from '~/lib/data';
+
+const all = getTournamentIndex();
+const bySeason = new Map<string, typeof all>();
+for (const t of all) {
+  const s = t.season || 'unknown';
+  if (!bySeason.has(s)) bySeason.set(s, []);
+  bySeason.get(s)!.push(t);
+}
+const seasons = [...bySeason.keys()].sort((a, b) => b.localeCompare(a));
+---
+<Base title="Tournaments" active="tournaments">
+  <div class="section-heading">
+    <h1>Tournaments</h1>
+    <p class="section-desc">{all.length} tournaments across {seasons.length} seasons.</p>
+  </div>
+
+  {all.length === 0 ? (
+    <p class="empty">No tournaments scraped yet. Run <code>npm run refresh</code>.</p>
+  ) : (
+    seasons.map(season => (
+      <section class="page-section">
+        <div class="section-heading">
+          <h2>Season {season}</h2>
+        </div>
+        <div class="table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Tournament</th>
+                <th class="num">Categories</th>
+              </tr>
+            </thead>
+            <tbody>
+              {bySeason.get(season)!
+                .sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
+                .map(t => (
+                <tr>
+                  <td class="mono muted small">{t.date ?? '—'}</td>
+                  <td><a href={url(`/tournaments/${t.slug}`)}>{t.title}</a></td>
+                  <td class="num muted-num">{t.categories.length}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))
+  )}
+</Base>

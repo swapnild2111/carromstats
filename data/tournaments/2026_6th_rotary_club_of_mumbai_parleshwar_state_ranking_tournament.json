@@ -1,0 +1,104 @@
+{
+  "slug": "2026_6th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament",
+  "pagePath": "2026_6th_rotary_club_of_mumbai_parleshwar_state_ranking_tournament.php",
+  "title": "6th Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2026-27",
+  "urlYear": 2026,
+  "season": "2026-27",
+  "date": "2026-04-03",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Mande",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Sajjad Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 6,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Krishna Waghmare",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

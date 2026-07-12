@@ -1,0 +1,128 @@
+{
+  "slug": "arpit-bandekar-sindhudurg",
+  "name": "Arpit G Bandekar",
+  "aliases": [
+    "Arpit Bandekar",
+    "Arpit G Bandekar"
+  ],
+  "cities": [
+    "Sindhudurg"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2023_57th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Junior State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "afzal-khan-thane",
+      "name": "Afzal Khan",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "ashmit-bhakta-palghar",
+      "name": "Ashmit Bhakta",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "atharva-telangi-pune",
+      "name": "Atharva Telangi",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "deepak-s-velekar-pune",
+      "name": "Deepak S Velekar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dushyant-gupta-mumbaisub",
+      "name": "Dushyant Gupta",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mihir-shaikh-mumbai",
+      "name": "Mihir Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "niraj-g-kamble-mumbai",
+      "name": "Niraj Kamble",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "saarth-more-mumbai",
+      "name": "Saarth More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sarthak-s-nagaonkar-mumbai",
+      "name": "Sarthak S Nagaonkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "tanmya-khatu-ratnagiri",
+      "name": "Tanmya Khatu",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

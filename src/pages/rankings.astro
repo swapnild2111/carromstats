@@ -1,0 +1,88 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import fs from 'node:fs';
+import path from 'node:path';
+
+interface PointsRow {
+  rank: number;
+  name: string;
+  affiliation: string | null;
+  perTournament: (number | null)[];
+  total: number;
+}
+interface PointsCategory {
+  key: string;
+  label: string;
+  tournamentHeaders: string[];
+  rows: PointsRow[];
+}
+interface PointsSnapshot {
+  fetchedAt: string;
+  asOf: string | null;
+  categories: PointsCategory[];
+}
+
+const POINTS_PATH = path.join(process.cwd(), 'data', 'points', 'current.json');
+let snapshot: PointsSnapshot | null = null;
+if (fs.existsSync(POINTS_PATH)) {
+  snapshot = JSON.parse(fs.readFileSync(POINTS_PATH, 'utf-8')) as PointsSnapshot;
+}
+---
+<Base title="Rankings" active="rankings">
+  <div class="section-heading">
+    <h1>Current rankings</h1>
+    <p class="section-desc">
+      Mirror of the MCA state-ranking points table — Men, Women, and Veteran categories.
+    </p>
+  </div>
+
+  {snapshot === null ? (
+    <div class="empty">
+      <p><strong>Rankings not scraped yet.</strong></p>
+      <p class="small muted">
+        The points-table scraper lands in Phase 3. Until then this page is a placeholder so the
+        URL isn't a 404. Career achievements are on <a href={url('/leaderboards')}>Leaderboards</a>
+        and each player profile.
+      </p>
+    </div>
+  ) : (
+    <>
+      <p class="muted small">As of {snapshot.asOf ?? snapshot.fetchedAt}</p>
+      {snapshot.categories.map(cat => (
+        <section class="page-section">
+          <div class="section-heading">
+            <h2>{cat.label}</h2>
+          </div>
+          <div class="table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>Player</th>
+                  {cat.tournamentHeaders.map(h => <th class="num">{h}</th>)}
+                  <th class="num">Total</th>
+                </tr>
+              </thead>
+              <tbody>
+                {cat.rows.map(r => (
+                  <tr>
+                    <td>
+                      <span class:list={['rank-badge', r.rank <= 3 && `rank-${r.rank}`]}>{r.rank}</span>
+                    </td>
+                    <td>
+                      {r.name}
+                      {r.affiliation && <><br /><span class="muted small">{r.affiliation}</span></>}
+                    </td>
+                    {r.perTournament.map(v => <td class="num muted-num">{v ?? '—'}</td>)}
+                    <td class="num">{r.total}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      ))}
+    </>
+  )}
+</Base>

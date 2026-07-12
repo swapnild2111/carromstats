@@ -1,0 +1,94 @@
+{
+  "slug": "ravi-waghmare-rbi",
+  "name": "Ravi Waghmare",
+  "aliases": [
+    "Ravi Waghmare"
+  ],
+  "cities": [
+    "RBI"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 2,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_all_india_public_sector_carrom_tournament",
+      "tournamentTitle": "ALL INDIA PUBLIC SECTOR SPORTS PROMOTION BOARD INTER UNIT CARROM TOURNAMENT 2019",
+      "season": "2018-19",
+      "date": "2019-06-03",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "ashok-gaur-mumbai",
+      "name": "Ashok Gaur",
+      "city": "ONGC",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "m-natraj-air-india",
+      "name": "M. Natraj",
+      "city": "Air India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "RBI",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "riyaz-akbarali-ratnagiri",
+      "name": "Riyaz Akbarali",
+      "city": "Air India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sandeep-deorukhkar-mumbai",
+      "name": "Sandeep Deorukhkar",
+      "city": "ONGC",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Air India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-ahmed-thane",
+      "name": "Zaid Ahmed",
+      "city": "Air India",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "afzal-khan-thane",
+  "name": "Afzal Khan",
+  "aliases": [
+    "Afzal Khan"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 1,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "arpit-bandekar-sindhudurg",
+      "name": "Arpit Bandekar",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ashmit-bhakta-palghar",
+      "name": "Ashmit Bhakta",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "atharva-telangi-pune",
+      "name": "Atharva Telangi",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dushyant-gupta-mumbaisub",
+      "name": "Dushyant Gupta",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mihir-shaikh-mumbai",
+      "name": "Mihir Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "saarth-more-mumbai",
+      "name": "Saarth More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "tanmya-khatu-ratnagiri",
+      "name": "Tanmya Khatu",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

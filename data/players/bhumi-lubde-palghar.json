@@ -1,0 +1,62 @@
+{
+  "slug": "bhumi-lubde-palghar",
+  "name": "Bhumi Lubde",
+  "aliases": [
+    "Bhumi Lubde"
+  ],
+  "cities": [
+    "Palghar"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_58th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Junior State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": null,
+      "categoryKey": "youth_girls",
+      "categoryLabel": "Youth Girls",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar R Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sakhee-datar-thane",
+      "name": "Sakhee Datar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shravani-n-tambe-pune",
+      "name": "Shravani Tambe",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

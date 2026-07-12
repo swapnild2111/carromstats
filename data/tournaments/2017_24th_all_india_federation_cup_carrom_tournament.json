@@ -1,0 +1,104 @@
+{
+  "slug": "2017_24th_all_india_federation_cup_carrom_tournament",
+  "pagePath": "2017_24th_all_india_federation_cup_carrom_tournament.php",
+  "title": "24th ALL INDIA CARROM FEDERATION CUP CARROM TOURNAMENT 2017-18",
+  "urlYear": 2017,
+  "season": "2017-18",
+  "date": "2018-01-02",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "PSPB"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "RBI"
+        },
+        {
+          "position": 3,
+          "name": "Riyaz Akbarali",
+          "city": "Air India"
+        },
+        {
+          "position": 4,
+          "name": "Rahim Khan",
+          "city": "JISL"
+        },
+        {
+          "position": 5,
+          "name": "Sandeep Deorukhkar",
+          "city": "PSPB"
+        },
+        {
+          "position": 6,
+          "name": "K. Ramesh Babu",
+          "city": "PSPB"
+        },
+        {
+          "position": 7,
+          "name": "K. Srinivas",
+          "city": "PSPB"
+        },
+        {
+          "position": 8,
+          "name": "Vikas Dharia",
+          "city": "Maharashtra"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "PSPB"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Mohd. Sajid",
+          "city": "JISL"
+        },
+        {
+          "position": 3,
+          "name": "Rashmi Kumari",
+          "city": "PSPB"
+        },
+        {
+          "position": 4,
+          "name": "M. Parimala Devi",
+          "city": "PSPb"
+        },
+        {
+          "position": 5,
+          "name": "Ambika Herath",
+          "city": "PSPB"
+        },
+        {
+          "position": 6,
+          "name": "Tuba Shehar",
+          "city": "Chandigadh"
+        },
+        {
+          "position": 7,
+          "name": "Geeta Devi",
+          "city": "BSNL"
+        },
+        {
+          "position": 8,
+          "name": "S. Ilavhazaki",
+          "city": "PSPb"
+        }
+      ]
+    }
+  ]
+}

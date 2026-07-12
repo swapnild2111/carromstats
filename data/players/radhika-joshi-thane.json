@@ -1,0 +1,160 @@
+{
+  "slug": "radhika-joshi-thane",
+  "name": "Radhika Joshi",
+  "aliases": [
+    "Radhika Joshi"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [
+    {
+      "scope": "state",
+      "categoryKey": "sub_junior_girls",
+      "categoryLabel": "Sub-Junior Girls",
+      "years": [
+        2012
+      ]
+    }
+  ],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_7th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+      "tournamentTitle": "7th MANDPESHWAR CIVIC FEDERATION STATE RANKING CARROM TOURNAMENT 2022-23",
+      "season": "2022-23",
+      "date": "2022-05-14",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2019_3rd_mulund_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Mulund Gymkhana State Ranking Carrom Tournament 2019-20",
+      "season": "2019-20",
+      "date": "2019-05-25",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "pushkarni-bhattad-pune",
+      "name": "Pushkarni Bhattad",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aisha-khan-mumbai",
+      "name": "Aisha Khan",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aisha-sajid-khokawala-mumbai",
+      "name": "Aisha Sajid Khokawala",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "minal-lelekhare-thane",
+      "name": "Minal Lele-Khare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-pathak-mumbai",
+      "name": "Mitali Pathak",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitali-pimple-mumbai",
+      "name": "Mitali Pimple",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "samrudhi-ghadigaonkar-thane",
+      "name": "Samrudhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sneha-more-mumbaisub",
+      "name": "Sneha More",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

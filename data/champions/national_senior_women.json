@@ -1,0 +1,53 @@
+{
+  "categoryKey": "senior_women",
+  "categoryLabel": "Senior Women",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Late - Linda Pinto",
+      "affiliation": "Maharashtra, Mumbai",
+      "years": [
+        1959
+      ]
+    },
+    {
+      "name": "Late - Shaila Adhikari",
+      "affiliation": "Thane",
+      "years": [
+        1961,
+        1974
+      ]
+    },
+    {
+      "name": "Suvarna Khandray (Nalini Bolinjkar)",
+      "affiliation": "Maharashtra, Mumbai",
+      "years": [
+        1980,
+        1992
+      ]
+    },
+    {
+      "name": "Varsha Kakodkar (Anupama Kedar)",
+      "affiliation": "Maharashtra, Mumbai ( Bank of India )",
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    {
+      "name": "Sangeeta Chandorkar",
+      "affiliation": "Reserve Bank of India",
+      "years": [
+        1989
+      ]
+    },
+    {
+      "name": "Kajal Kumari",
+      "affiliation": "Maharashtra",
+      "years": [
+        2015,
+        2022
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "2023_15th_shivaji_park_gymkhana_state_ranking_tournament",
+  "pagePath": "2023_15th_shivaji_park_gymkhana_state_ranking_tournament.php",
+  "title": "15th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2024-02-24",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Riyaz Akbara Ali",
+          "city": "Ratnagiri"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 7,
+          "name": "Medha Mathakari",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

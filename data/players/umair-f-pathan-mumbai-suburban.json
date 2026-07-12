@@ -1,0 +1,94 @@
+{
+  "slug": "umair-f-pathan-mumbai-suburban",
+  "name": "Umair F Pathan",
+  "aliases": [
+    "Umair F Pathan"
+  ],
+  "cities": [
+    "Mumbai Suburban"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_59th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Sub Junior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "arnav-a-salvi-palghar",
+      "name": "Arnav A Salvi",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "harshvardhan-s-khade-pune",
+      "name": "Harshvardhan S Khade",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "neeil-v-mhatre-thane",
+      "name": "Neeil V Mhatre",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "omkar-r-vadar-kolhapur",
+      "name": "Omkar R Vadar",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "prasanna-s-gole-mumbai-suburban",
+      "name": "Prasanna S Gole",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "ved-m-brahme-pune",
+      "name": "Ved M Brahme",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vihaan-v-dalvi-mumbai",
+      "name": "Vihaan V Dalvi",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

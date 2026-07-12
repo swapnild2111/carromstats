@@ -1,0 +1,98 @@
+{
+  "slug": "minal-lele-khare-thane",
+  "name": "Minal Lele Khare",
+  "aliases": [
+    "Minal Lele Khare"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": "Thane",
+  "podium": {
+    "first": 2,
+    "second": 0,
+    "third": 0,
+    "top8": 3
+  },
+  "currentPoints": 10,
+  "currentRank": 4,
+  "currentRankCategory": "Veteran Women",
+  "titles": [
+    {
+      "scope": "state",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  ],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "60th Senior Maharashtra State Carrom Championship 2026-27",
+      "season": "2026-27",
+      "date": "2026-04-13",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2025_59th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Senior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": "2025-05-10",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2024_58th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Maharashtra State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": "2024-08-15",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "madhuri-tayshete-mumbaisub",
+      "name": "Madhuri Tayshete",
+      "city": "Mumbai-Sub",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shobha-kamat-kolhapur",
+      "name": "Shobha Kamat",
+      "city": "Kolhapur",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rozina-godad-mumbai",
+      "name": "Rozina Godad",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "jaymala-parab-mumbaisub",
+      "name": "Jaymala Parab",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

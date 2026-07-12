@@ -1,0 +1,104 @@
+{
+  "slug": "2018_11th_shivaji_park_gymkhana_state_ranking_tournament",
+  "pagePath": "2018_11th_shivaji_park_gymkhana_state_ranking_tournament.php",
+  "title": "11th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2018-19",
+  "urlYear": 2018,
+  "season": "2018-19",
+  "date": "2019-03-09",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Rajesh Gohil",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Amol Sawardekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Nisar Ahmed",
+          "city": "Dhule"
+        },
+        {
+          "position": 6,
+          "name": "Ashok Gaur",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Fahim Kazi",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Mohd. Sajid",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Janhavi More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Sneha More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Subadha Nagaonkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Maitreyee Gogate",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

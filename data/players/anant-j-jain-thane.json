@@ -1,0 +1,62 @@
+{
+  "slug": "anant-j-jain-thane",
+  "name": "Anant J Jain",
+  "aliases": [
+    "Anant J Jain"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "cadet_boys",
+      "categoryLabel": "Cadet Boys",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "neeil-v-mhatre-thane",
+      "name": "Neeil V Mhatre",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "omkar-r-vadar-kolhapur",
+      "name": "Omkar R Vadar",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "pratap-kedar-mumbai",
+      "name": "Pratap Kedar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

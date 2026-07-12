@@ -1,0 +1,300 @@
+{
+  "slug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+  "pagePath": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship.php",
+  "title": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": false,
+  "categories": [
+    {
+      "key": "youth_boys",
+      "label": "Youth Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Siddhant Wadwalkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Anwar Shaikh",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Bipin Pandye",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Ritikesh Walmiki",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "youth_girls",
+      "label": "Youth Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Pushkarni Bhattad",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Anushka Surve",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Harshita Bhati",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Diksha Naik",
+          "city": "Palghar"
+        }
+      ]
+    },
+    {
+      "key": "junior_boys",
+      "label": "Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Dushyant Gupta",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Mihir Shaikh",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Afzal Khan",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Ashmit Bhakta",
+          "city": "Palghar"
+        },
+        {
+          "position": 5,
+          "name": "Saarth More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Arpit Bandekar",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 7,
+          "name": "Atharva Telangi",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Tanmya Khatu",
+          "city": "Ratnagiri"
+        }
+      ]
+    },
+    {
+      "key": "junior_girls",
+      "label": "Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sejal Lokhande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Keshar Nirgur",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 4,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 5,
+          "name": "Shruti Velekar",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Sakhee Datar",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "sub_junior_boys",
+      "label": "Sub-Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mihir Shaikh",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Saarth More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Atharva Patil",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Jonathan Bonal",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Ayaan Peerzade",
+          "city": "Nasik"
+        },
+        {
+          "position": 7,
+          "name": "Atharva Mhatre",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Ansh Jadhav",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "sub_junior_girls",
+      "label": "Sub-Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Diksha Chavan",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 2,
+          "name": "Sejal Lokhande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Madhura Devale",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Mayuri Gawade",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 5,
+          "name": "Dnyaneshwari Ingulkar",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Mitali Mahadik",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Sakshi Habiwant",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Pranita Ayre",
+          "city": "Sindhudurg"
+        }
+      ]
+    },
+    {
+      "key": "cadet_boys",
+      "label": "Cadet Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kausthub Jagusthe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Amulya Ghadi",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Tanmay Mahadik",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Ashit Dongare",
+          "city": "Raigad"
+        }
+      ]
+    },
+    {
+      "key": "cadet_girls",
+      "label": "Cadet Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Simran Shinde",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Arya Ghanekar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Avni Parab",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Shravani Pandit",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    }
+  ]
+}

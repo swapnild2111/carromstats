@@ -1,0 +1,62 @@
+{
+  "slug": "bipin-pandye-palghar",
+  "name": "Bipin Pandye",
+  "aliases": [
+    "Bipin Pandye"
+  ],
+  "cities": [
+    "Palghar"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "anwar-shaikh-pune",
+      "name": "Anwar Shaikh",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "ritikesh-walmiki-mumbai",
+      "name": "Ritikesh Walmiki",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "siddhant-wadwalkar-mumbai",
+      "name": "Siddhant Wadwalkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

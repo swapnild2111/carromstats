@@ -1,0 +1,66 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getTournamentIndex, getTournamentRecord } from '~/lib/data';
+
+export function getStaticPaths() {
+  const idx = getTournamentIndex();
+  return idx.map(t => ({ params: { slug: t.slug } }));
+}
+
+const { slug } = Astro.params;
+const t = getTournamentRecord(slug as string);
+if (!t) throw new Error(`Tournament not found: ${slug}`);
+---
+<Base title={t.title} active="tournaments">
+  <p><a href={url('/tournaments')}>← All tournaments</a></p>
+
+  <div class="player-header">
+    <h1>{t.title}</h1>
+    <p class="player-meta">
+      <span class="pill">Season {t.season}</span>
+      {t.date && <> · {t.date}</>}
+      {t.venue && <> · {t.venue}</>}
+    </p>
+  </div>
+
+  {t.categories.length === 0 ? (
+    <p class="empty">No categories were captured for this tournament.</p>
+  ) : (
+    t.categories.map(cat => (
+      <section class="page-section">
+        <div class="section-heading">
+          <h2>{cat.label}</h2>
+        </div>
+        <div class="table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th style="width:56px">#</th>
+                <th>Player</th>
+                <th>City</th>
+              </tr>
+            </thead>
+            <tbody>
+              {cat.top8.map(entry => (
+                <tr>
+                  <td>
+                    <span class:list={['rank-badge', entry.position <= 3 && `rank-${entry.position}`]}>{entry.position}</span>
+                  </td>
+                  <td>
+                    {entry.playerSlug ? (
+                      <a href={url(`/players/${entry.playerSlug}`)}>{entry.name}</a>
+                    ) : (
+                      entry.name
+                    )}
+                  </td>
+                  <td class="muted small">{entry.city ?? ''}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))
+  )}
+</Base>

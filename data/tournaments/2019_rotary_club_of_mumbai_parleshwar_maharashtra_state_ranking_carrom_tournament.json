@@ -1,0 +1,104 @@
+{
+  "slug": "2019_rotary_club_of_mumbai_parleshwar_maharashtra_state_ranking_carrom_tournament",
+  "pagePath": "2019_rotary_club_of_mumbai_parleshwar_maharashtra_state_ranking_carrom_tournament.php",
+  "title": "1st Parleshwar Maharashtra State Ranking Carrom Tournament 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-11-16",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Riyaz Akbarali",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Nisar Ahmed",
+          "city": "Dhule"
+        },
+        {
+          "position": 7,
+          "name": "Kalpesh Nalawade",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Zaid Ahmed",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aisha Khokawala",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Vaibhavi Shewale",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Maitreyee Gogate",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Nilam Godake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

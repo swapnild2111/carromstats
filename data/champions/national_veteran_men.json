@@ -1,0 +1,89 @@
+{
+  "categoryKey": "veteran_men",
+  "categoryLabel": "Veteran Men",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Arun Deshpande",
+      "affiliation": "Mumbai",
+      "years": [
+        1991
+      ]
+    },
+    {
+      "name": "Salim Akbar Ansari",
+      "affiliation": "Jalgon",
+      "years": [
+        1999,
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Ravindra Modak",
+      "affiliation": "Mumbai",
+      "years": [
+        2005
+      ]
+    },
+    {
+      "name": "Late Suresh Kajrolkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2006
+      ]
+    },
+    {
+      "name": "Babulal Shrimal",
+      "affiliation": "Mumbai",
+      "years": [
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Prakash Kamble",
+      "affiliation": "Mumbai",
+      "years": [
+        2009
+      ]
+    },
+    {
+      "name": "Shyamji Padaya",
+      "affiliation": "Mumbai",
+      "years": [
+        2011
+      ]
+    },
+    {
+      "name": "Manu Baria",
+      "affiliation": "Mumbai",
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Shabbir Khan",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Fayaz Shaikh",
+      "affiliation": "Pune",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Mohsin Sayyed",
+      "affiliation": "Jain Irrigation, Jalgaon",
+      "years": [
+        2024
+      ]
+    }
+  ]
+}

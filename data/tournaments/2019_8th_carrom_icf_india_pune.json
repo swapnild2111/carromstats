@@ -1,0 +1,104 @@
+{
+  "slug": "2019_8th_carrom_icf_india_pune",
+  "pagePath": "2019_8th_carrom_icf_india_pune.php",
+  "title": "8th INTERNATIONAL CARROM FEDERATION CUP INDIA 2019",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-12-02",
+  "venue": null,
+  "hasResultsSubPage": false,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Irshad Ahmed",
+          "city": "India"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "India"
+        },
+        {
+          "position": 3,
+          "name": "Rajesh Gohil",
+          "city": "India"
+        },
+        {
+          "position": 4,
+          "name": "Zaheer Pasha",
+          "city": "India"
+        },
+        {
+          "position": 5,
+          "name": "Mohd. Hamaet Mulla",
+          "city": "Bangladesh"
+        },
+        {
+          "position": 6,
+          "name": "Nishantha Fernando",
+          "city": "Srilanka"
+        },
+        {
+          "position": 7,
+          "name": "Shaheed Hilmy",
+          "city": "Srilanka"
+        },
+        {
+          "position": 8,
+          "name": "Ismail Azmeen",
+          "city": "Maldives"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "S. Appoorwa",
+          "city": "India"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Sajid",
+          "city": "India"
+        },
+        {
+          "position": 3,
+          "name": "Rashmi Kumari",
+          "city": "India"
+        },
+        {
+          "position": 4,
+          "name": "K. Nagajyothi",
+          "city": "India"
+        },
+        {
+          "position": 5,
+          "name": "Rebeca Dalrine",
+          "city": "Srilanka"
+        },
+        {
+          "position": 6,
+          "name": "Maduka Dilshani",
+          "city": "Srilanka"
+        },
+        {
+          "position": 7,
+          "name": "Aminath Vidhhadh",
+          "city": "Maldives"
+        },
+        {
+          "position": 8,
+          "name": "Joseph Roshita",
+          "city": "Srilanka"
+        }
+      ]
+    }
+  ]
+}

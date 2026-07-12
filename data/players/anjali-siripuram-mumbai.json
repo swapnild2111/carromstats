@@ -1,0 +1,329 @@
+{
+  "slug": "anjali-siripuram-mumbai",
+  "name": "Anjali V Siripuram",
+  "aliases": [
+    "Anjali Siripuram",
+    "Anjali V Siripuram"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": "Institution",
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 11
+  },
+  "currentPoints": 2,
+  "currentRank": 16,
+  "currentRankCategory": "Women's Singles",
+  "titles": [],
+  "slams": 3,
+  "slamsAgainst": 5,
+  "matchesPlayed": 54,
+  "matchesWon": 15,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "Ghatkopar Jolly Gymkhana 3rd Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2026-01-10",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament",
+      "tournamentTitle": "MIG Cricret CLub 3rd State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-09-27",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2024_58th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Maharashtra State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": "2024-08-15",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "8th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2024-25",
+      "season": "2024-25",
+      "date": "2024-06-08",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2024_maharashtra_state_ranking_tournament_kshatriya_union_club",
+      "tournamentTitle": "Maharashtra State Ranking Carrom Tournament 2024-2025 (Kshatriya Union Club )",
+      "season": "2024-25",
+      "date": "2024-05-04",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "2nd The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2023-2024",
+      "season": "2023-24",
+      "date": "2023-07-14",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2022_3rd_rotary_club_of_mumbai_parleshwar_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Rotary Club of Mumbai Parleshwar Maharashtra State Ranking Carrom Tournament 2022-23",
+      "season": "2022-23",
+      "date": "2023-03-17",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2022_shivshankar_utsav_mandal_state_ranking_carrom_tournament",
+      "tournamentTitle": "Shivshankar Utsav Mandal Maharashtra State Ranking Carrom Tournament 2022-23",
+      "season": "2022-23",
+      "date": "2023-02-24",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2022_2nd_ms_ranking_carrom_tournament_late_krushnakant_tipnis_memorial_trophy",
+      "tournamentTitle": "2nd State Ranking Carrom Tournament 2022-23 | Late Krushnakar Tipnis Memorial Trophy",
+      "season": "2022-23",
+      "date": "2022-10-28",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2022_56th_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Maharashtra State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": "2022-08-13",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Krishnakar Tipnis Memorial Trophy Maharashtra State Ranking Carrom Tournament 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 7
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 9,
+      "wonAgainst": 0,
+      "lostAgainst": 9
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 7,
+      "wonAgainst": 0,
+      "lostAgainst": 7
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 6,
+      "wonAgainst": 0,
+      "lostAgainst": 6
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 6,
+      "wonAgainst": 0,
+      "lostAgainst": 6
+    },
+    {
+      "slug": "aisha-khan-mumbai",
+      "name": "Aisha Khan",
+      "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 0,
+      "lostAgainst": 5
+    },
+    {
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila Shendge",
+      "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 2,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 4,
+      "wonAgainst": 0,
+      "lostAgainst": 4
+    },
+    {
+      "slug": "mitali-pathak-mumbai",
+      "name": "Mitali Pathak",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 1,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 4,
+      "wonAgainst": 0,
+      "lostAgainst": 4
+    },
+    {
+      "slug": "ambika-harith-mumbai",
+      "name": "Ambika Harith",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "preeti-khedekar-mumbai",
+      "name": "Preeti Khedekar",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali Suvare",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura Devle",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "pushkarni-bhattad-pune",
+      "name": "Pushkarni Bhattad",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rinky-kumari-mumbai",
+      "name": "Rinky Kumari",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sonali-kumari-mumbai",
+      "name": "Sonali Kumari",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "anita-kanojiya-raigad",
+      "name": "Anita Kanojiya",
+      "city": "Raigad",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "chaital-suvare-thane",
+      "name": "Chaital Suvare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha Chavan",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "medha-mathkari-pune",
+      "name": "Medha Mathkari",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "neha-kumari-mumbai",
+      "name": "Neha Kumari",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilam-ghodade-mumbai",
+      "name": "Nilam Ghodade",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sangeeta-chandorkar-mumbai",
+      "name": "Sangeeta J Chandorkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

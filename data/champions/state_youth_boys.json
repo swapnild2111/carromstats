@@ -1,0 +1,112 @@
+{
+  "categoryKey": "youth_boys",
+  "categoryLabel": "Youth Boys",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Sandeep Deorukhkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Late-Wasim Shaikh",
+      "affiliation": "Jalgaon",
+      "years": [
+        2003
+      ]
+    },
+    {
+      "name": "Suraj Kumbhar",
+      "affiliation": "Mumbai",
+      "years": [
+        2012
+      ]
+    },
+    {
+      "name": "Shaikh Abdul Rahim",
+      "affiliation": "Pune",
+      "years": [
+        2012
+      ]
+    },
+    {
+      "name": "Sagar Waghmare",
+      "affiliation": "Pune",
+      "years": [
+        2013
+      ]
+    },
+    {
+      "name": "Naeem Akhtar Ansari",
+      "affiliation": "Jalgaon",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Jafar Shaikh",
+      "affiliation": "Pune",
+      "years": [
+        2015
+      ]
+    },
+    {
+      "name": "Abhishek Bharti",
+      "affiliation": "Mumbai",
+      "years": [
+        2016
+      ]
+    },
+    {
+      "name": "Shubham Suryawanshi",
+      "affiliation": "Mumbai",
+      "years": [
+        2017
+      ]
+    },
+    {
+      "name": "Ritikesh Walmiki",
+      "affiliation": "Mumbai",
+      "years": [
+        2018
+      ]
+    },
+    {
+      "name": "Siddhant Wadwalkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "name": "Tanmay Khatu",
+      "affiliation": "Ratnagiri",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Niraj Kamble",
+      "affiliation": "Mumbai",
+      "years": [
+        2023
+      ]
+    },
+    {
+      "name": "Sarthak Nagaonkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2024
+      ]
+    },
+    {
+      "name": "Mihir Shaikh",
+      "affiliation": "Mumbai",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "shreyas-s-lokhande-thane",
+  "name": "Shreyas S Lokhande",
+  "aliases": [
+    "Shreyas S Lokhande"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "position": 8
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "chinmay-p-sonawane-palghar",
+      "name": "Chinmay P Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "dushyant-p-gupta-mumbai-suburban",
+      "name": "Dushyant P Gupta",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "irfan-bijapur-pune",
+      "name": "Irfan Bijapur",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "niraj-g-kamble-mumbai",
+      "name": "Niraj G Kamble",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rushikesh-r-tambe-pune",
+      "name": "Rushikesh R Tambe",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "tanmay-d-khatu-ratnagiri",
+      "name": "Tanmay D Khatu",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "tanveer-j-shaikh-mumbai",
+      "name": "Tanveer J Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

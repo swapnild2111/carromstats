@@ -1,0 +1,170 @@
+{
+  "slug": "sakhee-datar-thane",
+  "name": "Sakhee Datar",
+  "aliases": [
+    "Sakhee Datar"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 1,
+    "top8": 3
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [
+    {
+      "scope": "state",
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "scope": "state",
+      "categoryKey": "sub_junior_girls",
+      "categoryLabel": "Sub-Junior Girls",
+      "years": [
+        2018
+      ]
+    }
+  ],
+  "slams": 0,
+  "slamsAgainst": 2,
+  "matchesPlayed": 2,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "junior_girls",
+      "categoryLabel": "Junior Girls",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2024_58th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Junior State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": null,
+      "categoryKey": "youth_girls",
+      "categoryLabel": "Youth Girls",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2025_59th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Junior State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "youth_girls",
+      "categoryLabel": "Youth Girls",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "bhumi-lubde-palghar",
+      "name": "Bhumi Lubde",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali Suvare",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha Chavan",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "keshar-nirgur-sindhudurg",
+      "name": "Keshar Nirgur",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar R Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "richi-machiwale-mumbai",
+      "name": "Richi Machiwale",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sejal-lokhande-mumbai",
+      "name": "Sejal Lokhande",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shravani-n-tambe-pune",
+      "name": "Shravani Tambe",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shruti-velekar-pune",
+      "name": "Shruti Velekar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

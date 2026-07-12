@@ -1,0 +1,773 @@
+{
+  "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+  "rounds": [
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            13,
+            19
+          ],
+          "side2Scores": [
+            0,
+            14,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            22,
+            21,
+            null
+          ],
+          "side2Scores": [
+            20,
+            19,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            0,
+            17,
+            19
+          ],
+          "side2Scores": [
+            25,
+            9,
+            6
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            13,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            12,
+            15,
+            25
+          ],
+          "side2Scores": [
+            22,
+            12,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            22,
+            21,
+            null
+          ],
+          "side2Scores": [
+            0,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Shaheed Hilmy",
+            "city": "Sri Lanka"
+          },
+          "side1Scores": [
+            14,
+            15,
+            null
+          ],
+          "side2Scores": [
+            9,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Sanjay Mande",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            14,
+            18,
+            null
+          ],
+          "side2Scores": [
+            7,
+            15,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            13,
+            20,
+            21
+          ],
+          "side2Scores": [
+            19,
+            13,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Ravindra R Hange",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            14,
+            19,
+            null
+          ],
+          "side2Scores": [
+            8,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Ismail Azmeen",
+            "city": "Maldives"
+          },
+          "side1Scores": [
+            14,
+            19,
+            null
+          ],
+          "side2Scores": [
+            1,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Sameer J Ansari",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            8,
+            11,
+            17
+          ],
+          "side2Scores": [
+            17,
+            9,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shaheed Hilmy",
+            "city": "Sri Lanka"
+          },
+          "side2": {
+            "name": "Rohit Y Chougule",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            20,
+            10,
+            25
+          ],
+          "side2Scores": [
+            5,
+            17,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Mohammed W Pasha",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            13,
+            1,
+            21
+          ],
+          "side2Scores": [
+            6,
+            19,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            16,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay Mande",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Vivek A Podar",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            11,
+            17,
+            24
+          ],
+          "side2Scores": [
+            12,
+            13,
+            4
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            7,
+            17,
+            25
+          ],
+          "side2Scores": [
+            18,
+            9,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Hirushi Malshani",
+            "city": "Sri Lanka"
+          },
+          "side1Scores": [
+            17,
+            22,
+            null
+          ],
+          "side2Scores": [
+            4,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            9,
+            10,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hirushi Malshani",
+            "city": "Sri Lanka"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            0,
+            16,
+            22
+          ],
+          "side2Scores": [
+            25,
+            11,
+            2
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hirushi Malshani",
+            "city": "Sri Lanka"
+          },
+          "side2": {
+            "name": "Preeti Jakhotia",
+            "city": "United States of America"
+          },
+          "side1Scores": [
+            1,
+            20,
+            19
+          ],
+          "side2Scores": [
+            17,
+            13,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Tharushi Himansika",
+            "city": "Sri Lanka"
+          },
+          "side1Scores": [
+            14,
+            17,
+            null
+          ],
+          "side2Scores": [
+            10,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            12,
+            8,
+            16
+          ],
+          "side2Scores": [
+            9,
+            12,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Joseph Roshita",
+            "city": "Sri Lanka"
+          },
+          "side1Scores": [
+            14,
+            21,
+            11
+          ],
+          "side2Scores": [
+            20,
+            6,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2024_2nd_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Preeti Jakhotia",
+            "city": "United States of America"
+          },
+          "side2": {
+            "name": "Sangeeta J Chandorkar",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            18,
+            18,
+            null
+          ],
+          "side2Scores": [
+            5,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hirushi Malshani",
+            "city": "Sri Lanka"
+          },
+          "side2": {
+            "name": "Fathmath Rayana",
+            "city": "Maldives"
+          },
+          "side1Scores": [
+            17,
+            15,
+            null
+          ],
+          "side2Scores": [
+            6,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Tharushi Himansika",
+            "city": "Sri Lanka"
+          },
+          "side2": {
+            "name": "Aminath S Adam",
+            "city": "Maldives"
+          },
+          "side1Scores": [
+            22,
+            14,
+            null
+          ],
+          "side2Scores": [
+            3,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Ambika Harith",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            15,
+            17,
+            19
+          ],
+          "side2Scores": [
+            18,
+            4,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            1,
+            16,
+            11
+          ],
+          "side2Scores": [
+            14,
+            13,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            1,
+            17,
+            12
+          ],
+          "side2Scores": [
+            24,
+            3,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            18,
+            3,
+            16
+          ],
+          "side2Scores": [
+            16,
+            17,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Joseph Roshita",
+            "city": "Sri Lanka"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            21,
+            6,
+            22
+          ],
+          "side2Scores": [
+            12,
+            24,
+            13
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

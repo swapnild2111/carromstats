@@ -1,0 +1,294 @@
+{
+  "slug": "mihir-shaikh-mumbai",
+  "name": "Mihir R Shaikh",
+  "aliases": [
+    "Mihir R Shaikh",
+    "Mihir Shaikh"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 4,
+    "second": 1,
+    "third": 0,
+    "top8": 5
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [
+    {
+      "scope": "national",
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "scope": "state",
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "scope": "state",
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "scope": "state",
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "years": [
+        2025
+      ]
+    }
+  ],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
+      "season": "2019-20",
+      "date": null,
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2023_57th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Junior State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2025_59th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Junior State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "jonathan-bonal-palghar",
+      "name": "Jonathan Bonal",
+      "city": "Palghar",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "atharva-d-patil-pune",
+      "name": "Atharva D Patil",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "chaitanya-s-sabale-pune",
+      "name": "Chaitanya S Sabale",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kaustubh-m-jagushte-mumbai",
+      "name": "Kaustubh M Jagushte",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "saarth-more-mumbai",
+      "name": "Saarth More",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shaikh-mohd-raza-sk-rafique-mumbai",
+      "name": "Shaikh Mohd Raza Sk Rafique",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "afzal-khan-thane",
+      "name": "Afzal Khan",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ansh-jadhav-mumbai",
+      "name": "Ansh Jadhav",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "arpit-bandekar-sindhudurg",
+      "name": "Arpit Bandekar",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ashmit-bhakta-palghar",
+      "name": "Ashmit Bhakta",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "atharva-mhatre-thane",
+      "name": "Atharva Mhatre",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "atharva-patil-mumbai",
+      "name": "Atharva Patil",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "atharva-telangi-pune",
+      "name": "Atharva Telangi",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ayaan-peerzade-nasik",
+      "name": "Ayaan Peerzade",
+      "city": "Nasik",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dushyant-gupta-mumbaisub",
+      "name": "Dushyant Gupta",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohammad-hasnain-arshad-shaikh-mumbaisub",
+      "name": "Mohammad Hasnain Arshad Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mohammad-zaid-dhule",
+      "name": "Mohammad Zaid",
+      "city": "Dhule",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mohd-hasnain-arshad-shaikh-mumbai-suburban",
+      "name": "Mohd. Hasnain Arshad Shaikh",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ojas-jadhav-mumbai",
+      "name": "Ojas Jadhav",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "piyush-pawar-palghar",
+      "name": "Piyush Pawar",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "tanmya-khatu-ratnagiri",
+      "name": "Tanmya Khatu",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ubed-i-shaikh-pune",
+      "name": "Ubed I Shaikh",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

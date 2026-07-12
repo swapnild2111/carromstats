@@ -1,0 +1,104 @@
+{
+  "slug": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament",
+  "pagePath": "2022_14th_shivaji_park_gymkhana_state_ranking_tournament.php",
+  "title": "14th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2023-02-10",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Zaid A Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Girish Tambe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Manoj Kamble",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sandeep Deorukhkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Maitreyee Gogate",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

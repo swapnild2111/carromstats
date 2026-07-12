@@ -1,0 +1,104 @@
+{
+  "slug": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak",
+  "pagePath": "2022_1st_hindu_hruday_samrat_late_balasaheb_thakeray_chashak.php",
+  "title": "Hindu Hruday Samrat Late Balasaheb Thakeray Chashak Maharashtra State Ranking Carrom Tournament 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2023-01-27",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Anil Mundhe",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

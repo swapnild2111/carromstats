@@ -1,0 +1,62 @@
+{
+  "slug": "devraj-r-kathade-palghar",
+  "name": "Devraj R Kathade",
+  "aliases": [
+    "Devraj R Kathade"
+  ],
+  "cities": [
+    "Palghar"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_59th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Sub Junior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "cadet_boys",
+      "categoryLabel": "Cadet Boys",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "rudra-m-ingale-pune",
+      "name": "Rudra M Ingale",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "samarth-p-khandelwal-thane",
+      "name": "Samarth P Khandelwal",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shivansh-u-more-thane",
+      "name": "Shivansh U More",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

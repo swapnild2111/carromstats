@@ -1,0 +1,104 @@
+{
+  "slug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+  "pagePath": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament.php",
+  "title": "2nd The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2023-2024",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2023-07-14",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Abhjijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Hareshwar Betvanshi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Javed Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Sharad More",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Naeem Ansari",
+          "city": "Jalgaon"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

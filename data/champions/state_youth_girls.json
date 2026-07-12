@@ -1,0 +1,101 @@
+{
+  "categoryKey": "youth_girls",
+  "categoryLabel": "Youth Girls",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Sujata Hailinge (Aisha Sajid Khokawala)",
+      "affiliation": "Thane",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Asmita Kanukale",
+      "affiliation": "Mumbai",
+      "years": [
+        2003
+      ]
+    },
+    {
+      "name": "Neha Gosavi",
+      "affiliation": "Mumbai",
+      "years": [
+        2008
+      ]
+    },
+    {
+      "name": "Mitali Pimple",
+      "affiliation": "Thane",
+      "years": [
+        2011
+      ]
+    },
+    {
+      "name": "Maitrayee Gogate",
+      "affiliation": "Mumbai",
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Vrushali Patil",
+      "affiliation": "Nasik",
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Nilam Ghodake",
+      "affiliation": "Mumbai",
+      "years": [
+        2016
+      ]
+    },
+    {
+      "name": "Vaibhavi Shewale",
+      "affiliation": "Mumbai",
+      "years": [
+        2017
+      ]
+    },
+    {
+      "name": "Pushkarni Bhattad",
+      "affiliation": "Pune",
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Shruti Sonawane",
+      "affiliation": "Palghar",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Samruddhi Ghadigaonkar",
+      "affiliation": "Thane (AAI)",
+      "years": [
+        2023
+      ]
+    },
+    {
+      "name": "Keshar Nirgun",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2024
+      ]
+    },
+    {
+      "name": "Aakanksha Kadam",
+      "affiliation": "Ratnagiri",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

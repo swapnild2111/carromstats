@@ -1,0 +1,43 @@
+{
+  "categoryKey": "youth_boys",
+  "categoryLabel": "Youth Boys",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Sandeep Deorukhkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Hidayat Ansari",
+      "affiliation": "Mumbai",
+      "years": [
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Suraj Kumbhar",
+      "affiliation": "Mumbai",
+      "years": [
+        2012
+      ]
+    },
+    {
+      "name": "Harsh Shah",
+      "affiliation": "Thane",
+      "years": [
+        2018
+      ]
+    },
+    {
+      "name": "Mihir Shaikh",
+      "affiliation": "Mumbai",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

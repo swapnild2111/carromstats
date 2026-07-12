@@ -1,0 +1,79 @@
+{
+  "slug": "nancy-sequera-mumbaisub",
+  "name": "Nancy Sequera",
+  "aliases": [
+    "Nancy Sequera"
+  ],
+  "cities": [
+    "Mumbai-Sub"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Maharashtra State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": "2022-08-13",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2018_54th_maharashtra_state_and_inter_district_carrom_championship",
+      "tournamentTitle": "54th Senior Maharashtra State Carrom Championship 2018-19",
+      "season": "2018-19",
+      "date": "2018-05-20",
+      "categoryKey": "veteran_women",
+      "categoryLabel": "Veteran Women",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "malti-kelkar-mumbai",
+      "name": "Malti Kelkar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shobha-kamat-kolhapur",
+      "name": "Shobha Kamat",
+      "city": "Kolhapur",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "madhuri-tayshette-mumbaisub",
+      "name": "Madhuri Tayshette",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rozina-godas-mumbai",
+      "name": "Rozina Godas",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

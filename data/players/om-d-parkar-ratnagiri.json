@@ -1,0 +1,160 @@
+{
+  "slug": "om-d-parkar-ratnagiri",
+  "name": "Om D Parkar",
+  "aliases": [
+    "Om D Parkar",
+    "Om Parkar"
+  ],
+  "cities": [
+    "Ratnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "sub_junior_boys",
+      "categoryLabel": "Sub-Junior Boys",
+      "position": 7
+    },
+    {
+      "tournamentSlug": "2025_59th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Junior State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aayush-b-garud-pune",
+      "name": "Aayush Garud",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "adil-shaikh-mumbai",
+      "name": "Adil Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "amulya-ghadi-sindhudurg",
+      "name": "Amulya A Ghadi",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aryan-raut-ratnagiri",
+      "name": "Aryan Raut",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "dron-m-hajare-ratnagiri",
+      "name": "Dron M Hajare",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mnawar-abas-mumbaisub",
+      "name": "Mnawar Abas",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mohammad-sheikh-kolhapur",
+      "name": "Mohammad Sheikh",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "omkar-r-vadar-kolhapur",
+      "name": "Omkar Vadar",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "pranav-p-gaikwad-pune",
+      "name": "Pranav P Gaikwad",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rahul-m-patil-mumbai",
+      "name": "Rahul M Patil",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shreeshan-h-palwankar-palghar",
+      "name": "Shreeshan H Palwankar",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "tanishq-s-gaware-mumbai",
+      "name": "Tanishq S Gaware",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "umer-shaikh-mumbai",
+      "name": "Umer Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "vedant-d-rane-mumbai-suburban",
+      "name": "Vedant D Rane",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

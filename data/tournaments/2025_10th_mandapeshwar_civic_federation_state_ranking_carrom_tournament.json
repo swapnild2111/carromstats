@@ -1,0 +1,104 @@
+{
+  "slug": "2025_10th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+  "pagePath": "2025_10th_mandapeshwar_civic_federation_state_ranking_carrom_tournament.php",
+  "title": "10th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+  "urlYear": 2025,
+  "season": "2024-25",
+  "date": "2025-04-18",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Prafull More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Omkar Tilak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Sameer Ansari",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Sanjay Maniyar",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

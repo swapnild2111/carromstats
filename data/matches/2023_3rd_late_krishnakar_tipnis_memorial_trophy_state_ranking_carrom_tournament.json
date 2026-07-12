@@ -1,0 +1,617 @@
+{
+  "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abdul Sattar Ismail Naik",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mangesh N Pandit",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            23,
+            17,
+            null
+          ],
+          "side2Scores": [
+            4,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            9,
+            25,
+            25
+          ],
+          "side2Scores": [
+            23,
+            2,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kunal P Raut",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilansh H Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            12,
+            25
+          ],
+          "side2Scores": [
+            17,
+            25,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Vinit L Dadarkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ravi B Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            1,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            19,
+            25
+          ],
+          "side2Scores": [
+            7,
+            25,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            22,
+            21,
+            null
+          ],
+          "side2Scores": [
+            3,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Medha V Mathkari",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            22,
+            17,
+            null
+          ],
+          "side2Scores": [
+            18,
+            16,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Medha V Mathkari",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            20,
+            25,
+            20
+          ],
+          "side2Scores": [
+            22,
+            10,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            11,
+            21,
+            25
+          ],
+          "side2Scores": [
+            16,
+            17,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            15,
+            19
+          ],
+          "side2Scores": [
+            16,
+            19,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            4,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            0,
+            25,
+            19
+          ],
+          "side2Scores": [
+            25,
+            7,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            7,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Medha V Mathkari",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            9,
+            25
+          ],
+          "side2Scores": [
+            0,
+            17,
+            11
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            15,
+            24
+          ],
+          "side2Scores": [
+            16,
+            20,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anita L Kanojiya",
+            "city": "Raigad"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            15,
+            19
+          ],
+          "side2Scores": [
+            3,
+            22,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Madhura M Devle",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kajal Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            23,
+            7,
+            25
+          ],
+          "side2Scores": [
+            7,
+            23,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            14,
+            null
+          ],
+          "side2Scores": [
+            10,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            13,
+            14
+          ],
+          "side2Scores": [
+            7,
+            20,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            7,
+            25
+          ],
+          "side2Scores": [
+            12,
+            25,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Medha V Mathkari",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            15,
+            23,
+            null
+          ],
+          "side2Scores": [
+            13,
+            16,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Riyaz A Ali",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            18,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            8,
+            14,
+            21
+          ],
+          "side2Scores": [
+            25,
+            12,
+            10
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Riyaz A Ali",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            24,
+            23,
+            null
+          ],
+          "side2Scores": [
+            11,
+            20,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            20,
+            21,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            6,
+            25,
+            18
+          ],
+          "side2Scores": [
+            25,
+            20,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            9,
+            25,
+            24
+          ],
+          "side2Scores": [
+            25,
+            13,
+            20
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            15,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            22,
+            null
+          ],
+          "side2Scores": [
+            10,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Riyaz A Ali",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            4,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            11,
+            25,
+            25
+          ],
+          "side2Scores": [
+            22,
+            4,
+            16
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            22,
+            24,
+            null
+          ],
+          "side2Scores": [
+            17,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            17,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            6,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            0,
+            22,
+            20
+          ],
+          "side2Scores": [
+            25,
+            17,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            17,
+            15
+          ],
+          "side2Scores": [
+            21,
+            25,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            21,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            17,
+            null
+          ],
+          "side2Scores": [
+            16,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            17,
+            13,
+            21
+          ],
+          "side2Scores": [
+            25,
+            10,
+            19
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            19,
+            25
+          ],
+          "side2Scores": [
+            6,
+            21,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Pushkarni S Bhattad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            15,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            2,
+            25,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            18,
+            25,
+            23
+          ],
+          "side2Scores": [
+            23,
+            14,
+            18
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

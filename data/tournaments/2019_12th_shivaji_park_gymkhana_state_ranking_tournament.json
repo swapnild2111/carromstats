@@ -1,0 +1,104 @@
+{
+  "slug": "2019_12th_shivaji_park_gymkhana_state_ranking_tournament",
+  "pagePath": "2019_12th_shivaji_park_gymkhana_state_ranking_tournament.php",
+  "title": "12th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2020-02-21",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Girish Tambe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Abhishek Chavan",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 8,
+          "name": "Riyaz Akbarali",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aisha Khokawala",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Maitreyee Gogate",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Chaitali Surave",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Medha Mathkari",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Anupama Kedar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

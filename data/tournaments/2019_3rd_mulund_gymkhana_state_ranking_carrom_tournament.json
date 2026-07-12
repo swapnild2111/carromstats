@@ -1,0 +1,104 @@
+{
+  "slug": "2019_3rd_mulund_gymkhana_state_ranking_carrom_tournament",
+  "pagePath": "2019_3rd_mulund_gymkhana_state_ranking_carrom_tournament.php",
+  "title": "3rd Mulund Gymkhana State Ranking Carrom Tournament 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-05-25",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Zaid Ahmed",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Girish Tambe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Sajjad Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Fahim Kazi",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Sajid Khokawala",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Minal Lele-Khare",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Sneha More",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Pushkarni Bhattad",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Radhika Joshi",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

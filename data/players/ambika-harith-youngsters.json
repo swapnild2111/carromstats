@@ -1,0 +1,44 @@
+{
+  "slug": "ambika-harith-youngsters",
+  "name": "Ambika Harith (Youngsters))",
+  "aliases": [
+    "Ambika Harith (Youngsters))"
+  ],
+  "cities": [],
+  "affiliation": null,
+  "podium": {
+    "first": 1,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2023_ratnagiri_carrom_league_season_6th",
+      "tournamentTitle": "RATNAGIRI CARROM LEAGUE 2023: SEASON - 6th",
+      "season": "2023-24",
+      "date": "2023-08-13",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Shivgarjana Lions",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            11,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            6,
+            22,
+            25
+          ],
+          "side2Scores": [
+            25,
+            17,
+            13
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            18,
+            null
+          ],
+          "side2Scores": [
+            15,
+            5,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Javed B Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            24,
+            2,
+            25
+          ],
+          "side2Scores": [
+            22,
+            25,
+            21
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sharad A More",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Naeem S Ansari",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            17,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Naeem S Ansari",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Javed B Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sharad A More",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            2,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Naeem S Ansari",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            18,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            9,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sharad A More",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            20,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Javed B Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            4,
+            23,
+            25
+          ],
+          "side2Scores": [
+            15,
+            12,
+            10
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betvanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dilip J Sosa",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            15,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sharad A More",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Nisar A Shaikh",
+            "city": "Dhule"
+          },
+          "side1Scores": [
+            8,
+            25,
+            22
+          ],
+          "side2Scores": [
+            25,
+            11,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas H Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Manoj P Kamble",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            20,
+            null
+          ],
+          "side2Scores": [
+            19,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Javed B Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Kunal P Raut",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            19,
+            null
+          ],
+          "side2Scores": [
+            17,
+            1,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            15,
+            null
+          ],
+          "side2Scores": [
+            23,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            21,
+            null
+          ],
+          "side2Scores": [
+            12,
+            5,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            16,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rinki Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            21,
+            null
+          ],
+          "side2Scores": [
+            16,
+            16,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            17,
+            null
+          ],
+          "side2Scores": [
+            20,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Rinki Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            20,
+            25
+          ],
+          "side2Scores": [
+            23,
+            13,
+            9
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_2nd_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            22,
+            25
+          ],
+          "side2Scores": [
+            23,
+            20,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shilpa U Palnitkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            0,
+            21,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika S Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vaibhavi P Shewale",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            20,
+            24
+          ],
+          "side2Scores": [
+            4,
+            23,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sangeeta J Chandorkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            13,
+            19,
+            null
+          ],
+          "side2Scores": [
+            12,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            15,
+            17
+          ],
+          "side2Scores": [
+            6,
+            17,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinki Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            16,
+            null
+          ],
+          "side2Scores": [
+            16,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            18,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            2,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

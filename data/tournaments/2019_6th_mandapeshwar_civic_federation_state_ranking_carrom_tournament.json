@@ -1,0 +1,104 @@
+{
+  "slug": "2019_6th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+  "pagePath": "2019_6th_mandapeshwar_civic_federation_state_ranking_carrom_tournament.php",
+  "title": "6th Mandpeshwar Civic Federation State Ranking Carrom Tournament 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-04-19",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Fahim Kazi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Zaid Ahmed",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Sajjad Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 6,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Amol Sawardekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Rajesh Gohil",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aisha Khokawala",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Janhavi More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Maitreyee Gogate",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 8,
+          "name": "Samidha Jadhav",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "durgeshwari-y-dhongade-jalgaon",
+  "name": "Durgeshwari Y Dhongade",
+  "aliases": [
+    "Durgeshwari Y Dhongade"
+  ],
+  "cities": [
+    "Jalgaon"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 2,
+    "second": 0,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_sub_junior_and_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Sub-Junior and Junior State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": null,
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "position": 1
+    },
+    {
+      "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": null,
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "position": 1
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "nidhi-m-sapre-ratnagiri",
+      "name": "Nidhi M Sapre",
+      "city": "Ratnagiri",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "susan-v-basimalla-mumbai",
+      "name": "Susan V Basimalla",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "divya-rane-sindhudurg",
+      "name": "Divya Rane",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "swara-s-mohire-ratnagiri",
+      "name": "Swara S Mohire",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

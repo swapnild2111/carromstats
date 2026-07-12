@@ -1,0 +1,104 @@
+{
+  "slug": "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament",
+  "pagePath": "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament.php",
+  "title": "Late Neela and Late Madhukaka Parchure State Ranking Carrom Tournament 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": "2025-11-08",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Abhishek Chavan",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Rajesh Gohil",
+          "city": "Raigad"
+        },
+        {
+          "position": 8,
+          "name": "Sandeep Deorukhkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 6,
+          "name": "Chaitali A Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Mamta Kumari",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

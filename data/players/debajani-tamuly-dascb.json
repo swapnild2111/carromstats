@@ -1,0 +1,94 @@
+{
+  "slug": "debajani-tamuly-dascb",
+  "name": "Debajani Tamuly",
+  "aliases": [
+    "Debajani Tamuly"
+  ],
+  "cities": [
+    "DASCB"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2021_49th_senior_national_carrom_championship_dadar_mumbai",
+      "tournamentTitle": "49th Senior National Carrom Championship, Dadar, Mumbai",
+      "season": "2021-22",
+      "date": "2022-04-22",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 4
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mantasha-iqbal-aai",
+      "name": "Mantasha Iqbal",
+      "city": "AAI",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mitra-v-tamilnadu",
+      "name": "Mitra V",
+      "city": "Tamilnadu",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilam-ghodke-jisl",
+      "name": "Nilam Ghodke",
+      "city": "JISL",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "p-nirmala-pspb",
+      "name": "P. Nirmala",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rashmi-kumari-pspb",
+      "name": "Rashmi Kumari",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "tuba-sehar-chandigarh",
+      "name": "Tuba Sehar",
+      "city": "Chandigarh",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

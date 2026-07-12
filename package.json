@@ -1,0 +1,29 @@
+{
+  "name": "carromstats",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "scrape": "tsx scripts/scrape.ts",
+    "scrape-matches": "tsx scripts/scrape-matches.ts",
+    "build-players": "tsx scripts/build-players.ts",
+    "collisions": "tsx scripts/collisions.ts",
+    "sanity-check": "tsx scripts/sanity-check.ts",
+    "refresh": "npm run scrape && npm run build-players && npm run collisions && npm run sanity-check"
+  },
+  "dependencies": {
+    "astro": "^7.0.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.9",
+    "@types/node": "^26.1.1",
+    "cheerio": "^1.2.0",
+    "tsx": "^4.23.0",
+    "typescript": "^7.0.2",
+    "zod": "^4.4.3"
+  }
+}

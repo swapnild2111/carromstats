@@ -1,0 +1,389 @@
+{
+  "tournamentSlug": "2023_maharashtra_open_carrom_challengers_trophy",
+  "rounds": [
+    {
+      "tournamentSlug": "2023_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Zaheer Pasha",
+            "city": "Karnataka"
+          },
+          "side1Scores": [
+            16,
+            20,
+            null
+          ],
+          "side2Scores": [
+            16,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaheer Pasha",
+            "city": "Karnataka"
+          },
+          "side2": {
+            "name": "Yogesh A Dhongade",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            20,
+            7,
+            23
+          ],
+          "side2Scores": [
+            2,
+            20,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            22,
+            10,
+            null
+          ],
+          "side2Scores": [
+            4,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Yogesh A Dhongade",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            24,
+            18,
+            null
+          ],
+          "side2Scores": [
+            9,
+            8,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaheer Pasha",
+            "city": "Karnataka"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            14,
+            14,
+            null
+          ],
+          "side2Scores": [
+            9,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh A Dhongade",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            9,
+            21,
+            null
+          ],
+          "side2Scores": [
+            8,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            19,
+            21,
+            null
+          ],
+          "side2Scores": [
+            6,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Mohammad Ghufran",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            17,
+            24,
+            null
+          ],
+          "side2Scores": [
+            1,
+            6,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2023_maharashtra_open_carrom_challengers_trophy",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            22,
+            23,
+            null
+          ],
+          "side2Scores": [
+            7,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaheer Pasha",
+            "city": "Karnataka"
+          },
+          "side2": {
+            "name": "Kunal P Raut",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            20,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Jalaluddin J Mulla",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            14,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh A Dhongade",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Shabbir A Khan",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Wajeed Moinuddin Ansari",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            14,
+            18,
+            null
+          ],
+          "side2Scores": [
+            0,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Ganesh R Taware",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            9,
+            17,
+            19
+          ],
+          "side2Scores": [
+            13,
+            9,
+            13
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohammad Ghufran",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Maharashtra"
+          },
+          "side1Scores": [
+            15,
+            5,
+            22
+          ],
+          "side2Scores": [
+            10,
+            14,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Maharashtra"
+          },
+          "side2": {
+            "name": "Irshad Ahemad",
+            "city": "Vidarbha"
+          },
+          "side1Scores": [
+            17,
+            17,
+            null
+          ],
+          "side2Scores": [
+            16,
+            15,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

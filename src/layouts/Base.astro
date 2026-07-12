@@ -1,0 +1,68 @@
+---
+import { url } from '~/lib/url';
+
+interface Props {
+  title: string;
+  description?: string;
+  active?: 'home' | 'players' | 'tournaments' | 'rankings' | 'leaderboards';
+}
+
+const {
+  title,
+  description = 'Carrom player stats and achievements, aggregated from Maharashtra Carrom Association.',
+  active,
+} = Astro.props;
+
+const nav = [
+  { key: 'players', href: '/players', label: 'Players' },
+  { key: 'tournaments', href: '/tournaments', label: 'Tournaments' },
+  { key: 'rankings', href: '/rankings', label: 'Rankings' },
+  { key: 'leaderboards', href: '/leaderboards', label: 'Leaderboards' },
+] as const;
+
+const currentYear = 2026;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title} · carromstats</title>
+    <link rel="stylesheet" href={url('/styles.css')} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="header-brand">
+          <a href={url('/')} class="brand-mark" aria-label="carromstats home">cs</a>
+          <div>
+            <h1 class="site-title"><a href={url('/')}>CarromStats</a></h1>
+            <p class="site-tagline">Maharashtra carrom player stats · 469 players · 101 tournaments</p>
+          </div>
+        </div>
+        <nav class="header-nav" aria-label="Main">
+          {nav.map(item => (
+            <a
+              href={url(item.href)}
+              class:list={['nav-link', active === item.key && 'is-active']}
+            >{item.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container site-footer-inner">
+        <p class="footer-credit">
+          Data sourced from the
+          <a href="https://maharashtracarromassociation.com/" rel="noopener">Maharashtra Carrom Association</a>.
+          Unofficial fan project.
+        </p>
+        <p class="footer-copyright">© 2025–{currentYear} Swapnil Deshpande.</p>
+      </div>
+    </footer>
+  </body>
+</html>

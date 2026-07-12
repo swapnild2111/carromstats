@@ -1,0 +1,249 @@
+{
+  "tournamentSlug": "2022_ayub_jamadar_foundation_1st_maharashtra_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2022_ayub_jamadar_foundation_1st_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            16,
+            13,
+            25
+          ],
+          "side2Scores": [
+            25,
+            8,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            24,
+            null
+          ],
+          "side2Scores": [
+            15,
+            17,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_ayub_jamadar_foundation_1st_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijeet D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rohit Y Chougule",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            6,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2022_ayub_jamadar_foundation_1st_maharashtra_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandip A Dive",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Rohit Y Chougule",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            15,
+            25
+          ],
+          "side2Scores": [
+            5,
+            17,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pankaj A Pawar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijeet D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            4,
+            18,
+            25
+          ],
+          "side2Scores": [
+            25,
+            15,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish H Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            8,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            6,
+            18,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

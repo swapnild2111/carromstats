@@ -1,0 +1,64 @@
+{
+  "slug": "2023_ratnagiri_carrom_league_season_6th",
+  "pagePath": "2023_ratnagiri_carrom_league_season_6th.php",
+  "title": "RATNAGIRI CARROM LEAGUE 2023: SEASON - 6th",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2023-08-13",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Javed Shaikh",
+          "city": "Youngsters"
+        },
+        {
+          "position": 2,
+          "name": "Yogesh Dhongade",
+          "city": "Victorians"
+        },
+        {
+          "position": 3,
+          "name": "Zaid Farooquee",
+          "city": "Jain Supremos"
+        },
+        {
+          "position": 4,
+          "name": "Siddhant Wadwadkar",
+          "city": "Youngster"
+        },
+        {
+          "position": 5,
+          "name": "Prakash Gaikwad",
+          "city": "Carrom Lovers"
+        },
+        {
+          "position": 6,
+          "name": "Sagar Waghmare",
+          "city": "Carrom Lovers"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Ambika Harith (Youngsters))",
+          "city": null
+        },
+        {
+          "position": 2,
+          "name": "Prajakta Narayankar",
+          "city": "Shivgarjana Lions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2024_58th_junior_maharashtra_state_carrom_championship",
+  "pagePath": "2024_58th_junior_maharashtra_state_carrom_championship.php",
+  "title": "58th Junior State Carrom Championship 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "youth_boys",
+      "label": "Youth Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sarthak Nagaonkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Shaikh Rahman",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Atharva Patil",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Jonathan Bonal",
+          "city": "Palghar"
+        }
+      ]
+    },
+    {
+      "key": "youth_girls",
+      "label": "Youth Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Keshar R Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 2,
+          "name": "Sakhee Datar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Bhumi Lubde",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Shravani Tambe",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "junior_boys",
+      "label": "Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kaustubh M Jagushte",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aayush Garud",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Hasnain Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Sarthak Kerkar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Munawar Syed",
+          "city": "Mumbai Sub"
+        },
+        {
+          "position": 6,
+          "name": "Bhavya Solanki",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Chaitanya Sabale",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Mohd. Shaikh",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "junior_girls",
+      "label": "Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Diksha Chavan",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 2,
+          "name": "Madhura M Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Ruchi M Machiwale",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Aarya Ghanekar",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Simran Shinde",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Dnyaneshwari Dhongade",
+          "city": "Jalgaon"
+        },
+        {
+          "position": 7,
+          "name": "Dnyaneshwari M Ingulkar",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Nidhi Sapre",
+          "city": "Ratnagiri"
+        }
+      ]
+    }
+  ]
+}

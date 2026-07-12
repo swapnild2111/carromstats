@@ -1,0 +1,58 @@
+{
+  "slug": "2025_inner_wheel_club_of_borivali_dist314_state_ranking_carrom_tournament",
+  "pagePath": "2025_inner_wheel_club_of_borivali_dist314_state_ranking_carrom_tournament.php",
+  "title": "Inner Wheel Club of Borivali Dist 314 Maharashtra State Ranking Carrom Tournament 2025- 26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Keshar R Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Madhura Devale",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 8,
+          "name": "Chaitali A Suvare",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

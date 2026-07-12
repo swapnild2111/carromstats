@@ -1,0 +1,83 @@
+{
+  "categoryKey": "cadet_girls",
+  "categoryLabel": "Cadet Girls",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Shraddha Govilkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Shraddha Tandel",
+      "affiliation": "Mumbai",
+      "years": [
+        2003
+      ]
+    },
+    {
+      "name": "Meha Patel",
+      "affiliation": "Dhule",
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Nandita Mahajan",
+      "affiliation": "Thane",
+      "years": [
+        2013
+      ]
+    },
+    {
+      "name": "Vedangi Athavale",
+      "affiliation": "Thane",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Niti Shah",
+      "affiliation": "Raigad",
+      "years": [
+        2015
+      ]
+    },
+    {
+      "name": "Sakhee Datar",
+      "affiliation": "Thane",
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Simran Shinde",
+      "affiliation": "Mumbai",
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Durgeshwari Dhongade",
+      "affiliation": "Jalgaon",
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Nidhi Sapre",
+      "affiliation": "Ratnagiri",
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  ]
+}

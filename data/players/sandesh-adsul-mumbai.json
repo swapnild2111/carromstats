@@ -1,0 +1,62 @@
+{
+  "slug": "sandesh-adsul-mumbai",
+  "name": "Sandesh Adsul",
+  "aliases": [
+    "Sandesh Adsul"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 0,
+  "slamsAgainst": 0,
+  "matchesPlayed": 1,
+  "matchesWon": 0,
+  "appearances": [
+    {
+      "tournamentSlug": "2022_56th_maharashtra_state_carrom_championship",
+      "tournamentTitle": "56th Maharashtra State Carrom Championship 2022-23",
+      "season": "2022-23",
+      "date": "2022-08-13",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "fayaz-shaikh-pune",
+      "name": "Fayaz Shaikh",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "manu-baria-mumbai",
+      "name": "Manu Baria",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shabbir-khan-mumbaisub",
+      "name": "Shabbir Khan",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

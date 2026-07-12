@@ -1,0 +1,119 @@
+{
+  "slug": "aisha-mohd-mumbai",
+  "name": "Aisha Mohd.",
+  "aliases": [
+    "Aisha Mohd."
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 2,
+    "third": 0,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2017_18_53rd_senior_maharashtrastate_and_inter_district_carrom_championship",
+      "tournamentTitle": "53rd Senior Maharashtra State Carrom Championship 2017-18",
+      "season": "2017-18",
+      "date": "2019-07-22",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2018_54th_maharashtra_state_and_inter_district_carrom_championship",
+      "tournamentTitle": "54th Senior Maharashtra State Carrom Championship 2018-19",
+      "season": "2018-19",
+      "date": "2018-05-20",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "minal-lelekhare-thane",
+      "name": "Minal Lele-Khare",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mitali-pimple-palghar",
+      "name": "Mitali Pimple",
+      "city": "Palghar",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "preeti-khedekar-mumbai",
+      "name": "Preeti Khedekar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sneha-more-mumbai",
+      "name": "Sneha More",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mansi-kadam-mumbai",
+      "name": "Mansi Kadam",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sangeeta-chandorkar-mumbai",
+      "name": "Sangeeta Chandorkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shilpa-palnitkar-mumbai",
+      "name": "Shilpa palnitkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

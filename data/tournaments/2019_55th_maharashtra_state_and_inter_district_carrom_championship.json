@@ -1,0 +1,156 @@
+{
+  "slug": "2019_55th_maharashtra_state_and_inter_district_carrom_championship",
+  "pagePath": "2019_55th_maharashtra_state_and_inter_district_carrom_championship.php",
+  "title": "55th Maharashtra State & Inter District Carrom Championship 2019-20",
+  "urlYear": 2019,
+  "season": "2019-20",
+  "date": "2019-07-22",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Deorukhkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Rajesh Gohil",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Yogesh Pardeshi",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Anil Mundhe",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aisha Khokawala",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Maitreyee Gogate",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Sangeeta Chandorkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Pushkarni Bhattad",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Mitali Pimple",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Minal Lele-Khare",
+          "city": "Thane"
+        }
+      ]
+    },
+    {
+      "key": "veteran_men",
+      "label": "Veteran Men",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Shabbir Khan",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Manu Baria",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Aslam Chitkey",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Satish Sirsat",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "veteran_women",
+      "label": "Veteran Women",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Madhuri Tayshete",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 2,
+          "name": "Rozina Godas",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Shobha Kamat",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 4,
+          "name": "Malti Kelkar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "bhavya-solanki-palghar",
+  "name": "Bhavya Solanki",
+  "aliases": [
+    "Bhavya Solanki"
+  ],
+  "cities": [
+    "Palghar"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_58th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Junior State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aayush-b-garud-pune",
+      "name": "Aayush Garud",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "chaitanya-s-sabale-pune",
+      "name": "Chaitanya Sabale",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "hasnain-shaikh-mumbaisub",
+      "name": "Hasnain Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "kaustubh-m-jagushte-mumbai",
+      "name": "Kaustubh M Jagushte",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohd-shaikh-mumbai",
+      "name": "Mohd. Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "munawar-syed-mumbai-sub",
+      "name": "Munawar Syed",
+      "city": "Mumbai Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sarthak-kerkar-mumbaisub",
+      "name": "Sarthak Kerkar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

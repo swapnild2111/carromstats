@@ -1,0 +1,116 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getPlayerIndex, getPlayerRecord } from '~/lib/data';
+
+export function getStaticPaths() {
+  const idx = getPlayerIndex();
+  const paths: Array<{ params: { slug: string; other: string } }> = [];
+  for (const p of idx) {
+    const rec = getPlayerRecord(p.slug);
+    if (!rec) continue;
+    for (const r of rec.rivals) {
+      paths.push({ params: { slug: p.slug, other: r.slug } });
+    }
+  }
+  return paths;
+}
+
+const { slug, other } = Astro.params;
+const a = getPlayerRecord(slug as string);
+const b = getPlayerRecord(other as string);
+if (!a || !b) throw new Error(`Rivalry not found: ${slug} vs ${other}`);
+
+// Build the merged co-appearance list
+const bAppearanceMap = new Map(b.appearances.map(app => [`${app.tournamentSlug}|${app.categoryKey}`, app]));
+interface Meeting {
+  tournamentSlug: string;
+  tournamentTitle: string;
+  season: string;
+  date: string | null;
+  categoryKey: string;
+  categoryLabel: string;
+  aPos: number;
+  bPos: number;
+  winner: 'a' | 'b' | 'tie';
+}
+const meetings: Meeting[] = [];
+for (const app of a.appearances) {
+  const key = `${app.tournamentSlug}|${app.categoryKey}`;
+  const bApp = bAppearanceMap.get(key);
+  if (!bApp) continue;
+  meetings.push({
+    tournamentSlug: app.tournamentSlug,
+    tournamentTitle: app.tournamentTitle,
+    season: app.season,
+    date: app.date,
+    categoryKey: app.categoryKey,
+    categoryLabel: app.categoryLabel,
+    aPos: app.position,
+    bPos: bApp.position,
+    winner: app.position < bApp.position ? 'a' : app.position > bApp.position ? 'b' : 'tie',
+  });
+}
+meetings.sort((x, y) => (y.date ?? '').localeCompare(x.date ?? ''));
+
+const rivalStats = a.rivals.find(r => r.slug === b.slug);
+---
+<Base title={`${a.name} vs ${b.name}`} active="players">
+  <p><a href={url(`/players/${a.slug}`)}>← Back to {a.name}</a></p>
+
+  <div class="section-heading">
+    <h1>{a.name} <span class="muted">vs</span> {b.name}</h1>
+    <p class="section-desc">Head-to-head across all scraped tournaments — measured by finishing position in a shared top-8.</p>
+  </div>
+
+  <section class="stat-cards" aria-label="Head-to-head totals">
+    <div class="stat-card">
+      <span class="stat-icon" aria-hidden="true">◆</span>
+      <span class="stat-value">{rivalStats?.coAppearances ?? meetings.length}</span>
+      <span class="stat-label">Co-appearances</span>
+    </div>
+    <div class="stat-card stat-gold">
+      <span class="stat-icon" aria-hidden="true">▲</span>
+      <span class="stat-value">{rivalStats?.wonAgainst ?? 0}</span>
+      <span class="stat-label">{a.name} finished above</span>
+    </div>
+    <div class="stat-card stat-silver">
+      <span class="stat-icon" aria-hidden="true">▽</span>
+      <span class="stat-value">{rivalStats?.lostAgainst ?? 0}</span>
+      <span class="stat-label">{b.name} finished above</span>
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="section-heading">
+      <h2>Every meeting</h2>
+    </div>
+    {meetings.length === 0 ? (
+      <p class="empty">No shared top-8 appearances found.</p>
+    ) : (
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr><th>Date</th><th>Tournament</th><th>Category</th><th class="num">{a.name}</th><th class="num">{b.name}</th><th>Winner</th></tr>
+          </thead>
+          <tbody>
+            {meetings.map(m => (
+              <tr>
+                <td class="mono muted small">{m.date ?? '—'}</td>
+                <td><a href={url(`/tournaments/${m.tournamentSlug}`)}>{m.tournamentTitle}</a></td>
+                <td><span class="pill">{m.categoryLabel}</span></td>
+                <td class="num">
+                  <span class:list={['rank-badge', m.aPos <= 3 && `rank-${m.aPos}`]}>{m.aPos}</span>
+                </td>
+                <td class="num">
+                  <span class:list={['rank-badge', m.bPos <= 3 && `rank-${m.bPos}`]}>{m.bPos}</span>
+                </td>
+                <td>{m.winner === 'a' ? a.name : m.winner === 'b' ? b.name : <span class="muted">tie</span>}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    )}
+  </section>
+</Base>

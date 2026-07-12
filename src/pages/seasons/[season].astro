@@ -1,0 +1,37 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getTournamentIndex } from '~/lib/data';
+
+export function getStaticPaths() {
+  const seasons = new Set(getTournamentIndex().map(t => t.season || 'unknown'));
+  return [...seasons].map(s => ({ params: { season: s } }));
+}
+
+const { season } = Astro.params;
+const all = getTournamentIndex().filter(t => (t.season || 'unknown') === season);
+const sorted = [...all].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
+---
+<Base title={`Season ${season}`} active="tournaments">
+  <p><a href={url('/tournaments')}>← All seasons</a></p>
+  <div class="section-heading">
+    <h1>Season {season}</h1>
+    <p class="section-desc">{sorted.length} tournaments in this season.</p>
+  </div>
+  <div class="table-wrap">
+    <table class="data-table">
+      <thead>
+        <tr><th>Date</th><th>Tournament</th><th class="num">Categories</th></tr>
+      </thead>
+      <tbody>
+        {sorted.map(t => (
+          <tr>
+            <td class="mono muted small">{t.date ?? '—'}</td>
+            <td><a href={url(`/tournaments/${t.slug}`)}>{t.title}</a></td>
+            <td class="num muted-num">{t.categories.length}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

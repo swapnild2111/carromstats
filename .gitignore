@@ -1,0 +1,9 @@
+node_modules/
+.astro/
+dist/
+.cache/
+.sanity-stash/
+.DS_Store
+*.log
+.env
+.env.local

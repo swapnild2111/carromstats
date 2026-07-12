@@ -1,0 +1,62 @@
+{
+  "slug": "shaikh-rahman-mumbai",
+  "name": "Shaikh Rahman",
+  "aliases": [
+    "Shaikh Rahman"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2024_58th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Junior State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": null,
+      "categoryKey": "youth_boys",
+      "categoryLabel": "Youth Boys",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "atharva-patil-mumbai",
+      "name": "Atharva Patil",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "jonathan-bonal-palghar",
+      "name": "Jonathan Bonal",
+      "city": "Palghar",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sarthak-s-nagaonkar-mumbai",
+      "name": "Sarthak Nagaonkar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

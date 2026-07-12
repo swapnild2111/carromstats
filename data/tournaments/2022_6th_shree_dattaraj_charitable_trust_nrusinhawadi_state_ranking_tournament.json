@@ -1,0 +1,104 @@
+{
+  "slug": "2022_6th_shree_dattaraj_charitable_trust_nrusinhawadi_state_ranking_tournament",
+  "pagePath": "2022_6th_shree_dattaraj_charitable_trust_nrusinhawadi_state_ranking_tournament.php",
+  "title": "6th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2022-06-10",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Kiran Dhende",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Mohd. Yasin Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Abhikshek Chavan",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Siddhant Wadwalkar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Keshar Nirgun",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 4,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

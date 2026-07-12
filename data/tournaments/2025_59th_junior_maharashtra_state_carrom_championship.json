@@ -1,0 +1,156 @@
+{
+  "slug": "2025_59th_junior_maharashtra_state_carrom_championship",
+  "pagePath": "2025_59th_junior_maharashtra_state_carrom_championship.php",
+  "title": "59th Junior State Carrom Championship 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "youth_boys",
+      "label": "Youth Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mihir Shaikh",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Ojas Jadhav",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Jonathan Bonal",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Piyush Pawar",
+          "city": "Palghar"
+        }
+      ]
+    },
+    {
+      "key": "youth_girls",
+      "label": "Youth Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Diksha Chavan",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Sakhee Datar",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Richi Machiwale",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "junior_boys",
+      "label": "Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aayush Garud",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Om Parkar",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Mnawar Abas",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Umer Shaikh",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Omkar Vadar",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 6,
+          "name": "Mohammad Sheikh",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 7,
+          "name": "Aryan Raut",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 8,
+          "name": "Adil Shaikh",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "junior_girls",
+      "label": "Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Madhura M Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Simran Shinde",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Ishwari Patil",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 5,
+          "name": "Tanaya Patil",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Jiya Patel",
+          "city": "Palghar"
+        },
+        {
+          "position": 7,
+          "name": "Aarya Ghanekar",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Sanchita Mohite",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
+}

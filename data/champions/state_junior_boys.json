@@ -1,0 +1,153 @@
+{
+  "categoryKey": "junior_boys",
+  "categoryLabel": "Junior Boys",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Late - Devji Sumra",
+      "affiliation": "Mumbai",
+      "years": [
+        1960,
+        1961
+      ]
+    },
+    {
+      "name": "Iqbal Nabi",
+      "affiliation": "Mumbai",
+      "years": [
+        1975
+      ]
+    },
+    {
+      "name": "Suryakant Bairaloo",
+      "affiliation": "Mumbai",
+      "years": [
+        1985
+      ]
+    },
+    {
+      "name": "Late - Pradeep Sawant",
+      "affiliation": "Mumbai",
+      "years": [
+        1980
+      ]
+    },
+    {
+      "name": "Ravindra Bachhalwar",
+      "affiliation": "Mumbai",
+      "years": [
+        1986
+      ]
+    },
+    {
+      "name": "Sajid Sayyed",
+      "affiliation": "Mumbai",
+      "years": [
+        1994
+      ]
+    },
+    {
+      "name": "Late Wasim Shaikh",
+      "affiliation": "Jalgaon",
+      "years": [
+        2001,
+        2003
+      ]
+    },
+    {
+      "name": "Roshan Kajrolkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2002
+      ]
+    },
+    {
+      "name": "Roshan Chavan",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2004
+      ]
+    },
+    {
+      "name": "Akash Goyal",
+      "affiliation": "Pune",
+      "years": [
+        2010
+      ]
+    },
+    {
+      "name": "Shaikh Abdul Rahim",
+      "affiliation": "Pune",
+      "years": [
+        2011
+      ]
+    },
+    {
+      "name": "Abhishek Bharati",
+      "affiliation": "Mumbai",
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Omkar Natke",
+      "affiliation": "Mumbai",
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Siddhant Wadawalkar",
+      "affiliation": "Mumbai",
+      "years": [
+        2015,
+        2017
+      ]
+    },
+    {
+      "name": "Shubham Suryawansh",
+      "affiliation": "Mumbai",
+      "years": [
+        2016
+      ]
+    },
+    {
+      "name": "Irfan Mansuri",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2018
+      ]
+    },
+    {
+      "name": "Dushyant Gupta",
+      "affiliation": "Mumbai-Sub",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "name": "Mihir Shaikh",
+      "affiliation": "(Mumbai)",
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Kaustubh Jagushte",
+      "affiliation": "(Mumbai)",
+      "years": [
+        2024
+      ]
+    },
+    {
+      "name": "Aayush Garud",
+      "affiliation": "(Pune)",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

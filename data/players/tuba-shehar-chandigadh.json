@@ -1,0 +1,94 @@
+{
+  "slug": "tuba-shehar-chandigadh",
+  "name": "Tuba Shehar",
+  "aliases": [
+    "Tuba Shehar"
+  ],
+  "cities": [
+    "Chandigadh"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2017_24th_all_india_federation_cup_carrom_tournament",
+      "tournamentTitle": "24th ALL INDIA CARROM FEDERATION CUP CARROM TOURNAMENT 2017-18",
+      "season": "2017-18",
+      "date": "2018-01-02",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 6
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aisha-mohd-sajid-jisl",
+      "name": "Aisha Mohd. Sajid",
+      "city": "JISL",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "ambika-herath-pspb",
+      "name": "Ambika Herath",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "geeta-devi-bsnl",
+      "name": "Geeta Devi",
+      "city": "BSNL",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "kajal-kumari-mumbai",
+      "name": "Kajal Kumari",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "m-parimala-devi-pspb",
+      "name": "M. Parimala Devi",
+      "city": "PSPb",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rashmi-kumari-pspb",
+      "name": "Rashmi Kumari",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "s-ilavhazaki-pspb",
+      "name": "S. Ilavhazaki",
+      "city": "PSPb",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categoryKey": "senior_men",
+  "categoryLabel": "Senior Men",
+  "scope": "national",
+  "champions": [
+    {
+      "name": "Suhas Kambli",
+      "affiliation": "Maharashtra, Mumbai",
+      "years": [
+        1961,
+        1970,
+        1971,
+        1975,
+        1979
+      ]
+    },
+    {
+      "name": "Arun Deshpande",
+      "affiliation": "Thane",
+      "years": [
+        1969
+      ]
+    },
+    {
+      "name": "Arun Kedar",
+      "affiliation": "Bank's Sports Board Bank of Maharashtra (Mumbai)",
+      "years": [
+        1993
+      ]
+    },
+    {
+      "name": "Sanjay Mande",
+      "affiliation": "TATA, Voltas Ltd., Mumbai",
+      "years": [
+        1995,
+        2002
+      ]
+    },
+    {
+      "name": "Nagsen Etambe",
+      "affiliation": "Banks' Sports Board, Bank of India, Mumbai",
+      "years": [
+        1997,
+        2000
+      ]
+    },
+    {
+      "name": "Yogesh Pardeshi",
+      "affiliation": "Petroleum Sports Promotion Board | Indian Oil, Pune",
+      "years": [
+        2008,
+        2010,
+        2012,
+        2016
+      ]
+    },
+    {
+      "name": "Sandeep Deorukhakar",
+      "affiliation": "Petroleum Sports Promotion Board | Indian Oil, Pune",
+      "years": [
+        2004
+      ]
+    },
+    {
+      "name": "Yogesh Dhongade",
+      "affiliation": "Jain Irrigation",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Prashant More",
+      "affiliation": "Reserve Bank of India",
+      "years": [
+        2018,
+        2019,
+        2024
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2025_59th_sub_junior_maharashtra_state_carrom_championship",
+  "pagePath": "2025_59th_sub_junior_maharashtra_state_carrom_championship.php",
+  "title": "59th Sub Junior Maharashtra State Carrom Championship 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "sub_junior_boys",
+      "label": "Sub-Junior Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Omkar R Vadar",
+          "city": "Kolhapur"
+        },
+        {
+          "position": 2,
+          "name": "Prasanna S Gole",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 3,
+          "name": "Umair F Pathan",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 4,
+          "name": "Neeil V Mhatre",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Arnav A Salvi",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Harshvardhan S Khade",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Vihaan V Dalvi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Ved M Brahme",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "sub_junior_girls",
+      "label": "Sub-Junior Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Vedika S Pomendkar",
+          "city": "Mumbai Suburban"
+        },
+        {
+          "position": 2,
+          "name": "Gauri D Sawant",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sara S Devan",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Susan Victor Paul Basimalla",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Susan Victor Paul Basimalla",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Meera M Apte",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 7,
+          "name": "Divya R Patil",
+          "city": "Dhule"
+        },
+        {
+          "position": 8,
+          "name": "Netra S Panthagani",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "cadet_boys",
+      "label": "Cadet Boys",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Shivansh U More",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Samarth P Khandelwal",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Devraj R Kathade",
+          "city": "Palghar"
+        },
+        {
+          "position": 4,
+          "name": "Rudra M Ingale",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "cadet_girls",
+      "label": "Cadet Girls",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Nidhi M Sapre",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Devika P Joshi",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Divya D Rane",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Aarvi S Shelar",
+          "city": "Pune"
+        }
+      ]
+    }
+  ]
+}

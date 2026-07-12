@@ -1,0 +1,62 @@
+{
+  "slug": "devika-p-joshi-thane",
+  "name": "Devika P Joshi",
+  "aliases": [
+    "Devika P Joshi"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_59th_sub_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Sub Junior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "cadet_girls",
+      "categoryLabel": "Cadet Girls",
+      "position": 2
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aarvi-s-shelar-pune",
+      "name": "Aarvi S Shelar",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "divya-rane-sindhudurg",
+      "name": "Divya D Rane",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "nidhi-m-sapre-ratnagiri",
+      "name": "Nidhi M Sapre",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

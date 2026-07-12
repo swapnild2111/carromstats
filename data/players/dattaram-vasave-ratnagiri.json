@@ -1,0 +1,96 @@
+{
+  "slug": "dattaram-vasave-ratnagiri",
+  "name": "Dattaram Vasave",
+  "aliases": [
+    "Dattaram Vasave"
+  ],
+  "cities": [
+    "Maharashtra",
+    "Ratnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 2,
+    "top8": 2
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2017_18_53rd_senior_maharashtrastate_and_inter_district_carrom_championship",
+      "tournamentTitle": "53rd Senior Maharashtra State Carrom Championship 2017-18",
+      "season": "2017-18",
+      "date": "2019-07-22",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2018_47th_senior_national_and_inter_state_carrom_championship",
+      "tournamentTitle": "47th SENIOR NATIONAL & INTER STATE CARROM CHAMPIONSHIP 2018-19",
+      "season": "2018-19",
+      "date": "2019-02-19",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "abdul-sattar-thane",
+      "name": "Abdul Sattar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "aslam-chitkey-maharashtra",
+      "name": "Aslam Chitkey",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "balasaheb-kanukale-mumbai",
+      "name": "Balasaheb Kanukale",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "manoharlal-gupta-assam",
+      "name": "Manoharlal Gupta",
+      "city": "Assam",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "manu-baria-mumbai",
+      "name": "Manu Baria",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "shabbir-khan-mumbaisub",
+      "name": "Shabbir Khan",
+      "city": "Maharashtra",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

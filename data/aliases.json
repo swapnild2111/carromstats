@@ -1,0 +1,17 @@
+{
+  "_note": "Manual player-identity merges. Keys are fingerprints 'normalized_name|normalized_city' as produced by scripts/lib/normalize.ts. Values are the canonical player slug the fingerprint should map to.",
+  "variantToCanonical": {
+    "aakanksha kadam|maharashta": "aakanksha-kadam-ratnagiri",
+    "abhijit tripankar|mumbaisub": "abhijit-tripankar-pune",
+    "abhijit tripankar|mumbai sub": "abhijit-tripankar-pune",
+    "pankaj pawar|mumbai": "pankaj-pawar-thane",
+    "keshar nirgun|ratnagiri": "keshar-nirgun-sindhudurg",
+    "keshar nirgun|thane": "keshar-nirgun-sindhudurg",
+    "sandeep dive|mumbai": "sandeep-dive-mumbaisub",
+    "sandeep dive|jalgaon": "sandeep-dive-mumbaisub",
+    "sandeep dive|pune": "sandeep-dive-mumbaisub",
+    "sandeep dive|mumbai sub": "sandeep-dive-mumbaisub",
+    "sandeep a dive|jalgaon": "sandeep-dive-mumbaisub",
+    "kunal raut|thane": "kunal-raut-mumbai"
+  }
+}

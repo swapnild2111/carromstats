@@ -1,0 +1,112 @@
+{
+  "slug": "satyanarayan-dontull-mumbai",
+  "name": "Satyanarayan Dontull",
+  "aliases": [
+    "Satyanarayan Dontull"
+  ],
+  "cities": [
+    "Mumbai"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 1,
+    "third": 2,
+    "top8": 3
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": 2,
+  "slamsAgainst": 0,
+  "matchesPlayed": 7,
+  "matchesWon": 3,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_59th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Senior Maharashtra State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": "2025-05-10",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 2
+    },
+    {
+      "tournamentSlug": "2024_58th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "58th Maharashtra State Carrom Championship 2024-25",
+      "season": "2024-25",
+      "date": "2024-08-15",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2023_57th_senior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "57th Maharashtra State Carrom Championship 2023-24",
+      "season": "2023-24",
+      "date": "2023-08-04",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "fayaz-shaikh-pune",
+      "name": "Fayaz Shaikh",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "shabbir-khan-mumbaisub",
+      "name": "Shabbir Khan",
+      "city": "Mumbai-Sub",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "babulal-shrimal-mumbai",
+      "name": "Babulal Shrimal",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "giridhar-bhoj-mumbai",
+      "name": "Giridhar Bhoj",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "hemant-panchal-mumbai",
+      "name": "Hemant Panchal",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sanjay-thite-pune",
+      "name": "Sanjay Thite",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shantilal-jitiya-mumbai",
+      "name": "Shantilal Jitiya",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

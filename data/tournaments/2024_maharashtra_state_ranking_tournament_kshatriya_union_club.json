@@ -1,0 +1,104 @@
+{
+  "slug": "2024_maharashtra_state_ranking_tournament_kshatriya_union_club",
+  "pagePath": "2024_maharashtra_state_ranking_tournament_kshatriya_union_club.php",
+  "title": "Maharashtra State Ranking Carrom Tournament 2024-2025 (Kshatriya Union Club )",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-05-04",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Naeem Ansari",
+          "city": "Jalgaon"
+        },
+        {
+          "position": 2,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Fahim Kazi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 8,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

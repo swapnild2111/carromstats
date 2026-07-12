@@ -1,0 +1,104 @@
+{
+  "slug": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament",
+  "pagePath": "2024_8th_shree_dattaraj_charitable_trust_nrusinhawadi_maharshtra_state_ranking_carrom_tournament.php",
+  "title": "8th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-06-08",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Sandeep Dive",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Abhijit Tripankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 3,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Neha Kumari",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament",
+  "pagePath": "2023_3rd_late_krishnakar_tipnis_memorial_trophy_state_ranking_carrom_tournament.php",
+  "title": "3rd Late Krishnakar Tipnis Memorial Trophy Maharashtra State Ranking Carrom Tournament 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": null,
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Kunal Rahut",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Zaid A Farooquie",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 3,
+          "name": "Anita Kanojiya",
+          "city": "Raigad"
+        },
+        {
+          "position": 4,
+          "name": "Medha Mathkari",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Urmila Shendge",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

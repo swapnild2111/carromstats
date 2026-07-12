@@ -1,0 +1,104 @@
+{
+  "slug": "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament",
+  "pagePath": "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament.php",
+  "title": "Shivshankar Utsav Mandal 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": "2026-03-13",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Dive",
+          "city": "Jalgaon"
+        },
+        {
+          "position": 4,
+          "name": "Rajesh Gohil",
+          "city": "Raigad"
+        },
+        {
+          "position": 5,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 8,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Chaitali A Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 8,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    }
+  ]
+}

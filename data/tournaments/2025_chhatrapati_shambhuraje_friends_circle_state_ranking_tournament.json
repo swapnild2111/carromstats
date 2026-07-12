@@ -1,0 +1,104 @@
+{
+  "slug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+  "pagePath": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament.php",
+  "title": "Chhatrapati Shambhuraje Friends Circle State Ranking Tournament 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": "2025-04-12",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Anil Mundhe",
+          "city": "Pune"
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Maniyar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Mande",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Prakash Gaikwad",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Kesha Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Chaitai Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Shobha Kamat",
+          "city": "Kolhapur"
+        }
+      ]
+    }
+  ]
+}

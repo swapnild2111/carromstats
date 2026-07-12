@@ -1,0 +1,104 @@
+{
+  "slug": "2023_2nd_mig_cricket_club_maharashtra_state_ranking_carrom_tournament",
+  "pagePath": "2023_2nd_mig_cricket_club_maharashtra_state_ranking_carrom_tournament.php",
+  "title": "2nd MIG Cricket Club Maharashtra State Ranking Carrom Tournament 2023-24",
+  "urlYear": 2023,
+  "season": "2023-24",
+  "date": "2023-10-06",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Girish Tambe",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Yogesh Dhongade",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 7,
+          "name": "Abmed Ali Sayyed",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Manoj Kamble",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Kajal Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 5,
+          "name": "Mitali Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Simran Shinde",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

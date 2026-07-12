@@ -1,0 +1,58 @@
+{
+  "slug": "2024_rotary_club_rapido_carrom_super6_tournament",
+  "pagePath": "2024_rotary_club_rapido_carrom_super6_tournament.php",
+  "title": "Rotary Club Rapido Carrom Super 6 Tournament 2024-25",
+  "urlYear": 2024,
+  "season": "2024-25",
+  "date": "2024-10-26",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Zaid Farooquee",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 4,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Sameer Ansari",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Sanjay Maniyar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Vishwanath Deorukhkar",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    }
+  ]
+}

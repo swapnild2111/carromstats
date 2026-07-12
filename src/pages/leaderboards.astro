@@ -1,0 +1,115 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getPlayerIndex } from '~/lib/data';
+
+const all = getPlayerIndex();
+
+const byWins = [...all].sort((a, b) => b.podium.first - a.podium.first || b.podium.top8 - a.podium.top8).slice(0, 15);
+const byPodiums = [...all].sort((a, b) => {
+  const pa = a.podium.first + a.podium.second + a.podium.third;
+  const pb = b.podium.first + b.podium.second + b.podium.third;
+  return pb - pa || b.podium.first - a.podium.first;
+}).slice(0, 15);
+const byActivity = [...all].sort((a, b) => b.podium.top8 - a.podium.top8).slice(0, 15);
+const byRunnerUp = [...all].sort((a, b) => b.podium.second - a.podium.second).slice(0, 15);
+
+function podiumTotal(p: typeof all[number]): number {
+  return p.podium.first + p.podium.second + p.podium.third;
+}
+---
+<Base title="Leaderboards" active="leaderboards">
+  <div class="section-heading">
+    <h1>Leaderboards</h1>
+    <p class="section-desc">
+      Derived rankings across all scraped tournaments — the same {all.length} players
+      sliced by different achievements.
+    </p>
+  </div>
+
+  <section class="grid-2 page-section">
+    <div class="card">
+      <div class="section-heading">
+        <h2>Most tournament wins</h2>
+        <p class="section-desc">1st-place finishes.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th></th><th>Player</th><th class="num">Wins</th></tr></thead>
+          <tbody>
+            {byWins.map((p, i) => (
+              <tr>
+                <td><span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span></td>
+                <td><a href={url(`/players/${p.slug}`)}>{p.name}</a>{p.city && <><br /><span class="muted small">{p.city}</span></>}</td>
+                <td class="num">{p.podium.first}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-heading">
+        <h2>Most podium finishes</h2>
+        <p class="section-desc">1st + 2nd + 3rd combined.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th></th><th>Player</th><th class="num">Podiums</th></tr></thead>
+          <tbody>
+            {byPodiums.map((p, i) => (
+              <tr>
+                <td><span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span></td>
+                <td><a href={url(`/players/${p.slug}`)}>{p.name}</a>{p.city && <><br /><span class="muted small">{p.city}</span></>}</td>
+                <td class="num">{podiumTotal(p)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-heading">
+        <h2>Most active</h2>
+        <p class="section-desc">Top-8 appearances across all tournaments.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th></th><th>Player</th><th class="num">Top&nbsp;8</th></tr></thead>
+          <tbody>
+            {byActivity.map((p, i) => (
+              <tr>
+                <td><span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span></td>
+                <td><a href={url(`/players/${p.slug}`)}>{p.name}</a>{p.city && <><br /><span class="muted small">{p.city}</span></>}</td>
+                <td class="num">{p.podium.top8}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-heading">
+        <h2>Runner-up champions</h2>
+        <p class="section-desc">Most 2nd-place finishes — the "so close" list.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th></th><th>Player</th><th class="num">2nd</th></tr></thead>
+          <tbody>
+            {byRunnerUp.map((p, i) => (
+              <tr>
+                <td><span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span></td>
+                <td><a href={url(`/players/${p.slug}`)}>{p.name}</a>{p.city && <><br /><span class="muted small">{p.city}</span></>}</td>
+                <td class="num">{p.podium.second}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</Base>

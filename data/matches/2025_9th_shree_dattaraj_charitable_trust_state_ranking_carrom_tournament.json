@@ -1,0 +1,765 @@
+{
+  "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            17,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            11,
+            25,
+            23
+          ],
+          "side2Scores": [
+            25,
+            6,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            17,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            0,
+            25
+          ],
+          "side2Scores": [
+            13,
+            25,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            20,
+            null
+          ],
+          "side2Scores": [
+            13,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            4,
+            25,
+            20
+          ],
+          "side2Scores": [
+            25,
+            10,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            23,
+            null
+          ],
+          "side2Scores": [
+            17,
+            5,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            20,
+            null
+          ],
+          "side2Scores": [
+            10,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            21,
+            22,
+            null
+          ],
+          "side2Scores": [
+            11,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            22,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            16,
+            18,
+            24
+          ],
+          "side2Scores": [
+            18,
+            15,
+            23
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            16,
+            15,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Hareshwar G Betwanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            5,
+            25
+          ],
+          "side2Scores": [
+            4,
+            23,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            19,
+            null
+          ],
+          "side2Scores": [
+            7,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Ashok S Gaur",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            0,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            0,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            11,
+            25
+          ],
+          "side2Scores": [
+            4,
+            15,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sanjay B Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Nilansh Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            19,
+            null
+          ],
+          "side2Scores": [
+            13,
+            12,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            16,
+            25
+          ],
+          "side2Scores": [
+            25,
+            8,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            7,
+            25,
+            25
+          ],
+          "side2Scores": [
+            21,
+            15,
+            5
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            13,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            11,
+            21,
+            null
+          ],
+          "side2Scores": [
+            10,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            2,
+            22,
+            24
+          ],
+          "side2Scores": [
+            17,
+            10,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            23,
+            25
+          ],
+          "side2Scores": [
+            21,
+            9,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            22,
+            null
+          ],
+          "side2Scores": [
+            7,
+            19,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            11,
+            16,
+            23
+          ],
+          "side2Scores": [
+            17,
+            9,
+            8
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            6,
+            19,
+            25
+          ],
+          "side2Scores": [
+            25,
+            2,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            6,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            4,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            17,
+            25
+          ],
+          "side2Scores": [
+            5,
+            25,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            4,
+            10,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

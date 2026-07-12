@@ -1,0 +1,94 @@
+{
+  "slug": "aryan-raut-ratnagiri",
+  "name": "Aryan Raut",
+  "aliases": [
+    "Aryan Raut"
+  ],
+  "cities": [
+    "Ratnagiri"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 0,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2025_59th_junior_maharashtra_state_carrom_championship",
+      "tournamentTitle": "59th Junior State Carrom Championship 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "junior_boys",
+      "categoryLabel": "Junior Boys",
+      "position": 7
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "aayush-b-garud-pune",
+      "name": "Aayush Garud",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "adil-shaikh-mumbai",
+      "name": "Adil Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "mnawar-abas-mumbaisub",
+      "name": "Mnawar Abas",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mohammad-sheikh-kolhapur",
+      "name": "Mohammad Sheikh",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "om-d-parkar-ratnagiri",
+      "name": "Om Parkar",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "omkar-r-vadar-kolhapur",
+      "name": "Omkar Vadar",
+      "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "umer-shaikh-mumbai",
+      "name": "Umer Shaikh",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

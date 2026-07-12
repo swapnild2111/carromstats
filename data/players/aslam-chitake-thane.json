@@ -1,0 +1,62 @@
+{
+  "slug": "aslam-chitake-thane",
+  "name": "Aslam Chitake",
+  "aliases": [
+    "Aslam Chitake"
+  ],
+  "cities": [
+    "Thane"
+  ],
+  "affiliation": null,
+  "podium": {
+    "first": 0,
+    "second": 0,
+    "third": 1,
+    "top8": 1
+  },
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
+  "titles": [],
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
+  "appearances": [
+    {
+      "tournamentSlug": "2018_54th_maharashtra_state_and_inter_district_carrom_championship",
+      "tournamentTitle": "54th Senior Maharashtra State Carrom Championship 2018-19",
+      "season": "2018-19",
+      "date": "2018-05-20",
+      "categoryKey": "veteran_men",
+      "categoryLabel": "Veteran Men",
+      "position": 3
+    }
+  ],
+  "rivals": [
+    {
+      "slug": "devshi-koli-mumbai",
+      "name": "Devshi Koli",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nandakumar-mhatre-mumbaisub",
+      "name": "Nandakumar Mhatre",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "shabbir-khan-mumbaisub",
+      "name": "Shabbir A Khan",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+---
+import Base from '~/layouts/Base.astro';
+import { url } from '~/lib/url';
+import { getPlayerIndex } from '~/lib/data';
+
+const all = getPlayerIndex();
+const sorted = [...all].sort((a, b) => {
+  const d = b.podium.top8 - a.podium.top8;
+  if (d !== 0) return d;
+  const d2 = b.podium.first - a.podium.first;
+  if (d2 !== 0) return d2;
+  return a.name.localeCompare(b.name);
+});
+---
+<Base title="Players" active="players">
+  <div class="section-heading">
+    <h1>Players</h1>
+    <p class="section-desc">
+      {sorted.length} players ranked by total top-8 appearances across all scraped tournaments.
+    </p>
+  </div>
+
+  {sorted.length === 0 ? (
+    <p class="empty">No players yet. Run <code>npm run refresh</code>.</p>
+  ) : (
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th style="width:56px">#</th>
+            <th>Player</th>
+            <th>City</th>
+            <th class="num">1st</th>
+            <th class="num">2nd</th>
+            <th class="num">3rd</th>
+            <th class="num">Top&nbsp;8</th>
+            <th class="num">Slams</th>
+            <th class="num">Matches</th>
+            <th class="num">Titles</th>
+            <th class="num">Rank</th>
+            <th class="num">Points</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sorted.map((p, i) => (
+            <tr>
+              <td>
+                <span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span>
+              </td>
+              <td><a href={url(`/players/${p.slug}`)}>{p.name}</a></td>
+              <td class="muted small">{p.city ?? ''}</td>
+              <td class="num">{p.podium.first}</td>
+              <td class="num muted-num">{p.podium.second}</td>
+              <td class="num muted-num">{p.podium.third}</td>
+              <td class="num">{p.podium.top8}</td>
+              <td class="num">{p.slams ?? ''}</td>
+              <td class="num muted-num">{p.matchesPlayed ? `${p.matchesWon}/${p.matchesPlayed}` : ''}</td>
+              <td class="num">{p.titles || ''}</td>
+              <td class="num">{p.currentRank ? `#${p.currentRank}` : ''}</td>
+              <td class="num">{p.currentPoints ?? ''}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+</Base>

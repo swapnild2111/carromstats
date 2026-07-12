@@ -1,0 +1,116 @@
+{
+  "categoryKey": "sub_junior_boys",
+  "categoryLabel": "Sub-Junior Boys",
+  "scope": "state",
+  "champions": [
+    {
+      "name": "Ravindra Bachhalwar",
+      "affiliation": "Mumbai",
+      "years": [
+        1984
+      ]
+    },
+    {
+      "name": "Prashant More",
+      "affiliation": "Mumbai",
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Roshan Chavan",
+      "affiliation": "Sindhudurg",
+      "years": [
+        2004
+      ]
+    },
+    {
+      "name": "Naeem Akhtar Ansari",
+      "affiliation": "Jalgaon",
+      "years": [
+        2006
+      ]
+    },
+    {
+      "name": "Yash Birwadkar",
+      "affiliation": "Raigad",
+      "years": [
+        2010
+      ]
+    },
+    {
+      "name": "Jayesh Ayer",
+      "affiliation": "Mumbai",
+      "years": [
+        2011
+      ]
+    },
+    {
+      "name": "Deep Joshi",
+      "affiliation": "Raigad",
+      "years": [
+        2012
+      ]
+    },
+    {
+      "name": "Ritikesh Walmiki",
+      "affiliation": "Mumbai",
+      "years": [
+        2013
+      ]
+    },
+    {
+      "name": "Siddharth Mahapatra",
+      "affiliation": "Thane",
+      "years": [
+        2014
+      ]
+    },
+    {
+      "name": "Neeraj Kamble",
+      "affiliation": "Mumbai",
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    {
+      "name": "Ojas Jadhav",
+      "affiliation": "Mumbai",
+      "years": [
+        2017
+      ]
+    },
+    {
+      "name": "Mihir Shaikh",
+      "affiliation": "Mumbai",
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Pranav Gaikwad",
+      "affiliation": "Pune",
+      "years": [
+        2022
+      ]
+    },
+    {
+      "name": "Ayush Garud",
+      "affiliation": "Pune",
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Omkar R Vadar",
+      "affiliation": "Kolhapur",
+      "years": [
+        2025
+      ]
+    }
+  ]
+}

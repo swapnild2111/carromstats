@@ -1,0 +1,1747 @@
+{
+  "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+  "rounds": [
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            19,
+            25,
+            25
+          ],
+          "side2Scores": [
+            23,
+            10,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            24
+          ],
+          "side2Scores": [
+            10,
+            24,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            16,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            5,
+            5
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            20,
+            22,
+            null
+          ],
+          "side2Scores": [
+            12,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            23,
+            14,
+            25
+          ],
+          "side2Scores": [
+            7,
+            19,
+            4
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            16,
+            null
+          ],
+          "side2Scores": [
+            6,
+            14,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            8,
+            24
+          ],
+          "side2Scores": [
+            22,
+            25,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            19,
+            25,
+            22
+          ],
+          "side2Scores": [
+            21,
+            15,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            8,
+            25
+          ],
+          "side2Scores": [
+            6,
+            23,
+            20
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            12,
+            25,
+            25
+          ],
+          "side2Scores": [
+            24,
+            1,
+            5
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Niraj G Kamble",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            10,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mohammad Ghufran",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            9,
+            25
+          ],
+          "side2Scores": [
+            15,
+            25,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Kishor S Bhondve",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Nilansh H Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sameer Mohd. Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            17,
+            25
+          ],
+          "side2Scores": [
+            9,
+            19,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooqui",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Kunal P Raut",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            5,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            24,
+            21
+          ],
+          "side2Scores": [
+            20,
+            10,
+            20
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            1,
+            24,
+            18
+          ],
+          "side2Scores": [
+            25,
+            14,
+            14
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            21,
+            null
+          ],
+          "side2Scores": [
+            8,
+            19,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            14,
+            0,
+            22
+          ],
+          "side2Scores": [
+            13,
+            25,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            15,
+            25,
+            25
+          ],
+          "side2Scores": [
+            21,
+            12,
+            13
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            22,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            23,
+            23,
+            null
+          ],
+          "side2Scores": [
+            19,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            0,
+            22,
+            22
+          ],
+          "side2Scores": [
+            25,
+            16,
+            21
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            18,
+            18
+          ],
+          "side2Scores": [
+            1,
+            19,
+            6
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Keshar R Nirgun",
+            "city": "Sindhudurg"
+          },
+          "side2": {
+            "name": "Anjali V Siripuram",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            22,
+            null
+          ],
+          "side2Scores": [
+            6,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Maitrayee Gogate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            6,
+            24,
+            17
+          ],
+          "side2Scores": [
+            23,
+            6,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aisha S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            9,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Mitali B Pathak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            19,
+            25
+          ],
+          "side2Scores": [
+            22,
+            2,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilam B Ghodake",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            18,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            9,
+            25
+          ],
+          "side2Scores": [
+            4,
+            13,
+            20
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shruti P Sonawane",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            10,
+            13,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "singles_veteran",
+      "roundLabel": "singles_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Thite",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Satyanarayan R Dontulla",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            19,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Thite",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Fayyaz A Shaikh",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            22,
+            15,
+            22
+          ],
+          "side2Scores": [
+            23,
+            11,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Satyanarayan R Dontulla",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            12,
+            20,
+            25
+          ],
+          "side2Scores": [
+            22,
+            13,
+            1
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "position_veteran",
+      "roundLabel": "position_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Fayyaz A Shaikh",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            20,
+            null
+          ],
+          "side2Scores": [
+            18,
+            19,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter_veteran",
+      "roundLabel": "quarter_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Fayyaz A Shaikh",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Shabbir B Khan",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            6,
+            21
+          ],
+          "side2Scores": [
+            15,
+            22,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Thite",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Milind Wadkar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            7,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            10,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Noor M Shaikh",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            12,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Satyanarayan R Dontulla",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Giridhar S Bhoj",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            12,
+            23,
+            20
+          ],
+          "side2Scores": [
+            13,
+            10,
+            15
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter_veteran",
+      "roundLabel": "prequarter_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Fayyaz A Shaikh",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sudhakar S Shirke",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shabbir B Khan",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Ashok S Gaikwad",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            13,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            7,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Milind Wadkar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Balkrishna P Lokhare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            18,
+            24,
+            null
+          ],
+          "side2Scores": [
+            2,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Thite",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rajkumar V Thakur",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            5,
+            25,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anil P Tayshete",
+            "city": "Sindhudurg"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Noor M Shaikh",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pavan Y Mestry",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            22,
+            null
+          ],
+          "side2Scores": [
+            13,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Giridhar S Bhoj",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Anil P Bodhare",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            1,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            13,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Satyanarayan R Dontulla",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sudhir Pawar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            1,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "singles_veteran",
+      "roundLabel": "singles_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side2": {
+            "name": "Madhuri Tayshete",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            14,
+            25
+          ],
+          "side2Scores": [
+            4,
+            15,
+            9
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhuri Tayshete",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Minal Sanjiv Lele Khare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            10,
+            16,
+            22
+          ],
+          "side2Scores": [
+            24,
+            15,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side2": {
+            "name": "Rozina Godad",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            4,
+            21,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "position_veteran",
+      "roundLabel": "position_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rozina Godad",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Minal Sanjiv Lele Khare",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            13,
+            24,
+            null
+          ],
+          "side2Scores": [
+            12,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter_veteran",
+      "roundLabel": "quarter_veteran",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Minal Sanjiv Lele Khare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Asha Nagpal",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhuri Tayshete",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            8,
+            25
+          ],
+          "side2Scores": [
+            3,
+            18,
+            21
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rozina Godad",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Neela S Chaughule",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side2": {
+            "name": "Jaymala J Parab",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            22,
+            21,
+            null
+          ],
+          "side2Scores": [
+            12,
+            14,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "team_final",
+      "roundLabel": "team_final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "ThaneZaid Ahmed Farooqui",
+            "city": null
+          },
+          "side2": {
+            "name": "PuneAbhijit Dattatray Tripankar",
+            "city": null
+          },
+          "side1Scores": [
+            9,
+            25,
+            23
+          ],
+          "side2Scores": [
+            25,
+            12,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "PuneYogesh Udaybhan Pardeshi",
+            "city": null
+          },
+          "side2": {
+            "name": "ThaneKunal Prakash Raut",
+            "city": null
+          },
+          "side1Scores": [
+            8,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            8,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "PuneAnil Dilip MundheRahim Karim Khan",
+            "city": null
+          },
+          "side2": {
+            "name": "ThanePankaj Ashok PawarSameer Mohd. Jabir Ansari",
+            "city": null
+          },
+          "side1Scores": [
+            25,
+            16,
+            null
+          ],
+          "side2Scores": [
+            13,
+            13,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
+      "categoryKey": "men_singles",
+      "roundKey": "team_semi",
+      "roundLabel": "team_semi",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "PuneAbhijit Dattatray Tripankar",
+            "city": null
+          },
+          "side2": {
+            "name": "MumbaiVikas Harish Dharia",
+            "city": null
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "PuneYogesh Udaybhan Pardeshi",
+            "city": null
+          },
+          "side2": {
+            "name": "MumbaiPrashant Suryakant More",
+            "city": null
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            15,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "MumbaiNilansh Hiten ChiplunkarGirish Tambe",
+            "city": null
+          },
+          "side2": {
+            "name": "PuneChand Yusuf ShaikhRahim Karim Khan",
+            "city": null
+          },
+          "side1Scores": [
+            24,
+            16,
+            null
+          ],
+          "side2Scores": [
+            12,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "RatnagiriAbhishek Dasharath Chavan",
+            "city": null
+          },
+          "side2": {
+            "name": "ThaneZaid Ahmed Farooqui",
+            "city": null
+          },
+          "side1Scores": [
+            23,
+            10,
+            25
+          ],
+          "side2Scores": [
+            17,
+            24,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "ThaneKunal Prakash Raut",
+            "city": null
+          },
+          "side2": {
+            "name": "RatnagiriRiyaz Akbar Ali",
+            "city": null
+          },
+          "side1Scores": [
+            4,
+            24,
+            25
+          ],
+          "side2Scores": [
+            25,
+            22,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "ThaneSameer Mohd. Jabir AnsariPankaj Ashok Pawar",
+            "city": null
+          },
+          "side2": {
+            "name": "RatnagiriRahul Eknath BhasmeYogesh Janardhan Kondvilkar",
+            "city": null
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            1,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

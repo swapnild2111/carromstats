@@ -1,0 +1,104 @@
+{
+  "slug": "2022_13th_shivaji_park_gymkhana_state_ranking_tournament",
+  "pagePath": "2022_13th_shivaji_park_gymkhana_state_ranking_tournament.php",
+  "title": "13th SHIVAJI PARK GYMKHANA STATE RANKING CARROM TOURNAMENT 2022-23",
+  "urlYear": 2022,
+  "season": "2022-23",
+  "date": "2022-04-22",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Sandeep Dive",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Pankaj Pawar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Mukesh Sharma",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 2,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Preeti Khedekar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Apoorva Nachankar",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Sejal Lokhande",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

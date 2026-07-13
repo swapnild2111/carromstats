@@ -52,6 +52,7 @@ jobs:
           fi
 
       - name: Open PR with data diff
+        id: pr
         if: steps.diff.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
@@ -60,10 +61,22 @@ jobs:
           branch: mca-refresh/${{ github.run_id }}
           delete-branch: true
           body: |
-            Automated refresh of scraped MCA data. Merges are manual for v1.
+            Automated refresh of scraped MCA data.
 
             - Sanity checks passed
-            - Review the diff before merging — the aggregator occasionally over-merges same-named players
+            - Auto-merge is enabled; the PR will merge once required checks pass.
+              Disable auto-merge or close the PR if you want to review manually.
+            - The aggregator occasionally over-merges same-named players — glance at
+              `data/players/_index.json` if the diff looks large.
+
+      - name: Squash-merge the refresh PR
+        if: steps.pr.outputs.pull-request-number != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge "${{ steps.pr.outputs.pull-request-number }}" \
+            --repo "${{ github.repository }}" \
+            --squash --delete-branch
 
       - name: Open issue on failure
         if: failure()

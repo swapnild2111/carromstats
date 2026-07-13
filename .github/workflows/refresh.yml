@@ -2,7 +2,7 @@ name: Refresh MCA data
 
 on:
   schedule:
-    - cron: '17 3 * * 1'  # Mondays 03:17 UTC — off-peak
+    - cron: '30 18 * * *'  # Daily at 18:30 UTC = midnight IST
   workflow_dispatch:
 
 permissions:

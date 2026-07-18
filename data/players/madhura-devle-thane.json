@@ -247,6 +247,14 @@
       "lostAgainst": 2
     },
     {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
       "slug": "nilam-ghodake-mumbai",
       "name": "Nilam Ghodake",
       "city": "Mumbai",
@@ -325,22 +333,6 @@
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
-    },
-    {
-      "slug": "maitreyee-gogate-mumbai",
-      "name": "Maitreyee Gogate",
-      "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "maitreyee-gogate-ragnagiri",
-      "name": "Maitreyee Gogate",
-      "city": "Ragnagiri",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
     },
     {
       "slug": "mayuri-s-gawade-sindhudurg",

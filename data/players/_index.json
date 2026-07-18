@@ -75,15 +75,15 @@
     "slug": "vikas-dharia-mumbai",
     "name": "Vikas Dharia",
     "city": "Mumbai",
-    "affiliation": null,
+    "affiliation": "Mumbai",
     "podium": {
       "first": 3,
       "second": 6,
       "third": 6,
       "top8": 40
     },
-    "currentPoints": null,
-    "currentRank": null,
+    "currentPoints": 6,
+    "currentRank": 9,
     "titles": 0,
     "slams": 13,
     "matchesPlayed": 98,
@@ -119,7 +119,7 @@
       "top8": 37
     },
     "currentPoints": 8,
-    "currentRank": 8,
+    "currentRank": 7,
     "titles": 0,
     "slams": 11,
     "matchesPlayed": 127,
@@ -299,7 +299,7 @@
       "top8": 22
     },
     "currentPoints": 8,
-    "currentRank": 7,
+    "currentRank": 8,
     "titles": 2,
     "slams": 10,
     "matchesPlayed": 86,
@@ -900,6 +900,24 @@
     "matchesWon": 3
   },
   {
+    "slug": "maitreyee-gogate-mumbai",
+    "name": "Maitreyee Gogate",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "top8": 6
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
     "slug": "malti-kelkar-mumbai",
     "name": "Malti Kelkar",
     "city": "Mumbai",
@@ -1017,24 +1035,6 @@
       "second": 0,
       "third": 2,
       "top8": 6
-    },
-    "currentPoints": null,
-    "currentRank": null,
-    "titles": 0,
-    "slams": null,
-    "matchesPlayed": null,
-    "matchesWon": null
-  },
-  {
-    "slug": "maitreyee-gogate-mumbai",
-    "name": "Maitreyee Gogate",
-    "city": "Mumbai",
-    "affiliation": null,
-    "podium": {
-      "first": 0,
-      "second": 0,
-      "third": 1,
-      "top8": 5
     },
     "currentPoints": null,
     "currentRank": null,
@@ -1677,15 +1677,15 @@
     "slug": "omkar-tilak-mumbai",
     "name": "Omkar Tilak",
     "city": "Mumbai",
-    "affiliation": null,
+    "affiliation": "Mumbai",
     "podium": {
       "first": 0,
       "second": 0,
       "third": 0,
       "top8": 3
     },
-    "currentPoints": null,
-    "currentRank": null,
+    "currentPoints": 2,
+    "currentRank": 14,
     "titles": 0,
     "slams": 3,
     "matchesPlayed": 17,
@@ -4598,24 +4598,6 @@
       "first": 0,
       "second": 0,
       "third": 1,
-      "top8": 1
-    },
-    "currentPoints": null,
-    "currentRank": null,
-    "titles": 0,
-    "slams": null,
-    "matchesPlayed": null,
-    "matchesWon": null
-  },
-  {
-    "slug": "maitreyee-gogate-ragnagiri",
-    "name": "Maitreyee Gogate",
-    "city": "Ragnagiri",
-    "affiliation": null,
-    "podium": {
-      "first": 0,
-      "second": 0,
-      "third": 0,
       "top8": 1
     },
     "currentPoints": null,

@@ -395,25 +395,17 @@
       "lostAgainst": 0
     },
     {
-      "slug": "diksha-chavan-sindhudurg",
-      "name": "Diksha Chavan",
-      "city": "Sindhudurg",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
       "slug": "maitreyee-gogate-mumbai",
       "name": "Maitreyee Gogate",
       "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
+      "coAppearances": 2,
+      "wonAgainst": 2,
       "lostAgainst": 0
     },
     {
-      "slug": "maitreyee-gogate-ragnagiri",
-      "name": "Maitreyee Gogate",
-      "city": "Ragnagiri",
+      "slug": "diksha-chavan-sindhudurg",
+      "name": "Diksha Chavan",
+      "city": "Sindhudurg",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

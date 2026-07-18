@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T19:44:25.602Z",
+  "fetchedAt": "2026-07-18T19:46:26.742Z",
   "asOf": null,
   "categories": [
     {
@@ -101,7 +101,7 @@
         },
         {
           "rank": 9,
-          "name": "Vikad Dharia",
+          "name": "Vikas Dharia",
           "affiliation": "Mumbai",
           "perTournament": [
             null,
@@ -156,7 +156,7 @@
         },
         {
           "rank": 14,
-          "name": "Onkar Tilak",
+          "name": "Omkar Tilak",
           "affiliation": "Mumbai",
           "perTournament": [
             null,
@@ -409,23 +409,23 @@
         },
         {
           "rank": 7,
-          "name": "Keshar Nirgun",
-          "affiliation": "Institution",
-          "perTournament": [
-            4,
-            0,
-            4
-          ],
-          "total": 8
-        },
-        {
-          "rank": 8,
           "name": "Prajakta Narayankar",
           "affiliation": "Institution",
           "perTournament": [
             8,
             null,
             0
+          ],
+          "total": 8
+        },
+        {
+          "rank": 8,
+          "name": "Keshar Nirgun",
+          "affiliation": "Institution",
+          "perTournament": [
+            4,
+            0,
+            4
           ],
           "total": 8
         },

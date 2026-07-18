@@ -345,6 +345,14 @@
       "lostAgainst": 1
     },
     {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
       "slug": "rinky-kumari-mumbai",
       "name": "Rinky Kumari",
       "city": "Mumbai",
@@ -369,14 +377,6 @@
       "lostAgainst": 2
     },
     {
-      "slug": "maitreyee-gogate-mumbai",
-      "name": "Maitreyee Gogate",
-      "city": "Mumbai",
-      "coAppearances": 2,
-      "wonAgainst": 1,
-      "lostAgainst": 1
-    },
-    {
       "slug": "sangeeta-chandorkar-mumbai",
       "name": "Sangeeta Chandorkar",
       "city": "Mumbai",
@@ -396,14 +396,6 @@
       "slug": "chaital-suvare-thane",
       "name": "Chaital Suvare",
       "city": "Thane",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "maitreyee-gogate-ragnagiri",
-      "name": "Maitreyee Gogate",
-      "city": "Ragnagiri",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

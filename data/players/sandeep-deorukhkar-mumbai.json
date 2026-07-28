@@ -10,16 +10,16 @@
     "ONGC",
     "PSPB"
   ],
-  "affiliation": null,
+  "affiliation": "Mumbai",
   "podium": {
     "first": 1,
     "second": 2,
     "third": 1,
     "top8": 16
   },
-  "currentPoints": null,
-  "currentRank": null,
-  "currentRankCategory": null,
+  "currentPoints": 0,
+  "currentRank": 24,
+  "currentRankCategory": "Men's Singles",
   "titles": [
     {
       "scope": "national",

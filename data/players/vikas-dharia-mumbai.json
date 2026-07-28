@@ -8,16 +8,16 @@
     "Maharashtra",
     "Mumbai"
   ],
-  "affiliation": "Mumbai",
+  "affiliation": null,
   "podium": {
     "first": 3,
     "second": 6,
     "third": 6,
     "top8": 40
   },
-  "currentPoints": 6,
-  "currentRank": 9,
-  "currentRankCategory": "Men's Singles",
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
   "titles": [],
   "slams": 13,
   "slamsAgainst": 7,

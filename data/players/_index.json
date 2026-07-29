@@ -5,10 +5,10 @@
     "city": "Mumbai",
     "affiliation": "Institution",
     "podium": {
-      "first": 20,
+      "first": 21,
       "second": 10,
       "third": 10,
-      "top8": 52
+      "top8": 53
     },
     "currentPoints": 21,
     "currentRank": 3,
@@ -24,9 +24,9 @@
     "affiliation": "Ratnagiri",
     "podium": {
       "first": 17,
-      "second": 6,
+      "second": 7,
       "third": 5,
-      "top8": 49
+      "top8": 50
     },
     "currentPoints": 16,
     "currentRank": 5,
@@ -90,6 +90,24 @@
     "matchesWon": 53
   },
   {
+    "slug": "prajakta-narayankar-mumbaisub",
+    "name": "Prajakta Narayankar",
+    "city": "Mumbai-Sub",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 3,
+      "third": 5,
+      "top8": 38
+    },
+    "currentPoints": 14,
+    "currentRank": 6,
+    "titles": 0,
+    "slams": 11,
+    "matchesPlayed": 127,
+    "matchesWon": 64
+  },
+  {
     "slug": "sandeep-dive-mumbaisub",
     "name": "Sandeep A Dive",
     "city": "Mumbai",
@@ -106,24 +124,6 @@
     "slams": 1,
     "matchesPlayed": 30,
     "matchesWon": 18
-  },
-  {
-    "slug": "prajakta-narayankar-mumbaisub",
-    "name": "Prajakta Narayankar",
-    "city": "Mumbai-Sub",
-    "affiliation": "Institution",
-    "podium": {
-      "first": 1,
-      "second": 3,
-      "third": 4,
-      "top8": 37
-    },
-    "currentPoints": 14,
-    "currentRank": 6,
-    "titles": 0,
-    "slams": 11,
-    "matchesPlayed": 127,
-    "matchesWon": 64
   },
   {
     "slug": "mohd-ghufran-mumbai",
@@ -162,6 +162,24 @@
     "matchesWon": 53
   },
   {
+    "slug": "pankaj-pawar-thane",
+    "name": "Pankaj Pawar",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 1,
+      "second": 5,
+      "third": 5,
+      "top8": 32
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 2,
+    "slams": 4,
+    "matchesPlayed": 81,
+    "matchesWon": 41
+  },
+  {
     "slug": "nilam-ghodake-mumbai",
     "name": "Nilam B Ghodake",
     "city": "Mumbai",
@@ -178,24 +196,6 @@
     "slams": 8,
     "matchesPlayed": 72,
     "matchesWon": 42
-  },
-  {
-    "slug": "pankaj-pawar-thane",
-    "name": "Pankaj Pawar",
-    "city": "Mumbai",
-    "affiliation": null,
-    "podium": {
-      "first": 1,
-      "second": 5,
-      "third": 4,
-      "top8": 31
-    },
-    "currentPoints": null,
-    "currentRank": null,
-    "titles": 2,
-    "slams": 4,
-    "matchesPlayed": 81,
-    "matchesWon": 41
   },
   {
     "slug": "ambika-harith-mumbai",
@@ -260,7 +260,7 @@
       "first": 1,
       "second": 5,
       "third": 3,
-      "top8": 24
+      "top8": 25
     },
     "currentPoints": 25,
     "currentRank": 2,
@@ -296,7 +296,7 @@
       "first": 4,
       "second": 4,
       "third": 5,
-      "top8": 22
+      "top8": 23
     },
     "currentPoints": 11,
     "currentRank": 8,
@@ -368,7 +368,7 @@
       "first": 1,
       "second": 1,
       "third": 0,
-      "top8": 16
+      "top8": 17
     },
     "currentPoints": 6,
     "currentRank": 12,
@@ -376,6 +376,42 @@
     "slams": 3,
     "matchesPlayed": 62,
     "matchesWon": 18
+  },
+  {
+    "slug": "rinky-kumari-mumbai",
+    "name": "Rinky Kumari",
+    "city": "Mumbai",
+    "affiliation": "Mumbai",
+    "podium": {
+      "first": 1,
+      "second": 4,
+      "third": 3,
+      "top8": 17
+    },
+    "currentPoints": 8,
+    "currentRank": 10,
+    "titles": 0,
+    "slams": 2,
+    "matchesPlayed": 60,
+    "matchesWon": 30
+  },
+  {
+    "slug": "mohammad-ghufran-mumbai",
+    "name": "Mohammad Ghufran",
+    "city": "Mumbai",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 5,
+      "second": 2,
+      "third": 1,
+      "top8": 16
+    },
+    "currentPoints": 20,
+    "currentRank": 4,
+    "titles": 0,
+    "slams": 4,
+    "matchesPlayed": 40,
+    "matchesWon": 27
   },
   {
     "slug": "pushkarni-bhattad-pune",
@@ -396,24 +432,6 @@
     "matchesWon": 10
   },
   {
-    "slug": "rinky-kumari-mumbai",
-    "name": "Rinky Kumari",
-    "city": "Mumbai",
-    "affiliation": "Mumbai",
-    "podium": {
-      "first": 1,
-      "second": 4,
-      "third": 3,
-      "top8": 16
-    },
-    "currentPoints": 8,
-    "currentRank": 10,
-    "titles": 0,
-    "slams": 2,
-    "matchesPlayed": 60,
-    "matchesWon": 30
-  },
-  {
     "slug": "sandeep-deorukhkar-mumbai",
     "name": "Sandeep Deorukhkar",
     "city": "Mumbai",
@@ -432,22 +450,22 @@
     "matchesWon": 8
   },
   {
-    "slug": "mohammad-ghufran-mumbai",
-    "name": "Mohammad Ghufran",
+    "slug": "rahul-solanki-mumbai",
+    "name": "Rahul Solanki",
     "city": "Mumbai",
-    "affiliation": "Institution",
+    "affiliation": "Mumbai-Sub",
     "podium": {
-      "first": 5,
+      "first": 1,
       "second": 2,
       "third": 1,
       "top8": 15
     },
-    "currentPoints": 20,
-    "currentRank": 4,
+    "currentPoints": 0,
+    "currentRank": 24,
     "titles": 0,
-    "slams": 4,
+    "slams": 2,
     "matchesPlayed": 40,
-    "matchesWon": 27
+    "matchesWon": 17
   },
   {
     "slug": "sangeeta-chandorkar-mumbai",
@@ -502,24 +520,6 @@
     "slams": 6,
     "matchesPlayed": 41,
     "matchesWon": 24
-  },
-  {
-    "slug": "rahul-solanki-mumbai",
-    "name": "Rahul Solanki",
-    "city": "Mumbai",
-    "affiliation": "Mumbai-Sub",
-    "podium": {
-      "first": 1,
-      "second": 2,
-      "third": 1,
-      "top8": 14
-    },
-    "currentPoints": 0,
-    "currentRank": 24,
-    "titles": 0,
-    "slams": 2,
-    "matchesPlayed": 40,
-    "matchesWon": 17
   },
   {
     "slug": "siddhant-wadwalkar-mumbai",
@@ -594,6 +594,24 @@
     "matchesWon": 12
   },
   {
+    "slug": "madhura-devle-thane",
+    "name": "Madhura M Devle",
+    "city": "Thane",
+    "affiliation": "Thane",
+    "podium": {
+      "first": 3,
+      "second": 4,
+      "third": 0,
+      "top8": 12
+    },
+    "currentPoints": 20,
+    "currentRank": 3,
+    "titles": 2,
+    "slams": 0,
+    "matchesPlayed": 34,
+    "matchesWon": 15
+  },
+  {
     "slug": "anjali-siripuram-mumbai",
     "name": "Anjali V Siripuram",
     "city": "Mumbai",
@@ -609,24 +627,6 @@
     "titles": 0,
     "slams": 3,
     "matchesPlayed": 54,
-    "matchesWon": 15
-  },
-  {
-    "slug": "madhura-devle-thane",
-    "name": "Madhura M Devle",
-    "city": "Thane",
-    "affiliation": "Thane",
-    "podium": {
-      "first": 2,
-      "second": 4,
-      "third": 0,
-      "top8": 11
-    },
-    "currentPoints": 20,
-    "currentRank": 3,
-    "titles": 2,
-    "slams": 0,
-    "matchesPlayed": 34,
     "matchesWon": 15
   },
   {
@@ -1386,6 +1386,24 @@
     "matchesWon": null
   },
   {
+    "slug": "omkar-tilak-mumbai",
+    "name": "Omkar Tilak",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 4
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 17,
+    "matchesWon": 8
+  },
+  {
     "slug": "s-appoorwa-lic",
     "name": "S. Appoorwa",
     "city": "LIC",
@@ -1584,6 +1602,24 @@
     "matchesWon": null
   },
   {
+    "slug": "kunal-raut-mumbai",
+    "name": "Kunal Raut",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": 1,
+    "matchesPlayed": 19,
+    "matchesWon": 4
+  },
+  {
     "slug": "manu-baria-mumbai",
     "name": "Manu Baria",
     "city": "Mumbai",
@@ -1674,24 +1710,6 @@
     "matchesWon": 2
   },
   {
-    "slug": "omkar-tilak-mumbai",
-    "name": "Omkar Tilak",
-    "city": "Mumbai",
-    "affiliation": null,
-    "podium": {
-      "first": 0,
-      "second": 0,
-      "third": 0,
-      "top8": 3
-    },
-    "currentPoints": null,
-    "currentRank": null,
-    "titles": 0,
-    "slams": 3,
-    "matchesPlayed": 17,
-    "matchesWon": 8
-  },
-  {
     "slug": "sakhee-datar-thane",
     "name": "Sakhee Datar",
     "city": "Thane",
@@ -1708,6 +1726,24 @@
     "slams": 0,
     "matchesPlayed": 2,
     "matchesWon": 0
+  },
+  {
+    "slug": "sanjay-mande-thane",
+    "name": "Sanjay Mande",
+    "city": "Thane",
+    "affiliation": "Thane",
+    "podium": {
+      "first": 0,
+      "second": 2,
+      "third": 0,
+      "top8": 3
+    },
+    "currentPoints": 8,
+    "currentRank": 8,
+    "titles": 0,
+    "slams": 3,
+    "matchesPlayed": 44,
+    "matchesWon": 15
   },
   {
     "slug": "sanjay-maniyar-mumbaisub",
@@ -2178,24 +2214,6 @@
     "matchesWon": null
   },
   {
-    "slug": "kunal-raut-mumbai",
-    "name": "Kunal Raut",
-    "city": "Mumbai",
-    "affiliation": null,
-    "podium": {
-      "first": 0,
-      "second": 0,
-      "third": 0,
-      "top8": 2
-    },
-    "currentPoints": null,
-    "currentRank": null,
-    "titles": 0,
-    "slams": 1,
-    "matchesPlayed": 19,
-    "matchesWon": 4
-  },
-  {
     "slug": "mamta-kumari-mumbai",
     "name": "Mamta Kumari",
     "city": "Mumbai",
@@ -2574,24 +2592,6 @@
     "matchesWon": null
   },
   {
-    "slug": "sanjay-mande-thane",
-    "name": "Sanjay Mande",
-    "city": "Thane",
-    "affiliation": "Thane",
-    "podium": {
-      "first": 0,
-      "second": 1,
-      "third": 0,
-      "top8": 2
-    },
-    "currentPoints": 8,
-    "currentRank": 8,
-    "titles": 0,
-    "slams": 3,
-    "matchesPlayed": 44,
-    "matchesWon": 15
-  },
-  {
     "slug": "sanjay-thite-pune",
     "name": "Sanjay Thite",
     "city": "Pune",
@@ -2806,6 +2806,24 @@
     "slams": 0,
     "matchesPlayed": 9,
     "matchesWon": 2
+  },
+  {
+    "slug": "zaid-farooqui-thane",
+    "name": "Zaid Farooqui",
+    "city": "Thane",
+    "affiliation": "Institution",
+    "podium": {
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "top8": 2
+    },
+    "currentPoints": 22,
+    "currentRank": 2,
+    "titles": 1,
+    "slams": 0,
+    "matchesPlayed": 12,
+    "matchesWon": 9
   },
   {
     "slug": "a-surendra-babu-tamilnadu",
@@ -4662,6 +4680,24 @@
     "matchesWon": null
   },
   {
+    "slug": "matraiyee-gogate-mumbai",
+    "name": "Matraiyee Gogate",
+    "city": "Mumbai",
+    "affiliation": null,
+    "podium": {
+      "first": 0,
+      "second": 0,
+      "third": 0,
+      "top8": 1
+    },
+    "currentPoints": null,
+    "currentRank": null,
+    "titles": 0,
+    "slams": null,
+    "matchesPlayed": null,
+    "matchesWon": null
+  },
+  {
     "slug": "meera-m-apte-sindhudurg",
     "name": "Meera M Apte",
     "city": "Sindhudurg",
@@ -6424,24 +6460,6 @@
     "slams": null,
     "matchesPlayed": null,
     "matchesWon": null
-  },
-  {
-    "slug": "zaid-farooqui-thane",
-    "name": "Zaid Farooqui",
-    "city": "Thane",
-    "affiliation": "Institution",
-    "podium": {
-      "first": 1,
-      "second": 0,
-      "third": 0,
-      "top8": 1
-    },
-    "currentPoints": 22,
-    "currentRank": 2,
-    "titles": 1,
-    "slams": 0,
-    "matchesPlayed": 12,
-    "matchesWon": 9
   },
   {
     "slug": "zaie-farooqui-thane",

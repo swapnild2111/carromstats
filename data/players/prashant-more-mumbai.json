@@ -11,10 +11,10 @@
   ],
   "affiliation": "Institution",
   "podium": {
-    "first": 20,
+    "first": 21,
     "second": 10,
     "third": 10,
-    "top8": 52
+    "top8": 53
   },
   "currentPoints": 21,
   "currentRank": 3,
@@ -62,6 +62,15 @@
   "matchesPlayed": 113,
   "matchesWon": 86,
   "appearances": [
+    {
+      "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-24",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 1
+    },
     {
       "tournamentSlug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
       "tournamentTitle": "11th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
@@ -568,8 +577,8 @@
       "slug": "pankaj-pawar-thane",
       "name": "Pankaj Pawar",
       "city": "Mumbai",
-      "coAppearances": 18,
-      "wonAgainst": 15,
+      "coAppearances": 19,
+      "wonAgainst": 16,
       "lostAgainst": 3
     },
     {
@@ -624,9 +633,17 @@
       "slug": "mohammad-ghufran-mumbai",
       "name": "Mohammad Ghufran",
       "city": "Mumbai",
-      "coAppearances": 9,
-      "wonAgainst": 4,
+      "coAppearances": 10,
+      "wonAgainst": 5,
       "lostAgainst": 5
+    },
+    {
+      "slug": "rahul-solanki-mumbai",
+      "name": "Rahul Solanki",
+      "city": "Mumbai",
+      "coAppearances": 8,
+      "wonAgainst": 7,
+      "lostAgainst": 1
     },
     {
       "slug": "sanjay-mande-mumbai",
@@ -643,14 +660,6 @@
       "coAppearances": 7,
       "wonAgainst": 5,
       "lostAgainst": 2
-    },
-    {
-      "slug": "rahul-solanki-mumbai",
-      "name": "Rahul Solanki",
-      "city": "Mumbai",
-      "coAppearances": 7,
-      "wonAgainst": 6,
-      "lostAgainst": 1
     },
     {
       "slug": "anil-mundhe-pune",
@@ -797,6 +806,22 @@
       "lostAgainst": 0
     },
     {
+      "slug": "omkar-tilak-mumbai",
+      "name": "Omkar Tilak",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
+      "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
       "slug": "saurabh-mate-mumbai",
       "name": "Saurabh Mate",
       "city": "Mumbai",
@@ -837,6 +862,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
       "slug": "manoj-kamble-mumbai",
       "name": "Manoj Kamble",
       "city": "Mumbai",
@@ -859,14 +892,6 @@
       "coAppearances": 2,
       "wonAgainst": 1,
       "lostAgainst": 1
-    },
-    {
-      "slug": "omkar-tilak-mumbai",
-      "name": "Omkar Tilak",
-      "city": "Mumbai",
-      "coAppearances": 2,
-      "wonAgainst": 2,
-      "lostAgainst": 0
     },
     {
       "slug": "prafull-more-mumbai",
@@ -893,12 +918,12 @@
       "lostAgainst": 0
     },
     {
-      "slug": "sanjay-mande-thane",
-      "name": "Sanjay Mande",
+      "slug": "zaid-farooqui-thane",
+      "name": "Zaid Farooqui",
       "city": "Thane",
       "coAppearances": 2,
-      "wonAgainst": 2,
-      "lostAgainst": 0
+      "wonAgainst": 1,
+      "lostAgainst": 1
     },
     {
       "slug": "abdul-rahman-uttarpradesh",
@@ -1000,14 +1025,6 @@
       "slug": "krishna-waghmare-mumbai",
       "name": "Krishna Waghmare",
       "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "kunal-raut-mumbai",
-      "name": "Kunal Raut",
-      "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
@@ -1171,14 +1188,6 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
-    },
-    {
-      "slug": "zaid-farooqui-thane",
-      "name": "Zaid Farooqui",
-      "city": "Thane",
-      "coAppearances": 1,
-      "wonAgainst": 0,
-      "lostAgainst": 1
     }
   ]
 }

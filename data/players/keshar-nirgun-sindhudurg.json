@@ -15,7 +15,7 @@
     "first": 4,
     "second": 4,
     "third": 5,
-    "top8": 22
+    "top8": 23
   },
   "currentPoints": 11,
   "currentRank": 8,
@@ -43,6 +43,15 @@
   "matchesPlayed": 86,
   "matchesWon": 45,
   "appearances": [
+    {
+      "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-24",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 6
+    },
     {
       "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
       "tournamentTitle": "10th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2026-27",
@@ -244,28 +253,28 @@
   ],
   "rivals": [
     {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 14,
+      "wonAgainst": 5,
+      "lostAgainst": 9
+    },
+    {
+      "slug": "prajakta-narayankar-mumbaisub",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai-Sub",
+      "coAppearances": 14,
+      "wonAgainst": 8,
+      "lostAgainst": 6
+    },
+    {
       "slug": "samruddhi-ghadigaonkar-thane",
       "name": "Samruddhi Ghadigaonkar",
       "city": "Thane",
       "coAppearances": 14,
       "wonAgainst": 6,
       "lostAgainst": 8
-    },
-    {
-      "slug": "aakanksha-kadam-ratnagiri",
-      "name": "Aakanksha Kadam",
-      "city": "Ratnagiri",
-      "coAppearances": 13,
-      "wonAgainst": 5,
-      "lostAgainst": 8
-    },
-    {
-      "slug": "prajakta-narayankar-mumbaisub",
-      "name": "Prajakta Narayankar",
-      "city": "Mumbai-Sub",
-      "coAppearances": 13,
-      "wonAgainst": 8,
-      "lostAgainst": 5
     },
     {
       "slug": "kajal-kumari-mumbai",
@@ -292,12 +301,28 @@
       "lostAgainst": 2
     },
     {
+      "slug": "shruti-sonawane-palghar",
+      "name": "Shruti Sonawane",
+      "city": "Palghar",
+      "coAppearances": 7,
+      "wonAgainst": 4,
+      "lostAgainst": 3
+    },
+    {
       "slug": "aisha-khan-mumbai",
       "name": "Aisha Khan",
       "city": "Mumbai",
       "coAppearances": 6,
       "wonAgainst": 1,
       "lostAgainst": 5
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali Suvare",
+      "city": "Thane",
+      "coAppearances": 6,
+      "wonAgainst": 6,
+      "lostAgainst": 0
     },
     {
       "slug": "mitali-pathak-mumbai",
@@ -308,20 +333,12 @@
       "lostAgainst": 3
     },
     {
-      "slug": "shruti-sonawane-palghar",
-      "name": "Shruti Sonawane",
-      "city": "Palghar",
+      "slug": "rinky-kumari-mumbai",
+      "name": "Rinky Kumari",
+      "city": "Mumbai",
       "coAppearances": 6,
-      "wonAgainst": 4,
-      "lostAgainst": 2
-    },
-    {
-      "slug": "chaitali-suvare-thane",
-      "name": "Chaitali Suvare",
-      "city": "Thane",
-      "coAppearances": 5,
-      "wonAgainst": 5,
-      "lostAgainst": 0
+      "wonAgainst": 2,
+      "lostAgainst": 4
     },
     {
       "slug": "diksha-chavan-sindhudurg",
@@ -332,9 +349,9 @@
       "lostAgainst": 2
     },
     {
-      "slug": "rinky-kumari-mumbai",
-      "name": "Rinky Kumari",
-      "city": "Mumbai",
+      "slug": "madhura-devle-thane",
+      "name": "Madhura Devle",
+      "city": "Thane",
       "coAppearances": 5,
       "wonAgainst": 1,
       "lostAgainst": 4
@@ -354,14 +371,6 @@
       "coAppearances": 4,
       "wonAgainst": 4,
       "lostAgainst": 0
-    },
-    {
-      "slug": "madhura-devle-thane",
-      "name": "Madhura Devle",
-      "city": "Thane",
-      "coAppearances": 4,
-      "wonAgainst": 1,
-      "lostAgainst": 3
     },
     {
       "slug": "pushkarni-bhattad-pune",
@@ -466,6 +475,14 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "matraiyee-gogate-mumbai",
+      "name": "Matraiyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "mayuri-s-gawade-sindhudurg",

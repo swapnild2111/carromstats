@@ -7,5 +7,98 @@
   "date": "2026-07-24",
   "venue": null,
   "hasResultsSubPage": true,
-  "categories": []
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Sanjay Mande",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Pankaj Pawar",
+          "city": "Thane"
+        },
+        {
+          "position": 4,
+          "name": "Rahul Solanki",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Kunal Raut",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Zaid Farooqui",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Omkar Tilak",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 3,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 4,
+          "name": "Matraiyee Gogate",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Shruti Sonawane",
+          "city": "Palghar"
+        },
+        {
+          "position": 6,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 7,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Chaitali Suvare",
+          "city": "Thane"
+        }
+      ]
+    }
+  ]
 }

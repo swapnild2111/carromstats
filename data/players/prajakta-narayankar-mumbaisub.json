@@ -12,8 +12,8 @@
   "podium": {
     "first": 1,
     "second": 3,
-    "third": 4,
-    "top8": 37
+    "third": 5,
+    "top8": 38
   },
   "currentPoints": 14,
   "currentRank": 6,
@@ -24,6 +24,15 @@
   "matchesPlayed": 127,
   "matchesWon": 64,
   "appearances": [
+    {
+      "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-24",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 3
+    },
     {
       "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
       "tournamentTitle": "60th Senior Maharashtra State Carrom Championship 2026-27",
@@ -363,9 +372,9 @@
       "slug": "aakanksha-kadam-ratnagiri",
       "name": "Aakanksha Kadam",
       "city": "Ratnagiri",
-      "coAppearances": 30,
+      "coAppearances": 31,
       "wonAgainst": 10,
-      "lostAgainst": 20
+      "lostAgainst": 21
     },
     {
       "slug": "samruddhi-ghadigaonkar-thane",
@@ -411,8 +420,8 @@
       "slug": "keshar-nirgun-sindhudurg",
       "name": "Keshar Nirgun",
       "city": "Sindhudurg",
-      "coAppearances": 13,
-      "wonAgainst": 5,
+      "coAppearances": 14,
+      "wonAgainst": 6,
       "lostAgainst": 8
     },
     {
@@ -427,24 +436,24 @@
       "slug": "rinky-kumari-mumbai",
       "name": "Rinky Kumari",
       "city": "Mumbai",
-      "coAppearances": 11,
-      "wonAgainst": 3,
+      "coAppearances": 12,
+      "wonAgainst": 4,
       "lostAgainst": 8
     },
     {
       "slug": "shruti-sonawane-palghar",
       "name": "Shruti Sonawane",
       "city": "Palghar",
-      "coAppearances": 11,
-      "wonAgainst": 5,
+      "coAppearances": 12,
+      "wonAgainst": 6,
       "lostAgainst": 6
     },
     {
       "slug": "chaitali-suvare-thane",
       "name": "Chaitali Suvare",
       "city": "Thane",
-      "coAppearances": 10,
-      "wonAgainst": 7,
+      "coAppearances": 11,
+      "wonAgainst": 8,
       "lostAgainst": 3
     },
     {
@@ -456,20 +465,20 @@
       "lostAgainst": 2
     },
     {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura Devle",
+      "city": "Thane",
+      "coAppearances": 7,
+      "wonAgainst": 4,
+      "lostAgainst": 3
+    },
+    {
       "slug": "anjali-siripuram-mumbai",
       "name": "Anjali Siripuram",
       "city": "Mumbai",
       "coAppearances": 6,
       "wonAgainst": 6,
       "lostAgainst": 0
-    },
-    {
-      "slug": "madhura-devle-thane",
-      "name": "Madhura Devle",
-      "city": "Thane",
-      "coAppearances": 6,
-      "wonAgainst": 4,
-      "lostAgainst": 2
     },
     {
       "slug": "sangeeta-chandorkar-mumbai",
@@ -610,6 +619,14 @@
     {
       "slug": "mansi-shinde-mumbai",
       "name": "Mansi Shinde",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "matraiyee-gogate-mumbai",
+      "name": "Matraiyee Gogate",
       "city": "Mumbai",
       "coAppearances": 1,
       "wonAgainst": 1,

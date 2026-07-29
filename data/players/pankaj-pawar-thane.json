@@ -12,8 +12,8 @@
   "podium": {
     "first": 1,
     "second": 5,
-    "third": 4,
-    "top8": 31
+    "third": 5,
+    "top8": 32
   },
   "currentPoints": null,
   "currentRank": null,
@@ -34,6 +34,15 @@
   "matchesPlayed": 81,
   "matchesWon": 41,
   "appearances": [
+    {
+      "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-24",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 3
+    },
     {
       "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
       "tournamentTitle": "10th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2026-27",
@@ -327,9 +336,9 @@
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
       "city": "Mumbai",
-      "coAppearances": 18,
+      "coAppearances": 19,
       "wonAgainst": 3,
-      "lostAgainst": 15
+      "lostAgainst": 16
     },
     {
       "slug": "abhijit-tripankar-pune",
@@ -343,8 +352,8 @@
       "slug": "mohammad-ghufran-mumbai",
       "name": "Mohammad Ghufran",
       "city": "Mumbai",
-      "coAppearances": 12,
-      "wonAgainst": 3,
+      "coAppearances": 13,
+      "wonAgainst": 4,
       "lostAgainst": 9
     },
     {
@@ -380,20 +389,20 @@
       "lostAgainst": 9
     },
     {
+      "slug": "rahul-solanki-mumbai",
+      "name": "Rahul Solanki",
+      "city": "Mumbai",
+      "coAppearances": 9,
+      "wonAgainst": 6,
+      "lostAgainst": 3
+    },
+    {
       "slug": "abhishek-chavan-ratnagiri",
       "name": "Abhishek Chavan",
       "city": "Ratnagiri",
       "coAppearances": 8,
       "wonAgainst": 7,
       "lostAgainst": 1
-    },
-    {
-      "slug": "rahul-solanki-mumbai",
-      "name": "Rahul Solanki",
-      "city": "Mumbai",
-      "coAppearances": 8,
-      "wonAgainst": 5,
-      "lostAgainst": 3
     },
     {
       "slug": "rahim-khan-pune",
@@ -476,6 +485,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "omkar-tilak-mumbai",
+      "name": "Omkar Tilak",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
       "slug": "prakash-gaikwad-pune",
       "name": "Prakash Gaikwad",
       "city": "Pune",
@@ -508,8 +525,8 @@
       "lostAgainst": 0
     },
     {
-      "slug": "omkar-tilak-mumbai",
-      "name": "Omkar Tilak",
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
       "city": "Mumbai",
       "coAppearances": 2,
       "wonAgainst": 2,
@@ -628,14 +645,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "kunal-raut-mumbai",
-      "name": "Kunal Raut",
-      "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
       "slug": "manoj-kamble-mumbai",
       "name": "Manoj Kamble",
       "city": "Mumbai",
@@ -692,6 +701,14 @@
       "lostAgainst": 1
     },
     {
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
       "slug": "saurabh-mate-mumbai",
       "name": "Saurabh Mate",
       "city": "Mumbai",
@@ -710,6 +727,14 @@
     {
       "slug": "zaid-ahmed-thane",
       "name": "Zaid Ahmed",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "zaid-farooqui-thane",
+      "name": "Zaid Farooqui",
       "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 1,

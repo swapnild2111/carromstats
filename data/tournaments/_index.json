@@ -5,7 +5,10 @@
     "season": "2026-27",
     "date": "2026-07-24",
     "venue": null,
-    "categories": []
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
   },
   {
     "slug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",

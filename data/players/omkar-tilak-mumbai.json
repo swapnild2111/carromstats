@@ -12,7 +12,7 @@
     "first": 0,
     "second": 0,
     "third": 0,
-    "top8": 3
+    "top8": 4
   },
   "currentPoints": null,
   "currentRank": null,
@@ -23,6 +23,15 @@
   "matchesPlayed": 17,
   "matchesWon": 8,
   "appearances": [
+    {
+      "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-24",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 8
+    },
     {
       "tournamentSlug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
       "tournamentTitle": "11th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
@@ -56,9 +65,9 @@
       "slug": "mohammad-ghufran-mumbai",
       "name": "Mohammad Ghufran",
       "city": "Mumbai",
-      "coAppearances": 3,
+      "coAppearances": 4,
       "wonAgainst": 1,
-      "lostAgainst": 2
+      "lostAgainst": 3
     },
     {
       "slug": "nilansh-chiplunkar-mumbai",
@@ -69,6 +78,22 @@
       "lostAgainst": 2
     },
     {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
       "slug": "abhijit-tripankar-pune",
       "name": "Abhijit Tripankar",
       "city": "Pune",
@@ -77,24 +102,32 @@
       "lostAgainst": 2
     },
     {
-      "slug": "pankaj-pawar-thane",
-      "name": "Pankaj Pawar",
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
       "city": "Thane",
       "coAppearances": 2,
-      "wonAgainst": 0,
-      "lostAgainst": 2
+      "wonAgainst": 1,
+      "lostAgainst": 1
     },
     {
-      "slug": "prashant-more-mumbai",
-      "name": "Prashant More",
-      "city": "Mumbai",
-      "coAppearances": 2,
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
+      "city": "Thane",
+      "coAppearances": 1,
       "wonAgainst": 0,
-      "lostAgainst": 2
+      "lostAgainst": 1
     },
     {
       "slug": "prafull-more-mumbai",
       "name": "Prafull More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "rahul-solanki-mumbai",
+      "name": "Rahul Solanki",
       "city": "Mumbai",
       "coAppearances": 1,
       "wonAgainst": 0,
@@ -133,14 +166,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "sanjay-mande-thane",
-      "name": "Sanjay Mande",
-      "city": "Thane",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
       "slug": "sanjay-maniyar-mumbaisub",
       "name": "Sanjay Maniyar",
       "city": "Mumbai-Sub",
@@ -160,6 +185,14 @@
       "slug": "yogesh-pardeshi-pune",
       "name": "Yogesh Pardeshi",
       "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-farooqui-thane",
+      "name": "Zaid Farooqui",
+      "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1

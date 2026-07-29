@@ -13,7 +13,7 @@
     "first": 1,
     "second": 5,
     "third": 3,
-    "top8": 24
+    "top8": 25
   },
   "currentPoints": 25,
   "currentRank": 2,
@@ -49,6 +49,15 @@
   "matchesPlayed": 71,
   "matchesWon": 36,
   "appearances": [
+    {
+      "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-07-24",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 5
+    },
     {
       "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
       "tournamentTitle": "60th Senior Maharashtra State Carrom Championship 2026-27",
@@ -268,19 +277,19 @@
   ],
   "rivals": [
     {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 15,
+      "wonAgainst": 6,
+      "lostAgainst": 9
+    },
+    {
       "slug": "samruddhi-ghadigaonkar-thane",
       "name": "Samruddhi Ghadigaonkar",
       "city": "Thane",
       "coAppearances": 15,
       "wonAgainst": 7,
-      "lostAgainst": 8
-    },
-    {
-      "slug": "aakanksha-kadam-ratnagiri",
-      "name": "Aakanksha Kadam",
-      "city": "Ratnagiri",
-      "coAppearances": 14,
-      "wonAgainst": 6,
       "lostAgainst": 8
     },
     {
@@ -295,9 +304,9 @@
       "slug": "prajakta-narayankar-mumbaisub",
       "name": "Prajakta Narayankar",
       "city": "Mumbai-Sub",
-      "coAppearances": 11,
+      "coAppearances": 12,
       "wonAgainst": 6,
-      "lostAgainst": 5
+      "lostAgainst": 6
     },
     {
       "slug": "nilam-ghodake-mumbai",
@@ -327,9 +336,17 @@
       "slug": "keshar-nirgun-sindhudurg",
       "name": "Keshar Nirgun",
       "city": "Sindhudurg",
-      "coAppearances": 6,
-      "wonAgainst": 2,
+      "coAppearances": 7,
+      "wonAgainst": 3,
       "lostAgainst": 4
+    },
+    {
+      "slug": "chaitali-suvare-thane",
+      "name": "Chaitali Suvare",
+      "city": "Thane",
+      "coAppearances": 6,
+      "wonAgainst": 6,
+      "lostAgainst": 0
     },
     {
       "slug": "pushkarni-bhattad-pune",
@@ -338,14 +355,6 @@
       "coAppearances": 6,
       "wonAgainst": 4,
       "lostAgainst": 2
-    },
-    {
-      "slug": "chaitali-suvare-thane",
-      "name": "Chaitali Suvare",
-      "city": "Thane",
-      "coAppearances": 5,
-      "wonAgainst": 5,
-      "lostAgainst": 0
     },
     {
       "slug": "mitali-pathak-mumbai",
@@ -380,6 +389,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "rinky-kumari-mumbai",
+      "name": "Rinky Kumari",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 4,
+      "lostAgainst": 0
+    },
+    {
       "slug": "samidha-jadhav-mumbai",
       "name": "Samidha Jadhav",
       "city": "Mumbai",
@@ -394,14 +411,6 @@
       "coAppearances": 3,
       "wonAgainst": 0,
       "lostAgainst": 3
-    },
-    {
-      "slug": "rinky-kumari-mumbai",
-      "name": "Rinky Kumari",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 3,
-      "lostAgainst": 0
     },
     {
       "slug": "aisha-sajid-khokawala-mumbai",
@@ -423,6 +432,14 @@
       "slug": "anupama-kedar-mumbai",
       "name": "Anupama Kedar",
       "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura Devle",
+      "city": "Thane",
       "coAppearances": 2,
       "wonAgainst": 1,
       "lostAgainst": 1
@@ -516,14 +533,6 @@
       "lostAgainst": 1
     },
     {
-      "slug": "madhura-devle-thane",
-      "name": "Madhura Devle",
-      "city": "Thane",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
       "slug": "maitreyee-gogate-ratnagiri",
       "name": "Maitreyee Gogate",
       "city": "Ratnagiri",
@@ -554,6 +563,14 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "matraiyee-gogate-mumbai",
+      "name": "Matraiyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "medha-mathakari-pune",

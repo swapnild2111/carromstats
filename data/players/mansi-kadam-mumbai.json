@@ -7,16 +7,16 @@
   "cities": [
     "Mumbai"
   ],
-  "affiliation": "Thane",
+  "affiliation": null,
   "podium": {
     "first": 0,
     "second": 0,
     "third": 0,
     "top8": 1
   },
-  "currentPoints": 0,
-  "currentRank": 19,
-  "currentRankCategory": "Women's Singles",
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
   "titles": [],
   "slams": 0,
   "slamsAgainst": 1,

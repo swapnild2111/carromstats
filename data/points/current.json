@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T19:56:49.054Z",
+  "fetchedAt": "2026-07-30T20:07:08.424Z",
   "asOf": null,
   "categories": [
     {
@@ -9,7 +9,7 @@
         "60th Senior Maharashtra Carrom Championship 2026-27",
         "11th Mandpeshwar Civic Federation State Carrom Tournament 2026-27",
         "10th Shree Dattaraj Charitable Trust",
-        "5th 5th The Chembur Gymkhana State Carrom Tournament 2026-27"
+        "5th The Chembur Gymkhana State Carrom Tournament 2026-27"
       ],
       "rows": [
         {
@@ -146,18 +146,6 @@
         },
         {
           "rank": 12,
-          "name": "Nilansh H Chiplunkar",
-          "affiliation": "Institution",
-          "perTournament": [
-            1,
-            4,
-            0,
-            null
-          ],
-          "total": 5
-        },
-        {
-          "rank": 12,
           "name": "Sagar Waghmare",
           "affiliation": "Pune",
           "perTournament": [
@@ -165,6 +153,18 @@
             0,
             0,
             0
+          ],
+          "total": 5
+        },
+        {
+          "rank": 12,
+          "name": "Nilansh H Chiplunkar",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            4,
+            0,
+            null
           ],
           "total": 5
         },
@@ -417,7 +417,7 @@
         "60th Senior Maharashtra Carrom Championship 2026-27",
         "11th Mandpeshwar Civic Federation State Carrom Tournament 2026-27",
         "10th Shree Dattaraj Charitable Trust",
-        "5th 5th The Chembur Gymkhana State Carrom Tournament 2026-27"
+        "5th The Chembur Gymkhana State Carrom Tournament 2026-27"
       ],
       "rows": [
         {
@@ -530,18 +530,6 @@
         },
         {
           "rank": 10,
-          "name": "Mitali B Pathak",
-          "affiliation": "Institution",
-          "perTournament": [
-            1,
-            6,
-            0,
-            0
-          ],
-          "total": 8
-        },
-        {
-          "rank": 10,
           "name": "Rinky Kumari",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -553,6 +541,30 @@
           "total": 8
         },
         {
+          "rank": 10,
+          "name": "Mitali B Pathak",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            6,
+            0,
+            0
+          ],
+          "total": 8
+        },
+        {
+          "rank": 12,
+          "name": "Chaitali Suvare",
+          "affiliation": "Thane",
+          "perTournament": [
+            2,
+            1,
+            2,
+            1
+          ],
+          "total": 6
+        },
+        {
           "rank": 12,
           "name": "Sonali Kumari",
           "affiliation": "Mumbai",
@@ -561,18 +573,6 @@
             5,
             null,
             null
-          ],
-          "total": 6
-        },
-        {
-          "rank": 12,
-          "name": "Chaitali Suvare",
-          "affiliation": "Institution",
-          "perTournament": [
-            2,
-            1,
-            2,
-            1
           ],
           "total": 6
         },
@@ -638,8 +638,8 @@
         },
         {
           "rank": 18,
-          "name": "Pushkarni S Bhattad",
-          "affiliation": "Pune",
+          "name": "Pushkarni S Bhattad ( Pune )",
+          "affiliation": "Institution",
           "perTournament": [
             null,
             0,
@@ -686,8 +686,8 @@
         },
         {
           "rank": 19,
-          "name": "Mansi Kadam",
-          "affiliation": "Thane",
+          "name": "Mansi Kadam (Thane)",
+          "affiliation": "Institution",
           "perTournament": [
             null,
             null,

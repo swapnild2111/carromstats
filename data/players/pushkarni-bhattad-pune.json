@@ -8,16 +8,16 @@
   "cities": [
     "Pune"
   ],
-  "affiliation": "Pune",
+  "affiliation": null,
   "podium": {
     "first": 1,
     "second": 1,
     "third": 0,
     "top8": 16
   },
-  "currentPoints": 1,
-  "currentRank": 18,
-  "currentRankCategory": "Women's Singles",
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
   "titles": [
     {
       "scope": "state",

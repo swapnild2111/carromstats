@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T20:06:45.830Z",
+  "fetchedAt": "2026-08-01T19:47:56.844Z",
   "asOf": null,
   "categories": [
     {
@@ -369,18 +369,6 @@
             null,
             0,
             null
-          ],
-          "total": 0
-        },
-        {
-          "rank": 24,
-          "name": "Rahul Solanki",
-          "affiliation": "Mumbai-Sub",
-          "perTournament": [
-            null,
-            null,
-            null,
-            0
           ],
           "total": 0
         },

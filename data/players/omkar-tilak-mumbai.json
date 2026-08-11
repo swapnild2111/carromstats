@@ -7,16 +7,16 @@
   "cities": [
     "Mumbai"
   ],
-  "affiliation": null,
+  "affiliation": "Mumbai",
   "podium": {
     "first": 0,
     "second": 0,
     "third": 0,
     "top8": 4
   },
-  "currentPoints": null,
-  "currentRank": null,
-  "currentRankCategory": null,
+  "currentPoints": 3,
+  "currentRank": 17,
+  "currentRankCategory": "Men's Singles",
   "titles": [],
   "slams": 3,
   "slamsAgainst": 0,

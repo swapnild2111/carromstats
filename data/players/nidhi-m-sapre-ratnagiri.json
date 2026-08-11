@@ -8,16 +8,16 @@
   "cities": [
     "Ratnagiri"
   ],
-  "affiliation": null,
+  "affiliation": "Ratnagiri",
   "podium": {
     "first": 1,
     "second": 2,
     "third": 0,
     "top8": 4
   },
-  "currentPoints": null,
-  "currentRank": null,
-  "currentRankCategory": null,
+  "currentPoints": 0,
+  "currentRank": 21,
+  "currentRankCategory": "Women's Singles",
   "titles": [
     {
       "scope": "state",

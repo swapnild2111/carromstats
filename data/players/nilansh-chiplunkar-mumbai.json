@@ -13,7 +13,7 @@
     "first": 0,
     "second": 0,
     "third": 1,
-    "top8": 8
+    "top8": 9
   },
   "currentPoints": 8,
   "currentRank": 9,
@@ -89,6 +89,15 @@
       "position": 7
     },
     {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
+    {
       "tournamentSlug": "2019_55th_sub_junior_and_junior_maharashtra_state_carrom_championship",
       "tournamentTitle": "55th Junior and Sub-Junior State Carrom Championship 2019-20",
       "season": "2019-20",
@@ -112,9 +121,25 @@
       "slug": "abhijit-tripankar-pune",
       "name": "Abhijit Tripankar",
       "city": "Pune",
-      "coAppearances": 3,
+      "coAppearances": 4,
       "wonAgainst": 1,
-      "lostAgainst": 2
+      "lostAgainst": 3
+    },
+    {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 0,
+      "lostAgainst": 4
+    },
+    {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 4,
+      "wonAgainst": 0,
+      "lostAgainst": 4
     },
     {
       "slug": "mohammad-ghufran-mumbai",
@@ -141,22 +166,6 @@
       "lostAgainst": 3
     },
     {
-      "slug": "prashant-more-mumbai",
-      "name": "Prashant More",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 0,
-      "lostAgainst": 3
-    },
-    {
-      "slug": "sagar-waghmare-pune",
-      "name": "Sagar Waghmare",
-      "city": "Pune",
-      "coAppearances": 3,
-      "wonAgainst": 0,
-      "lostAgainst": 3
-    },
-    {
       "slug": "vikas-dharia-mumbai",
       "name": "Vikas Dharia",
       "city": "Mumbai",
@@ -173,12 +182,28 @@
       "lostAgainst": 2
     },
     {
+      "slug": "rahim-khan-pune",
+      "name": "Rahim Khan",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
       "slug": "sameer-ansari-thane",
       "name": "Sameer Ansari",
       "city": "Thane",
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Jalgaon",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
     },
     {
       "slug": "sanjay-mande-mumbai",
@@ -285,6 +310,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
       "slug": "mohammad-zaid-dhule",
       "name": "Mohammad Zaid",
       "city": "Dhule",
@@ -312,14 +345,6 @@
       "slug": "prafull-more-mumbai",
       "name": "Prafull More",
       "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 0,
-      "lostAgainst": 1
-    },
-    {
-      "slug": "rahim-khan-pune",
-      "name": "Rahim Khan",
-      "city": "Pune",
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
@@ -365,14 +390,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "sandeep-dive-mumbaisub",
-      "name": "Sandeep Dive",
-      "city": "Jalgaon",
-      "coAppearances": 1,
-      "wonAgainst": 0,
-      "lostAgainst": 1
-    },
-    {
       "slug": "sanjay-maniyar-mumbaisub",
       "name": "Sanjay Maniyar",
       "city": "Mumbai-Sub",
@@ -399,6 +416,14 @@
     {
       "slug": "zaid-farooquee-thane",
       "name": "Zaid Farooquee",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-farooquei-thane",
+      "name": "Zaid Farooquei",
       "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 0,

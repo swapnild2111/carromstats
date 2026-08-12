@@ -16,7 +16,7 @@
     "first": 3,
     "second": 7,
     "third": 4,
-    "top8": 32
+    "top8": 33
   },
   "currentPoints": 27,
   "currentRank": 2,
@@ -143,6 +143,15 @@
       "categoryKey": "women_singles",
       "categoryLabel": "Women's Singles",
       "position": 6
+    },
+    {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
     },
     {
       "tournamentSlug": "2024_late_vinayak_nimhan_state_ranking_carrom_tournament",
@@ -321,16 +330,16 @@
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
       "city": "Mumbai",
-      "coAppearances": 20,
+      "coAppearances": 21,
       "wonAgainst": 6,
-      "lostAgainst": 14
+      "lostAgainst": 15
     },
     {
       "slug": "sandeep-dive-mumbaisub",
       "name": "Sandeep Dive",
       "city": "Mumbai",
-      "coAppearances": 17,
-      "wonAgainst": 4,
+      "coAppearances": 18,
+      "wonAgainst": 5,
       "lostAgainst": 13
     },
     {
@@ -358,6 +367,14 @@
       "lostAgainst": 7
     },
     {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 12,
+      "wonAgainst": 7,
+      "lostAgainst": 5
+    },
+    {
       "slug": "mohd-ghufran-mumbai",
       "name": "Mohd. Ghufran",
       "city": "Mumbai",
@@ -366,11 +383,11 @@
       "lostAgainst": 7
     },
     {
-      "slug": "sagar-waghmare-pune",
-      "name": "Sagar Waghmare",
+      "slug": "rahim-khan-pune",
+      "name": "Rahim Khan",
       "city": "Pune",
-      "coAppearances": 11,
-      "wonAgainst": 7,
+      "coAppearances": 9,
+      "wonAgainst": 5,
       "lostAgainst": 4
     },
     {
@@ -380,14 +397,6 @@
       "coAppearances": 8,
       "wonAgainst": 5,
       "lostAgainst": 3
-    },
-    {
-      "slug": "rahim-khan-pune",
-      "name": "Rahim Khan",
-      "city": "Pune",
-      "coAppearances": 8,
-      "wonAgainst": 4,
-      "lostAgainst": 4
     },
     {
       "slug": "rahul-solanki-mumbai",
@@ -446,6 +455,14 @@
       "lostAgainst": 2
     },
     {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 3,
+      "lostAgainst": 1
+    },
+    {
       "slug": "prakash-gaikwad-pune",
       "name": "Prakash Gaikwad",
       "city": "Pune",
@@ -478,14 +495,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "nilansh-chiplunkar-mumbai",
-      "name": "Nilansh Chiplunkar",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 2,
-      "lostAgainst": 1
-    },
-    {
       "slug": "sameer-ansari-thane",
       "name": "Sameer Ansari",
       "city": "Thane",
@@ -516,6 +525,14 @@
       "coAppearances": 2,
       "wonAgainst": 0,
       "lostAgainst": 2
+    },
+    {
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
     },
     {
       "slug": "nisar-ahmed-dhule",
@@ -662,14 +679,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "kunal-raut-mumbai",
-      "name": "Kunal Raut",
-      "city": "Thane",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
       "slug": "mohd-arif-uttar-pradesh",
       "name": "Mohd. Arif",
       "city": "Uttar Pradesh",
@@ -772,6 +781,14 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "zaid-farooquei-thane",
+      "name": "Zaid Farooquei",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "zaid-farooqui-thane",

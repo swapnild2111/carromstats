@@ -19,7 +19,7 @@
     "first": 5,
     "second": 8,
     "third": 11,
-    "top8": 38
+    "top8": 39
   },
   "currentPoints": 23,
   "currentRank": 4,
@@ -92,6 +92,15 @@
       "categoryKey": "women_singles",
       "categoryLabel": "Women's Singles",
       "position": 2
+    },
+    {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 5
     },
     {
       "tournamentSlug": "2024_late_vinayak_nimhan_state_ranking_carrom_tournament",
@@ -378,9 +387,17 @@
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
       "city": "Mumbai",
-      "coAppearances": 29,
+      "coAppearances": 30,
       "wonAgainst": 10,
-      "lostAgainst": 19
+      "lostAgainst": 20
+    },
+    {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 18,
+      "wonAgainst": 13,
+      "lostAgainst": 5
     },
     {
       "slug": "vikas-dharia-mumbai",
@@ -389,14 +406,6 @@
       "coAppearances": 18,
       "wonAgainst": 10,
       "lostAgainst": 8
-    },
-    {
-      "slug": "abhijit-tripankar-pune",
-      "name": "Abhijit Tripankar",
-      "city": "Pune",
-      "coAppearances": 17,
-      "wonAgainst": 13,
-      "lostAgainst": 4
     },
     {
       "slug": "mohd-ghufran-mumbai",
@@ -410,9 +419,9 @@
       "slug": "sagar-waghmare-pune",
       "name": "Sagar Waghmare",
       "city": "Pune",
-      "coAppearances": 12,
+      "coAppearances": 13,
       "wonAgainst": 8,
-      "lostAgainst": 4
+      "lostAgainst": 5
     },
     {
       "slug": "yogesh-pardeshi-pune",
@@ -442,8 +451,8 @@
       "slug": "rahim-khan-pune",
       "name": "Rahim Khan",
       "city": "Pune",
-      "coAppearances": 8,
-      "wonAgainst": 6,
+      "coAppearances": 9,
+      "wonAgainst": 7,
       "lostAgainst": 2
     },
     {
@@ -615,6 +624,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
       "slug": "riyaz-akbarali-ratnagiri",
       "name": "Riyaz Akbarali",
       "city": "Ratnagiri",
@@ -743,6 +760,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
       "slug": "m-natraj-air-india",
       "name": "M. Natraj",
       "city": "Air India",
@@ -781,14 +806,6 @@
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
-    },
-    {
-      "slug": "nilansh-chiplunkar-mumbai",
-      "name": "Nilansh Chiplunkar",
-      "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
     },
     {
       "slug": "nisar-shaikh-dhule",
@@ -933,6 +950,14 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "zaid-farooquei-thane",
+      "name": "Zaid Farooquei",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "zaid-farooqui-thane",

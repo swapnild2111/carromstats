@@ -7,5 +7,98 @@
   "date": "2024-08-07",
   "venue": null,
   "hasResultsSubPage": true,
-  "categories": []
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Zaid Farooquei",
+          "city": "Thane"
+        },
+        {
+          "position": 2,
+          "name": "Sagar Waghmare",
+          "city": "Pune"
+        },
+        {
+          "position": 3,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Sandeep Dive",
+          "city": "Mumbai=Sub"
+        },
+        {
+          "position": 6,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Kunal Raut",
+          "city": "Thane"
+        },
+        {
+          "position": 8,
+          "name": "Rahim Khan",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Prajkta Narayankar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Madhura Devle",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 5,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 6,
+          "name": "Aisha Khan",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Maitreyee Gogate",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Tanaya Patil",
+          "city": "Pune"
+        }
+      ]
+    }
+  ]
 }

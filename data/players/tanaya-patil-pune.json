@@ -1,5 +1,5 @@
 {
-  "slug": "tanaya-d-patil-pune",
+  "slug": "tanaya-patil-pune",
   "name": "Tanaya D Patil",
   "aliases": [
     "Tanaya D Patil",
@@ -13,7 +13,7 @@
     "first": 1,
     "second": 0,
     "third": 0,
-    "top8": 2
+    "top8": 3
   },
   "currentPoints": 1,
   "currentRank": 20,
@@ -33,6 +33,15 @@
   "matchesPlayed": 2,
   "matchesWon": 0,
   "appearances": [
+    {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 8
+    },
     {
       "tournamentSlug": "2023_57th_sub_junior_maharashtra_state_carrom_championship",
       "tournamentTitle": "57th Sub Junior Maharashtra State Carrom Championship 2023-24",
@@ -62,12 +71,36 @@
       "lostAgainst": 1
     },
     {
+      "slug": "madhura-devle-thane",
+      "name": "Madhura M Devle",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 0,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
       "slug": "aarya-ghanekar-thane",
       "name": "Aarya Ghanekar",
       "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "aisha-khan-mumbai",
+      "name": "Aisha Khan",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "dharmy-v-shukla-mumbai-suburban",
@@ -102,9 +135,17 @@
       "lostAgainst": 0
     },
     {
-      "slug": "madhura-devle-thane",
-      "name": "Madhura M Devle",
-      "city": "Thane",
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
@@ -116,6 +157,22 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "prajkta-narayankar-mumbai",
+      "name": "Prajkta Narayankar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "sanchita-mohite-thane",

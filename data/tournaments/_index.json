@@ -300,7 +300,10 @@
     "season": "2026-27",
     "date": "2024-08-07",
     "venue": null,
-    "categories": []
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
   },
   {
     "slug": "2024_late_vinayak_nimhan_state_ranking_carrom_tournament",

@@ -11,9 +11,9 @@
   "affiliation": "Thane",
   "podium": {
     "first": 3,
-    "second": 4,
+    "second": 5,
     "third": 0,
-    "top8": 12
+    "top8": 13
   },
   "currentPoints": 27,
   "currentRank": 2,
@@ -114,6 +114,15 @@
       "position": 2
     },
     {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 2
+    },
+    {
       "tournamentSlug": "2022_shivshankar_utsav_mandal_state_ranking_carrom_tournament",
       "tournamentTitle": "Shivshankar Utsav Mandal Maharashtra State Ranking Carrom Tournament 2022-23",
       "season": "2022-23",
@@ -155,9 +164,17 @@
       "slug": "samruddhi-ghadigaonkar-thane",
       "name": "Samruddhi Ghadigaonkar",
       "city": "Thane",
-      "coAppearances": 8,
-      "wonAgainst": 5,
+      "coAppearances": 9,
+      "wonAgainst": 6,
       "lostAgainst": 3
+    },
+    {
+      "slug": "aakanksha-kadam-ratnagiri",
+      "name": "Aakanksha Kadam",
+      "city": "Ratnagiri",
+      "coAppearances": 7,
+      "wonAgainst": 3,
+      "lostAgainst": 4
     },
     {
       "slug": "prajakta-narayankar-mumbaisub",
@@ -168,24 +185,16 @@
       "lostAgainst": 4
     },
     {
-      "slug": "aakanksha-kadam-ratnagiri",
-      "name": "Aakanksha Kadam",
-      "city": "Ratnagiri",
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
       "coAppearances": 6,
-      "wonAgainst": 2,
-      "lostAgainst": 4
+      "wonAgainst": 5,
+      "lostAgainst": 1
     },
     {
       "slug": "diksha-chavan-sindhudurg",
       "name": "Diksha Chavan",
-      "city": "Sindhudurg",
-      "coAppearances": 5,
-      "wonAgainst": 4,
-      "lostAgainst": 1
-    },
-    {
-      "slug": "keshar-nirgun-sindhudurg",
-      "name": "Keshar Nirgun",
       "city": "Sindhudurg",
       "coAppearances": 5,
       "wonAgainst": 4,
@@ -208,17 +217,25 @@
       "lostAgainst": 2
     },
     {
-      "slug": "aarya-ghanekar-thane",
-      "name": "Aarya Ghanekar",
-      "city": "Thane",
-      "coAppearances": 2,
-      "wonAgainst": 2,
-      "lostAgainst": 0
-    },
-    {
       "slug": "aisha-khan-mumbai",
       "name": "Aisha Khan",
       "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "aarya-ghanekar-thane",
+      "name": "Aarya Ghanekar",
+      "city": "Thane",
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
@@ -264,14 +281,6 @@
       "lostAgainst": 2
     },
     {
-      "slug": "maitreyee-gogate-mumbai",
-      "name": "Maitreyee Gogate",
-      "city": "Mumbai",
-      "coAppearances": 2,
-      "wonAgainst": 2,
-      "lostAgainst": 0
-    },
-    {
       "slug": "nilam-ghodake-mumbai",
       "name": "Nilam Ghodake",
       "city": "Mumbai",
@@ -307,6 +316,14 @@
       "slug": "simran-shinde-mumbai",
       "name": "Simran Shinde",
       "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "tanaya-patil-pune",
+      "name": "Tanaya Patil",
+      "city": "Pune",
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
@@ -376,6 +393,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "prajkta-narayankar-mumbai",
+      "name": "Prajkta Narayankar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
       "slug": "pushkarni-bhattad-pune",
       "name": "Pushkarni Bhattad",
       "city": "Pune",
@@ -435,14 +460,6 @@
       "slug": "swara-s-mohire-ratnagiri",
       "name": "Swara S Mohire",
       "city": "Ratnagiri",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "tanaya-d-patil-pune",
-      "name": "Tanaya Patil",
-      "city": "Pune",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

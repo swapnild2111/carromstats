@@ -13,7 +13,7 @@
     "first": 4,
     "second": 7,
     "third": 5,
-    "top8": 42
+    "top8": 43
   },
   "currentPoints": 30,
   "currentRank": 1,
@@ -219,6 +219,15 @@
       "categoryKey": "women_singles",
       "categoryLabel": "Women's Singles",
       "position": 3
+    },
+    {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 5
     },
     {
       "tournamentSlug": "2024_maharashtra_state_ranking_tournament_kshatriya_union_club",
@@ -433,9 +442,9 @@
       "slug": "aakanksha-kadam-ratnagiri",
       "name": "Aakanksha Kadam",
       "city": "Ratnagiri",
-      "coAppearances": 33,
+      "coAppearances": 34,
       "wonAgainst": 12,
-      "lostAgainst": 21
+      "lostAgainst": 22
     },
     {
       "slug": "prajakta-narayankar-mumbaisub",
@@ -462,20 +471,20 @@
       "lostAgainst": 13
     },
     {
+      "slug": "aisha-khan-mumbai",
+      "name": "Aisha Khan",
+      "city": "Mumbai",
+      "coAppearances": 17,
+      "wonAgainst": 8,
+      "lostAgainst": 9
+    },
+    {
       "slug": "kajal-kumari-mumbai",
       "name": "Kajal Kumari",
       "city": "Mumbai",
       "coAppearances": 17,
       "wonAgainst": 3,
       "lostAgainst": 14
-    },
-    {
-      "slug": "aisha-khan-mumbai",
-      "name": "Aisha Khan",
-      "city": "Mumbai",
-      "coAppearances": 16,
-      "wonAgainst": 7,
-      "lostAgainst": 9
     },
     {
       "slug": "chaitali-suvare-thane",
@@ -486,20 +495,20 @@
       "lostAgainst": 2
     },
     {
+      "slug": "keshar-nirgun-sindhudurg",
+      "name": "Keshar Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 15,
+      "wonAgainst": 8,
+      "lostAgainst": 7
+    },
+    {
       "slug": "shruti-sonawane-palghar",
       "name": "Shruti Sonawane",
       "city": "Palghar",
       "coAppearances": 15,
       "wonAgainst": 8,
       "lostAgainst": 7
-    },
-    {
-      "slug": "keshar-nirgun-sindhudurg",
-      "name": "Keshar Nirgun",
-      "city": "Sindhudurg",
-      "coAppearances": 14,
-      "wonAgainst": 8,
-      "lostAgainst": 6
     },
     {
       "slug": "rinky-kumari-mumbai",
@@ -529,9 +538,9 @@
       "slug": "madhura-devle-thane",
       "name": "Madhura Devle",
       "city": "Thane",
-      "coAppearances": 8,
+      "coAppearances": 9,
       "wonAgainst": 3,
-      "lostAgainst": 5
+      "lostAgainst": 6
     },
     {
       "slug": "sonali-kumari-mumbai",
@@ -558,6 +567,14 @@
       "lostAgainst": 1
     },
     {
+      "slug": "maitreyee-gogate-mumbai",
+      "name": "Maitreyee Gogate",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 2,
+      "lostAgainst": 2
+    },
+    {
       "slug": "pushkarni-bhattad-pune",
       "name": "Pushkarni Bhattad",
       "city": "Pune",
@@ -580,14 +597,6 @@
       "coAppearances": 3,
       "wonAgainst": 3,
       "lostAgainst": 0
-    },
-    {
-      "slug": "maitreyee-gogate-mumbai",
-      "name": "Maitreyee Gogate",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 1,
-      "lostAgainst": 2
     },
     {
       "slug": "anita-kanojiya-raigad",
@@ -726,6 +735,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "prajkta-narayankar-mumbai",
+      "name": "Prajkta Narayankar",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
       "slug": "rincky-kumari-mumbai",
       "name": "Rincky Kumari",
       "city": "Mumbai",
@@ -745,6 +762,14 @@
       "slug": "swara-s-mohire-ratnagiri",
       "name": "Swara Mohire",
       "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "tanaya-patil-pune",
+      "name": "Tanaya Patil",
+      "city": "Pune",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

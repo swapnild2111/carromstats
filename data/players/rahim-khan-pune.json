@@ -14,7 +14,7 @@
     "first": 1,
     "second": 2,
     "third": 3,
-    "top8": 14
+    "top8": 15
   },
   "currentPoints": 14,
   "currentRank": 6,
@@ -68,6 +68,15 @@
       "date": "2024-08-12",
       "categoryKey": "women_singles",
       "categoryLabel": "Women's Singles",
+      "position": 8
+    },
+    {
+      "tournamentSlug": "2026_3rd_late_vinayak_nimhan_memorial_state_ranking_carrom_tournament",
+      "tournamentTitle": "3rd Late Vinayak Nimhan Memorial State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2024-08-07",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
       "position": 8
     },
     {
@@ -154,6 +163,22 @@
   ],
   "rivals": [
     {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 9,
+      "wonAgainst": 4,
+      "lostAgainst": 5
+    },
+    {
+      "slug": "sandeep-dive-mumbaisub",
+      "name": "Sandeep Dive",
+      "city": "Mumbai",
+      "coAppearances": 9,
+      "wonAgainst": 2,
+      "lostAgainst": 7
+    },
+    {
       "slug": "vikas-dharia-mumbai",
       "name": "Vikas Dharia",
       "city": "Mumbai",
@@ -162,16 +187,8 @@
       "lostAgainst": 3
     },
     {
-      "slug": "abhijit-tripankar-pune",
-      "name": "Abhijit Tripankar",
-      "city": "Pune",
-      "coAppearances": 8,
-      "wonAgainst": 4,
-      "lostAgainst": 4
-    },
-    {
-      "slug": "sandeep-dive-mumbaisub",
-      "name": "Sandeep Dive",
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
       "city": "Mumbai",
       "coAppearances": 8,
       "wonAgainst": 2,
@@ -184,14 +201,6 @@
       "coAppearances": 7,
       "wonAgainst": 5,
       "lostAgainst": 2
-    },
-    {
-      "slug": "prashant-more-mumbai",
-      "name": "Prashant More",
-      "city": "Mumbai",
-      "coAppearances": 7,
-      "wonAgainst": 2,
-      "lostAgainst": 5
     },
     {
       "slug": "mohd-ghufran-mumbai",
@@ -210,20 +219,20 @@
       "lostAgainst": 3
     },
     {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 5,
+      "wonAgainst": 2,
+      "lostAgainst": 3
+    },
+    {
       "slug": "zaid-farooquee-thane",
       "name": "Zaid Farooquee",
       "city": "Thane",
       "coAppearances": 5,
       "wonAgainst": 4,
       "lostAgainst": 1
-    },
-    {
-      "slug": "sagar-waghmare-pune",
-      "name": "Sagar Waghmare",
-      "city": "Pune",
-      "coAppearances": 4,
-      "wonAgainst": 2,
-      "lostAgainst": 2
     },
     {
       "slug": "sandeep-deorukhkar-mumbai",
@@ -260,6 +269,14 @@
     {
       "slug": "ashok-gaur-mumbai",
       "name": "Ashok Gaur",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
       "city": "Mumbai",
       "coAppearances": 2,
       "wonAgainst": 1,
@@ -338,20 +355,20 @@
       "lostAgainst": 0
     },
     {
-      "slug": "mohd-oves-ansari-thane",
-      "name": "Mohd. Oves Ansari",
+      "slug": "kunal-raut-mumbai",
+      "name": "Kunal Raut",
       "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
     },
     {
-      "slug": "nilansh-chiplunkar-mumbai",
-      "name": "Nilansh Chiplunkar",
-      "city": "Mumbai",
+      "slug": "mohd-oves-ansari-thane",
+      "name": "Mohd. Oves Ansari",
+      "city": "Thane",
       "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "prafull-more-mumbai",
@@ -437,6 +454,14 @@
       "slug": "yogesh-dhongade-mumbai",
       "name": "Yogesh Dhongade",
       "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-farooquei-thane",
+      "name": "Zaid Farooquei",
+      "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1

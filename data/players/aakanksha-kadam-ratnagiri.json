@@ -9,16 +9,16 @@
     "Maharashta",
     "Ratnagiri"
   ],
-  "affiliation": "Ratnagiri",
+  "affiliation": null,
   "podium": {
     "first": 17,
     "second": 7,
     "third": 5,
     "top8": 51
   },
-  "currentPoints": 21,
-  "currentRank": 5,
-  "currentRankCategory": "Women's Singles",
+  "currentPoints": null,
+  "currentRank": null,
+  "currentRankCategory": null,
   "titles": [
     {
       "scope": "state",

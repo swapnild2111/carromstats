@@ -21,15 +21,15 @@
     "slug": "aakanksha-kadam-ratnagiri",
     "name": "Aakanksha U Kadam",
     "city": "Ratnagiri",
-    "affiliation": "Ratnagiri",
+    "affiliation": null,
     "podium": {
       "first": 17,
       "second": 7,
       "third": 5,
       "top8": 51
     },
-    "currentPoints": 21,
-    "currentRank": 5,
+    "currentPoints": null,
+    "currentRank": null,
     "titles": 3,
     "slams": 9,
     "matchesPlayed": 141,

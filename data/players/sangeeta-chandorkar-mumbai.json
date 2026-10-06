@@ -9,16 +9,16 @@
     "Mumbai",
     "RBI"
   ],
-  "affiliation": null,
+  "affiliation": "Mumbai",
   "podium": {
     "first": 1,
     "second": 1,
     "third": 1,
     "top8": 15
   },
-  "currentPoints": null,
-  "currentRank": null,
-  "currentRankCategory": null,
+  "currentPoints": 0,
+  "currentRank": 23,
+  "currentRankCategory": "Women's Singles",
   "titles": [
     {
       "scope": "national",

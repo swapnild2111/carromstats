@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T21:52:17.862Z",
+  "fetchedAt": "2026-10-06T00:18:25.028Z",
   "asOf": null,
   "categories": [
     {
@@ -10,21 +10,23 @@
         "11th Mandpeshwar Civic Federation State Carrom Tournament 2026-27",
         "10th Shree Dattaraj Charitable Trust",
         "5th The Chembur Gymkhana State Carrom Tournament 2026-27",
-        "3rd Late Vinayak Nimhan (Ex.MLA) Memorial State Carrom Tournament 2026-27"
+        "3rd Late Vinayak Nimhan (Ex.MLA) Memorial State Carrom Tournament 2026-27",
+        "Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27"
       ],
       "rows": [
         {
           "rank": 1,
-          "name": "Zaid Farooqui",
+          "name": "Prashant More",
           "affiliation": "Institution",
           "perTournament": [
-            16,
+            8,
+            5,
             null,
-            4,
-            2,
-            8
+            8,
+            6,
+            7
           ],
-          "total": 30
+          "total": 34
         },
         {
           "rank": 2,
@@ -35,38 +37,27 @@
             3,
             5,
             0,
+            5,
             5
           ],
-          "total": 27
+          "total": 32
         },
         {
           "rank": 3,
-          "name": "Prashant More",
+          "name": "Zaid Farooqui",
           "affiliation": "Institution",
           "perTournament": [
-            8,
-            5,
+            16,
             null,
+            4,
+            2,
             8,
-            6
+            null
           ],
-          "total": 27
+          "total": 30
         },
         {
           "rank": 4,
-          "name": "Sandeep Dive",
-          "affiliation": "Institution",
-          "perTournament": [
-            12,
-            6,
-            0,
-            0,
-            4
-          ],
-          "total": 23
-        },
-        {
-          "rank": 5,
           "name": "Mohammad Ghufran",
           "affiliation": "Institution",
           "perTournament": [
@@ -74,9 +65,24 @@
             7,
             8,
             4,
+            null,
+            8
+          ],
+          "total": 28
+        },
+        {
+          "rank": 5,
+          "name": "Sandeep Dive",
+          "affiliation": "Institution",
+          "perTournament": [
+            12,
+            6,
+            0,
+            0,
+            4,
             null
           ],
-          "total": 20
+          "total": 23
         },
         {
           "rank": 6,
@@ -87,51 +93,13 @@
             0,
             7,
             null,
-            1
+            1,
+            0
           ],
-          "total": 14
+          "total": 15
         },
         {
           "rank": 7,
-          "name": "Sagar Waghmare",
-          "affiliation": "Pune",
-          "perTournament": [
-            4,
-            0,
-            0,
-            0,
-            7
-          ],
-          "total": 12
-        },
-        {
-          "rank": 8,
-          "name": "Saurabh Mate",
-          "affiliation": "Mumbai",
-          "perTournament": [
-            10,
-            null,
-            null,
-            null,
-            null
-          ],
-          "total": 10
-        },
-        {
-          "rank": 9,
-          "name": "Pankaj A Pawar",
-          "affiliation": "Thane",
-          "perTournament": [
-            1,
-            null,
-            1,
-            6,
-            0
-          ],
-          "total": 8
-        },
-        {
-          "rank": 9,
           "name": "Nilansh H Chiplunkar",
           "affiliation": "Institution",
           "perTournament": [
@@ -139,22 +107,24 @@
             4,
             0,
             null,
-            3
+            3,
+            6
           ],
-          "total": 8
+          "total": 14
         },
         {
-          "rank": 9,
-          "name": "Yogesh Pardeshi",
-          "affiliation": "Institution",
+          "rank": 8,
+          "name": "Sagar Waghmare",
+          "affiliation": "Pune",
           "perTournament": [
-            null,
-            8,
-            null,
+            4,
             0,
-            null
+            0,
+            0,
+            7,
+            0
           ],
-          "total": 8
+          "total": 13
         },
         {
           "rank": 9,
@@ -165,22 +135,52 @@
             1,
             0,
             7,
-            null
+            null,
+            3
           ],
-          "total": 8
+          "total": 11
         },
         {
-          "rank": 13,
-          "name": "Kunal P Raut",
+          "rank": 10,
+          "name": "Yogesh Pardeshi",
+          "affiliation": "Institution",
+          "perTournament": [
+            null,
+            8,
+            null,
+            0,
+            null,
+            2
+          ],
+          "total": 10
+        },
+        {
+          "rank": 11,
+          "name": "Saurabh Mate",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            10,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "total": 10
+        },
+        {
+          "rank": 12,
+          "name": "Pankaj A Pawar",
           "affiliation": "Thane",
           "perTournament": [
             1,
             null,
-            null,
-            3,
-            2
+            1,
+            6,
+            0,
+            null
           ],
-          "total": 6
+          "total": 8
         },
         {
           "rank": 13,
@@ -191,6 +191,21 @@
             null,
             6,
             null,
+            null,
+            0
+          ],
+          "total": 6
+        },
+        {
+          "rank": 14,
+          "name": "Kunal P Raut",
+          "affiliation": "Thane",
+          "perTournament": [
+            1,
+            null,
+            null,
+            3,
+            2,
             null
           ],
           "total": 6
@@ -198,15 +213,16 @@
         {
           "rank": 15,
           "name": "Rahul Solanki",
-          "affiliation": "Institution",
+          "affiliation": "Mumbai",
           "perTournament": [
             null,
             null,
             null,
             5,
+            0,
             0
           ],
-          "total": 5
+          "total": 6
         },
         {
           "rank": 16,
@@ -217,12 +233,27 @@
             null,
             2,
             null,
+            null,
             null
           ],
           "total": 4
         },
         {
           "rank": 17,
+          "name": "Rizwan Shaikh",
+          "affiliation": "Mumbai Sub",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            4
+          ],
+          "total": 4
+        },
+        {
+          "rank": 18,
           "name": "Dinesh Kedar",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -230,12 +261,13 @@
             null,
             3,
             null,
+            null,
             null
           ],
           "total": 3
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Omkar Tilak",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -243,12 +275,13 @@
             2,
             null,
             1,
+            null,
             null
           ],
           "total": 3
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Siddhant M Wadwalkar",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -256,12 +289,13 @@
             null,
             0,
             0,
+            0,
             0
           ],
-          "total": 2
+          "total": 3
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Sameer Mohd. Jabir Ansari",
           "affiliation": "Thane",
           "perTournament": [
@@ -269,12 +303,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "total": 1
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Niraj G Kamble",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -282,12 +317,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "total": 1
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Kishor S Bhondve",
           "affiliation": "Pune",
           "perTournament": [
@@ -295,12 +331,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "total": 1
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Francis P Fernandes",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -308,25 +345,27 @@
             0,
             0,
             null,
+            null,
             null
           ],
           "total": 1
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Mohd. W Ansari",
-          "affiliation": "Mumbai Sub",
+          "affiliation": "Mumbai Suburban",
           "perTournament": [
             null,
             0,
             null,
             0,
+            null,
             null
           ],
           "total": 1
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Abhishek Chavan",
           "affiliation": "Ratnagiri",
           "perTournament": [
@@ -334,17 +373,33 @@
             null,
             0,
             null,
-            0
+            0,
+            null
           ],
           "total": 1
         },
         {
-          "rank": 26,
+          "rank": 21,
+          "name": "Muniyappan Raja",
+          "affiliation": "Mumbai Suburban",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ],
+          "total": 1
+        },
+        {
+          "rank": 21,
           "name": "Mangesh N Pandit",
-          "affiliation": "Mumbai Sub",
+          "affiliation": "Mumbai Suburban",
           "perTournament": [
             null,
             0,
+            null,
             null,
             null,
             null
@@ -352,12 +407,13 @@
           "total": 0
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "Sajjad A Shaikh",
-          "affiliation": "Mumbai Sub",
+          "affiliation": "Mumbai Suburban",
           "perTournament": [
             null,
             0,
+            null,
             null,
             null,
             null
@@ -365,7 +421,7 @@
           "total": 0
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "Bharat Koli",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -373,12 +429,13 @@
             0,
             null,
             null,
+            null,
             null
           ],
           "total": 0
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "Vishwajeet G Bhave",
           "affiliation": "Thane",
           "perTournament": [
@@ -386,25 +443,27 @@
             0,
             null,
             null,
+            null,
             null
           ],
           "total": 0
         },
         {
-          "rank": 26,
-          "name": "Sandeep Deorukhkar (Mumbai)",
-          "affiliation": "Institution",
+          "rank": 29,
+          "name": "Sandeep Deorukhkar",
+          "affiliation": "Mumbai",
           "perTournament": [
             null,
             null,
             0,
             null,
+            null,
             null
           ],
           "total": 0
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "Girish Tambe",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -412,64 +471,13 @@
             null,
             null,
             0,
+            null,
             null
           ],
           "total": 0
         },
         {
-          "rank": 26,
-          "name": "Ravindra R Hange",
-          "affiliation": "Pune",
-          "perTournament": [
-            null,
-            null,
-            null,
-            null,
-            0
-          ],
-          "total": 0
-        },
-        {
-          "rank": 26,
-          "name": "Vivek A Poddar",
-          "affiliation": "Mumbai",
-          "perTournament": [
-            null,
-            null,
-            null,
-            null,
-            0
-          ],
-          "total": 0
-        },
-        {
-          "rank": 26,
-          "name": "Riyaz A Ali",
-          "affiliation": "Ratnagiri",
-          "perTournament": [
-            null,
-            null,
-            null,
-            null,
-            0
-          ],
-          "total": 0
-        },
-        {
-          "rank": 26,
-          "name": "Abhishek A Poddar",
-          "affiliation": "Mumbai",
-          "perTournament": [
-            null,
-            null,
-            null,
-            null,
-            0
-          ],
-          "total": 0
-        },
-        {
-          "rank": 26,
+          "rank": 29,
           "name": "Sabir Shaikh",
           "affiliation": "Mumbai-Sub",
           "perTournament": [
@@ -477,7 +485,106 @@
             null,
             null,
             0,
+            null,
             null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Ravindra R Hange",
+          "affiliation": "Pune",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Vivek A Poddar",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Riyaz A Ali",
+          "affiliation": "Ratnagiri",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Abhishek A Poddar",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Abdul G Soorya",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Prafull S More",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            0
+          ],
+          "total": 0
+        },
+        {
+          "rank": 29,
+          "name": "Mohd. Raza",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            0
           ],
           "total": 0
         }
@@ -491,7 +598,8 @@
         "11th Mandpeshwar Civic Federation State Carrom Tournament 2026-27",
         "10th Shree Dattaraj Charitable Trust",
         "5th The Chembur Gymkhana State Carrom Tournament 2026-27",
-        "3rd Late Vinayak Nimhan (Ex.MLA) Memorial State Carrom Tournament 2026-27"
+        "3rd Late Vinayak Nimhan (Ex.MLA) Memorial State Carrom Tournament 2026-27",
+        "Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27"
       ],
       "rows": [
         {
@@ -503,7 +611,8 @@
             7,
             3,
             0,
-            4
+            4,
+            null
           ],
           "total": 30
         },
@@ -516,7 +625,8 @@
             4,
             8,
             8,
-            7
+            7,
+            null
           ],
           "total": 27
         },
@@ -529,51 +639,13 @@
             0,
             7,
             4,
-            null
+            null,
+            0
           ],
-          "total": 25
+          "total": 26
         },
         {
           "rank": 4,
-          "name": "Prajakta Narayankar",
-          "affiliation": "Institution",
-          "perTournament": [
-            8,
-            null,
-            0,
-            6,
-            8
-          ],
-          "total": 22
-        },
-        {
-          "rank": 5,
-          "name": "Aakanksha U Kadam ( Ratnagiri )",
-          "affiliation": "Institution",
-          "perTournament": [
-            1,
-            8,
-            null,
-            7,
-            5
-          ],
-          "total": 21
-        },
-        {
-          "rank": 6,
-          "name": "Aisha Khan",
-          "affiliation": "Institution",
-          "perTournament": [
-            10,
-            0,
-            6,
-            0,
-            3
-          ],
-          "total": 20
-        },
-        {
-          "rank": 7,
           "name": "Keshar Nirgun",
           "affiliation": "Institution",
           "perTournament": [
@@ -581,77 +653,55 @@
             0,
             4,
             3,
-            6
+            6,
+            7
           ],
-          "total": 17
+          "total": 24
+        },
+        {
+          "rank": 5,
+          "name": "Prajakta Narayankar",
+          "affiliation": "Institution",
+          "perTournament": [
+            8,
+            null,
+            0,
+            6,
+            8,
+            0
+          ],
+          "total": 23
+        },
+        {
+          "rank": 6,
+          "name": "Aakanksha U Kadam ( Ratnagiri )",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            8,
+            null,
+            7,
+            5,
+            0
+          ],
+          "total": 21
+        },
+        {
+          "rank": 7,
+          "name": "Aisha Khan",
+          "affiliation": "Institution",
+          "perTournament": [
+            10,
+            0,
+            6,
+            0,
+            3,
+            0
+          ],
+          "total": 20
         },
         {
           "rank": 8,
-          "name": "Nilam Ghodake",
-          "affiliation": "Institution",
-          "perTournament": [
-            12,
-            0,
-            null,
-            0,
-            null
-          ],
-          "total": 13
-        },
-        {
-          "rank": 8,
-          "name": "Maitrayee Gogate",
-          "affiliation": "Institution",
-          "perTournament": [
-            1,
-            null,
-            5,
-            5,
-            2
-          ],
-          "total": 13
-        },
-        {
-          "rank": 10,
-          "name": "Mitali B Pathak",
-          "affiliation": "Institution",
-          "perTournament": [
-            1,
-            6,
-            0,
-            0,
-            0
-          ],
-          "total": 8
-        },
-        {
-          "rank": 11,
-          "name": "Rinky Kumari",
-          "affiliation": "Mumbai",
-          "perTournament": [
-            6,
-            null,
-            null,
-            2,
-            null
-          ],
-          "total": 8
-        },
-        {
-          "rank": 12,
-          "name": "Chaitali Suvare",
-          "affiliation": "Thane",
-          "perTournament": [
-            2,
-            1,
-            2,
-            1,
-            0
-          ],
-          "total": 6
-        },
-        {
-          "rank": 12,
           "name": "Sonali Kumari",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -659,38 +709,69 @@
             5,
             null,
             null,
-            0
+            0,
+            8
           ],
-          "total": 6
+          "total": 14
         },
         {
-          "rank": 14,
-          "name": "Urmila V Shendge",
+          "rank": 9,
+          "name": "Nilam Ghodake",
           "affiliation": "Institution",
           "perTournament": [
-            1,
-            3,
+            12,
             0,
-            0,
-            null
-          ],
-          "total": 5
-        },
-        {
-          "rank": 15,
-          "name": "Ambika Harith",
-          "affiliation": "Institution",
-          "perTournament": [
-            1,
-            2,
             null,
             0,
-            0
+            null,
+            1
           ],
-          "total": 4
+          "total": 14
         },
         {
-          "rank": 16,
+          "rank": 10,
+          "name": "Maitrayee Gogate",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            null,
+            5,
+            5,
+            2,
+            0
+          ],
+          "total": 13
+        },
+        {
+          "rank": 11,
+          "name": "Mitali B Pathak",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            6,
+            0,
+            0,
+            0,
+            5
+          ],
+          "total": 13
+        },
+        {
+          "rank": 12,
+          "name": "Rinky Kumari",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            6,
+            null,
+            null,
+            2,
+            null,
+            3
+          ],
+          "total": 11
+        },
+        {
+          "rank": 13,
           "name": "Anjali V Siripuram",
           "affiliation": "Institution",
           "perTournament": [
@@ -698,9 +779,52 @@
             0,
             0,
             0,
+            null,
+            6
+          ],
+          "total": 8
+        },
+        {
+          "rank": 14,
+          "name": "Ambika Harith",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            2,
+            null,
+            0,
+            0,
+            4
+          ],
+          "total": 8
+        },
+        {
+          "rank": 15,
+          "name": "Urmila V Shendge",
+          "affiliation": "Institution",
+          "perTournament": [
+            1,
+            3,
+            0,
+            0,
+            null,
+            2
+          ],
+          "total": 7
+        },
+        {
+          "rank": 16,
+          "name": "Chaitali Suvare",
+          "affiliation": "Institution",
+          "perTournament": [
+            2,
+            1,
+            2,
+            1,
+            0,
             null
           ],
-          "total": 2
+          "total": 6
         },
         {
           "rank": 17,
@@ -711,6 +835,7 @@
             null,
             1,
             0,
+            null,
             null
           ],
           "total": 1
@@ -724,7 +849,8 @@
             0,
             0,
             null,
-            0
+            0,
+            null
           ],
           "total": 1
         },
@@ -737,12 +863,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "total": 1
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Tanaya D Patil",
           "affiliation": "Pune",
           "perTournament": [
@@ -750,12 +877,13 @@
             null,
             null,
             null,
-            1
+            1,
+            null
           ],
           "total": 1
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Tanaya V Dalvi",
           "affiliation": "Mumbai Sub",
           "perTournament": [
@@ -763,38 +891,13 @@
             0,
             null,
             null,
-            null
+            null,
+            0
           ],
-          "total": 0
+          "total": 1
         },
         {
-          "rank": 21,
-          "name": "Anita L Kanojiya",
-          "affiliation": "Raigad",
-          "perTournament": [
-            null,
-            0,
-            null,
-            null,
-            null
-          ],
-          "total": 0
-        },
-        {
-          "rank": 21,
-          "name": "Rudrukshi Patil",
-          "affiliation": "Kolhapur",
-          "perTournament": [
-            null,
-            null,
-            0,
-            null,
-            null
-          ],
-          "total": 0
-        },
-        {
-          "rank": 21,
+          "rank": 19,
           "name": "Mansi Kadam (Thane)",
           "affiliation": "Institution",
           "perTournament": [
@@ -802,12 +905,41 @@
             null,
             0,
             null,
+            null,
+            0
+          ],
+          "total": 1
+        },
+        {
+          "rank": 23,
+          "name": "Anita L Kanojiya",
+          "affiliation": "Raigad",
+          "perTournament": [
+            null,
+            0,
+            null,
+            null,
+            null,
             null
           ],
           "total": 0
         },
         {
-          "rank": 21,
+          "rank": 23,
+          "name": "Rudrukshi Patil",
+          "affiliation": "Kolhapur",
+          "perTournament": [
+            null,
+            null,
+            0,
+            null,
+            null,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
           "name": "Swara Mohire",
           "affiliation": "Ratnagiri",
           "perTournament": [
@@ -815,25 +947,27 @@
             null,
             0,
             null,
+            null,
             null
           ],
           "total": 0
         },
         {
-          "rank": 21,
-          "name": "Sangeeta J Chandorkar ( Mumbai )",
-          "affiliation": "Institution",
+          "rank": 23,
+          "name": "Sangeeta J Chandorkar",
+          "affiliation": "Mumbai",
           "perTournament": [
             null,
             null,
             null,
             null,
-            0
+            0,
+            null
           ],
           "total": 0
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Anupama A Kedar",
           "affiliation": "Mumbai",
           "perTournament": [
@@ -841,15 +975,31 @@
             null,
             null,
             null,
-            0
+            0,
+            null
           ],
           "total": 0
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Nidhi M Sapre",
           "affiliation": "Ratnagiri",
           "perTournament": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            null
+          ],
+          "total": 0
+        },
+        {
+          "rank": 23,
+          "name": "Neha Kumari",
+          "affiliation": "Mumbai",
+          "perTournament": [
+            null,
             null,
             null,
             null,

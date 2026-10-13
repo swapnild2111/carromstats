@@ -417,15 +417,15 @@
     "slug": "pushkarni-bhattad-pune",
     "name": "Pushkarni S Bhattad",
     "city": "Pune",
-    "affiliation": null,
+    "affiliation": "Pune",
     "podium": {
       "first": 1,
       "second": 1,
       "third": 0,
       "top8": 16
     },
-    "currentPoints": null,
-    "currentRank": null,
+    "currentPoints": 1,
+    "currentRank": 17,
     "titles": 4,
     "slams": 3,
     "matchesPlayed": 39,
@@ -497,7 +497,7 @@
       "top8": 15
     },
     "currentPoints": 0,
-    "currentRank": 23,
+    "currentRank": 20,
     "titles": 6,
     "slams": 2,
     "matchesPlayed": 32,
@@ -1379,7 +1379,7 @@
       "top8": 4
     },
     "currentPoints": 0,
-    "currentRank": 23,
+    "currentRank": 20,
     "titles": 2,
     "slams": null,
     "matchesPlayed": null,
@@ -1451,7 +1451,7 @@
       "top8": 4
     },
     "currentPoints": 0,
-    "currentRank": 23,
+    "currentRank": 20,
     "titles": 0,
     "slams": 3,
     "matchesPlayed": 7,
@@ -1901,7 +1901,7 @@
       "top8": 3
     },
     "currentPoints": 1,
-    "currentRank": 19,
+    "currentRank": 17,
     "titles": 1,
     "slams": 0,
     "matchesPlayed": 2,
@@ -2243,7 +2243,7 @@
       "top8": 2
     },
     "currentPoints": 1,
-    "currentRank": 19,
+    "currentRank": 20,
     "titles": 0,
     "slams": 0,
     "matchesPlayed": 17,
@@ -5033,7 +5033,7 @@
       "top8": 1
     },
     "currentPoints": 0,
-    "currentRank": 23,
+    "currentRank": 20,
     "titles": 0,
     "slams": 0,
     "matchesPlayed": 6,

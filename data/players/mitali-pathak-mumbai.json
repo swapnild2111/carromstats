@@ -1,28 +1,38 @@
 {
   "slug": "mitali-pathak-mumbai",
-  "name": "Mitali Pathak",
+  "name": "Mitali B Pathak",
   "aliases": [
+    "Mitali B Pathak",
     "Mitali Pathak"
   ],
   "cities": [
     "Mumbai"
   ],
-  "affiliation": null,
+  "affiliation": "Institution",
   "podium": {
     "first": 1,
     "second": 8,
     "third": 4,
-    "top8": 25
+    "top8": 26
   },
-  "currentPoints": null,
-  "currentRank": null,
-  "currentRankCategory": null,
+  "currentPoints": 13,
+  "currentRank": 11,
+  "currentRankCategory": "Women's Singles",
   "titles": [],
   "slams": 9,
   "slamsAgainst": 5,
   "matchesPlayed": 88,
   "matchesWon": 46,
   "appearances": [
+    {
+      "tournamentSlug": "2026_saraswat_bramhan_samaj_state_ranking_carrom_tournament",
+      "tournamentTitle": "1st Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-02",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 4
+    },
     {
       "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
       "tournamentTitle": "10th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2026-27",
@@ -270,8 +280,8 @@
       "slug": "ambika-harith-mumbai",
       "name": "Ambika Harith",
       "city": "Mumbai",
-      "coAppearances": 15,
-      "wonAgainst": 7,
+      "coAppearances": 16,
+      "wonAgainst": 8,
       "lostAgainst": 8
     },
     {
@@ -291,6 +301,14 @@
       "lostAgainst": 5
     },
     {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 12,
+      "wonAgainst": 5,
+      "lostAgainst": 7
+    },
+    {
       "slug": "kajal-kumari-mumbai",
       "name": "Kajal Kumari",
       "city": "Mumbai",
@@ -299,12 +317,12 @@
       "lostAgainst": 9
     },
     {
-      "slug": "nilam-ghodake-mumbai",
-      "name": "Nilam Ghodake",
+      "slug": "rinky-kumari-mumbai",
+      "name": "Rinky Kumari",
       "city": "Mumbai",
-      "coAppearances": 11,
-      "wonAgainst": 4,
-      "lostAgainst": 7
+      "coAppearances": 9,
+      "wonAgainst": 7,
+      "lostAgainst": 2
     },
     {
       "slug": "chaitali-suvare-thane",
@@ -315,20 +333,20 @@
       "lostAgainst": 0
     },
     {
-      "slug": "rinky-kumari-mumbai",
-      "name": "Rinky Kumari",
-      "city": "Mumbai",
-      "coAppearances": 8,
-      "wonAgainst": 6,
-      "lostAgainst": 2
-    },
-    {
       "slug": "keshar-nirgun-sindhudurg",
       "name": "Keshar Nirgun",
       "city": "Sindhudurg",
-      "coAppearances": 6,
+      "coAppearances": 7,
       "wonAgainst": 3,
-      "lostAgainst": 3
+      "lostAgainst": 4
+    },
+    {
+      "slug": "anjali-siripuram-mumbai",
+      "name": "Anjali Siripuram",
+      "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 3,
+      "lostAgainst": 2
     },
     {
       "slug": "madhura-devle-thane",
@@ -355,11 +373,19 @@
       "lostAgainst": 2
     },
     {
-      "slug": "anjali-siripuram-mumbai",
-      "name": "Anjali Siripuram",
+      "slug": "sonali-kumari-mumbai",
+      "name": "Sonali Kumari",
       "city": "Mumbai",
-      "coAppearances": 4,
-      "wonAgainst": 3,
+      "coAppearances": 5,
+      "wonAgainst": 2,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila Shendge",
+      "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 4,
       "lostAgainst": 1
     },
     {
@@ -369,22 +395,6 @@
       "coAppearances": 4,
       "wonAgainst": 4,
       "lostAgainst": 0
-    },
-    {
-      "slug": "sonali-kumari-mumbai",
-      "name": "Sonali Kumari",
-      "city": "Mumbai",
-      "coAppearances": 4,
-      "wonAgainst": 2,
-      "lostAgainst": 2
-    },
-    {
-      "slug": "urmila-shendge-mumbai",
-      "name": "Urmila Shendge",
-      "city": "Mumbai",
-      "coAppearances": 4,
-      "wonAgainst": 3,
-      "lostAgainst": 1
     },
     {
       "slug": "madhura-devale-thane",

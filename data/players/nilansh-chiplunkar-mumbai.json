@@ -12,8 +12,8 @@
   "podium": {
     "first": 0,
     "second": 0,
-    "third": 1,
-    "top8": 9
+    "third": 2,
+    "top8": 10
   },
   "currentPoints": 14,
   "currentRank": 7,
@@ -34,6 +34,15 @@
   "matchesPlayed": 29,
   "matchesWon": 11,
   "appearances": [
+    {
+      "tournamentSlug": "2026_saraswat_bramhan_samaj_state_ranking_carrom_tournament",
+      "tournamentTitle": "1st Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-02",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 3
+    },
     {
       "tournamentSlug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
       "tournamentTitle": "11th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
@@ -121,13 +130,21 @@
       "slug": "abhijit-tripankar-pune",
       "name": "Abhijit Tripankar",
       "city": "Pune",
-      "coAppearances": 4,
-      "wonAgainst": 1,
+      "coAppearances": 5,
+      "wonAgainst": 2,
       "lostAgainst": 3
     },
     {
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 0,
+      "lostAgainst": 5
+    },
+    {
+      "slug": "mohammad-ghufran-mumbai",
+      "name": "Mohammad Ghufran",
       "city": "Mumbai",
       "coAppearances": 4,
       "wonAgainst": 0,
@@ -140,14 +157,6 @@
       "coAppearances": 4,
       "wonAgainst": 0,
       "lostAgainst": 4
-    },
-    {
-      "slug": "mohammad-ghufran-mumbai",
-      "name": "Mohammad Ghufran",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 0,
-      "lostAgainst": 3
     },
     {
       "slug": "omkar-tilak-mumbai",
@@ -164,6 +173,14 @@
       "coAppearances": 3,
       "wonAgainst": 0,
       "lostAgainst": 3
+    },
+    {
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
+      "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
     },
     {
       "slug": "vikas-dharia-mumbai",
@@ -212,14 +229,6 @@
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
-    },
-    {
-      "slug": "sanjay-mande-thane",
-      "name": "Sanjay Mande",
-      "city": "Thane",
-      "coAppearances": 2,
-      "wonAgainst": 1,
-      "lostAgainst": 1
     },
     {
       "slug": "siddhant-wadwalkar-mumbai",
@@ -342,6 +351,14 @@
       "lostAgainst": 1
     },
     {
+      "slug": "muniyappan-raja-mumbai-suburban",
+      "name": "Muniyappan Raja",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
       "slug": "prafull-more-mumbai",
       "name": "Prafull More",
       "city": "Mumbai",
@@ -361,6 +378,14 @@
       "slug": "rajesh-gohil-thane",
       "name": "Rajesh Gohil",
       "city": "Raigad",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rizwan-shaikh-mumbaisub",
+      "name": "Rizwan Shaikh",
+      "city": "Mumbai-Sub",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
@@ -412,6 +437,14 @@
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
+    },
+    {
+      "slug": "yogesh-pardeshi-mumbai",
+      "name": "Yogesh Pardeshi",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
     },
     {
       "slug": "zaid-farooquee-thane",

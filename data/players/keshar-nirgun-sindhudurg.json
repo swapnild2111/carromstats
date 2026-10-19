@@ -13,9 +13,9 @@
   "affiliation": "Institution",
   "podium": {
     "first": 4,
-    "second": 4,
+    "second": 5,
     "third": 6,
-    "top8": 24
+    "top8": 25
   },
   "currentPoints": 24,
   "currentRank": 4,
@@ -43,6 +43,15 @@
   "matchesPlayed": 86,
   "matchesWon": 45,
   "appearances": [
+    {
+      "tournamentSlug": "2026_saraswat_bramhan_samaj_state_ranking_carrom_tournament",
+      "tournamentTitle": "1st Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-02",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 2
+    },
     {
       "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
       "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
@@ -286,20 +295,28 @@
       "lostAgainst": 6
     },
     {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 9,
+      "wonAgainst": 5,
+      "lostAgainst": 4
+    },
+    {
+      "slug": "ambika-harith-mumbai",
+      "name": "Ambika Harith",
+      "city": "Mumbai",
+      "coAppearances": 8,
+      "wonAgainst": 6,
+      "lostAgainst": 2
+    },
+    {
       "slug": "kajal-kumari-mumbai",
       "name": "Kajal Kumari",
       "city": "Mumbai",
       "coAppearances": 8,
       "wonAgainst": 1,
       "lostAgainst": 7
-    },
-    {
-      "slug": "nilam-ghodake-mumbai",
-      "name": "Nilam Ghodake",
-      "city": "Mumbai",
-      "coAppearances": 8,
-      "wonAgainst": 4,
-      "lostAgainst": 4
     },
     {
       "slug": "aisha-khan-mumbai",
@@ -310,12 +327,20 @@
       "lostAgainst": 5
     },
     {
-      "slug": "ambika-harith-mumbai",
-      "name": "Ambika Harith",
+      "slug": "mitali-pathak-mumbai",
+      "name": "Mitali Pathak",
       "city": "Mumbai",
       "coAppearances": 7,
-      "wonAgainst": 5,
-      "lostAgainst": 2
+      "wonAgainst": 4,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "rinky-kumari-mumbai",
+      "name": "Rinky Kumari",
+      "city": "Mumbai",
+      "coAppearances": 7,
+      "wonAgainst": 3,
+      "lostAgainst": 4
     },
     {
       "slug": "shruti-sonawane-palghar",
@@ -342,20 +367,20 @@
       "lostAgainst": 5
     },
     {
-      "slug": "mitali-pathak-mumbai",
-      "name": "Mitali Pathak",
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila Shendge",
       "city": "Mumbai",
       "coAppearances": 6,
-      "wonAgainst": 3,
-      "lostAgainst": 3
+      "wonAgainst": 6,
+      "lostAgainst": 0
     },
     {
-      "slug": "rinky-kumari-mumbai",
-      "name": "Rinky Kumari",
+      "slug": "anjali-siripuram-mumbai",
+      "name": "Anjali Siripuram",
       "city": "Mumbai",
-      "coAppearances": 6,
-      "wonAgainst": 2,
-      "lostAgainst": 4
+      "coAppearances": 5,
+      "wonAgainst": 5,
+      "lostAgainst": 0
     },
     {
       "slug": "diksha-chavan-sindhudurg",
@@ -366,28 +391,20 @@
       "lostAgainst": 2
     },
     {
-      "slug": "urmila-shendge-mumbai",
-      "name": "Urmila Shendge",
-      "city": "Mumbai",
-      "coAppearances": 5,
-      "wonAgainst": 5,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "anjali-siripuram-mumbai",
-      "name": "Anjali Siripuram",
-      "city": "Mumbai",
-      "coAppearances": 4,
-      "wonAgainst": 4,
-      "lostAgainst": 0
-    },
-    {
       "slug": "pushkarni-bhattad-pune",
       "name": "Pushkarni Bhattad",
       "city": "Pune",
       "coAppearances": 4,
       "wonAgainst": 4,
       "lostAgainst": 0
+    },
+    {
+      "slug": "sonali-kumari-mumbai",
+      "name": "Sonali Kumari",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 3,
+      "lostAgainst": 1
     },
     {
       "slug": "maitreyee-gogate-mumbai",
@@ -412,14 +429,6 @@
       "coAppearances": 3,
       "wonAgainst": 1,
       "lostAgainst": 2
-    },
-    {
-      "slug": "sonali-kumari-mumbai",
-      "name": "Sonali Kumari",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 3,
-      "lostAgainst": 0
     },
     {
       "slug": "shravani-n-tambe-pune",

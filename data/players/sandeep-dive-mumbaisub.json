@@ -424,17 +424,17 @@
       "lostAgainst": 5
     },
     {
-      "slug": "yogesh-pardeshi-pune",
-      "name": "Yogesh Pardeshi",
-      "city": "Pune",
-      "coAppearances": 12,
-      "wonAgainst": 8,
-      "lostAgainst": 4
-    },
-    {
       "slug": "pankaj-pawar-thane",
       "name": "Pankaj Pawar",
       "city": "Mumbai",
+      "coAppearances": 11,
+      "wonAgainst": 8,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "yogesh-pardeshi-pune",
+      "name": "Yogesh Pardeshi",
+      "city": "Pune",
       "coAppearances": 11,
       "wonAgainst": 8,
       "lostAgainst": 3
@@ -950,6 +950,14 @@
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
+    },
+    {
+      "slug": "yogesh-pardeshi-mumbai",
+      "name": "Yogesh Pardeshi",
+      "city": "PSPB",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
     },
     {
       "slug": "zaid-farooquei-thane",

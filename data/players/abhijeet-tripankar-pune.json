@@ -78,14 +78,6 @@
       "lostAgainst": 2
     },
     {
-      "slug": "yogesh-pardeshi-pune",
-      "name": "Yogesh Pardeshi",
-      "city": "Pune",
-      "coAppearances": 2,
-      "wonAgainst": 2,
-      "lostAgainst": 0
-    },
-    {
       "slug": "zaid-ahmed-mumbai",
       "name": "Zaid Ahmed",
       "city": "Mumbai",
@@ -161,6 +153,22 @@
       "slug": "vikas-dharia-mumbai",
       "name": "Vikas Dharia",
       "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "yogesh-pardeshi-pune",
+      "name": "Yogesh Pardeshi",
+      "city": "Pune",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "yogesh-pardeshi-mumbai",
+      "name": "Yogesh Pardeshi",
+      "city": "PSPB",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

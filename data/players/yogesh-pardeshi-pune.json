@@ -40,10 +40,10 @@
       ]
     }
   ],
-  "slams": 5,
-  "slamsAgainst": 3,
-  "matchesPlayed": 35,
-  "matchesWon": 19,
+  "slams": null,
+  "slamsAgainst": null,
+  "matchesPlayed": null,
+  "matchesWon": null,
   "appearances": [
     {
       "tournamentSlug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",

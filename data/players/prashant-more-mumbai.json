@@ -12,9 +12,9 @@
   "affiliation": "Institution",
   "podium": {
     "first": 21,
-    "second": 10,
+    "second": 11,
     "third": 11,
-    "top8": 54
+    "top8": 55
   },
   "currentPoints": 34,
   "currentRank": 1,
@@ -62,6 +62,15 @@
   "matchesPlayed": 113,
   "matchesWon": 86,
   "appearances": [
+    {
+      "tournamentSlug": "2026_saraswat_bramhan_samaj_state_ranking_carrom_tournament",
+      "tournamentTitle": "1st Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-02",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 2
+    },
     {
       "tournamentSlug": "2026_5th_the_chembur_gymkhana_state_ranking_carrom_tournament",
       "tournamentTitle": "5th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
@@ -578,8 +587,8 @@
       "slug": "abhijit-tripankar-pune",
       "name": "Abhijit Tripankar",
       "city": "Pune",
-      "coAppearances": 21,
-      "wonAgainst": 15,
+      "coAppearances": 22,
+      "wonAgainst": 16,
       "lostAgainst": 6
     },
     {
@@ -591,20 +600,20 @@
       "lostAgainst": 3
     },
     {
-      "slug": "yogesh-pardeshi-pune",
-      "name": "Yogesh Pardeshi",
-      "city": "Pune",
-      "coAppearances": 15,
-      "wonAgainst": 12,
-      "lostAgainst": 3
-    },
-    {
       "slug": "sagar-waghmare-pune",
       "name": "Sagar Waghmare",
       "city": "Pune",
       "coAppearances": 14,
       "wonAgainst": 9,
       "lostAgainst": 5
+    },
+    {
+      "slug": "yogesh-pardeshi-pune",
+      "name": "Yogesh Pardeshi",
+      "city": "Pune",
+      "coAppearances": 14,
+      "wonAgainst": 11,
+      "lostAgainst": 3
     },
     {
       "slug": "zaid-farooquee-thane",
@@ -623,6 +632,14 @@
       "lostAgainst": 1
     },
     {
+      "slug": "mohammad-ghufran-mumbai",
+      "name": "Mohammad Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 11,
+      "wonAgainst": 5,
+      "lostAgainst": 6
+    },
+    {
       "slug": "sandeep-deorukhkar-mumbai",
       "name": "Sandeep Deorukhkar",
       "city": "Mumbai",
@@ -636,14 +653,6 @@
       "city": "Mumbai",
       "coAppearances": 11,
       "wonAgainst": 6,
-      "lostAgainst": 5
-    },
-    {
-      "slug": "mohammad-ghufran-mumbai",
-      "name": "Mohammad Ghufran",
-      "city": "Mumbai",
-      "coAppearances": 10,
-      "wonAgainst": 5,
       "lostAgainst": 5
     },
     {
@@ -685,6 +694,14 @@
       "coAppearances": 6,
       "wonAgainst": 4,
       "lostAgainst": 2
+    },
+    {
+      "slug": "nilansh-chiplunkar-mumbai",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 5,
+      "lostAgainst": 0
     },
     {
       "slug": "prakash-gaikwad-pune",
@@ -735,14 +752,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "nilansh-chiplunkar-mumbai",
-      "name": "Nilansh Chiplunkar",
-      "city": "Mumbai",
-      "coAppearances": 4,
-      "wonAgainst": 4,
-      "lostAgainst": 0
-    },
-    {
       "slug": "riyaz-akbarali-mumbai",
       "name": "Riyaz Akbarali",
       "city": "Mumbai",
@@ -753,6 +762,14 @@
     {
       "slug": "sameer-ansari-thane",
       "name": "Sameer Ansari",
+      "city": "Thane",
+      "coAppearances": 4,
+      "wonAgainst": 4,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sanjay-mande-thane",
+      "name": "Sanjay Mande",
       "city": "Thane",
       "coAppearances": 4,
       "wonAgainst": 4,
@@ -826,14 +843,6 @@
       "slug": "omkar-tilak-mumbai",
       "name": "Omkar Tilak",
       "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 3,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "sanjay-mande-thane",
-      "name": "Sanjay Mande",
-      "city": "Thane",
       "coAppearances": 3,
       "wonAgainst": 3,
       "lostAgainst": 0
@@ -922,6 +931,14 @@
       "slug": "riyaz-akbarali-ratnagiri",
       "name": "Riyaz Akbarali",
       "city": "Air India",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "yogesh-pardeshi-mumbai",
+      "name": "Yogesh Pardeshi",
+      "city": "Mumbai",
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
@@ -1071,6 +1088,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "muniyappan-raja-mumbai-suburban",
+      "name": "Muniyappan Raja",
+      "city": "Mumbai Suburban",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
       "slug": "nishantha-fernando-srilanka",
       "name": "Nishantha Fernando",
       "city": "Srilanka",
@@ -1122,6 +1147,14 @@
       "slug": "riyaz-akbara-ali-ratnagiri",
       "name": "Riyaz Akbara Ali",
       "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "rizwan-shaikh-mumbaisub",
+      "name": "Rizwan Shaikh",
+      "city": "Mumbai-Sub",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

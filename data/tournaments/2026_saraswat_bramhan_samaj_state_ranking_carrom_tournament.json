@@ -7,5 +7,98 @@
   "date": "2026-10-02",
   "venue": null,
   "hasResultsSubPage": true,
-  "categories": []
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Mohammad Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Nilansh Chiplunkar",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 5,
+          "name": "Rizwan Shaikh",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 6,
+          "name": "Sanjay Mande",
+          "city": "Thane"
+        },
+        {
+          "position": 7,
+          "name": "Yogesh Pardeshi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Muniyappan Raja",
+          "city": "Mumbai Suburban"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Keshar Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 3,
+          "name": "Anjali Siripuram",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Mitali B Pathak",
+          "city": "Mumbai"
+        },
+        {
+          "position": 5,
+          "name": "Ambika Harith",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Urmila V Shendge",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Nilam Ghodake",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
 }

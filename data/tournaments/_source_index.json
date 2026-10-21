@@ -601,7 +601,7 @@
   },
   {
     "pagePath": "2026_4th_mig_cricket_club_state_ranking_carrom_tournament.php",
-    "label": "4th MIG Cricket Club Maharashtra State Ranking Carrom Tournament 2026-2027",
+    "label": "4th MIG Cricket Club State Ranking",
     "urlYear": 2026,
     "seasonHint": null
   },
@@ -626,6 +626,12 @@
   {
     "pagePath": "2026_saraswat_bramhan_samaj_state_ranking_carrom_tournament.php",
     "label": "Saraswat Bramhan Samaj State Ranking",
+    "urlYear": 2026,
+    "seasonHint": null
+  },
+  {
+    "pagePath": "2026_willingdon_catholic_gymkhana_state_ranking_carrom_tournament.php",
+    "label": "Willingdon Catholic Gymkhana Maharashtra State Ranking Carrom Tournament 2026-27",
     "urlYear": 2026,
     "seasonHint": null
   }

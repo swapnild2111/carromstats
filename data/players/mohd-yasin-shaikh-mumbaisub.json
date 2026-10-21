@@ -7,16 +7,16 @@
   "cities": [
     "Mumbai-Sub"
   ],
-  "affiliation": null,
+  "affiliation": "Mumbai Suburban",
   "podium": {
     "first": 0,
     "second": 0,
     "third": 1,
     "top8": 3
   },
-  "currentPoints": null,
-  "currentRank": null,
-  "currentRankCategory": null,
+  "currentPoints": 0,
+  "currentRank": 30,
+  "currentRankCategory": "Men's Singles",
   "titles": [],
   "slams": null,
   "slamsAgainst": null,

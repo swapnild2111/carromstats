@@ -10,10 +10,10 @@
   ],
   "affiliation": "Institution",
   "podium": {
-    "first": 4,
+    "first": 5,
     "second": 7,
     "third": 5,
-    "top8": 43
+    "top8": 44
   },
   "currentPoints": 38,
   "currentRank": 1,
@@ -49,6 +49,15 @@
   "matchesPlayed": 151,
   "matchesWon": 97,
   "appearances": [
+    {
+      "tournamentSlug": "2026_4th_mig_cricket_club_state_ranking_carrom_tournament",
+      "tournamentTitle": "4th MIG Cricret CLub State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-16",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 1
+    },
     {
       "tournamentSlug": "2026_10th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
       "tournamentTitle": "10th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2026-27",
@@ -442,8 +451,8 @@
       "slug": "aakanksha-kadam-ratnagiri",
       "name": "Aakanksha Kadam",
       "city": "Ratnagiri",
-      "coAppearances": 34,
-      "wonAgainst": 12,
+      "coAppearances": 35,
+      "wonAgainst": 13,
       "lostAgainst": 22
     },
     {
@@ -458,8 +467,8 @@
       "slug": "mitali-pathak-mumbai",
       "name": "Mitali Pathak",
       "city": "Mumbai",
-      "coAppearances": 22,
-      "wonAgainst": 9,
+      "coAppearances": 23,
+      "wonAgainst": 10,
       "lostAgainst": 13
     },
     {
@@ -474,8 +483,8 @@
       "slug": "aisha-khan-mumbai",
       "name": "Aisha Khan",
       "city": "Mumbai",
-      "coAppearances": 17,
-      "wonAgainst": 8,
+      "coAppearances": 18,
+      "wonAgainst": 9,
       "lostAgainst": 9
     },
     {
@@ -538,16 +547,16 @@
       "slug": "madhura-devle-thane",
       "name": "Madhura Devle",
       "city": "Thane",
-      "coAppearances": 9,
-      "wonAgainst": 3,
+      "coAppearances": 10,
+      "wonAgainst": 4,
       "lostAgainst": 6
     },
     {
       "slug": "sonali-kumari-mumbai",
       "name": "Sonali Kumari",
       "city": "Mumbai",
-      "coAppearances": 8,
-      "wonAgainst": 6,
+      "coAppearances": 9,
+      "wonAgainst": 7,
       "lostAgainst": 2
     },
     {
@@ -711,6 +720,14 @@
       "lostAgainst": 1
     },
     {
+      "slug": "keshar-sonawane-sindhudurg",
+      "name": "Keshar Sonawane",
+      "city": "Sindhudurg",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
       "slug": "mansi-shinde-mumbai",
       "name": "Mansi Shinde",
       "city": "Mumbai",
@@ -730,6 +747,14 @@
       "slug": "mugaja-juvekar-ratnagiri",
       "name": "Mugaja Juvekar",
       "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "prajakta-narayankar-mumbai",
+      "name": "Prajakta Narayankar",
+      "city": "Mumbai",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

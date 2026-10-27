@@ -12,8 +12,8 @@
   "podium": {
     "first": 2,
     "second": 1,
-    "third": 1,
-    "top8": 14
+    "third": 2,
+    "top8": 15
   },
   "currentPoints": 9,
   "currentRank": 12,
@@ -33,6 +33,15 @@
   "matchesPlayed": 36,
   "matchesWon": 14,
   "appearances": [
+    {
+      "tournamentSlug": "2026_4th_mig_cricket_club_state_ranking_carrom_tournament",
+      "tournamentTitle": "4th MIG Cricret CLub State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-16",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 3
+    },
     {
       "tournamentSlug": "2025_17th_shivaji_park_gymkhana_state_ranking_carrom_tournament",
       "tournamentTitle": "17th Shivaji Park Gymkhana State Ranking Carrom Tournament 2025-26",
@@ -165,9 +174,9 @@
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
       "city": "Mumbai",
-      "coAppearances": 12,
+      "coAppearances": 13,
       "wonAgainst": 1,
-      "lostAgainst": 11
+      "lostAgainst": 12
     },
     {
       "slug": "mohd-ghufran-mumbai",
@@ -178,20 +187,20 @@
       "lostAgainst": 7
     },
     {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 8,
+      "wonAgainst": 5,
+      "lostAgainst": 3
+    },
+    {
       "slug": "vikas-dharia-mumbai",
       "name": "Vikas Dharia",
       "city": "Mumbai",
       "coAppearances": 8,
       "wonAgainst": 2,
       "lostAgainst": 6
-    },
-    {
-      "slug": "sagar-waghmare-pune",
-      "name": "Sagar Waghmare",
-      "city": "Pune",
-      "coAppearances": 7,
-      "wonAgainst": 4,
-      "lostAgainst": 3
     },
     {
       "slug": "zaid-farooquee-thane",
@@ -202,20 +211,20 @@
       "lostAgainst": 5
     },
     {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 6,
+      "wonAgainst": 4,
+      "lostAgainst": 2
+    },
+    {
       "slug": "pankaj-pawar-thane",
       "name": "Pankaj Pawar",
       "city": "Mumbai",
       "coAppearances": 6,
       "wonAgainst": 3,
       "lostAgainst": 3
-    },
-    {
-      "slug": "abhijit-tripankar-pune",
-      "name": "Abhijit Tripankar",
-      "city": "Pune",
-      "coAppearances": 5,
-      "wonAgainst": 4,
-      "lostAgainst": 1
     },
     {
       "slug": "sandeep-dive-mumbaisub",
@@ -229,8 +238,8 @@
       "slug": "mohammad-ghufran-mumbai",
       "name": "Mohammad Ghufran",
       "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 2,
+      "coAppearances": 4,
+      "wonAgainst": 3,
       "lostAgainst": 1
     },
     {
@@ -288,6 +297,14 @@
       "coAppearances": 2,
       "wonAgainst": 0,
       "lostAgainst": 2
+    },
+    {
+      "slug": "saurabh-mate-mumbai",
+      "name": "Saurabh Mate",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
     },
     {
       "slug": "zaid-a-farooquie-thane",
@@ -354,6 +371,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "prafull-more-mumbai",
+      "name": "Prafull More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
       "slug": "prafulla-more-mumbai",
       "name": "Prafulla More",
       "city": "Mumbai",
@@ -378,9 +403,9 @@
       "lostAgainst": 1
     },
     {
-      "slug": "saurabh-mate-mumbai",
-      "name": "Saurabh Mate",
-      "city": "Mumbai",
+      "slug": "sabhir-shaikh-mumbaisub",
+      "name": "Sabhir Shaikh",
+      "city": "Mumbai-Sub",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

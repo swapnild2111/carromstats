@@ -15,7 +15,7 @@
     "first": 3,
     "second": 6,
     "third": 2,
-    "top8": 27
+    "top8": 28
   },
   "currentPoints": 16,
   "currentRank": 6,
@@ -35,6 +35,15 @@
   "matchesPlayed": 82,
   "matchesWon": 40,
   "appearances": [
+    {
+      "tournamentSlug": "2026_4th_mig_cricket_club_state_ranking_carrom_tournament",
+      "tournamentTitle": "4th MIG Cricret CLub State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-16",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 6
+    },
     {
       "tournamentSlug": "2026_60th_senior_maharashtra_state_carrom_championship",
       "tournamentTitle": "60th Senior Maharashtra State Carrom Championship 2026-27",
@@ -292,9 +301,17 @@
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
       "city": "Mumbai",
-      "coAppearances": 14,
+      "coAppearances": 15,
       "wonAgainst": 5,
-      "lostAgainst": 9
+      "lostAgainst": 10
+    },
+    {
+      "slug": "abhijit-tripankar-pune",
+      "name": "Abhijit Tripankar",
+      "city": "Pune",
+      "coAppearances": 13,
+      "wonAgainst": 5,
+      "lostAgainst": 8
     },
     {
       "slug": "sandeep-dive-mumbaisub",
@@ -303,14 +320,6 @@
       "coAppearances": 13,
       "wonAgainst": 5,
       "lostAgainst": 8
-    },
-    {
-      "slug": "abhijit-tripankar-pune",
-      "name": "Abhijit Tripankar",
-      "city": "Pune",
-      "coAppearances": 12,
-      "wonAgainst": 5,
-      "lostAgainst": 7
     },
     {
       "slug": "zaid-farooquee-thane",
@@ -329,6 +338,14 @@
       "lostAgainst": 6
     },
     {
+      "slug": "mohammad-ghufran-mumbai",
+      "name": "Mohammad Ghufran",
+      "city": "Mumbai",
+      "coAppearances": 9,
+      "wonAgainst": 2,
+      "lostAgainst": 7
+    },
+    {
       "slug": "mohd-ghufran-mumbai",
       "name": "Mohd. Ghufran",
       "city": "Mumbai",
@@ -337,20 +354,12 @@
       "lostAgainst": 6
     },
     {
-      "slug": "mohammad-ghufran-mumbai",
-      "name": "Mohammad Ghufran",
-      "city": "Mumbai",
-      "coAppearances": 8,
-      "wonAgainst": 2,
-      "lostAgainst": 6
-    },
-    {
       "slug": "siddhant-wadwalkar-mumbai",
       "name": "Siddhant Wadwalkar",
       "city": "Mumbai",
-      "coAppearances": 7,
+      "coAppearances": 8,
       "wonAgainst": 3,
-      "lostAgainst": 4
+      "lostAgainst": 5
     },
     {
       "slug": "rahul-solanki-mumbai",
@@ -393,6 +402,14 @@
       "lostAgainst": 0
     },
     {
+      "slug": "prafull-more-mumbai",
+      "name": "Prafull More",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 3,
+      "lostAgainst": 1
+    },
+    {
       "slug": "prakash-gaikwad-pune",
       "name": "Prakash Gaikwad",
       "city": "Pune",
@@ -425,14 +442,6 @@
       "lostAgainst": 1
     },
     {
-      "slug": "prafull-more-mumbai",
-      "name": "Prafull More",
-      "city": "Mumbai",
-      "coAppearances": 3,
-      "wonAgainst": 3,
-      "lostAgainst": 0
-    },
-    {
       "slug": "sameer-ansari-thane",
       "name": "Sameer Ansari",
       "city": "Thane",
@@ -447,6 +456,14 @@
       "coAppearances": 3,
       "wonAgainst": 3,
       "lostAgainst": 0
+    },
+    {
+      "slug": "saurabh-mate-mumbai",
+      "name": "Saurabh Mate",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
     },
     {
       "slug": "hareshwar-betvanshi-mumbai",
@@ -487,14 +504,6 @@
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
-    },
-    {
-      "slug": "saurabh-mate-mumbai",
-      "name": "Saurabh Mate",
-      "city": "Mumbai",
-      "coAppearances": 2,
-      "wonAgainst": 1,
-      "lostAgainst": 1
     },
     {
       "slug": "abhijit-chavan-ratnagiri",
@@ -631,6 +640,14 @@
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
+    },
+    {
+      "slug": "sabhir-shaikh-mumbaisub",
+      "name": "Sabhir Shaikh",
+      "city": "Mumbai-Sub",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
     },
     {
       "slug": "sameer-ansarai-thane",

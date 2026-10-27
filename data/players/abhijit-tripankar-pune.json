@@ -14,9 +14,9 @@
   "affiliation": "Institution",
   "podium": {
     "first": 3,
-    "second": 7,
+    "second": 8,
     "third": 4,
-    "top8": 34
+    "top8": 35
   },
   "currentPoints": 39,
   "currentRank": 2,
@@ -27,6 +27,15 @@
   "matchesPlayed": 85,
   "matchesWon": 53,
   "appearances": [
+    {
+      "tournamentSlug": "2026_4th_mig_cricket_club_state_ranking_carrom_tournament",
+      "tournamentTitle": "4th MIG Cricret CLub State Ranking Carrom Tournament 2026-27",
+      "season": "2026-27",
+      "date": "2026-10-16",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 2
+    },
     {
       "tournamentSlug": "2026_saraswat_bramhan_samaj_state_ranking_carrom_tournament",
       "tournamentTitle": "1st Saraswat Bramhan Samaj Maharashtra State Ranking Carrom Tournament 2026-27",
@@ -339,9 +348,9 @@
       "slug": "prashant-more-mumbai",
       "name": "Prashant More",
       "city": "Mumbai",
-      "coAppearances": 22,
+      "coAppearances": 23,
       "wonAgainst": 6,
-      "lostAgainst": 16
+      "lostAgainst": 17
     },
     {
       "slug": "sandeep-dive-mumbaisub",
@@ -368,20 +377,20 @@
       "lostAgainst": 3
     },
     {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 13,
+      "wonAgainst": 8,
+      "lostAgainst": 5
+    },
+    {
       "slug": "zaid-farooquee-thane",
       "name": "Zaid A Farooquee",
       "city": "Thane",
       "coAppearances": 13,
       "wonAgainst": 6,
       "lostAgainst": 7
-    },
-    {
-      "slug": "sagar-waghmare-pune",
-      "name": "Sagar Waghmare",
-      "city": "Pune",
-      "coAppearances": 12,
-      "wonAgainst": 7,
-      "lostAgainst": 5
     },
     {
       "slug": "mohd-ghufran-mumbai",
@@ -395,8 +404,8 @@
       "slug": "mohammad-ghufran-mumbai",
       "name": "Mohammad Ghufran",
       "city": "Mumbai",
-      "coAppearances": 9,
-      "wonAgainst": 5,
+      "coAppearances": 10,
+      "wonAgainst": 6,
       "lostAgainst": 4
     },
     {
@@ -414,6 +423,14 @@
       "coAppearances": 6,
       "wonAgainst": 6,
       "lostAgainst": 0
+    },
+    {
+      "slug": "siddhant-wadwalkar-mumbai",
+      "name": "Siddhant Wadwalkar",
+      "city": "Mumbai",
+      "coAppearances": 6,
+      "wonAgainst": 2,
+      "lostAgainst": 4
     },
     {
       "slug": "abhishek-chavan-ratnagiri",
@@ -438,14 +455,6 @@
       "coAppearances": 5,
       "wonAgainst": 3,
       "lostAgainst": 2
-    },
-    {
-      "slug": "siddhant-wadwalkar-mumbai",
-      "name": "Siddhant Wadwalkar",
-      "city": "Mumbai",
-      "coAppearances": 5,
-      "wonAgainst": 1,
-      "lostAgainst": 4
     },
     {
       "slug": "yogesh-dhongade-mumbai",
@@ -504,9 +513,25 @@
       "lostAgainst": 0
     },
     {
+      "slug": "prafull-more-mumbai",
+      "name": "Prafull More",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
       "slug": "sameer-ansari-thane",
       "name": "Sameer Ansari",
       "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "saurabh-mate-mumbai",
+      "name": "Saurabh Mate",
+      "city": "Mumbai",
       "coAppearances": 3,
       "wonAgainst": 3,
       "lostAgainst": 0
@@ -560,14 +585,6 @@
       "lostAgainst": 0
     },
     {
-      "slug": "prafull-more-mumbai",
-      "name": "Prafull More",
-      "city": "Mumbai",
-      "coAppearances": 2,
-      "wonAgainst": 1,
-      "lostAgainst": 1
-    },
-    {
       "slug": "rajesh-gohil-thane",
       "name": "Rajesh Gohil",
       "city": "Thane",
@@ -587,14 +604,6 @@
       "slug": "sanjay-maniyar-mumbaisub",
       "name": "Sanjay Maniyar",
       "city": "Mumbai-Sub",
-      "coAppearances": 2,
-      "wonAgainst": 2,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "saurabh-mate-mumbai",
-      "name": "Saurabh Mate",
-      "city": "Mumbai",
       "coAppearances": 2,
       "wonAgainst": 2,
       "lostAgainst": 0
@@ -771,6 +780,14 @@
       "slug": "rohit-chaugule-kolhapur",
       "name": "Rohit Chaugule",
       "city": "Kolhapur",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "sabhir-shaikh-mumbaisub",
+      "name": "Sabhir Shaikh",
+      "city": "Mumbai-Sub",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

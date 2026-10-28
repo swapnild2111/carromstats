@@ -19,8 +19,17 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 1,
-  "slamsAgainst": 1,
+  "slamsWhite": 1,
+  "slamsBlack": 0,
+  "slamsTotal": 1,
+  "slamsByTournament": {
+    "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 1,
+  "shutoutSetsAgainst": 1,
   "matchesPlayed": 11,
   "matchesWon": 1,
   "appearances": [

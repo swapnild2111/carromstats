@@ -34,7 +34,7 @@ const sorted = [...all].sort((a, b) => {
             <th class="num">2nd</th>
             <th class="num">3rd</th>
             <th class="num">Top&nbsp;8</th>
-            <th class="num">Slams</th>
+            <th class="num" title="White / Black slams">Slams</th>
             <th class="num">Matches</th>
             <th class="num">Titles</th>
             <th class="num">Rank</th>
@@ -53,7 +53,7 @@ const sorted = [...all].sort((a, b) => {
               <td class="num muted-num">{p.podium.second}</td>
               <td class="num muted-num">{p.podium.third}</td>
               <td class="num">{p.podium.top8}</td>
-              <td class="num">{p.slams ?? ''}</td>
+              <td class="num">{p.slamsTotal ? `${p.slamsTotal} (${p.slamsWhite}W/${p.slamsBlack}B)` : ''}</td>
               <td class="num muted-num">{p.matchesPlayed ? `${p.matchesWon}/${p.matchesPlayed}` : ''}</td>
               <td class="num">{p.titles || ''}</td>
               <td class="num">{p.currentRank ? `#${p.currentRank}` : ''}</td>

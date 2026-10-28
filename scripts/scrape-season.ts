@@ -2,6 +2,7 @@ import { fetchHtml, MCA_ORIGIN, absolutize } from './lib/http.js';
 import { parseTournamentIndex } from './lib/parsers/index-page.js';
 import { parseTournamentPage } from './lib/parsers/tournament-page.js';
 import { scrapeTournamentMatches } from './lib/matches.js';
+import { scrapeTournamentSlams } from './lib/slams.js';
 import { matchesKeyword, REQUIRED_KEYWORD, rebuildTournamentIndex, writeTournament } from './lib/tournaments.js';
 
 // Usage: npm run scrape-season -- 2025-26
@@ -47,6 +48,8 @@ for (const [i, t] of kept.entries()) {
   const r = await scrapeTournamentMatches(t);
   console.log(`   → ${r.ok} ok, ${r.miss} 404, ${r.fail} failed`);
   failed += r.fail;
+  const slams = await scrapeTournamentSlams(t);
+  console.log(slams === null ? '   slams: none' : `   slams: ${slams} entries`);
 }
 
 console.log(`\nkept ${kept.length}, skipped ${skipped.length} (keyword: "${REQUIRED_KEYWORD}", season: ${season})`);

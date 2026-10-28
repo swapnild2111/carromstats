@@ -1,0 +1,441 @@
+{
+  "tournamentSlug": "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament",
+  "reported": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "count": 37
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "count": 9
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "white",
+      "count": 0
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "black",
+      "count": 0
+    }
+  ],
+  "slams": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Abdul Sattar Naik",
+      "city": "Mumbai Suburban",
+      "match": 14,
+      "set": 1,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Hareshwar G Betwanshi",
+      "city": "Mumbai",
+      "match": 88,
+      "set": 3,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohammed Asif Faiz Ahmed Khan",
+      "city": "Thane",
+      "match": 94,
+      "set": 1,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohammed Asif Faiz Ahmed Khan",
+      "city": "Thane",
+      "match": 94,
+      "set": 2,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Bharat Hira Dandekar",
+      "city": "Mumbai",
+      "match": 102,
+      "set": 3,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Pankaj Ashok Pawar",
+      "city": "Thane",
+      "match": 120,
+      "set": 1,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sameer Mohammad Jabir Ansari",
+      "city": "Thane",
+      "match": 136,
+      "set": 2,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Abhijit Dattatray Tripankar",
+      "city": "Pune",
+      "match": 137,
+      "set": 1,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohseen Aadam Shaikh",
+      "city": "Mumbai Suburban",
+      "match": 175,
+      "set": 1,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Govind Narayan Churi",
+      "city": "Mumbai Suburban",
+      "match": 177,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Govind Narayan Churi",
+      "city": "Mumbai Suburban",
+      "match": 177,
+      "set": 3,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mangesh Nagesh Pandit",
+      "city": "Mumbai Suburban",
+      "match": 182,
+      "set": 1,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prafull Suryakant More",
+      "city": "Mumbai",
+      "match": 184,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Rajesh Dhanji Gohil",
+      "city": "Raigad",
+      "match": 225,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohseen Aadam Shaikh",
+      "city": "Mumbai Suburban",
+      "match": 236,
+      "set": 1,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Nilansh Chiplunkar",
+      "city": "Mumbai",
+      "match": 239,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prafull Suryakant More",
+      "city": "Mumbai",
+      "match": 240,
+      "set": 1,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "match": 241,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "match": 248,
+      "set": 2,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Zaid Ahmed Farooquee",
+      "city": "Thane",
+      "match": 249,
+      "set": 2,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Abhijit Dattatray Tripankar",
+      "city": "Pune",
+      "match": 257,
+      "set": 1,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohseen Aadam Shaikh",
+      "city": "Mumbai Suburban",
+      "match": 266,
+      "set": 2,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prafull Suryakant More",
+      "city": "Mumbai",
+      "match": 268,
+      "set": 3,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prafull Suryakant More",
+      "city": "Mumbai",
+      "match": 268,
+      "set": 3,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Hareshwar G Betwanshi",
+      "city": "Mumbai",
+      "match": 270,
+      "set": 1,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Dinesh Kedar",
+      "city": "Mumbai",
+      "match": 270,
+      "set": 2,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Vivek Anant Kamble",
+      "city": "Mumbai Suburban",
+      "match": 273,
+      "set": 2,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Pankaj Ashok Pawar",
+      "city": "Thane",
+      "match": 274,
+      "set": 2,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sagar Prakash Waghmare",
+      "city": "Pune",
+      "match": 280,
+      "set": 1,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "match": 283,
+      "set": 2,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sandeep Ashok Dive",
+      "city": "Jalgaon",
+      "match": 284,
+      "set": 2,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Abhijit Dattatray Tripankar",
+      "city": "Pune",
+      "match": 287,
+      "set": 2,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prashant Suryakant More",
+      "city": "Mumbai",
+      "match": 289,
+      "set": 2,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Siddhant Mahendra Wadwalkar",
+      "city": "Mumbai",
+      "match": 289,
+      "set": 2,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prashant Suryakant More",
+      "city": "Mumbai",
+      "match": 289,
+      "set": 3,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prashant Suryakant More",
+      "city": "Mumbai",
+      "match": 293,
+      "set": 1,
+      "board": 8
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "match": 293,
+      "set": 2,
+      "board": 8
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Rajesh Dhanji Gohil",
+      "city": "Raigad",
+      "match": 225,
+      "set": 1,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Sandeep Ashok Dive",
+      "city": "Jalgaon",
+      "match": 245,
+      "set": 3,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Siddhant Mahendra Wadwalkar",
+      "city": "Mumbai",
+      "match": 267,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Siddhant Mahendra Wadwalkar",
+      "city": "Mumbai",
+      "match": 282,
+      "set": 1,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Prafull Suryakant More",
+      "city": "Mumbai",
+      "match": 282,
+      "set": 2,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Rajesh Dhanji Gohil",
+      "city": "Raigad",
+      "match": 288,
+      "set": 2,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Abhijit Dattatray Tripankar",
+      "city": "Pune",
+      "match": 292,
+      "set": 2,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Mohd. Ghufran",
+      "city": "Mumbai",
+      "match": 293,
+      "set": 3,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Prashant Suryakant More",
+      "city": "Mumbai",
+      "match": 299,
+      "set": 1,
+      "board": 2
+    }
+  ]
+}

@@ -19,8 +19,21 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 1,
-  "slamsAgainst": 7,
+  "slamsWhite": 3,
+  "slamsBlack": 0,
+  "slamsTotal": 3,
+  "slamsByTournament": {
+    "2025_17th_shivaji_park_gymkhana_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament": {
+      "white": 2,
+      "black": 0
+    }
+  },
+  "shutoutSets": 1,
+  "shutoutSetsAgainst": 7,
   "matchesPlayed": 12,
   "matchesWon": 3,
   "appearances": [

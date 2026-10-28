@@ -19,8 +19,21 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 9,
-  "slamsAgainst": 6,
+  "slamsWhite": 2,
+  "slamsBlack": 0,
+  "slamsTotal": 2,
+  "slamsByTournament": {
+    "2025_4th_the_chembur_gymkhana_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 9,
+  "shutoutSetsAgainst": 6,
   "matchesPlayed": 34,
   "matchesWon": 22,
   "appearances": [

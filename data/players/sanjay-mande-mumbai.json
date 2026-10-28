@@ -19,8 +19,21 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 0,
-  "slamsAgainst": 0,
+  "slamsWhite": 1,
+  "slamsBlack": 2,
+  "slamsTotal": 3,
+  "slamsByTournament": {
+    "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament": {
+      "white": 0,
+      "black": 2
+    }
+  },
+  "shutoutSets": 0,
+  "shutoutSetsAgainst": 0,
   "matchesPlayed": 11,
   "matchesWon": 2,
   "appearances": [

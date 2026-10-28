@@ -1,0 +1,952 @@
+[
+  {
+    "slug": "prashant-more-mumbai",
+    "name": "Prashant Suryakant More",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 14,
+    "black": 10,
+    "total": 24,
+    "tournaments": 9
+  },
+  {
+    "slug": "mohd-ghufran-mumbai",
+    "name": "Mohd. Ghufran",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 14,
+    "black": 9,
+    "total": 23,
+    "tournaments": 7
+  },
+  {
+    "slug": "abhijit-tripankar-pune",
+    "name": "Abhijit Dattatray Tripankar",
+    "city": "Pune",
+    "gender": "male",
+    "white": 16,
+    "black": 6,
+    "total": 22,
+    "tournaments": 11
+  },
+  {
+    "slug": "vikas-dharia-mumbai",
+    "name": "Vikas Harish Dharia",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 12,
+    "black": 3,
+    "total": 15,
+    "tournaments": 10
+  },
+  {
+    "slug": "zaid-farooquee-thane",
+    "name": "Zaid Ahmed Farooquee",
+    "city": "Thane",
+    "gender": "male",
+    "white": 10,
+    "black": 3,
+    "total": 13,
+    "tournaments": 8
+  },
+  {
+    "slug": "sagar-waghmare-pune",
+    "name": "Sagar Prakash Waghmare",
+    "city": "Pune",
+    "gender": "male",
+    "white": 9,
+    "black": 3,
+    "total": 12,
+    "tournaments": 6
+  },
+  {
+    "slug": "sandeep-dive-mumbaisub",
+    "name": "Sandeep Ashok Dive",
+    "city": "Jalgaon",
+    "gender": "male",
+    "white": 5,
+    "black": 4,
+    "total": 9,
+    "tournaments": 7
+  },
+  {
+    "slug": "pankaj-pawar-thane",
+    "name": "Pankaj Ashok Pawar",
+    "city": "Thane",
+    "gender": "male",
+    "white": 6,
+    "black": 3,
+    "total": 9,
+    "tournaments": 6
+  },
+  {
+    "slug": "siddhant-wadwalkar-mumbai",
+    "name": "Siddhant Mahendra Wadwalkar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 6,
+    "black": 3,
+    "total": 9,
+    "tournaments": 4
+  },
+  {
+    "slug": "rahul-solanki-mumbai",
+    "name": "Rahul Arvind Solanki",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 7,
+    "black": 1,
+    "total": 8,
+    "tournaments": 7
+  },
+  {
+    "slug": "sameer-ansari-thane",
+    "name": "Sameer Mohammad Jabir Ansari",
+    "city": "Thane",
+    "gender": "male",
+    "white": 5,
+    "black": 2,
+    "total": 7,
+    "tournaments": 5
+  },
+  {
+    "slug": "saurabh-mate-mumbai",
+    "name": "Saurabh Shreekrishna Mate",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 6,
+    "black": 1,
+    "total": 7,
+    "tournaments": 4
+  },
+  {
+    "slug": "prafull-more-mumbai",
+    "name": "Prafull Suryakant More",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 4,
+    "black": 3,
+    "total": 7,
+    "tournaments": 3
+  },
+  {
+    "slug": "nilansh-chiplunkar-mumbai",
+    "name": "Nilansh Hiten Chiplunkar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 3,
+    "black": 3,
+    "total": 6,
+    "tournaments": 5
+  },
+  {
+    "slug": null,
+    "name": "Dinesh Kedar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 5,
+    "black": 0,
+    "total": 5,
+    "tournaments": 5
+  },
+  {
+    "slug": null,
+    "name": "Mangesh Nagesh Pandit",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 5,
+    "black": 0,
+    "total": 5,
+    "tournaments": 5
+  },
+  {
+    "slug": null,
+    "name": "Aayush Bhushan Garud",
+    "city": "Pune",
+    "gender": "male",
+    "white": 2,
+    "black": 3,
+    "total": 5,
+    "tournaments": 4
+  },
+  {
+    "slug": null,
+    "name": "Hareshwar G Betwanshi",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 4,
+    "black": 1,
+    "total": 5,
+    "tournaments": 4
+  },
+  {
+    "slug": "rajesh-gohil-raigad",
+    "name": "Rajesh Dhanji Gohil",
+    "city": "Raigad",
+    "gender": "male",
+    "white": 2,
+    "black": 3,
+    "total": 5,
+    "tournaments": 3
+  },
+  {
+    "slug": null,
+    "name": "Jitesh Ashok Kadam",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 2,
+    "black": 2,
+    "total": 4,
+    "tournaments": 4
+  },
+  {
+    "slug": null,
+    "name": "Sajjad Altaf Shaikh",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 2,
+    "black": 2,
+    "total": 4,
+    "tournaments": 4
+  },
+  {
+    "slug": "abhishek-chavan-ratnagiri",
+    "name": "Abhishek Dasharath Chavan",
+    "city": "Ratnagiri",
+    "gender": "male",
+    "white": 3,
+    "black": 1,
+    "total": 4,
+    "tournaments": 3
+  },
+  {
+    "slug": null,
+    "name": "Jonathan Ramesh Bonal",
+    "city": "Palghar",
+    "gender": "male",
+    "white": 4,
+    "black": 0,
+    "total": 4,
+    "tournaments": 3
+  },
+  {
+    "slug": "yogesh-pardeshi-pune",
+    "name": "Yogesh Udaybhan Pardeshi",
+    "city": "Pune",
+    "gender": "male",
+    "white": 4,
+    "black": 0,
+    "total": 4,
+    "tournaments": 3
+  },
+  {
+    "slug": null,
+    "name": "Javed Babu Shaikh",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 2,
+    "total": 3,
+    "tournaments": 3
+  },
+  {
+    "slug": "omkar-tilak-mumbai",
+    "name": "Omkar Tilak",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 2,
+    "black": 1,
+    "total": 3,
+    "tournaments": 3
+  },
+  {
+    "slug": null,
+    "name": "Govind Narayan Churi",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 3,
+    "black": 0,
+    "total": 3,
+    "tournaments": 2
+  },
+  {
+    "slug": "kunal-raut-mumbai",
+    "name": "Kunal Prakash Raut",
+    "city": "Thane",
+    "gender": "male",
+    "white": 1,
+    "black": 2,
+    "total": 3,
+    "tournaments": 2
+  },
+  {
+    "slug": "sanjay-mande-thane",
+    "name": "Sanjay Baliram Mande",
+    "city": "Thane",
+    "gender": "male",
+    "white": 3,
+    "black": 0,
+    "total": 3,
+    "tournaments": 2
+  },
+  {
+    "slug": "sanjay-mande-mumbai",
+    "name": "Sanjay Baliram Mande",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 2,
+    "total": 3,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Sukhbirsingh Vikram Katnoriya",
+    "city": "Pune",
+    "gender": "male",
+    "white": 2,
+    "black": 1,
+    "total": 3,
+    "tournaments": 2
+  },
+  {
+    "slug": "vivek-kamble-mumbaisub",
+    "name": "Vivek Anant Kamble",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 2,
+    "black": 1,
+    "total": 3,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Mohseen Aadam Shaikh",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 3,
+    "black": 0,
+    "total": 3,
+    "tournaments": 1
+  },
+  {
+    "slug": "ambika-harith-mumbai",
+    "name": "Ambika Harith",
+    "city": "Mumbai",
+    "gender": "female",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Aslam Siddiqui",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 0,
+    "black": 2,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Francis Fernandes",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 1,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Mohammed Wajid Pasha",
+    "city": "Nanded",
+    "gender": "male",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Mohd. Wajeed Moinuddin Ansari",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 1,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Noor Shaikh",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Pooja Chandramani Meshram",
+    "city": "Thane",
+    "gender": "female",
+    "white": 0,
+    "black": 2,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": "prakash-gaikwad-pune",
+    "name": "Prakash Shyamrao Gaikwad",
+    "city": "Pune",
+    "gender": "male",
+    "white": 0,
+    "black": 2,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Shaikh Mohd. Raza",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Suraj Hanumant Kumbhar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 1,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Vishwajeet Govind Bhave",
+    "city": "Thane",
+    "gender": "male",
+    "white": 1,
+    "black": 1,
+    "total": 2,
+    "tournaments": 2
+  },
+  {
+    "slug": null,
+    "name": "Mohammed Asif Faiz Ahmed Khan",
+    "city": "Thane",
+    "gender": "male",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 1
+  },
+  {
+    "slug": "samruddhi-ghadigaonkar-thane",
+    "name": "Samruddhi Deepak Ghadigaonkar",
+    "city": "Thane",
+    "gender": "female",
+    "white": 1,
+    "black": 1,
+    "total": 2,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Shaikh Mohd Raza Rafiq",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Tanmay Dattatray Khatu",
+    "city": "Ratnagiri",
+    "gender": "male",
+    "white": 2,
+    "black": 0,
+    "total": 2,
+    "tournaments": 1
+  },
+  {
+    "slug": "aakanksha-kadam-ratnagiri",
+    "name": "Aakanksha Uday Kadam",
+    "city": "Ratnagiri",
+    "gender": "female",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Abdul Sattar Naik",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Abhishek Bharti",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Adil Mohd. Shaikh",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Amol Sawardekar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": "anil-mundhe-pune",
+    "name": "Anil Dilip Mundhe",
+    "city": "Pune",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Animesh Sudesh Ubale",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Ankit Ajay Mohite",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Bharat Hira Dandekar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Bharat Koli",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Girish Tambe",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Harsh Bariya",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Hemant More",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Hemant Prabhakar Panchal",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Imran Ismail Naik",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Ismail Shaikh",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Jitendra Pandurang Kale",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Kalpesh Shridhar More",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Mihir Rafiq Shaikh",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": "mohammad-ghufran-mumbai",
+    "name": "Mohammad Ghufran",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Mohammad Tajim Aslam Shaikh",
+    "city": "Kolhapur",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Mohan Pawar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Mukesh Haruchandra Dey",
+    "city": "Thane",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Muniyappan Raja",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Narsingrao Bramayya Sakari",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Niraj Ganesh Kamble",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Nishar Shaikh",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Om Dinesh Parkar",
+    "city": "Ratnagiri",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Pradip Sadashiv Chunekar",
+    "city": "Thane",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Prasanna Suryakant Gole",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Rahim Karim Khan",
+    "city": "Pune",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Ratan Nehru Pawar",
+    "city": "Pune",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Ravindra Ramkrishna Hange",
+    "city": "Pune",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": "riyaz-akbar-ali-ratnagiri",
+    "name": "Riyaz Akbar Ali",
+    "city": "Ratnagiri",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Sachin Ashok Surve",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Sachin Namdev Shinde",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Sachin Nandu Bandal",
+    "city": "Pune",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Sagar Dattatray Bhosale",
+    "city": "Pune",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Saikiran Madiwal",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Sandeep Jogale",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": "sandeep-deorukhkar-mumbai",
+    "name": "Sandeep Kashinath Deorukhkar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Santosh Y Jadhav",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Satish Kamble",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Shahrukh Khan",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Shankar Hiru Chavan",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Supesh Kamtekar",
+    "city": "Mumbai",
+    "gender": "male",
+    "white": 0,
+    "black": 1,
+    "total": 1,
+    "tournaments": 1
+  },
+  {
+    "slug": null,
+    "name": "Yasin Mohd Yusuf Shaikh",
+    "city": "Mumbai Suburban",
+    "gender": "male",
+    "white": 1,
+    "black": 0,
+    "total": 1,
+    "tournaments": 1
+  }
+]

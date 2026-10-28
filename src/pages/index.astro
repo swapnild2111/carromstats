@@ -1,9 +1,10 @@
 ---
 import Base from '~/layouts/Base.astro';
 import { url } from '~/lib/url';
-import { getPlayerIndex, getTournamentIndex } from '~/lib/data';
+import { getPlayerIndex, getTournamentIndex, getSlamLeaders } from '~/lib/data';
 
 const players = getPlayerIndex();
+const slamLeaders = getSlamLeaders();
 const tournaments = getTournamentIndex();
 
 const groups = [
@@ -13,6 +14,10 @@ const groups = [
   ...g,
   totalPodiums: g.players.reduce((s, p) => s + p.podium.first + p.podium.second + p.podium.third, 0),
   totalFirsts: g.players.reduce((s, p) => s + p.podium.first, 0),
+  slamLeaders: slamLeaders.filter(r => r.gender === g.key).slice(0, 10),
+  totalSlams: slamLeaders.filter(r => r.gender === g.key).reduce((s, r) => s + r.total, 0),
+  whiteSlams: slamLeaders.filter(r => r.gender === g.key).reduce((s, r) => s + r.white, 0),
+  blackSlams: slamLeaders.filter(r => r.gender === g.key).reduce((s, r) => s + r.black, 0),
   topByWins: [...g.players]
     .sort((a, b) => b.podium.first - a.podium.first || b.podium.top8 - a.podium.top8)
     .slice(0, 10),
@@ -55,6 +60,11 @@ const seasons = new Set(tournaments.map(t => t.season)).size;
           <span class="stat-label">Podium finishes</span>
         </div>
         <div class="stat-card">
+          <span class="stat-icon" aria-hidden="true">SLAM</span>
+          <span class="stat-value">{g.totalSlams}</span>
+          <span class="stat-label">Slams ({g.whiteSlams}W / {g.blackSlams}B)</span>
+        </div>
+        <div class="stat-card">
           <span class="stat-icon" aria-hidden="true">#</span>
           <span class="stat-value">{g.players.length}</span>
           <span class="stat-label">Players</span>
@@ -90,6 +100,40 @@ const seasons = new Set(tournaments.map(t => t.season)).size;
                     </td>
                     <td class="num">{p.podium.first}</td>
                     <td class="num muted-num">{p.podium.top8}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </div>
+    ))}
+
+    {groups.map(g => (
+      <div class="card">
+        <div class="section-heading">
+          <h2>Most slams · {g.label}</h2>
+          <p class="section-desc">Break-to-finish slams from the MCA White / Black slam sheets.</p>
+        </div>
+        {g.slamLeaders.length === 0 ? (
+          <p class="empty">No slam data yet.</p>
+        ) : (
+          <div class="table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr><th></th><th>Player</th><th class="num">White</th><th class="num">Black</th><th class="num">Total</th></tr>
+              </thead>
+              <tbody>
+                {g.slamLeaders.map((r, i) => (
+                  <tr>
+                    <td><span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span></td>
+                    <td>
+                      {r.slug ? <a href={url(`/players/${r.slug}`)}>{r.name}</a> : r.name}
+                      {r.city && <><br /><span class="muted small">{r.city}</span></>}
+                    </td>
+                    <td class="num muted-num">{r.white}</td>
+                    <td class="num muted-num">{r.black}</td>
+                    <td class="num">{r.total}</td>
                   </tr>
                 ))}
               </tbody>

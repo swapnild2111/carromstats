@@ -19,8 +19,21 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 0,
-  "slamsAgainst": 1,
+  "slamsWhite": 1,
+  "slamsBlack": 2,
+  "slamsTotal": 3,
+  "slamsByTournament": {
+    "2025_late_kiran_shelar_memorial_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    },
+    "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament": {
+      "white": 0,
+      "black": 1
+    }
+  },
+  "shutoutSets": 0,
+  "shutoutSetsAgainst": 1,
   "matchesPlayed": 5,
   "matchesWon": 2,
   "appearances": [

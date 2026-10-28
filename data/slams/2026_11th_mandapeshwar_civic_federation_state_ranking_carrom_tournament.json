@@ -1,0 +1,126 @@
+{
+  "tournamentSlug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+  "reported": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "count": 8
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "count": 3
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "white",
+      "count": 0
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "black",
+      "count": 0
+    }
+  ],
+  "slams": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Suraj Hanumant Kumbhar",
+      "city": "Mumbai",
+      "match": 156,
+      "set": 2,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Rahul Arvind Solanki",
+      "city": "Mumbai",
+      "match": 160,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Aayush Bhushan Garud",
+      "city": "Pune",
+      "match": 180,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Rahim Karim Khan",
+      "city": "Pune",
+      "match": 277,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sajjad Altaf Shaikh",
+      "city": "Mumbai Suburban",
+      "match": 290,
+      "set": 1,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Prashant Suryakant More",
+      "city": "Mumbai",
+      "match": 290,
+      "set": 3,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sandeep Ashok Dive",
+      "city": "Jalgaon",
+      "match": 293,
+      "set": 1,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Omkar Tilak",
+      "city": "Mumbai",
+      "match": 299,
+      "set": 1,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Mohd. Wajeed Ansari",
+      "city": "Mumbai Suburban",
+      "match": 229,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Kunal Prakash Raut",
+      "city": "Thane",
+      "match": 275,
+      "set": 1,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Prafull Suryakant More",
+      "city": "Mumbai",
+      "match": 276,
+      "set": 3,
+      "board": 6
+    }
+  ]
+}

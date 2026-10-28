@@ -66,17 +66,37 @@ const otherCities = p.cities.filter(c => c !== primaryCity);
     </div>
   </section>
 
-  {p.slams !== null && (
-    <section class="stat-cards" aria-label="Match stats">
+  {p.slamsTotal !== null && (
+    <section class="stat-cards" aria-label="Slams">
       <div class="stat-card">
         <span class="stat-icon stat-icon-word" aria-hidden="true">SLAM</span>
-        <span class="stat-value">{p.slams}</span>
-        <span class="stat-label">Slams (25-0)</span>
+        <span class="stat-value">{p.slamsTotal}</span>
+        <span class="stat-label">Slams</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon stat-icon-word" aria-hidden="true">W</span>
+        <span class="stat-value">{p.slamsWhite}</span>
+        <span class="stat-label">White slams</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-icon stat-icon-word" aria-hidden="true">B</span>
+        <span class="stat-value">{p.slamsBlack}</span>
+        <span class="stat-label">Black slams</span>
+      </div>
+    </section>
+  )}
+
+  {p.matchesPlayed !== null && (
+    <section class="stat-cards" aria-label="Match stats">
+      <div class="stat-card">
+        <span class="stat-icon stat-icon-word" aria-hidden="true">25-0</span>
+        <span class="stat-value">{p.shutoutSets ?? 0}</span>
+        <span class="stat-label">Shutout sets won</span>
       </div>
       <div class="stat-card">
         <span class="stat-icon stat-icon-word" aria-hidden="true">L</span>
-        <span class="stat-value">{p.slamsAgainst ?? 0}</span>
-        <span class="stat-label">Slams conceded</span>
+        <span class="stat-value">{p.shutoutSetsAgainst ?? 0}</span>
+        <span class="stat-label">Shutout sets conceded</span>
       </div>
       <div class="stat-card">
         <span class="stat-icon stat-icon-word" aria-hidden="true">W</span>

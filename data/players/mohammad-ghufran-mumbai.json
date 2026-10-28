@@ -19,8 +19,17 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 0,
-  "slamsAgainst": 0,
+  "slamsWhite": 1,
+  "slamsBlack": 0,
+  "slamsTotal": 1,
+  "slamsByTournament": {
+    "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 0,
+  "shutoutSetsAgainst": 0,
   "matchesPlayed": 5,
   "matchesWon": 3,
   "appearances": [

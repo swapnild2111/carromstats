@@ -51,6 +51,28 @@ export const RoundPage = z.object({
   matches: z.array(MatchRow),
 });
 
+// "White / Black Slams" page: break-to-finish slams, listed per category and colour.
+export const SlamEntry = z.object({
+  categoryKey: z.string(),
+  color: z.enum(['white', 'black']),
+  name: z.string().min(1),
+  city: z.string().nullable(),
+  match: z.number().int().nullable(),
+  set: z.number().int().nullable(),
+  board: z.number().int().nullable(),
+});
+
+export const SlamsPage = z.object({
+  tournamentSlug: z.string(),
+  // Totals as printed in the page's counters; used to cross-check the parsed rows.
+  reported: z.array(z.object({
+    categoryKey: z.string(),
+    color: z.enum(['white', 'black']),
+    count: z.number().int(),
+  })),
+  slams: z.array(SlamEntry),
+});
+
 export const PointsRow = z.object({
   rank: z.number().int(),
   name: z.string(),
@@ -87,6 +109,7 @@ export const ChampionsPage = z.object({
 
 export type TournamentPageT = z.infer<typeof TournamentPage>;
 export type RoundPageT = z.infer<typeof RoundPage>;
+export type SlamsPageT = z.infer<typeof SlamsPage>;
 export type PointsSnapshotT = z.infer<typeof PointsSnapshot>;
 export type ChampionsPageT = z.infer<typeof ChampionsPage>;
 export type TournamentIndexEntryT = z.infer<typeof TournamentIndexEntry>;

@@ -20,8 +20,17 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 2,
-  "slamsAgainst": 1,
+  "slamsWhite": 1,
+  "slamsBlack": 0,
+  "slamsTotal": 1,
+  "slamsByTournament": {
+    "2025_late_kiran_shelar_memorial_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 2,
+  "shutoutSetsAgainst": 1,
   "matchesPlayed": 47,
   "matchesWon": 31,
   "appearances": [

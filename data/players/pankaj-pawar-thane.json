@@ -19,8 +19,37 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 0,
-  "slamsAgainst": 0,
+  "slamsWhite": 6,
+  "slamsBlack": 3,
+  "slamsTotal": 9,
+  "slamsByTournament": {
+    "2025_4th_the_chembur_gymkhana_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament": {
+      "white": 2,
+      "black": 0
+    },
+    "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament": {
+      "white": 0,
+      "black": 1
+    },
+    "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament": {
+      "white": 2,
+      "black": 0
+    },
+    "2025_late_kiran_shelar_memorial_state_ranking_carrom_tournament": {
+      "white": 0,
+      "black": 1
+    },
+    "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    }
+  },
+  "shutoutSets": 0,
+  "shutoutSetsAgainst": 0,
   "matchesPlayed": 16,
   "matchesWon": 6,
   "appearances": [

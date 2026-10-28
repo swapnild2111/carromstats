@@ -1,0 +1,153 @@
+{
+  "tournamentSlug": "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament",
+  "reported": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "count": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "count": 7
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "white",
+      "count": 0
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "black",
+      "count": 0
+    }
+  ],
+  "slams": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Abhishek Dasharath Chavan",
+      "city": "Ratnagiri",
+      "match": 72,
+      "set": 1,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Om Dinesh Parkar",
+      "city": "Ratnagiri",
+      "match": 116,
+      "set": 2,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "match": 128,
+      "set": 2,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sagar Dattatray Bhosale",
+      "city": "Pune",
+      "match": 145,
+      "set": 1,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sandeep Kashinath Deorukhkar",
+      "city": "Mumbai",
+      "match": 146,
+      "set": 2,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Pankaj Ashok Pawar",
+      "city": "Thane",
+      "match": 167,
+      "set": 3,
+      "board": 8
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Zaid Ahmed Farooquee",
+      "city": "Thane",
+      "match": 168,
+      "set": 3,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Vishwajeet Govind Bhave",
+      "city": "Thane",
+      "match": 70,
+      "set": 1,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Pankaj Ashok Pawar",
+      "city": "Thane",
+      "match": 140,
+      "set": 1,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Abhijit Dattatray Tripankar",
+      "city": "Pune",
+      "match": 148,
+      "set": 2,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Riyaz Akbar Ali",
+      "city": "Ratnagiri",
+      "match": 157,
+      "set": 1,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Sanjay Baliram Mande",
+      "city": "Mumbai",
+      "match": 171,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Sanjay Baliram Mande",
+      "city": "Mumbai",
+      "match": 178,
+      "set": 3,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Vikas Harish Dharia",
+      "city": "Mumbai",
+      "match": 179,
+      "set": 2,
+      "board": 2
+    }
+  ]
+}

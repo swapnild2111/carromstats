@@ -1,6 +1,7 @@
 import { fetchHtml, MCA_ORIGIN, absolutize } from './lib/http.js';
 import { parseTournamentPage } from './lib/parsers/tournament-page.js';
 import { scrapeTournamentMatches } from './lib/matches.js';
+import { scrapeTournamentSlams } from './lib/slams.js';
 import { matchesKeyword, REQUIRED_KEYWORD, rebuildTournamentIndex, writeTournament } from './lib/tournaments.js';
 
 // Usage: npm run scrape-one -- <tournament page URL or path> [more...]
@@ -46,6 +47,8 @@ for (const arg of args) {
   } else {
     console.log('  no results sub-page');
   }
+  const slams = await scrapeTournamentSlams(t);
+  console.log(slams === null ? '  no slams page' : `  slams: ${slams} entries`);
 }
 console.log(`\ntournament index: ${rebuildTournamentIndex()} tournaments`);
 process.exit(failed ? 1 : 0);

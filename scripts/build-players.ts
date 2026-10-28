@@ -2,13 +2,15 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { slugifyPlayer, normalizeName } from './lib/normalize.js';
-import type { TournamentPageT, PointsSnapshotT, ChampionsPageT, RoundPageT } from './lib/schemas.js';
+import type { TournamentPageT, PointsSnapshotT, ChampionsPageT, RoundPageT, SlamsPageT } from './lib/schemas.js';
+import { aggregateSlams, firstLast, type KnownPlayer } from './lib/slam-aggregate.js';
 
 const ROOT = path.resolve(fileURLToPath(new URL('../', import.meta.url)));
 const DATA_DIR = path.join(ROOT, 'data');
 const TOURNAMENTS_DIR = path.join(DATA_DIR, 'tournaments');
 const CHAMPIONS_DIR = path.join(DATA_DIR, 'champions');
 const MATCHES_DIR = path.join(DATA_DIR, 'matches');
+const SLAMS_DIR = path.join(DATA_DIR, 'slams');
 const POINTS_PATH = path.join(DATA_DIR, 'points', 'current.json');
 const PLAYERS_DIR = path.join(DATA_DIR, 'players');
 const ALIASES_PATH = path.join(DATA_DIR, 'aliases.json');
@@ -96,8 +98,14 @@ function loadMatches(): MatchesFile[] {
   return files.map(f => JSON.parse(fs.readFileSync(path.join(MATCHES_DIR, f), 'utf-8')) as MatchesFile);
 }
 
+function loadSlams(): SlamsPageT[] {
+  if (!fs.existsSync(SLAMS_DIR)) return [];
+  const files = fs.readdirSync(SLAMS_DIR).filter(f => f.endsWith('.json') && !f.startsWith('_'));
+  return files.map(f => JSON.parse(fs.readFileSync(path.join(SLAMS_DIR, f), 'utf-8')) as SlamsPageT);
+}
+
 interface SlamStats {
-  slamsFor: number;      // 25-0 sets the player won
+  slamsFor: number;      // 25-0 sets the player won (shutout sets; NOT the official break-to-finish slams)
   slamsAgainst: number;  // 25-0 sets scored against the player
   matchesPlayed: number;
   matchesWon: number;
@@ -450,7 +458,27 @@ try {
   const matchesFiles = loadMatches();
   const slamsBySlug = computeSlams(matchesFiles, aliases, mergedSlugs, nameToSlug);
   console.log(`loaded points snapshot (${points?.categories.length ?? 0} categories), ${championsPages.length} champion pages, ${matchesFiles.length} match files`);
-  console.log(`  computed slam stats for ${slamsBySlug.size} players`);
+  console.log(`  computed 25-0 set stats for ${slamsBySlug.size} players`);
+
+  // Official White/Black slams (the *_slams.php pages). Slam pages print full names, so match
+  // on first+last name, constrained by gender and (when ambiguous) city.
+  const slamPages = loadSlams();
+  const knownPlayers = new Map<string, KnownPlayer>();
+  const knownByNames = new Map<string, string[]>();
+  for (const agg of players.values()) {
+    knownPlayers.set(agg.slug, { slug: agg.slug, gender: genderOf(agg), cities: [...agg.cities] });
+    for (const n of new Set([agg.primaryName, ...agg.aliasNames])) {
+      const k = firstLast(n);
+      const arr = knownByNames.get(k) ?? [];
+      if (!arr.includes(agg.slug)) arr.push(agg.slug);
+      knownByNames.set(k, arr);
+    }
+  }
+  const officialSlams = aggregateSlams(slamPages, knownByNames, knownPlayers);
+  console.log(`  official slams: ${slamPages.length} slam pages, ${officialSlams.leaders.reduce((s, r) => s + r.total, 0)} slams, ${officialSlams.bySlug.size} top-8 players, ${officialSlams.leaders.filter(r => !r.slug).length} other slammers`);
+  for (const a of officialSlams.ambiguous) console.warn(`  WARN ambiguous slam player (left unmatched): ${a}`);
+  fs.mkdirSync(SLAMS_DIR, { recursive: true });
+  fs.writeFileSync(path.join(SLAMS_DIR, '_leaders.json'), JSON.stringify(officialSlams.leaders, null, 2) + '\n');
 
   // Build a name → [slugs] map for name-only resolvers (points/champions data
   // lacks a "city" field in the same shape).
@@ -512,6 +540,12 @@ try {
     currentPoints: number | null;
     currentRank: number | null;
     titles: number;
+    slamsWhite: number | null;
+    slamsBlack: number | null;
+    slamsTotal: number | null;
+    shutoutSets: number | null;
+    matchesPlayed: number | null;
+    matchesWon: number | null;
   }> = [];
 
   for (const agg of players.values()) {
@@ -541,6 +575,7 @@ try {
     const titles = titlesBySlug.get(agg.slug) ?? [];
     const titleCount = titles.reduce((s, t) => s + t.years.length, 0);
     const slams = slamsBySlug.get(agg.slug) ?? null;
+    const officialSlam = officialSlams.bySlug.get(agg.slug) ?? null;
 
     const record = {
       slug: agg.slug,
@@ -556,8 +591,12 @@ try {
       titles: titles.toSorted((a, b) =>
         a.scope.localeCompare(b.scope) || a.categoryKey.localeCompare(b.categoryKey),
       ),
-      slams: slams?.slamsFor ?? null,
-      slamsAgainst: slams?.slamsAgainst ?? null,
+      slamsWhite: slamPages.length ? (officialSlam?.white ?? 0) : null,
+      slamsBlack: slamPages.length ? (officialSlam?.black ?? 0) : null,
+      slamsTotal: slamPages.length ? (officialSlam?.total ?? 0) : null,
+      slamsByTournament: officialSlam?.byTournament ?? {},
+      shutoutSets: slams?.slamsFor ?? null,
+      shutoutSetsAgainst: slams?.slamsAgainst ?? null,
       matchesPlayed: slams?.matchesPlayed ?? null,
       matchesWon: slams?.matchesWon ?? null,
       appearances,
@@ -575,7 +614,10 @@ try {
       currentPoints: pts?.total ?? null,
       currentRank: pts?.rank ?? null,
       titles: titleCount,
-      slams: slams?.slamsFor ?? null,
+      slamsWhite: record.slamsWhite,
+      slamsBlack: record.slamsBlack,
+      slamsTotal: record.slamsTotal,
+      shutoutSets: slams?.slamsFor ?? null,
       matchesPlayed: slams?.matchesPlayed ?? null,
       matchesWon: slams?.matchesWon ?? null,
     });

@@ -20,8 +20,17 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 3,
-  "slamsAgainst": 1,
+  "slamsWhite": 1,
+  "slamsBlack": 1,
+  "slamsTotal": 2,
+  "slamsByTournament": {
+    "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    }
+  },
+  "shutoutSets": 3,
+  "shutoutSetsAgainst": 1,
   "matchesPlayed": 46,
   "matchesWon": 35,
   "appearances": [

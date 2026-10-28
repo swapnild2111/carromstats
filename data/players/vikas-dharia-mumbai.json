@@ -19,8 +19,53 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 4,
-  "slamsAgainst": 4,
+  "slamsWhite": 12,
+  "slamsBlack": 3,
+  "slamsTotal": 15,
+  "slamsByTournament": {
+    "2025_17th_shivaji_park_gymkhana_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    },
+    "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament": {
+      "white": 1,
+      "black": 1
+    },
+    "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament": {
+      "white": 2,
+      "black": 0
+    },
+    "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament": {
+      "white": 0,
+      "black": 1
+    },
+    "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament": {
+      "white": 2,
+      "black": 0
+    },
+    "2025_maharashtra_state_ranking_tournament": {
+      "white": 2,
+      "black": 0
+    },
+    "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 4,
+  "shutoutSetsAgainst": 4,
   "matchesPlayed": 36,
   "matchesWon": 16,
   "appearances": [

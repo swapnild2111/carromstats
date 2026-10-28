@@ -19,8 +19,17 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 2,
-  "slamsAgainst": 0,
+  "slamsWhite": 1,
+  "slamsBlack": 0,
+  "slamsTotal": 1,
+  "slamsByTournament": {
+    "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 2,
+  "shutoutSetsAgainst": 0,
   "matchesPlayed": 8,
   "matchesWon": 4,
   "appearances": [

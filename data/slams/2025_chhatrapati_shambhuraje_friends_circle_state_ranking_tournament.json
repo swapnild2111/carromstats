@@ -1,0 +1,135 @@
+{
+  "tournamentSlug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+  "reported": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "count": 8
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "count": 4
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "white",
+      "count": 0
+    },
+    {
+      "categoryKey": "women_singles",
+      "color": "black",
+      "count": 0
+    }
+  ],
+  "slams": [
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sanjay Baliram Mande",
+      "city": "Mumbai",
+      "match": 23,
+      "set": 2,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Kalpesh Shridhar More",
+      "city": "Mumbai Suburban",
+      "match": 42,
+      "set": 3,
+      "board": 4
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Vikas Harish Dharia",
+      "city": "Mumbai",
+      "match": 54,
+      "set": 1,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Mohammad Tajim Aslam Shaikh",
+      "city": "Kolhapur",
+      "match": 72,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sukhbirsingh Vikram Katnoriya",
+      "city": "Pune",
+      "match": 76,
+      "set": 2,
+      "board": 1
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Anil Dilip Mundhe",
+      "city": "Pune",
+      "match": 126,
+      "set": 3,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Abhijit Dattatray Tripankar",
+      "city": "Pune",
+      "match": 130,
+      "set": 3,
+      "board": 6
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "white",
+      "name": "Sagar Prakash Waghmare",
+      "city": "Pune",
+      "match": 131,
+      "set": 2,
+      "board": 2
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Saikiran Madiwal",
+      "city": "Mumbai",
+      "match": 16,
+      "set": 1,
+      "board": 5
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Nilansh Hiten Chiplunkar",
+      "city": "Mumbai",
+      "match": 104,
+      "set": 3,
+      "board": 7
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Pankaj Ashok Pawar",
+      "city": "Thane",
+      "match": 128,
+      "set": 3,
+      "board": 3
+    },
+    {
+      "categoryKey": "men_singles",
+      "color": "black",
+      "name": "Vikas Harish Dharia",
+      "city": "Mumbai",
+      "match": 132,
+      "set": 2,
+      "board": 8
+    }
+  ]
+}

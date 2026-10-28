@@ -53,8 +53,12 @@ export interface PlayerRecord {
   currentRank: number | null;
   currentRankCategory: string | null;
   titles: PlayerTitle[];
-  slams: number | null;
-  slamsAgainst: number | null;
+  slamsWhite: number | null;
+  slamsBlack: number | null;
+  slamsTotal: number | null;
+  slamsByTournament: Record<string, { white: number; black: number }>;
+  shutoutSets: number | null;
+  shutoutSetsAgainst: number | null;
   matchesPlayed: number | null;
   matchesWon: number | null;
   appearances: PlayerAppearance[];
@@ -71,7 +75,10 @@ export interface PlayerIndexEntry {
   currentPoints: number | null;
   currentRank: number | null;
   titles: number;
-  slams: number | null;
+  slamsWhite: number | null;
+  slamsBlack: number | null;
+  slamsTotal: number | null;
+  shutoutSets: number | null;
   matchesPlayed: number | null;
   matchesWon: number | null;
 }
@@ -105,6 +112,21 @@ export interface TournamentSummary {
   date: string | null;
   venue: string | null;
   categories: string[];
+}
+
+export interface SlamLeader {
+  slug: string | null;
+  name: string;
+  city: string | null;
+  gender: Gender | null;
+  white: number;
+  black: number;
+  total: number;
+  tournaments: number;
+}
+
+export function getSlamLeaders(): SlamLeader[] {
+  return safeReadJson<SlamLeader[]>('slams/_leaders.json', []);
 }
 
 export function getPlayerIndex(): PlayerIndexEntry[] {

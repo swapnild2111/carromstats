@@ -19,8 +19,25 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 2,
-  "slamsAgainst": 2,
+  "slamsWhite": 3,
+  "slamsBlack": 1,
+  "slamsTotal": 4,
+  "slamsByTournament": {
+    "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    },
+    "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_maharashtra_state_ranking_tournament": {
+      "white": 1,
+      "black": 0
+    }
+  },
+  "shutoutSets": 2,
+  "shutoutSetsAgainst": 2,
   "matchesPlayed": 11,
   "matchesWon": 6,
   "appearances": [

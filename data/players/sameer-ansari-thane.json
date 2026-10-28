@@ -19,8 +19,33 @@
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": null,
-  "slamsAgainst": null,
+  "slamsWhite": 5,
+  "slamsBlack": 2,
+  "slamsTotal": 7,
+  "slamsByTournament": {
+    "2025_17th_shivaji_park_gymkhana_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    },
+    "2025_late_kiran_shelar_memorial_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 0
+    },
+    "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament": {
+      "white": 1,
+      "black": 1
+    }
+  },
+  "shutoutSets": null,
+  "shutoutSetsAgainst": null,
   "matchesPlayed": null,
   "matchesWon": null,
   "appearances": [

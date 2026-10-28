@@ -1,16 +1,12 @@
-import fs from 'node:fs';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { fetchHtml, MCA_ORIGIN, absolutize } from './lib/http.js';
 import { parseTournamentPage } from './lib/parsers/tournament-page.js';
 import { scrapeTournamentMatches } from './lib/matches.js';
+import { matchesKeyword, REQUIRED_KEYWORD, rebuildTournamentIndex, writeTournament } from './lib/tournaments.js';
 
 // Usage: npm run scrape-one -- <tournament page URL or path> [more...]
 // Scrapes only the given tournament pages (+ their results sub-pages) into data/.
-// Does not touch the index, points or champions data.
-
-const ROOT = path.resolve(fileURLToPath(new URL('../', import.meta.url)));
-const TOURNAMENTS_DIR = path.join(ROOT, 'data', 'tournaments');
+// Only tournaments whose title contains REQUIRED_KEYWORD are kept.
+// Does not touch points or champions data.
 
 function toPagePath(arg: string): string {
   const u = new URL(arg, MCA_ORIGIN);
@@ -25,7 +21,6 @@ if (args.length === 0) {
 }
 
 let failed = 0;
-fs.mkdirSync(TOURNAMENTS_DIR, { recursive: true });
 for (const arg of args) {
   const pagePath = toPagePath(arg);
   console.log(`\n== ${pagePath} ==`);
@@ -36,7 +31,12 @@ for (const arg of args) {
     continue;
   }
   const t = parseTournamentPage(html, pagePath);
-  fs.writeFileSync(path.join(TOURNAMENTS_DIR, `${t.slug}.json`), JSON.stringify(t, null, 2) + '\n');
+  if (!matchesKeyword(t.title)) {
+    console.error(`  SKIP: title "${t.title}" does not contain "${REQUIRED_KEYWORD}"`);
+    failed++;
+    continue;
+  }
+  writeTournament(t);
   console.log(`  ${t.title} | ${t.date ?? 'no date'} | ${t.venue ?? 'no venue'}`);
   console.log(`  categories: ${t.categories.map(c => `${c.key}:${c.top8.length}`).join(', ') || '(none)'}`);
   if (t.hasResultsSubPage) {
@@ -47,4 +47,5 @@ for (const arg of args) {
     console.log('  no results sub-page');
   }
 }
+console.log(`\ntournament index: ${rebuildTournamentIndex()} tournaments`);
 process.exit(failed ? 1 : 0);

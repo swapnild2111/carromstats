@@ -1,5 +1,6 @@
 ---
 import { url } from '~/lib/url';
+import { getPlayerIndex, getTournamentIndex } from '~/lib/data';
 
 interface Props {
   title: string;
@@ -21,6 +22,8 @@ const nav = [
 ] as const;
 
 const currentYear = 2026;
+const playerCount = getPlayerIndex().length;
+const tournamentCount = getTournamentIndex().length;
 ---
 <!doctype html>
 <html lang="en">
@@ -38,7 +41,7 @@ const currentYear = 2026;
           <a href={url('/')} class="brand-mark" aria-label="carromstats home">cs</a>
           <div>
             <h1 class="site-title"><a href={url('/')}>CarromStats</a></h1>
-            <p class="site-tagline">Maharashtra carrom player stats · 469 players · 101 tournaments</p>
+            <p class="site-tagline">Maharashtra carrom player stats · {playerCount} players · {tournamentCount} tournaments</p>
           </div>
         </div>
         <nav class="header-nav" aria-label="Main">

@@ -1,9 +1,151 @@
 [
   {
+    "slug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+    "title": "11th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+    "season": "2025-26",
+    "date": "2026-05-23",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
     "slug": "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament",
     "title": "Shivshankar Utsav Mandal 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
     "season": "2025-26",
     "date": "2026-03-13",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_17th_shivaji_park_gymkhana_state_ranking_carrom_tournament",
+    "title": "17th Shivaji Park Gymkhana State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2026-02-07",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament",
+    "title": "Ghatkopar Jolly Gymkhana 3rd Maharashtra State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2026-01-10",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_late_kiran_shelar_memorial_state_ranking_carrom_tournament",
+    "title": "Late Kiran Shelar Memorial Maharashtra State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-12-27",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament",
+    "title": "Late Neela and Late Madhukaka Parchure State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-11-08",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament",
+    "title": "MIG Cricret CLub 3rd State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-09-27",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+    "title": "Juhu Vile Parle Gymkhana Maharashtra State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-08-16",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+    "title": "Late Vinayak Nimhan (Ex.MLA) 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-08-08",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_4th_the_chembur_gymkhana_state_ranking_carrom_tournament",
+    "title": "4th The Chembur Gymkhana Maharashtra State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-07-25",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+    "title": "9th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-06-20",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_chhatrapati_shambhuraje_friends_circle_state_ranking_tournament",
+    "title": "Chhatrapati Shambhuraje Friends Circle State Ranking Tournament 2025-26",
+    "season": "2025-26",
+    "date": "2025-04-12",
+    "venue": null,
+    "categories": [
+      "men_singles",
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_inner_wheel_club_of_borivali_dist314_state_ranking_carrom_tournament",
+    "title": "Inner Wheel Club of Borivali Dist 314 Maharashtra State Ranking Carrom Tournament 2025- 26",
+    "season": "2025-26",
+    "date": null,
+    "venue": null,
+    "categories": [
+      "women_singles"
+    ]
+  },
+  {
+    "slug": "2025_maharashtra_state_ranking_tournament",
+    "title": "Maharashtra State Ranking Carrom Tournament 2025-26",
+    "season": "2025-26",
+    "date": null,
     "venue": null,
     "categories": [
       "men_singles",

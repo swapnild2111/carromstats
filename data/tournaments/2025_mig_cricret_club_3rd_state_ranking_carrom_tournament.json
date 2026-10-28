@@ -1,0 +1,104 @@
+{
+  "slug": "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament",
+  "pagePath": "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament.php",
+  "title": "MIG Cricret CLub 3rd State Ranking Carrom Tournament 2025-26",
+  "urlYear": 2025,
+  "season": "2025-26",
+  "date": "2025-09-27",
+  "venue": null,
+  "hasResultsSubPage": true,
+  "categories": [
+    {
+      "key": "men_singles",
+      "label": "Men's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Abhijit Tripankar",
+          "city": "Pune"
+        },
+        {
+          "position": 2,
+          "name": "Prashant More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 3,
+          "name": "Hareshwar Betvanshi",
+          "city": "Mumbai"
+        },
+        {
+          "position": 4,
+          "name": "Kunal Raut",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Mohd. Ghufran",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Prafull More",
+          "city": "Mumbai"
+        },
+        {
+          "position": 7,
+          "name": "Vikas Dharia",
+          "city": "Mumbai"
+        },
+        {
+          "position": 8,
+          "name": "Vivek Kamble",
+          "city": "Mumbai-Sub"
+        }
+      ]
+    },
+    {
+      "key": "women_singles",
+      "label": "Women's Singles",
+      "top8": [
+        {
+          "position": 1,
+          "name": "Rinky Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 2,
+          "name": "Samruddhi Ghadigaonkar",
+          "city": "Thane"
+        },
+        {
+          "position": 3,
+          "name": "Keshar R Nirgun",
+          "city": "Sindhudurg"
+        },
+        {
+          "position": 4,
+          "name": "Chaitali A Suvare",
+          "city": "Thane"
+        },
+        {
+          "position": 5,
+          "name": "Sonali Kumari",
+          "city": "Mumbai"
+        },
+        {
+          "position": 6,
+          "name": "Aakanksha Kadam",
+          "city": "Ratnagiri"
+        },
+        {
+          "position": 7,
+          "name": "Prajakta Narayankar",
+          "city": "Mumbai-Sub"
+        },
+        {
+          "position": 8,
+          "name": "Anjali V Siripuram",
+          "city": "Mumbai"
+        }
+      ]
+    }
+  ]
+}

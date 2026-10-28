@@ -29,7 +29,42 @@ const ROUND_LABEL: Record<string, string> = {
   position: 'Position',
 };
 
+const QUERY_ROUND_LABEL: Record<string, string> = {
+  round_1: '1st Round',
+  round_2: '2nd Round',
+  round_3: '3rd Round',
+  round_4: '4th Round',
+  round_5: '5th Round',
+  round_6: '6th Round',
+  pre_quarter: 'Pre-Quarter',
+  quarter_final: 'Quarter Final',
+  semi_final: 'Semi Final',
+  final: 'Final',
+  '3rd_place': '3rd Place',
+  '5th_place': '5th Place',
+  '7th_place': '7th Place',
+  '5_8_place_qualifier': '5-8 Place Qualifier',
+};
+
+// Newer MCA results pages link rounds as "..._results.php?category=mens_singles&round=round_1".
+function classifyQueryRoundLink(href: string): RoundLink | null {
+  const u = new URL(href, MCA_ORIGIN);
+  if (!u.pathname.endsWith('_results.php')) return null;
+  const category = u.searchParams.get('category');
+  const round = u.searchParams.get('round');
+  if (!category || !round) return null;
+  const categoryKey = category === 'mens_singles' ? 'men_singles' : category === 'womens_singles' ? 'women_singles' : null;
+  if (!categoryKey) return null;
+  return {
+    url: u.toString(),
+    categoryKey,
+    roundKey: round,
+    roundLabel: QUERY_ROUND_LABEL[round] ?? round,
+  };
+}
+
 function classifyRoundLink(href: string): RoundLink | null {
+  if (href.includes('_results.php?')) return classifyQueryRoundLink(href);
   // Match pattern like: ".../results/men_round_1" or "women_singles" etc.
   const m = /\/results\/([a-z0-9_]+)$/i.exec(href);
   if (!m) return null;
@@ -58,7 +93,7 @@ export function extractRoundLinks(html: string): RoundLink[] {
   const $ = cheerio.load(html);
   const seen = new Set<string>();
   const out: RoundLink[] = [];
-  $('a[href*="/results/"]').each((_, el) => {
+  $('a[href*="/results/"], a[href*="_results.php?"]').each((_, el) => {
     const href = ($(el).attr('href') ?? '').trim();
     if (!href) return;
     const info = classifyRoundLink(href);

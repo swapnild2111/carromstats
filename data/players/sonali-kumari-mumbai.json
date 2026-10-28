@@ -12,18 +12,27 @@
   "podium": {
     "first": 1,
     "second": 0,
-    "third": 0,
-    "top8": 1
+    "third": 2,
+    "top8": 8
   },
   "currentPoints": null,
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 0,
-  "slamsAgainst": 0,
-  "matchesPlayed": 3,
-  "matchesWon": 3,
+  "slams": 3,
+  "slamsAgainst": 2,
+  "matchesPlayed": 37,
+  "matchesWon": 21,
   "appearances": [
+    {
+      "tournamentSlug": "2026_11th_mandapeshwar_civic_federation_state_ranking_carrom_tournament",
+      "tournamentTitle": "11th Mandpeshwar Civic Federation State Ranking Carrom Tournament",
+      "season": "2025-26",
+      "date": "2026-05-23",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 4
+    },
     {
       "tournamentSlug": "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament",
       "tournamentTitle": "Shivshankar Utsav Mandal 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
@@ -32,6 +41,60 @@
       "categoryKey": "women_singles",
       "categoryLabel": "Women's Singles",
       "position": 1
+    },
+    {
+      "tournamentSlug": "2025_17th_shivaji_park_gymkhana_state_ranking_carrom_tournament",
+      "tournamentTitle": "17th Shivaji Park Gymkhana State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2026-02-07",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 6
+    },
+    {
+      "tournamentSlug": "2025_ghatkopar_jolly_gymkhana_3rd_maharashtra_state_ranking_carrom_tournament",
+      "tournamentTitle": "Ghatkopar Jolly Gymkhana 3rd Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2026-01-10",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2025_late_neela_and_late_madhukaka_state_ranking_carrom_tournament",
+      "tournamentTitle": "Late Neela and Late Madhukaka Parchure State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-11-08",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2025_mig_cricret_club_3rd_state_ranking_carrom_tournament",
+      "tournamentTitle": "MIG Cricret CLub 3rd State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-09-27",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 5
+    },
+    {
+      "tournamentSlug": "2025_late_vinayak_nimhan_2nd_state_ranking_carrom_tournament",
+      "tournamentTitle": "Late Vinayak Nimhan (Ex.MLA) 2nd Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-08-08",
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 3
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "tournamentTitle": "Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": null,
+      "categoryKey": "women_singles",
+      "categoryLabel": "Women's Singles",
+      "position": 6
     }
   ],
   "rivals": [
@@ -39,57 +102,129 @@
       "slug": "aakanksha-kadam-ratnagiri",
       "name": "Aakanksha Kadam",
       "city": "Ratnagiri",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
+      "coAppearances": 8,
+      "wonAgainst": 4,
+      "lostAgainst": 4
     },
     {
-      "slug": "ambika-harith-mumbai",
-      "name": "Ambika Harith",
-      "city": "Mumbai",
-      "coAppearances": 1,
+      "slug": "samruddhi-ghadigaonkar-thane",
+      "name": "Samruddhi Ghadigaonkar",
+      "city": "Thane",
+      "coAppearances": 7,
       "wonAgainst": 1,
-      "lostAgainst": 0
+      "lostAgainst": 6
     },
     {
       "slug": "chaitali-a-suvare-thane",
       "name": "Chaitali A Suvare",
       "city": "Thane",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "mitali-pathak-mumbai",
-      "name": "Mitali Pathak",
-      "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
+      "coAppearances": 6,
+      "wonAgainst": 3,
+      "lostAgainst": 3
     },
     {
       "slug": "prajakta-narayankar-mumbaisub",
       "name": "Prajakta Narayankar",
       "city": "Mumbai-Sub",
-      "coAppearances": 1,
-      "wonAgainst": 1,
+      "coAppearances": 5,
+      "wonAgainst": 5,
       "lostAgainst": 0
     },
     {
       "slug": "rinky-kumari-mumbai",
       "name": "Rinky Kumari",
       "city": "Mumbai",
+      "coAppearances": 5,
+      "wonAgainst": 2,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "urmila-shendge-mumbai",
+      "name": "Urmila V Shendge",
+      "city": "Mumbai",
+      "coAppearances": 4,
+      "wonAgainst": 4,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "ambika-harith-mumbai",
+      "name": "Ambika Harith",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 3,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "keshar-r-nirgun-sindhudurg",
+      "name": "Keshar R Nirgun",
+      "city": "Sindhudurg",
+      "coAppearances": 3,
+      "wonAgainst": 0,
+      "lostAgainst": 3
+    },
+    {
+      "slug": "mitali-pathak-mumbai",
+      "name": "Mitali Pathak",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 1,
+      "lostAgainst": 2
+    },
+    {
+      "slug": "anjali-v-siripuram-mumbai",
+      "name": "Anjali V Siripuram",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "madhura-devale-thane",
+      "name": "Madhura Devale",
+      "city": "Thane",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "mamta-kumari-mumbai",
+      "name": "Mamta Kumari",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 1,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "nilam-ghodake-mumbai",
+      "name": "Nilam Ghodake",
+      "city": "Mumbai",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "pushkarni-s-bhattad-pune",
+      "name": "Pushkarni S Bhattad",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "anupama-kedar-mumbai",
+      "name": "Anupama Kedar",
+      "city": "Mumbai",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
     },
     {
-      "slug": "samruddhi-ghadigaonkar-thane",
-      "name": "Samruddhi Ghadigaonkar",
-      "city": "Thane",
+      "slug": "sangeeta-chandorkar-mumbai",
+      "name": "Sangeeta J Chandorkar",
+      "city": "Mumbai",
       "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
+      "wonAgainst": 0,
+      "lostAgainst": 1
     }
   ]
 }

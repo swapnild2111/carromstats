@@ -10,19 +10,19 @@
   ],
   "affiliation": null,
   "podium": {
-    "first": 0,
+    "first": 1,
     "second": 1,
     "third": 0,
-    "top8": 1
+    "top8": 3
   },
   "currentPoints": null,
   "currentRank": null,
   "currentRankCategory": null,
   "titles": [],
-  "slams": 0,
-  "slamsAgainst": 0,
-  "matchesPlayed": 3,
-  "matchesWon": 2,
+  "slams": 1,
+  "slamsAgainst": 1,
+  "matchesPlayed": 10,
+  "matchesWon": 6,
   "appearances": [
     {
       "tournamentSlug": "2025_shivshankar_utsav_mandal_2nd_state_ranking_carrom_tournament",
@@ -32,9 +32,51 @@
       "categoryKey": "men_singles",
       "categoryLabel": "Men's Singles",
       "position": 2
+    },
+    {
+      "tournamentSlug": "2025_juhu_vile_parle_gymkhana_club_state_ranking_carrom_tournament",
+      "tournamentTitle": "Juhu Vile Parle Gymkhana Maharashtra State Ranking Carrom Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-08-16",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 4
+    },
+    {
+      "tournamentSlug": "2025_9th_shree_dattaraj_charitable_trust_state_ranking_carrom_tournament",
+      "tournamentTitle": "9th Shree Dattaraj Charitable Trust, Nrusinhawadi State Ranking Tournament 2025-26",
+      "season": "2025-26",
+      "date": "2025-06-20",
+      "categoryKey": "men_singles",
+      "categoryLabel": "Men's Singles",
+      "position": 1
     }
   ],
   "rivals": [
+    {
+      "slug": "vikas-dharia-mumbai",
+      "name": "Vikas Dharia",
+      "city": "Mumbai",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "zaid-farooquee-thane",
+      "name": "Zaid Farooquee",
+      "city": "Thane",
+      "coAppearances": 3,
+      "wonAgainst": 2,
+      "lostAgainst": 1
+    },
+    {
+      "slug": "sagar-waghmare-pune",
+      "name": "Sagar Waghmare",
+      "city": "Pune",
+      "coAppearances": 2,
+      "wonAgainst": 2,
+      "lostAgainst": 0
+    },
     {
       "slug": "abhijit-tripankar-pune",
       "name": "Abhijit Tripankar",
@@ -42,6 +84,22 @@
       "coAppearances": 1,
       "wonAgainst": 0,
       "lostAgainst": 1
+    },
+    {
+      "slug": "abhishek-chavan-ratnagiri",
+      "name": "Abhishek Chavan",
+      "city": "Ratnagiri",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
+    },
+    {
+      "slug": "pankaj-pawar-thane",
+      "name": "Pankaj Pawar",
+      "city": "Thane",
+      "coAppearances": 1,
+      "wonAgainst": 1,
+      "lostAgainst": 0
     },
     {
       "slug": "prakash-gaikwad-pune",
@@ -52,17 +110,17 @@
       "lostAgainst": 0
     },
     {
+      "slug": "prashant-more-mumbai",
+      "name": "Prashant More",
+      "city": "Mumbai",
+      "coAppearances": 1,
+      "wonAgainst": 0,
+      "lostAgainst": 1
+    },
+    {
       "slug": "rajesh-gohil-raigad",
       "name": "Rajesh Gohil",
       "city": "Raigad",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "sagar-waghmare-pune",
-      "name": "Sagar Waghmare",
-      "city": "Pune",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0
@@ -76,17 +134,9 @@
       "lostAgainst": 0
     },
     {
-      "slug": "vikas-dharia-mumbai",
-      "name": "Vikas Dharia",
+      "slug": "siddhant-wadwalkar-mumbai",
+      "name": "Siddhant Wadwalkar",
       "city": "Mumbai",
-      "coAppearances": 1,
-      "wonAgainst": 1,
-      "lostAgainst": 0
-    },
-    {
-      "slug": "zaid-farooquee-thane",
-      "name": "Zaid Farooquee",
-      "city": "Thane",
       "coAppearances": 1,
       "wonAgainst": 1,
       "lostAgainst": 0

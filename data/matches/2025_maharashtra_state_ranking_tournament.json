@@ -1,0 +1,5433 @@
+{
+  "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+  "rounds": [
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            17,
+            21
+          ],
+          "side2Scores": [
+            7,
+            25,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            24,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            0,
+            25,
+            24
+          ],
+          "side2Scores": [
+            25,
+            11,
+            23
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            16,
+            21,
+            null
+          ],
+          "side2Scores": [
+            13,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            5,
+            24,
+            9
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            21,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            0,
+            25,
+            19
+          ],
+          "side2Scores": [
+            25,
+            0,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            19,
+            25
+          ],
+          "side2Scores": [
+            25,
+            18,
+            0
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            4,
+            25
+          ],
+          "side2Scores": [
+            7,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            9,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            6,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            0,
+            24,
+            17
+          ],
+          "side2Scores": [
+            25,
+            21,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            3,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            15,
+            25
+          ],
+          "side2Scores": [
+            12,
+            25,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            20,
+            null
+          ],
+          "side2Scores": [
+            19,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            24,
+            24,
+            22
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "round_5",
+      "roundLabel": "5th Round",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay Mande",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            4,
+            25
+          ],
+          "side2Scores": [
+            7,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            9,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            6,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            0,
+            24,
+            17
+          ],
+          "side2Scores": [
+            25,
+            21,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            3,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            15,
+            25
+          ],
+          "side2Scores": [
+            12,
+            25,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            20,
+            null
+          ],
+          "side2Scores": [
+            19,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            10,
+            25
+          ],
+          "side2Scores": [
+            24,
+            24,
+            22
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "round_4",
+      "roundLabel": "4th Round",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dattaprasad S Shembekar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Aayush B Garud",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            11,
+            25
+          ],
+          "side2Scores": [
+            6,
+            25,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Hareshwar G Betwanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            19,
+            18
+          ],
+          "side2Scores": [
+            18,
+            21,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            15,
+            21
+          ],
+          "side2Scores": [
+            10,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Shahid H Bagwan",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            9,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Jitesh A Kadam",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            1,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nilansh H Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            19,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sukhbirsingh V Katnoriya",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            3,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Wasim A Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            24,
+            25
+          ],
+          "side2Scores": [
+            19,
+            17,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Kunal P Raut",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            23,
+            4,
+            25
+          ],
+          "side2Scores": [
+            17,
+            22,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sagar D Bhosale",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            19,
+            25
+          ],
+          "side2Scores": [
+            8,
+            22,
+            3
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shubham D More",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ganesh R Taware",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            17,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nandu T Sonawane",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            18,
+            null
+          ],
+          "side2Scores": [
+            3,
+            12,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "round_3",
+      "roundLabel": "3rd Round",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dattaprasad S Shembekar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Imran I Naik",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aayush B Garud",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Milind G Kulkarni",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            0,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dilesh N Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            17,
+            23
+          ],
+          "side2Scores": [
+            14,
+            23,
+            2
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betwanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            16,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Kiran G Bhopnikar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            21,
+            11,
+            25
+          ],
+          "side2Scores": [
+            2,
+            15,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mihir R Shaikh",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            25
+          ],
+          "side2Scores": [
+            24,
+            0,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Niranjan P Chari",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shahid H Bagwan",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Omkar Tilak",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            7,
+            20
+          ],
+          "side2Scores": [
+            9,
+            25,
+            19
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Jitesh A Kadam",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Vivek A Poddar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            24,
+            null
+          ],
+          "side2Scores": [
+            17,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Narsingrao B Sakari",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            18,
+            25,
+            25
+          ],
+          "side2Scores": [
+            22,
+            21,
+            2
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilansh H Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            0,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ashish S Ingawale",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sukhbirsingh V Katnoriya",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Manoj J Patil",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            3,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mahesh H Shetye",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Jaichand Betwanshi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Wasim A Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Amit M Kadam",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            null
+          ],
+          "side2Scores": [
+            2,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Bharat K Makwana",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            4,
+            25,
+            25
+          ],
+          "side2Scores": [
+            20,
+            8,
+            10
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Yogesh D Bhandare",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kunal P Raut",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            0,
+            25,
+            24
+          ],
+          "side2Scores": [
+            25,
+            10,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sachin N Bandal",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            20,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar D Bhosale",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mohsin Q Sayed",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            16,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ravindra R Hange",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            13,
+            3,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhishek Bharti",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            24,
+            null
+          ],
+          "side2Scores": [
+            14,
+            3,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shubham D More",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Nikhil Kamble",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            25,
+            25
+          ],
+          "side2Scores": [
+            22,
+            13,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ganesh R Taware",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Manoj P Kamble",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            17,
+            null
+          ],
+          "side2Scores": [
+            11,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vasant R Vairal",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Rohit S Mirajkar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Salman S Khan",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            18,
+            19
+          ],
+          "side2Scores": [
+            14,
+            19,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nandu T Sonawane",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Ashok S Gaur",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            11,
+            24
+          ],
+          "side2Scores": [
+            10,
+            21,
+            18
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Govind N Churi",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            23,
+            25
+          ],
+          "side2Scores": [
+            0,
+            25,
+            2
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "round_2",
+      "roundLabel": "2nd Round",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prashant S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mahesh P Raikar",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Santosh Pujari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Imran I Naik",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dilip Sosa",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dattaprasad S Shembekar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Mohammed W Pasha",
+            "city": "Nanded"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aayush B Garud",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Soham Bodas",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            17,
+            15,
+            25
+          ],
+          "side2Scores": [
+            16,
+            24,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Milind G Kulkarni",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Nimish R Karalkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dilesh N Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Deepak Patange",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            18,
+            20
+          ],
+          "side2Scores": [
+            6,
+            21,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay Mande",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rangnath U Patil",
+            "city": "Jalgaon"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            0,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hareshwar G Betwanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Adil M Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandeep Jogale",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kiran G Bhopnikar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Yash Kakade",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            0,
+            25,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep K Deorukhkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Amol Sawant",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar R Netke",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ramesh Kunchikurve",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mihir R Shaikh",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sachin Gadkar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shashank R Shirodkar",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            20,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer Mohammad Jabir Ansari",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Soham Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar P Waghmare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Jitendra Rathod",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Niranjan P Chari",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Nilesh S Parab",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            24,
+            null
+          ],
+          "side2Scores": [
+            11,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shahid H Bagwan",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Mahesh M Sandis",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            2,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Omkar Tilak",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay Darekar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Jitesh A Kadam",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Sudhakar M Naikare",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vivek A Poddar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Bajirao Magre",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            8,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Narsingrao B Sakari",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Milind Harchekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek D Chavan",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Dinesh S Chaule",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilansh H Chiplunkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shadab S Ansari",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Aasif K Shipai",
+            "city": "Sangli"
+          },
+          "side1Scores": [
+            21,
+            13,
+            25
+          ],
+          "side2Scores": [
+            13,
+            25,
+            7
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ashish S Ingawale",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Mangesh N Pandit",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            14,
+            25,
+            17
+          ],
+          "side2Scores": [
+            19,
+            7,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Siddhant M Wadwalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samartha S Patil",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Manoj J Patil",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pankaj A Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sukhbirsingh V Katnoriya",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Santosh D Bhurkud",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mahesh H Shetye",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Teishlesh C Chajed",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            2,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhijit D Tripankar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Ashmit A Bhakta",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Zaid A Farooquee",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Ismail Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            22,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Jaichand Betwanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nishar Shaikh",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            13,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Amit M Kadam",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Subhashchandra Ammanur",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Wasim A Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Amol A Sawardekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            24,
+            null
+          ],
+          "side2Scores": [
+            18,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Francis Fernandes",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Amjad Khan",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            10,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Bharat K Makwana",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Bharat Koli",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh D Bhandare",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Vivek K Desai",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            24,
+            null
+          ],
+          "side2Scores": [
+            17,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahul A Solanki",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vicky A Dass",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Kunal P Raut",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Shakir Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            20,
+            null
+          ],
+          "side2Scores": [
+            7,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Shubham S Patil",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sachin N Bandal",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Blessing A Samy",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            16,
+            23,
+            null
+          ],
+          "side2Scores": [
+            11,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Saurabh S Mate",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Santosh S Pavaskar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohsin Q Sayed",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Nikhil Gholap",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            21,
+            24,
+            null
+          ],
+          "side2Scores": [
+            11,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar D Bhosale",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Nitin P Jankoli",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ravindra R Hange",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "None",
+            "city": "-"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mohd. Ghufran",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "None",
+            "city": "-"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prafull S More",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sagar S Palshetkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek Bharti",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vishwanath D Deorukhkar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            21,
+            null
+          ],
+          "side2Scores": [
+            8,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shubham D More",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Fayyaz A Shaikh",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nikhil Kamble",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Yogesh U Pardeshi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ganesh R Taware",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Parag Nadkarni",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Manoj P Kamble",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Dhananjay D Raut",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vasant R Vairal",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Chetan Koli",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Girish Tambe",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sachin A Surve",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep A Dive",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Dharmendra Kumar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            13,
+            25,
+            25
+          ],
+          "side2Scores": [
+            22,
+            8,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rohit S Mirajkar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sameer G Shaikh",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            0,
+            25
+          ],
+          "side2Scores": [
+            0,
+            25,
+            0
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Vikrant V Naik",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Salman S Khan",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mangesh Kasare",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ashok S Gaur",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Vinod Salve",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nandu T Sonawane",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Rajesh Rikame",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            10,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Govind N Churi",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Ashutosh R Giri",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            25,
+            12,
+            23
+          ],
+          "side2Scores": [
+            14,
+            25,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikas Dharia",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pavan Y Mestry",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            8,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "men_singles",
+      "roundKey": "round_1",
+      "roundLabel": "1st Round",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mahesh P Raikar",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Rahim H Shaikh",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Hemant P Panchal",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Abhishek Bharambe",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Santosh Pujari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nandkumar K Guram",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            7,
+            25,
+            18
+          ],
+          "side2Scores": [
+            25,
+            3,
+            16
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Imran I Naik",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shubham J Dhane",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            18,
+            10,
+            25
+          ],
+          "side2Scores": [
+            17,
+            21,
+            1
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dattaprasad S Shembekar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Jaideep P Chavan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            23,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Soham Bodas",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Mangesh Y Ghag",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            19,
+            10,
+            24
+          ],
+          "side2Scores": [
+            11,
+            13,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nimish R Karalkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul P Jagtap",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Milind G Kulkarni",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rajesh Mehta",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dilesh N Khedekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Kiran S Londhe",
+            "city": "Sangli"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Deepak Patange",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ketan P Parte",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            23,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rangnath U Patil",
+            "city": "Jalgaon"
+          },
+          "side2": {
+            "name": "Kishor Joshi",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            15,
+            25,
+            16
+          ],
+          "side2Scores": [
+            16,
+            20,
+            14
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Adil M Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Yogesh S Kadam",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sandeep Jogale",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay M Shinde",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Prakash S Gaikwad",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Jagdish V Bhagat",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yash Kakade",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Bhavesh K Parmar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            18,
+            null
+          ],
+          "side2Scores": [
+            9,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Amol Sawant",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Kiran P Pawar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ramesh Kunchikurve",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "DUMMY 1",
+            "city": "-"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sachin Gadkar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Preetam C Katke",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dinesh Kedar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ankush B Magar",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            14,
+            17,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shashank R Shirodkar",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Sachin K Ghatkamble",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            5,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Soham Jadhav",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nayeem M Shaikh",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Jitendra Rathod",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Naushad Z Shaikh",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nilesh S Parab",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prashant B Tikhe",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            18,
+            25,
+            25
+          ],
+          "side2Scores": [
+            20,
+            2,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Niranjan P Chari",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Rakesh R Bhoir",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mahesh M Sandis",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Wasim I Shaikh",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay Darekar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Amol A Panchal",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sudhakar M Naikare",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "kamran khan",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            22,
+            null
+          ],
+          "side2Scores": [
+            0,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Bajirao Magre",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sandesh R Manjalkar",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            13,
+            25,
+            null
+          ],
+          "side2Scores": [
+            12,
+            21,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Narsingrao B Sakari",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Narendra B Dhavale",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Milind Harchekar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Umesh R Kharat",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dinesh S Chaule",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Altaf I Mujawar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shadab S Ansari",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Vijay M Ghadi",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aasif K Shipai",
+            "city": "Sangli"
+          },
+          "side2": {
+            "name": "Satya L Sarkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            18,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sanjay G Maniyar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Omkar S More",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ashish S Ingawale",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandip T Salunkhe",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            21,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samartha S Patil",
+            "city": "Kolhapur"
+          },
+          "side2": {
+            "name": "Shantilal Jitiya",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Manoj J Patil",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Gauttam H Jadhav",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            3,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Santosh D Bhurkud",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dnyaneshwar A Suryawanshi",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            24,
+            21,
+            null
+          ],
+          "side2Scores": [
+            8,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mahesh H Shetye",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Nitin G Pugaonkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Teishlesh C Chajed",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Abdul G Soorya",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ashmit A Bhakta",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Ramesh Thakur",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            1,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ismail Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Prafull P Rasal",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Jaichand Betwanshi",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pratap C Sawant",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            24,
+            13,
+            15
+          ],
+          "side2Scores": [
+            7,
+            18,
+            11
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nishar Shaikh",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sanjay G Thite",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            0,
+            25,
+            25
+          ],
+          "side2Scores": [
+            25,
+            12,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Amit M Kadam",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Dhanaji S Tambe",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            4,
+            8,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Wasim A Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Hemant More",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Amjad Khan",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Rajendra Surve",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Bharat K Makwana",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Raj I Bagwan",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vivek K Desai",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Dasharath D Kadam",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Yogesh D Bhandare",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Ajit Devarshi",
+            "city": "Sangli"
+          },
+          "side1Scores": [
+            23,
+            22,
+            null
+          ],
+          "side2Scores": [
+            21,
+            9,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vicky A Dass",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Dipak N Hedulkar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shakir Shaikh",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Ratan S Powar",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shubham S Patil",
+            "city": "Kolhapur"
+          },
+          "side2": {
+            "name": "Vasim I Bagwan",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anil D Mundhe",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Anant Surve",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sachin N Bandal",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Praful V Rathod",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            2,
+            23
+          ],
+          "side2Scores": [
+            4,
+            25,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Santosh S Pavaskar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "DUMMY 3",
+            "city": "-"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nikhil Gholap",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rahul Kute",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nitin P Jankoli",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Joe G Joseph",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            10,
+            25,
+            25
+          ],
+          "side2Scores": [
+            15,
+            8,
+            6
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ravindra R Hange",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Amod R Gangal",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Santosh A Palwankar",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Sanjay J Mohite",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            null,
+            null,
+            null
+          ],
+          "side2Scores": [
+            null,
+            null,
+            null
+          ],
+          "winner": "unknown"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sunil C Wagh",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Milind Mayekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            null,
+            null,
+            null
+          ],
+          "side2Scores": [
+            null,
+            null,
+            null
+          ],
+          "winner": "unknown"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sagar S Palshetkar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Iqbal R Qureshi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            18,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Abhishek Bharti",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Varun A Gosavi",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vishwanath D Deorukhkar",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Akhtar I Shaikh",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            22,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            14,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Shubham D More",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Rakesh Bhamle",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            2,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Nikhil Kamble",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Pradeep Bhosale",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            20,
+            20,
+            null
+          ],
+          "side2Scores": [
+            19,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Parag Nadkarni",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "DUMMY 2",
+            "city": "-"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dhananjay D Raut",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Siddhesh B Jadhav",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vasant R Vairal",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Swapnilraje V Shinde",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chetan Koli",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Nikhil N Mapuskar",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            23,
+            25,
+            23
+          ],
+          "side2Scores": [
+            24,
+            6,
+            22
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sachin A Surve",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Chand Y Shaikh",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Dharmendra Kumar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sajid Jabri",
+            "city": "Nanded"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sameer G Shaikh",
+            "city": "Satara"
+          },
+          "side2": {
+            "name": "Amol Charkari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            16,
+            13,
+            23
+          ],
+          "side2Scores": [
+            25,
+            10,
+            22
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rohit S Mirajkar",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Aviraj V Akhade",
+            "city": "Palghar"
+          },
+          "side1Scores": [
+            20,
+            25,
+            null
+          ],
+          "side2Scores": [
+            9,
+            1,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rahim K Khan",
+            "city": "Pune"
+          },
+          "side2": {
+            "name": "Sandesh Varghade",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vikrant V Naik",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Sachin B Bhoir",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mangesh Kasare",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rajesh S Desai",
+            "city": "Raigad"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Vinod Salve",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Gurudev V Mane",
+            "city": "Satara"
+          },
+          "side1Scores": [
+            21,
+            25,
+            null
+          ],
+          "side2Scores": [
+            6,
+            4,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rajesh Rikame",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Amar M Ingale",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            15,
+            21,
+            22
+          ],
+          "side2Scores": [
+            24,
+            13,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Ashutosh R Giri",
+            "city": "Palghar"
+          },
+          "side2": {
+            "name": "Ajay J Mohite",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Govind N Churi",
+            "city": "Mumbai Suburban"
+          },
+          "side2": {
+            "name": "Anant S Bhute",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Pavan Y Mestry",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Rehan Qureshi",
+            "city": "Pune"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "singles",
+      "roundLabel": "Final | Semi Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            17,
+            21
+          ],
+          "side2Scores": [
+            16,
+            24,
+            17
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            19,
+            15,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            19,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            7,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "position",
+      "roundLabel": "Position",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            23,
+            22,
+            22
+          ],
+          "side2Scores": [
+            6,
+            24,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devale",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            22,
+            6,
+            25
+          ],
+          "side2Scores": [
+            14,
+            25,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            23,
+            null
+          ],
+          "side2Scores": [
+            4,
+            6,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            7,
+            11,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devale",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            24,
+            19,
+            24
+          ],
+          "side2Scores": [
+            11,
+            25,
+            18
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "quarter",
+      "roundLabel": "Quarter Final",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            19,
+            24
+          ],
+          "side2Scores": [
+            12,
+            20,
+            8
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            8,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Madhura M Devale",
+            "city": "Thane"
+          },
+          "side1Scores": [
+            13,
+            5,
+            25
+          ],
+          "side2Scores": [
+            11,
+            25,
+            12
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            15,
+            16,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    },
+    {
+      "tournamentSlug": "2025_maharashtra_state_ranking_tournament",
+      "categoryKey": "women_singles",
+      "roundKey": "prequarter",
+      "roundLabel": "Pre-Quarter",
+      "matches": [
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Samruddhi D Ghadigaonkar",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Rozina Godad",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            5,
+            7,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Sonali Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Simran S Shinde",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Rinky Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Shobha U Kamat",
+            "city": "Kolhapur"
+          },
+          "side1Scores": [
+            21,
+            18,
+            null
+          ],
+          "side2Scores": [
+            12,
+            13,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Anupama A Kedar",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Ambika Harith",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Mamta Kumari",
+            "city": "Mumbai"
+          },
+          "side2": {
+            "name": "Prajakta R Narayankar",
+            "city": "Mumbai Suburban"
+          },
+          "side1Scores": [
+            20,
+            20,
+            null
+          ],
+          "side2Scores": [
+            16,
+            16,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Madhura M Devale",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Preeti D Khedekar",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            24,
+            25,
+            null
+          ],
+          "side2Scores": [
+            11,
+            12,
+            null
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Chaitali A Suvare",
+            "city": "Thane"
+          },
+          "side2": {
+            "name": "Urmila V Shendge",
+            "city": "Mumbai"
+          },
+          "side1Scores": [
+            18,
+            25,
+            23
+          ],
+          "side2Scores": [
+            20,
+            0,
+            15
+          ],
+          "winner": "side1"
+        },
+        {
+          "matchNo": null,
+          "side1": {
+            "name": "Aakanksha U Kadam",
+            "city": "Ratnagiri"
+          },
+          "side2": {
+            "name": "None",
+            "city": "-"
+          },
+          "side1Scores": [
+            25,
+            25,
+            null
+          ],
+          "side2Scores": [
+            0,
+            0,
+            null
+          ],
+          "winner": "side1"
+        }
+      ]
+    }
+  ]
+}

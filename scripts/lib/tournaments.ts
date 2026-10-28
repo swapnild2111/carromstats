@@ -6,8 +6,10 @@ import type { TournamentPageT } from './schemas.js';
 const ROOT = path.resolve(fileURLToPath(new URL('../../', import.meta.url)));
 const TOURNAMENTS_DIR = path.join(ROOT, 'data', 'tournaments');
 
-// The organizer only wants tournaments whose title carries this phrase.
-export const REQUIRED_KEYWORD = 'Maharashtra State Ranking Carrom Tournament';
+// The organizer only wants state ranking events. Several tournaments can run
+// at once but not every one awards state ranking, so the title must say so.
+// (Titles vary: "Maharashtra State Ranking Carrom Tournament", "State Ranking Tournament", ...)
+export const REQUIRED_KEYWORD = 'State Ranking';
 
 export function matchesKeyword(title: string): boolean {
   const norm = (s: string) => s.replace(/\s+/g, ' ').trim().toLowerCase();

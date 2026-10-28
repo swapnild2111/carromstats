@@ -101,7 +101,32 @@ function extractTopEight($: CheerioAPI, sectionHeading: Cheerio<AnyNode>): Array
   return entries.slice(0, 8);
 }
 
-const SEASON_IN_TITLE_RE = /(\d{4})[\s-]+(\d{2,4})/;
+// Alternate layout: a slider of `.slideWinner` cards (top 3 only), each with an
+// <img alt="Name ( City )"> and a caption like "Men Single Winner: 1st".
+const SLIDER_CAPTION_RE = /^(women|men)\b.*?winner\s*:?\s*(\d)\s*(?:st|nd|rd|th)/i;
+
+function extractSliderCategories($: CheerioAPI): TournamentPageT['categories'] {
+  const byKey = new Map<string, { label: string; top8: Array<{ position: number; name: string; city: string | null }> }>();
+  $('.slideWinner').each((_, el) => {
+    const caption = collapseWs($(el).find('div').last().text());
+    const m = SLIDER_CAPTION_RE.exec(caption);
+    if (!m) return;
+    const isWomen = m[1].toLowerCase() === 'women';
+    const key = isWomen ? 'women_singles' : 'men_singles';
+    const { name, city } = parseNameCity(collapseWs($(el).find('img[alt]').first().attr('alt') ?? ''));
+    if (!name) return;
+    const entry = byKey.get(key) ?? { label: isWomen ? "Women's Singles" : "Men's Singles", top8: [] };
+    if (!entry.top8.some(e => e.position === Number(m[2]))) entry.top8.push({ position: Number(m[2]), name, city });
+    byKey.set(key, entry);
+  });
+  return [...byKey.entries()].map(([key, v]) => ({
+    key,
+    label: v.label,
+    top8: v.top8.sort((a, b) => a.position - b.position),
+  }));
+}
+
+const SEASON_IN_TITLE_RE =/(\d{4})[\s-]+(\d{2,4})/;
 
 function extractSeason(title: string, urlYear: number, dateIso: string | null): string {
   const m = SEASON_IN_TITLE_RE.exec(title);
@@ -139,6 +164,8 @@ export function parseTournamentPage(html: string, pagePath: string): TournamentP
     if (categories.some(c => c.key === cat.key)) return;
     categories.push({ key: cat.key, label: cat.label, top8 });
   });
+
+  if (categories.length === 0) categories.push(...extractSliderCategories($));
 
   // Detect linked results sub-page (indicates match-level data available)
   const hasResultsSubPage = $(`a[href*="_results.php"]`).length > 0;

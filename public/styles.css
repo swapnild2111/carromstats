@@ -538,3 +538,8 @@ code {
 .footer-credit { margin: 0; font-size: 0.85rem; }
 .footer-credit a { color: var(--accent-hover); }
 .footer-copyright { margin: 0; }
+
+.group-title {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1.1rem;
+}

@@ -6,12 +6,17 @@ import { getPlayerIndex, getTournamentIndex } from '~/lib/data';
 const players = getPlayerIndex();
 const tournaments = getTournamentIndex();
 
-const totalPodiums = players.reduce((s, p) => s + p.podium.first + p.podium.second + p.podium.third, 0);
-const totalFirsts = players.reduce((s, p) => s + p.podium.first, 0);
-
-const topByWins = [...players]
-  .sort((a, b) => b.podium.first - a.podium.first || b.podium.top8 - a.podium.top8)
-  .slice(0, 10);
+const groups = [
+  { key: 'male', label: 'Men', players: players.filter(p => p.gender === 'male') },
+  { key: 'female', label: 'Women', players: players.filter(p => p.gender === 'female') },
+].map(g => ({
+  ...g,
+  totalPodiums: g.players.reduce((s, p) => s + p.podium.first + p.podium.second + p.podium.third, 0),
+  totalFirsts: g.players.reduce((s, p) => s + p.podium.first, 0),
+  topByWins: [...g.players]
+    .sort((a, b) => b.podium.first - a.podium.first || b.podium.top8 - a.podium.top8)
+    .slice(0, 10),
+}));
 
 const latestTournaments = [...tournaments]
   .filter(t => (t.categories?.length ?? 0) > 0)
@@ -35,62 +40,64 @@ const seasons = new Set(tournaments.map(t => t.season)).size;
     </div>
   </section>
 
-  <section class="stat-cards" aria-label="Overview">
-    <div class="stat-card stat-gold">
-      <span class="stat-icon" aria-hidden="true">1st</span>
-      <span class="stat-value">{totalFirsts}</span>
-      <span class="stat-label">Tournament wins</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-icon" aria-hidden="true">◆</span>
-      <span class="stat-value">{totalPodiums}</span>
-      <span class="stat-label">Podium finishes</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-icon" aria-hidden="true">◊</span>
-      <span class="stat-value">{tournaments.length}</span>
-      <span class="stat-label">Tournaments tracked</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-icon" aria-hidden="true">#</span>
-      <span class="stat-value">{players.length}</span>
-      <span class="stat-label">Players</span>
-    </div>
-  </section>
+  {groups.map(g => (
+    <>
+      <h2 class="group-title">{g.label}</h2>
+      <section class="stat-cards" aria-label={`${g.label} overview`}>
+        <div class="stat-card stat-gold">
+          <span class="stat-icon" aria-hidden="true">1st</span>
+          <span class="stat-value">{g.totalFirsts}</span>
+          <span class="stat-label">Tournament wins</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon" aria-hidden="true">◆</span>
+          <span class="stat-value">{g.totalPodiums}</span>
+          <span class="stat-label">Podium finishes</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon" aria-hidden="true">#</span>
+          <span class="stat-value">{g.players.length}</span>
+          <span class="stat-label">Players</span>
+        </div>
+      </section>
+    </>
+  ))}
 
   <section class="grid-2 page-section">
-    <div class="card">
-      <div class="section-heading">
-        <h2>Most wins</h2>
-        <p class="section-desc">Ranked by 1st-place finishes, then by total top-8 appearances.</p>
-      </div>
-      {topByWins.length === 0 ? (
-        <p class="empty">No player data yet. Run <code>npm run refresh</code>.</p>
-      ) : (
-        <div class="table-wrap">
-          <table class="data-table">
-            <thead>
-              <tr><th></th><th>Player</th><th class="num">1st</th><th class="num">Top&nbsp;8</th></tr>
-            </thead>
-            <tbody>
-              {topByWins.map((p, i) => (
-                <tr>
-                  <td>
-                    <span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span>
-                  </td>
-                  <td>
-                    <a href={url(`/players/${p.slug}`)}>{p.name}</a>
-                    {p.city && <><br /><span class="muted small">{p.city}</span></>}
-                  </td>
-                  <td class="num">{p.podium.first}</td>
-                  <td class="num muted-num">{p.podium.top8}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+    {groups.map(g => (
+      <div class="card">
+        <div class="section-heading">
+          <h2>Most wins · {g.label}</h2>
+          <p class="section-desc">Ranked by 1st-place finishes, then by total top-8 appearances.</p>
         </div>
-      )}
-    </div>
+        {g.topByWins.length === 0 ? (
+          <p class="empty">No player data yet. Run <code>npm run refresh</code>.</p>
+        ) : (
+          <div class="table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr><th></th><th>Player</th><th class="num">1st</th><th class="num">Top&nbsp;8</th></tr>
+              </thead>
+              <tbody>
+                {g.topByWins.map((p, i) => (
+                  <tr>
+                    <td>
+                      <span class:list={['rank-badge', i < 3 && `rank-${i + 1}`]}>{i + 1}</span>
+                    </td>
+                    <td>
+                      <a href={url(`/players/${p.slug}`)}>{p.name}</a>
+                      {p.city && <><br /><span class="muted small">{p.city}</span></>}
+                    </td>
+                    <td class="num">{p.podium.first}</td>
+                    <td class="num muted-num">{p.podium.top8}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </div>
+    ))}
 
     <div class="card">
       <div class="section-heading">

@@ -353,6 +353,28 @@ function primaryCity(agg: PlayerAggregate): string | null {
   return [...agg.cities][0] ?? null;
 }
 
+type Gender = 'male' | 'female';
+
+// MCA never records gender directly; it is implied by the category a player placed in.
+function genderOfCategory(key: string): Gender | null {
+  if (key === 'women_singles' || key === 'veteran_women' || key.endsWith('_girls')) return 'female';
+  if (key === 'men_singles' || key === 'veteran_men' || key.endsWith('_boys')) return 'male';
+  return null;
+}
+
+function genderOf(agg: PlayerAggregate): Gender | null {
+  const seen = new Set<Gender>();
+  for (const a of agg.appearances) {
+    const g = genderOfCategory(a.categoryKey);
+    if (g) seen.add(g);
+  }
+  if (seen.size > 1) {
+    console.warn(`  WARN ${agg.slug}: appears in both male and female categories — possible over-merge`);
+    return null;
+  }
+  return [...seen][0] ?? null;
+}
+
 function ensureDir(p: string): void {
   fs.mkdirSync(p, { recursive: true });
 }
@@ -484,6 +506,7 @@ try {
     slug: string;
     name: string;
     city: string | null;
+    gender: Gender | null;
     affiliation: string | null;
     podium: { first: number; second: number; third: number; top8: number };
     currentPoints: number | null;
@@ -522,6 +545,7 @@ try {
     const record = {
       slug: agg.slug,
       name,
+      gender: genderOf(agg),
       aliases: [...agg.aliasNames].sort((a, b) => a.localeCompare(b)),
       cities: [...agg.cities].sort((a, b) => a.localeCompare(b)),
       affiliation: pts?.affiliation ?? null,
@@ -545,6 +569,7 @@ try {
       slug: agg.slug,
       name,
       city,
+      gender: record.gender,
       affiliation: pts?.affiliation ?? null,
       podium,
       currentPoints: pts?.total ?? null,

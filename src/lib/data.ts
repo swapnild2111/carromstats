@@ -39,9 +39,12 @@ export interface PlayerTitle {
   years: number[];
 }
 
+export type Gender = 'male' | 'female';
+
 export interface PlayerRecord {
   slug: string;
   name: string;
+  gender: Gender | null;
   aliases: string[];
   cities: string[];
   affiliation: string | null;
@@ -62,6 +65,7 @@ export interface PlayerIndexEntry {
   slug: string;
   name: string;
   city: string | null;
+  gender: Gender | null;
   affiliation: string | null;
   podium: { first: number; second: number; third: number; top8: number };
   currentPoints: number | null;

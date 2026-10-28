@@ -3,7 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import crypto from 'node:crypto';
 
-const ROOT = path.resolve(fileURLToPath(new URL('../../../', import.meta.url)));
+const ROOT = path.resolve(fileURLToPath(new URL('../../', import.meta.url)));
 const CACHE_DIR = path.join(ROOT, '.cache');
 
 const USER_AGENT = 'carromstats/0.1 (+https://github.com/swapnild2111/carromstats)';

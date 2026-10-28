@@ -10,6 +10,7 @@
     "astro": "astro",
     "scrape": "tsx scripts/scrape.ts",
     "scrape-matches": "tsx scripts/scrape-matches.ts",
+    "scrape-one": "tsx scripts/scrape-one.ts",
     "build-players": "tsx scripts/build-players.ts",
     "collisions": "tsx scripts/collisions.ts",
     "sanity-check": "tsx scripts/sanity-check.ts",
